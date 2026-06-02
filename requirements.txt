@@ -1,9 +1,14 @@
+jupyter
 torch
 torchvision
 diffusers
+Pillow<12
 transformers
 accelerate
+matplotlib
+safetensors
+pandas<3
 lpips
 scikit-image
-Pillow
-numpy
+groq
+python-dotenv
