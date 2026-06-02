@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6112003922462463,0.7394973635673523,65.74577560144517
+1,there is a small hedgehog sitting on top of a block of cake hd,0.6216872930526733,0.7165658473968506,60.94481948061759
+1,there is a small hedgehog sitting on top of a block of cake 4k,0.6046400666236877,0.7101895213127136,64.31068745241926
+1,there is a small hedgehog sitting on top of a block of cake 8k,0.6228609681129456,0.706708550453186,60.97446096486523
+2,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
+2,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
+2,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
+3,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
+3,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
+3,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
+4,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
+4,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
+4,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
+5,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
+5,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
+5,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105

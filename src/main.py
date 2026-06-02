@@ -14,8 +14,10 @@ load_dotenv()
 # ---------------------------------------------------------
 # Initial Configuration
 # ---------------------------------------------------------
-TARGETS_DIR = "../data"
-OUTPUTS_DIR = "../outputs"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+TARGETS_DIR = os.path.join(BASE_DIR, "data")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 NUM_ITERATIONS = 5      # Optimization: how many times to try to improve the prompt
 VARIANTS_PER_ITER = 3   # Optimization: how many new prompts per iteration
 NUM_RUNS = 5            # Requirement: repetitions of the cycle per image (at least 5)
