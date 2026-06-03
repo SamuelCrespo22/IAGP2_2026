@@ -24,12 +24,12 @@ NUM_RUNS = 5            # Requirement: repetitions of the cycle per image (at le
 
 # Colab prompt dictionary
 INITIAL_PROMPTS = {
-    "1159_7.png": "there is a small hedgehog sitting on top of a block of cake"
-    #"7836.png": "astronaut standing on the surface of a planet with a bright light shining in the background",
-    #"1159_25.png": "there is a glass of orange juice with a slice of orange on the side",
-    #"1159_29.png": "arafed palm tree on a rock in the ocean at sunset",
-    #"1159_3.png": "anime character with a sword and fire in his hand",
-    #"9338.png": "painting of a mouse with a colorful tail and tail"
+    "1159_7.png": "there is a small hedgehog sitting on top of a block of cake",
+    "7836.png": "astronaut standing on the surface of a planet with a bright light shining in the background",
+    "1159_25.png": "there is a glass of orange juice with a slice of orange on the side",
+    "1159_29.png": "arafed palm tree on a rock in the ocean at sunset",
+    "1159_3.png": "anime character with a sword and fire in his hand",
+    "9338.png": "painting of a mouse with a colorful tail and tail"
 }
 
 client = Groq()
@@ -131,7 +131,7 @@ def call_llm_for_prompts(current_prompt, clip_score, rmse_score):
 
     try:
         response = client.chat.completions.create(
-            model="llama3-8b-8192",
+            model="llama-3.1-8b-instant",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}

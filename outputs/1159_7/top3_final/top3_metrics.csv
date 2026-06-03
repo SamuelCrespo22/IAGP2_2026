@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+5,"a highly detailed, ultra-realistic, high-pixel-density, 4k-resolution hedgehog is sitting on a block of warm, fragrant, and freshly baked vanilla cake with a few wisps of steam rising in the air",0.6733397245407104,0.6156361699104309,50.63895173567928,run_1
+5,"a small, round, adorable, and playful hedgehog sits on top of a rich, moist, and decadent vanilla cake with intricate and delicate frosting",0.6569238901138306,0.6883852481842041,63.39582435200288,run_2
+2,"a small, cuddly hedgehog is nestled on the peak of a massive, moist, vanilla block cake with rich, velvety frosting and subtle, shimmering highlights",0.6488683223724365,0.7367526292800903,60.25057170356905,run_3

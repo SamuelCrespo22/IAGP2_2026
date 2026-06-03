@@ -39,6 +39,7 @@ class LCMGenerator:
             height=768,
             num_inference_steps=8,
             guidance_scale=8.0,
+            lcm_origin_steps=50,
             output_type="pil"
         ).images[0]
 

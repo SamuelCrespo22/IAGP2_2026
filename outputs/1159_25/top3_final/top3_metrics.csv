@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+1,a close-up of a glass with a slice of orange and a refreshing glass of orange juice on a kitchen table,0.940160036087036,0.5310344696044922,43.6298222816108,run_3
+2,a highly detailed still life of a glass of orange juice with a slice of orange on the side,0.939690351486206,0.5160525441169739,45.25997064973307,run_4
+3,"'a highly detailed, 4k, photorealistic glass of freshly squeezed orange juice with a single slice of orange on a beautifully crafted, distressed wooden table'",0.9389532804489136,0.5083925724029541,37.35038583588263,run_5

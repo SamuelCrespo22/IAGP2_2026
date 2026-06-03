@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,"painting of a mouse with a vibrant, swirly tail in a whimsical landscape",0.6823843717575073,0.7151568531990051,55.41971216589259
+1,"highly detailed digital painting of a mouse with a colorful, flowing tail",0.7909892797470093,0.5882827043533325,34.04740878292286
+1,"realistic oil painting of a mouse with a bright, striped tail in a sunny meadow",0.6864721775054932,0.7407718896865845,59.33185944649391
+2,"highly detailed 4k digital painting of a mouse with a bright, fluffy, and colorful flowing tail",0.8225715160369873,0.5666400194168091,41.69558275332006
+2,"highly detailed digital painting of a mouse with a long, delicate, and sparkling flowing tail",0.7466302514076233,0.7097838521003723,38.751608312266086
+2,"highly detailed, realistic, and highly textured digital painting of a mouse with a colorful, flowing, and intricately patterned tail",0.7498395442962646,0.6808494925498962,38.02866927641381
+3,"highly detailed, realistic 4k digital painting of a mouse with a bright, fluffy, colorful, and gently flowing tail",0.7822269201278687,0.6256422996520996,38.42811150302908
+3,"vibrant 4k digital artwork of a mouse with a stunning, bright, puffy, and multicolored flowing tail",0.8135074377059937,0.5573136210441589,48.82301849455176
+3,"highly detailed, photorealistic 4k digital painting of a mouse in motion with a lively, fluffy, and brightly colored flowing tail",0.6893844604492188,0.6735392808914185,40.52777001532856
+4,"highly detailed 8k digital art of a mouse with a bright, fluffy, and colorful flowing tail set against a soft, warm background",0.7090414762496948,0.6588417291641235,39.10584986103677
+4,"highly detailed 4k photorealistic digital painting of a mouse with a long, fluffy, and brightly colored flowing tail",0.757341206073761,0.6496121287345886,38.08221977047142
+4,"highly detailed 4k digital masterpiece of a mouse with a bright, fluffy, and colorful flowing tail amidst a lush, vibrant garden scene",0.6152842044830322,0.7873429656028748,41.126221818691135
+5,"highly detailed 4k digital art piece of a mouse with a vibrant, luxuriant, and multicolored flowing tail",0.827589750289917,0.5296038389205933,30.676108873913094
+5,"a realistic 8k digital painting of a mouse with a bright, fluffy, and colorful flowing tail against a blurred background",0.7806828022003174,0.6348791122436523,36.938858706251814
+5,"highly realistic 4k oil on canvas digital painting of a mouse with a fluffy, bright, and multicolored flowing tail in a serene natural environment",0.7557145953178406,0.7138363122940063,43.798132683109166

@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+1,anime warrior with fire engulfing his sword in a mystical setting,0.8526906967163086,0.4945600926876068,42.28219995305791,run_1
+2,stylized anime warrior with a katana and flames bursting forth from his hands in a 4k digital painting,0.8505288362503052,0.6001015901565552,57.12546258218632,run_4
+5,"mystical anime warrior with intense flames engulfing his sword in a highly detailed, 4k digital painting",0.8427153825759888,0.6216310262680054,52.66830912307847,run_1

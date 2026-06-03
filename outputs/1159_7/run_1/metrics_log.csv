@@ -1,17 +1,17 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6112003922462463,0.7394973635673523,65.74577560144517
-1,there is a small hedgehog sitting on top of a block of cake hd,0.6216872930526733,0.7165658473968506,60.94481948061759
-1,there is a small hedgehog sitting on top of a block of cake 4k,0.6046400666236877,0.7101895213127136,64.31068745241926
-1,there is a small hedgehog sitting on top of a block of cake 8k,0.6228609681129456,0.706708550453186,60.97446096486523
-2,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
-2,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
-2,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
-3,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
-3,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
-3,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
-4,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
-4,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
-4,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
-5,there is a small hedgehog sitting on top of a block of cake 8k hd,0.6165370941162109,0.6943489909172058,60.104298637857895
-5,there is a small hedgehog sitting on top of a block of cake 8k 4k,0.615311861038208,0.7090031504631042,60.43181641971797
-5,there is a small hedgehog sitting on top of a block of cake 8k 8k,0.6081542372703552,0.7150962352752686,61.388303144987105
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,a small hedgehog is sitting on top of a block of moist vanilla cake,0.6186268925666809,0.7230467796325684,60.832144065159405
+1,"a highly detailed, realistic small hedgehog sits on top of a large chocolate cake",0.6162249445915222,0.6064954996109009,46.520453308439265
+1,"a cute, adorable hedgehog rests on a tiered block of colorful, multi-layered birthday cake",0.6134958267211914,0.7776702642440796,70.85630412312581
+2,a small hedgehog is sitting on top of a perfectly moist vanilla cake with intricate icing designs,0.5341005325317383,0.7021059393882751,61.870096301058595
+2,a tiny hedgehog is perched at the edge of a moist vanilla cake with a delicate crumb texture,0.5076687932014465,0.7097985744476318,62.336353716145325
+2,a highly detailed hedgehog is sitting regally atop a beautifully decorated moist vanilla cake in a warm sunlit bakery,0.5679739713668823,0.7492431402206421,73.47049660566184
+3,"a small, adorable, and fluffy hedgehog is sitting on top of a moist, creamy vanilla cake",0.6348381638526917,0.6886091232299805,65.238920277689
+3,"a highly detailed, realistic, and 4k-resolution hedgehog is sitting on top of a block of moist, fluffy vanilla cake",0.6403663158416748,0.6887499690055847,56.09639964274937
+3,"a small, cute hedgehog with a sweet expression is sitting on top of a large, decadent, and moist block of vanilla cake",0.6184350252151489,0.713618814945221,63.33049627720222
+4,"highly realistic, photorealistic, and ultra-high-definition hedgehog is sitting on top of a block of moist, fluffy, and freshly baked vanilla cake",0.6320469379425049,0.7134294509887695,60.183887993464445
+4,"a photorealistic, highly detailed, and 8k-resolution hedgehog is perched on a pedestal of moist, fluffy, and decadent vanilla cake",0.635489821434021,0.7436705231666565,50.1898744228273
+4,"a highly detailed, ultra-realistic, and 4k-resolution hedgehog is sitting on a block of warm, moist, fluffy, and fragrant vanilla cake with a few wisps of steam rising in the air",0.6403975486755371,0.6817408800125122,54.582180295094844
+5,"a highly detailed, ultra-realistic, high-pixel-density, 4k-resolution hedgehog is sitting on a block of warm, fragrant, and freshly baked vanilla cake with a few wisps of steam rising in the air",0.6733397245407104,0.6156361699104309,50.63895173567928
+5,"a realistic, highly detailed, and photorealistic hedgehog is resting on a block of moist, fluffy, and fragrant vanilla cake with a delicate wispy steam",0.5936030745506287,0.6951545476913452,57.431612266691076
+5,"a hyper-realistic, 4k-resolution, highly detailed hedgehog is sitting comfortably on a warm, moist, and fragrant slice of vanilla cake with wisps of gentle steam rising into the air",0.6316115856170654,0.6481497287750244,52.9860787812225

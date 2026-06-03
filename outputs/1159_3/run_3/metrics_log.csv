@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a katana and flames engulfing his hand,0.8075724244117737,0.6347930431365967,56.751793119633284
+1,anime warrior with a sword and fire dancing in the background,0.7888363599777222,0.648002564907074,54.35176859053854
+1,highly detailed digital painting of a young anime swordsman with fire bursting out from the hilt of his katana,0.7909073829650879,0.5984475016593933,53.642767060680534
+2,anime character with a katana and intense flames engulfing his hand,0.780226469039917,0.6324832439422607,56.34445032081146
+2,highly detailed anime character wielding a katana as flames erupt from his palm,0.8120164275169373,0.6317508816719055,56.54796362189506
+2,"a highly stylized digital painting of an anime warrior with a katana, surrounded by blazing inferno and dark shadows",0.6785571575164795,0.7152489423751831,65.73579066465516
+3,highly detailed anime character with intense flames erupting from the palm of his hand while wielding a katana,0.8147334456443787,0.6729481816291809,58.194721877782946
+3,fiery anime warrior holding a katana as blazing inferno erupts from his palm,0.7771050333976746,0.6968260407447815,59.280972235108635
+3,"highly detailed, realistic anime character with a katana in hand, surrounded by intense, swirling flames",0.7883994579315186,0.6517400741577148,55.69091205424676
+4,highly detailed anime character with intense flames erupting from the center of his palm while wielding a katana in a dark fantasy setting,0.7957803010940552,0.6559563875198364,62.24840126781962
+4,highly detailed anime character illuminated by fiery flames as he wields a katana in a close-up shot,0.825423002243042,0.6481688618659973,54.70435958186356
+4,highly detailed anime character standing in a dramatic pose with fiery flames blazing from the palm of his hand while holding a gleaming katana in a futuristic cityscape at sunset,0.7580757141113281,0.7541640400886536,59.82698884489611
+5,highly detailed anime warrior illuminated by roaring fire as he wields a gleaming katana in a close-up shot,0.7578001022338867,0.6335761547088623,47.84654905119111
+5,a highly realistic anime character stands triumphantly amidst flames wielding a katana in a tight framing,0.749636173248291,0.7373985052108765,63.9015916191321
+5,highly detailed anime samurai hero illuminated by intense flames as he draws his katana in a dramatic close-up,0.7614352703094482,0.6046468019485474,54.07105766158986

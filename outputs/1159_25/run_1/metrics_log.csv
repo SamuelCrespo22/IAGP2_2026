@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,'a glass of freshly squeezed orange juice with a thick slice of orange on the side',0.9285902380943298,0.5449069738388062,40.54949101316198
+1,'a delicate glass of orange juice with a vibrant slice of orange on a rustic table',0.9142134785652161,0.598038375377655,52.4093186498137
+1,'a realistic highly detailed still life of a glass of orange juice with a slice of orange on a modern kitchen counter',0.9019231796264648,0.6863440871238708,52.42264292491884
+2,"a glass of freshly squeezed, highly detailed orange juice with a thick, vibrant slice of orange on the side",0.9152178764343262,0.5300039052963257,41.705967041124886
+2,"a 4k digital painting of a glass of orange juice with a juicy slice on the side, set in a warm breakfast nook",0.7550466060638428,0.727314293384552,58.04932211833846
+2,"a close-up of a glass containing freshly squeezed orange juice and a thick slice of orange, garnished with a sprig of fresh mint",0.8781123161315918,0.6079438924789429,42.02064152925303
+3,a glass of freshly squeezed vibrant orange juice with a thick slice of juicy orange on the side,0.9096989631652832,0.5474553108215332,41.226280110926545
+3,a glass of ice-cold freshly squeezed orange juice with a thick slice of orange on a rustic wooden table,0.9186134338378906,0.5047386288642883,38.56086262270516
+3,a highly detailed digital painting of a glass of freshly squeezed orange juice with a thick slice of orange and a few sprigs of fresh mint on the side,0.8955397605895996,0.5866782665252686,38.23009862500068
+4,a glass of freshly squeezed high-quality orange juice with a thick slice of orange on the side in a warm and inviting kitchen,0.738114595413208,0.7257484197616577,51.6676711446271
+4,"a crystal glass filled with freshly squeezed orange juice and a thick slice of orange on the side, highly detailed and realistic",0.8988054990768433,0.562321126461029,50.873391360227295
+4,"a tall clear glass of freshly squeezed freshly squeezed orange juice with a thick slice of orange on the side, set against a soft natural background",0.9034575819969177,0.5966752767562866,54.88697546653886
+5,a glass of freshly squeezed navel orange juice with a thick slice of orange on the side,0.9216536283493042,0.6237683892250061,45.927248056128406
+5,a glass of ice-cold freshly squeezed orange juice with a thick slice of navel orange on the side,0.9360350370407104,0.58768630027771,42.19529417107502
+5,a highly detailed still life of a glass of freshly squeezed orange juice with a thick slice of orange on a rustic wooden table,0.9353323578834534,0.5260382890701294,42.50800513711439

@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,a small hedgehog sits on top of a single serving of moist vanilla cake,0.5779769420623779,0.7481135129928589,66.88091820462579
+1,a tiny hedgehog perched on a tiered cake stand amidst a bakery background,0.4305107593536377,0.5997792482376099,43.66682198507368
+1,highly detailed digital painting of a hedgehog delicately balancing on a rich chocolate bundt cake,0.5625373125076294,0.6276710033416748,45.59369060251126
+2,small hedgehog sitting on a tiny slice of moist chocolate cake,0.6234399080276489,0.6075201630592346,51.04029837575711
+2,a highly detailed hedgehog is sitting on top of a single serving of decadent chocolate cake,0.6276637315750122,0.6721187233924866,50.63444883953684
+2,a tiny hedgehog sits on a small block of creamy vanilla cake with intricate piping and colorful sprinkles,0.5216088891029358,0.7699516415596008,82.22189819455379
+3,"a highly detailed, photorealistic hedgehog is sitting on top of a rich, moist single serving of decadent chocolate cake",0.6322625875473022,0.6341625452041626,47.255452811176816
+3,"a 4k, oil-painted hedgehog perches on top of a decadent, velvety single serving of chocolate cake",0.5549308061599731,0.6938979625701904,51.254049376532606
+3,"a realistic, high-definition hedgehog sits atop a decadent, single serving of creamy, moist chocolate cake",0.6000325679779053,0.6863824129104614,52.73584497265352
+4,"highly detailed, photorealistic, ultra-realistic hedgehog is sitting on top of a rich, moist, velvety single serving of decadent, high-quality chocolate cake",0.5834026336669922,0.5957216620445251,47.08912435531452
+4,"a 4k, highly detailed, photorealistic hedgehog is perched on a decadent, moist, single serving chocolate cake with a delicate drizzle of chocolate sauce",0.6243101358413696,0.5870196223258972,47.2904550958266
+4,"a highly detailed, photorealistic 3D rendered hedgehog is sitting on top of a rich, moist, single serving of decadent, high-quality, artisanal chocolate cake.",0.6116460561752319,0.5395966172218323,39.3534507742446
+5,"highly detailed, photorealistic, realistic-looking hedgehog is sitting on top of a rich, decadent, moist single serving of chocolate cake",0.6060054898262024,0.6481345295906067,49.06426668471181
+5,"a highly detailed, photorealistic hedgehog is sitting atop a single serving of moist, decadent, velvety chocolate cake",0.593620777130127,0.6621805429458618,49.33637688673436
+5,"highly detailed, photorealistic, 4k digital painting of a hedgehog sitting on top of a single serving of rich, decadent, moist chocolate cake with frosting and decorations",0.5871139764785767,0.6755595207214355,48.02529392667687

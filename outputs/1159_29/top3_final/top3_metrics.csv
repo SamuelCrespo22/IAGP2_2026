@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+4,a majestic palm tree perched on a granite boulder in the crystal clear ocean at a vibrant tropical sunset,0.9161370396614076,0.7352306842803955,54.99372174942443,run_1
+2,highly detailed realistic digital painting of a majestic arafed palm tree silhouetted against a breathtaking orange pink ocean sunset sky on a dramatic rocky outcropping,0.902611255645752,0.8105859756469727,72.97672247428883,run_5
+3,highly detailed highly realistic dramatic digital painting of a majestic solitary arafed palm tree silhouetted against a breathtaking vibrant orange pink ocean sunset sky on a rocky outcropping overlooking a tranquil turquoise ocean below,0.9020754098892212,0.8240963220596313,69.2849656228715,run_5

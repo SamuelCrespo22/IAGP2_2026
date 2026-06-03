@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a mouse with a long colorful tail and a bright green background,0.7062214612960815,0.7664552330970764,37.68177655885932
+1,highly detailed mouse with a slender colorful tail and a soft fluffy body,0.6648722887039185,0.696784257888794,39.07040644811129
+1,vibrant digital painting of a mouse with a multicolored curly tail and warm sunlight on its fur,0.7225321531295776,0.6806012988090515,57.74867559923214
+2,"painting of a sleek mouse with a vibrant, rainbow-colored tail",0.6848419904708862,0.7448177337646484,36.366276519761875
+2,"detailed digital painting of a mouse with a long, fluffy tail",0.703972578048706,0.6964109539985657,35.54129154136056
+2,"highly realistic oil painting of a mouse with a bright, colorful tail and fluffy fur",0.7953609228134155,0.6078563332557678,33.88183885906121
+3,"highly realistic, vibrant oil painting of a mouse with a very bright, multicolored tail and extremely fluffy fur",0.8185420036315918,0.5794680118560791,37.96244796224417
+3,"highly detailed, photorealistic digital art of a mouse with a colorful, intricately patterned tail and soft, fluffy fur",0.6816047430038452,0.6885426044464111,43.037602624504004
+3,"stunning, highly realistic 4k digital painting of a mouse with a long, brightly colored tail and very thick, fluffy fur",0.7244327068328857,0.6690381169319153,36.7971672764622
+4,"highly realistic, photorealistic oil painting of a mouse with a bright, multicolored tail and extremely fluffy fur in a serene outdoor environment",0.7074490189552307,0.6849936842918396,38.778433059747265
+4,"highly detailed, high-resolution digital painting of a mouse with a vibrant, rainbow-colored tail and sumptuously soft fur",0.7926099300384521,0.6737942695617676,39.316652320484394
+4,"extremely realistic, highly textured 4k oil painting of a mouse with a multicolored tail and extremely fluffy, velvety fur in a warm, golden light",0.7728360295295715,0.6231104135513306,34.65266141258243
+5,"highly realistic, highly detailed oil painting of a mouse with a bright, multicolored tail and extremely fluffy, soft fur",0.7598517537117004,0.6115049123764038,35.60680691764741
+5,"highly realistic, vibrant, 4k digital painting of a mouse with a very bright, multicolored tail and extremely fluffy, long fur",0.8450387716293335,0.5978265404701233,40.051403607047774
+5,"highly realistic, highly detailed, oil on canvas masterpiece of a mouse with a bright, multicolored tail and extremely fluffy, plush fur",0.8015282154083252,0.6121047139167786,37.55884798153108

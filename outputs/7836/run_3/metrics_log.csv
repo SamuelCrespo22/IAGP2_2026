@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,"astronaut standing on a distant, rugged planet with a brilliant light shining in the background",0.848120391368866,0.5411247611045837,32.85849421416062
+1,"highly detailed astronaut standing on a barren, rocky planet with a bright light in the far distance",0.8135899305343628,0.5814298987388611,37.74448746569055
+1,"astronaut standing on a distant, barren planet with a stunning, otherworldly aurora shining in the background",0.8080463409423828,0.6565929055213928,42.68159285371474
+2,astronaut standing on the surface of a Martian planet with a bright light shining in the background,0.8273336291313171,0.5410341024398804,33.67901057699135
+2,highly detailed astronaut standing on a barren alien world with a distant star in the background,0.7879981994628906,0.5140385031700134,35.348073136122544
+2,"astronaut standing alone on a rugged, rocky alien surface with a bright, shining nebula in the sky",0.8295615911483765,0.6083972454071045,33.33142085205083
+3,astronaut standing on the surface of a distant alien planet with a bright light shining in the background,0.8342158198356628,0.5224665999412537,34.34612224452767
+3,astronaut standing in front of a futuristic spaceship on a desolate planetary surface,0.7371233701705933,0.646242082118988,43.058732985423994
+3,highly detailed astronaut standing on the barren surface of a distant planet with a brilliant star in the background,0.7979581356048584,0.5777634382247925,34.65017764508902
+4,astronaut standing on the Martian surface with a breathtaking sunset in the background,0.8603078126907349,0.8362680673599243,67.16213244038688
+4,astronaut standing on a distant planet with a bright blue light shining in the distance,0.8450613617897034,0.5290334224700928,36.29406938994725
+4,highly detailed astronaut standing on the surface of a mysterious alien world with a vibrant aurora borealis in the sky,0.815027117729187,0.6490359306335449,43.03092189723141
+5,astronaut standing on the Martian surface with a vibrant orange and pink sunset in the background,0.8096851706504822,0.9098166227340698,81.33464968507239
+5,highly detailed astronaut standing on the Martian surface with a breathtaking 4k sunset,0.8135296702384949,0.7996043562889099,58.613334087302015
+5,astronaut in a spacesuit standing on the dusty Martian terrain with a stunning digital painting style sunset,0.8254722952842712,0.843856155872345,75.06269641071397

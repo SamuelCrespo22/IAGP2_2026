@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,"anime character with a sword and flames in his hand, highly detailed and vibrant colors",0.8178949952125549,0.6317042112350464,56.02041062778425
+1,anime warrior with a glowing red sword and fire engulfing his hand,0.8358207941055298,0.6359121203422546,56.993674429822995
+1,a highly realistic anime style character holding a sword and surrounded by a fiery explosion in the background,0.8095109462738037,0.6587609052658081,52.02956120700468
+2,anime warrior with a fiery red sword and intense flames engulfing his hand,0.809689998626709,0.6677318215370178,58.521288382803824
+2,anime warrior holding a glowing red sword with a blast of fire surrounding his palm,0.7771763801574707,0.6786196827888489,56.911984436161084
+2,highly detailed anime warrior with a blazing red sword and a halo of flames dancing around his hand,0.8346192836761475,0.6518768668174744,54.047510091795694
+3,anime warrior with a fiery red sword and flames engulfing his hand,0.8141471147537231,0.6819400787353516,60.37523825239886
+3,highly detailed anime warrior with a blazing red sword and intense fire burning his hand,0.7967625856399536,0.6765158176422119,53.361794295210586
+3,a highly stylized anime warrior with a radiant red sword and inferno surrounding his clenched fist,0.7881878614425659,0.682590126991272,58.67813241062453
+4,anime warrior with a highly detailed glowing red katana and intense flames engulfing his hand,0.8321889638900757,0.6396499276161194,60.518531018702056
+4,a highly realistic anime warrior with a glowing red lightsaber-like sword and fire ablaze on his palm,0.7776350378990173,0.6341367363929749,60.60729233859922
+4,highly detailed anime warrior standing amidst a fiery inferno with a majestic glowing red sword in hand and flames dancing around his fingers,0.7584958076477051,0.7485306859016418,69.06508163145504
+5,anime warrior with a brilliant fiery red sword and flames engulfing his hand in a dramatic pose,0.8114937543869019,0.6871418356895447,60.098936404375834
+5,highly detailed digital painting of an anime warrior with a blazing red sword and intense flames burning his hand,0.8181631565093994,0.6782902479171753,54.97647612509432
+5,"a highly realistic anime warrior with a burning red sword and his hand engulfed in fierce flames, set against a dark and moody background",0.7967156171798706,0.6730369925498962,60.26329924835245

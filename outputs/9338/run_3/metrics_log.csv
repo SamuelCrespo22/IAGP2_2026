@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,'a highly detailed painting of a mouse with a vibrant colorful tail',0.7439041137695312,0.6601124405860901,47.186555560955114
+1,'an oil painting of a mouse with a bright multicolored tail and whiskers',0.7538814544677734,0.6014575362205505,34.56838576348972
+1,'a realistic digital painting of a mouse with a long swirly rainbow tail',0.7807345390319824,0.64363694190979,36.566201653774655
+2,"a highly detailed realistic digital painting of a mouse with a long, vibrant swirly rainbow tail",0.7912766337394714,0.6117451190948486,35.25707994428802
+2,a photorealistic digital artwork featuring a mouse with a majestic long swirly rainbow tail,0.7577438354492188,0.6726877689361572,40.12383565317012
+2,"a stunning, highly detailed, 4k resolution digital painting of a mouse with a beautiful, swirly rainbow tail",0.8192852735519409,0.5794757604598999,33.00727288006749
+3,"a breathtaking, ultra-realistic, 4k resolution digital artwork of a mouse with a vibrant, swirling rainbow tail",0.7731583118438721,0.6121112704277039,37.61858557229003
+3,"a highly detailed, photorealistic digital painting of a mouse with a stunning, multicolored, curly tail",0.7063392400741577,0.6806086897850037,35.03382142825194
+3,"a beautiful, highly stylized, 4k digital illustration of a mouse with a delicate, rainbow-colored, fluffy tail",0.8138308525085449,0.6264730095863342,42.95854760375648
+4,"'a highly realistic, stunning, 4k resolution digital artwork of a mouse with a beautiful, vibrant rainbow tail, set against a soft, serene background'",0.6872936487197876,0.7131588459014893,40.51014086445606
+4,"'a mesmerizing, highly detailed, 4k resolution digital painting of a mouse with a breathtaking, swirly rainbow tail, reminiscent of a classic Disney character'",0.8233857750892639,0.5411382913589478,34.718438387036784
+4,"'an incredibly lifelike, 4k resolution digital masterpiece of a mouse with a gorgeous, multicolored rainbow tail, created in the style of a fantasy illustrator'",0.7706022262573242,0.5573287606239319,38.78646803732366
+5,"a highly detailed, 4k resolution, photorealistic digital painting of a mouse with a breathtaking, swirly rainbow tail, reminiscent of a classic Disney character",0.8474217653274536,0.5050320625305176,32.47943026821962
+5,"a whimsical, highly detailed, 4k resolution digital painting of a mouse with a vibrant, swirly rainbow tail and a hint of sparkle",0.8040472269058228,0.6152960062026978,41.320260157863565
+5,"a mesmerizing, highly detailed, 4k resolution digital painting of a mouse with a breathtaking, swirly rainbow tail, in a style reminiscent of Hayao Miyazaki's whimsical characters",0.8301417827606201,0.6171349287033081,45.33971051632684

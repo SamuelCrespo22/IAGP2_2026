@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+3,"A lone astronaut stands on a rocky outcropping of a far-off planet, set against a backdrop of swirling, ethereal gas and dust",0.8892156481742859,0.6548499464988708,51.99615700152421,run_5
+2,"astronaut standing alone on a desolate, alien world with a mesmerizing, iridescent glow surrounding the figure in a stunning, realistic digital painting",0.8812751770019531,0.521068811416626,39.3688612147238,run_1
+2,Astronaut standing on the rocky terrain of a distant planet with a glowing nebula in the background,0.880890965461731,0.6382078528404236,33.32891538376663,run_5

@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the dusty surface of a barren alien world with a blindingly bright star shining in the background,0.781857430934906,0.6462813019752502,36.56343215087424
+1,astronaut standing on the rugged surface of a mysterious planet with a bright light emanating from a distant nebula,0.875471830368042,0.5674529075622559,30.629036708991933
+1,"astronaut standing in highly detailed, 4k, cinematic digital painting on the barren surface of a desolate extraterrestrial world with a bright, shining star in the background",0.7637604475021362,0.6686854362487793,40.92805285583942
+2,Astronaut standing on the rocky terrain of a distant planet with a glowing nebula in the background,0.880890965461731,0.6382078528404236,33.32891538376663
+2,Astronaut standing on the barren surface of a mysterious alien world with a brilliant star shining in the distance,0.7322515845298767,0.48083460330963135,25.322867534978077
+2,Highly detailed astronaut standing on the rugged surface of a desolate planet with a vibrant nebula radiating from a nearby galaxy,0.7480269074440002,0.6231909394264221,35.30645488557688
+3,"Astronaut standing on rugged, barren terrain of a distant, desolate alien world with a vibrant, glowing nebula in the background",0.8670048713684082,0.5831449031829834,35.77142537695398
+3,"A lone astronaut stands on a rocky outcropping of a far-off planet, set against a backdrop of swirling, ethereal gas and dust",0.8892156481742859,0.6548499464988708,51.99615700152421
+3,"Highly detailed astronaut standing on a rocky, dusty terrain of a distant, extraterrestrial planet with a glowing, iridescent nebula in the background",0.8378223776817322,0.5793059468269348,30.840624275447592
+4,"A lone astronaut stands on a weathered, barren rocky outcropping of a distant, barren planet, set against a backdrop of swirling, otherworldly gas and dust",0.809914767742157,0.7163902521133423,52.30655480176144
+4,"A lone astronaut stands on a rocky cliffside of a far-off, desolate planet, set against a backdrop of turbulent, gaseous nebulae",0.8682564496994019,0.6629798412322998,44.2101295099109
+4,"A highly detailed, 4k astronaut stands on a rugged, rocky outcropping of a remote, alien planet, set against a backdrop of vibrant, swirling aurora and gas.",0.8263061046600342,0.7078951597213745,44.69443642570298
+5,"A lone astronaut stands on a rugged, barren outcropping of a distant, rocky planet, set against a backdrop of dark, swirling gas and vibrant, ethereal dust",0.8396221399307251,0.6089376211166382,33.579706005063024
+5,"A lone astronaut stands on a rocky cliff overlooking a vast, barren expanse of a far-off planet, set against a backdrop of shimmering, iridescent gas and dust",0.8731555938720703,0.6163431406021118,42.49183851012264
+5,"A highly detailed, 4k astronaut stands on a rocky outcropping of a mystical, otherworldly planet, set against a backdrop of swirling, cosmic gas and starry, ethereal dust",0.8675515651702881,0.6502432823181152,36.60887332368164

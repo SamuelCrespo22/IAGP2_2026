@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafel palm tree on a rocky outcropping in the calm ocean at golden hour,0.8767575025558472,0.7328851222991943,60.69695578044184
+1,a vibrant palm tree standing on a weathered rock in the serene ocean at sunset,0.8714248538017273,0.7551199793815613,58.68413342445058
+1,"highly detailed, 4k resolution, a stunning palm tree silhouetted on a rugged rock amidst gentle ocean waves at a breathtaking sunset",0.8683350086212158,0.7595004439353943,60.25141753350481
+2,arafed palm tree in the foreground of an ocean sunset on a rocky outcropping,0.8645222187042236,0.7094298601150513,54.07545569254912
+2,a large arafed palm tree stands on a rock in the ocean at a golden sunset,0.8560753464698792,0.746701180934906,59.56047112943079
+2,highly detailed arafed palm tree growing out of a rock in the warm orange glow of a sunset by the ocean,0.8919158577919006,0.7987104654312134,67.58293337167258
+3,highly detailed arafed palm tree growing out of a rugged rock in the warm orange glow of a serene sunset by the ocean,0.8711452484130859,0.8065441250801086,64.59066085101209
+3,"a highly detailed, realistic arafed palm tree emerging from a rocky outcropping in the soft, warm light of a tropical sunset",0.8494185209274292,0.710377037525177,56.40114343504666
+3,"highly detailed, highly realistic, photorealistic arafed palm tree growing out of a rocky crag in the warm, golden light of a breathtaking ocean sunset",0.8913618922233582,0.790959358215332,58.41564876669037
+4,highly detailed realistic arafed palm tree growing out of a rock in the warm golden glow of a serene sunset by the ocean,0.8815376162528992,0.7723979353904724,59.28816857276105
+4,highly detailed vibrant arafed palm tree emerging from a rugged rock in the soft orange light of a tropical sunset,0.8162803649902344,0.7811034917831421,64.29641310330778
+4,highly detailed 4k arafed palm tree growing organically out of a rocky outcropping in the warm vibrant colors of a dramatic ocean sunset,0.8964411616325378,0.7567416429519653,59.22545351267179
+5,"highly detailed 8k photorealistic palm tree growing organically out of a rugged rocky outcropping in the warm, golden colors of a dramatic, serene ocean sunset",0.8503016233444214,0.8157870173454285,64.76336197767478
+5,"highly detailed 4k realistic palm tree emerging from a weathered rocky outcropping, surrounded by ocean spray and warm, soft light of a dramatic sunset",0.8801635503768921,0.774055540561676,60.04992850485823
+5,"highly detailed 4k photorealistic palm tree growing from a craggy rocky outcropping, amidst the vibrant colors and gentle waves of a tropical ocean sunset",0.8898663520812988,0.750213086605072,57.59947044478419

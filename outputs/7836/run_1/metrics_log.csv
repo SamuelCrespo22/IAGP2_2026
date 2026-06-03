@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on a barren alien planet with a radiant glow illuminating the dark background in highly detailed 4k resolution,0.8791807889938354,0.47170206904411316,31.38480384673754
+1,astronaut posing on the rugged surface of a distant world with a brilliant light source shining brightly in the background of a digital painting masterpiece,0.8008264899253845,0.6264854669570923,38.820528443286214
+1,astronaut standing on the dusty surface of a desolate extraterrestrial landscape with a vibrant light shining in the distance in a highly detailed realistic style,0.8104367256164551,0.7993611097335815,65.48869831489098
+2,"astronaut standing on a barren, rocky alien planet with a vibrant, ethereal glow illuminating the dark, starry background in crystal-clear 8k resolution",0.868251621723175,0.5041078329086304,32.919398550420155
+2,"astronaut in a pressurized suit standing at the edge of a barren, extraterrestrial landscape with a soft, otherworldly light emanating from the horizon in highly detailed 4k",0.8242143392562866,0.6351232528686523,44.898490132854505
+2,"astronaut standing alone on a desolate, alien world with a mesmerizing, iridescent glow surrounding the figure in a stunning, realistic digital painting",0.8812751770019531,0.521068811416626,39.3688612147238
+3,"astronaut standing alone on a barren, extraterrestrial landscape with a captivating, luminous aura surrounding the figure in a highly detailed, realistic digital painting masterpiece",0.8717998266220093,0.5580881237983704,34.056450358243566
+3,"astronaut standing isolated on a desolate, otherworldly terrain with a radiant, shimmering light enveloping the figure in a 4k, photorealistic digital art",0.8717350363731384,0.7389283180236816,63.808478916978544
+3,"astronaut standing solitary on a lifeless, alien expanse with a stunning, ethereal glow radiating from the figure in a meticulously crafted, oil-painted digital art",0.8080967664718628,0.5377900004386902,33.40130502296357
+4,"a lone astronaut standing on the barren surface of a mysterious, alien world surrounded by a radiant, shimmering aura in a highly detailed, 4k digital painting",0.8607054352760315,0.4735415279865265,28.233125491167286
+4,"astronaut standing isolated on a post-apocalyptic, otherworldly landscape with an ethereal, iridescent glow enveloping the figure in a realistic masterpiece",0.8659214377403259,0.7728630900382996,78.18650075683523
+4,"an astronaut stands alone on the barren, rocky terrain of a distant planet surrounded by a kaleidoscope of colors in a stunning, realistic oil painting with visible brushstrokes",0.8803955316543579,0.5917483568191528,30.760265930566607
+5,"astronaut standing alone on a barren, alien landscape with a captivating, shimmering aura surrounding the figure in a highly realistic, digital painting",0.8090786933898926,0.5569272637367249,33.57664701267677
+5,"astronaut standing on the edge of a desolate, extraterrestrial world with an ethereal, iridescent glow enveloping the figure in a 4k, photorealistic artwork",0.8343201875686646,0.5950846672058105,37.87524036479945
+5,"astronaut standing isolated on a forsaken, otherworldly terrain with a dazzling, pulsing light radiating from the figure in a breathtaking, oil-painting-inspired digital art",0.8412162661552429,0.7360237836837769,54.59868135682936

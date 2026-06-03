@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"'a small, round, adorable hedgehog sits on top of a moist, vanilla cake'",0.6162147521972656,0.6796767711639404,59.13243307570191
+1,"'a tiny, prickly hedgehog perches on a tiered, multi-layered chocolate cake'",0.4762043356895447,0.635441243648529,49.93847120013717
+1,"'a highly detailed, realistic hedgehog is positioned delicately on a beautifully decorated, golden-brown cake in a whimsical, garden setting'",0.5237448811531067,0.7304661870002747,51.33392166306978
+2,"a small, round, cute hedgehog sits on top of a moist, vanilla cake with intricate frosting",0.6260578036308289,0.6846307516098022,60.98711380520025
+2,"a tiny, adorable hedgehog is perched on a slice of moist, golden-brown vanilla cake",0.5932236313819885,0.6768402457237244,62.52531096009268
+2,"a small, round, highly detailed hedgehog sits atop a decadent, creamy, moist vanilla cake with delicate, swirly frosting",0.61664879322052,0.6933985948562622,60.45960397200825
+3,"'a small, adorable, round hedgehog sits on top of a moist, vanilla, sweet cake with intricate, swirly frosting'",0.623482346534729,0.6939758062362671,61.3303322403357
+3,"'a tiny, fluffy, cute hedgehog sits on top of a moist, golden-brown, vanilla cake with delicate, fluffy frosting'",0.6153483986854553,0.6820423603057861,58.160986160537796
+3,"'a tiny, round, hedgehog sits on a beautifully decorated, moist, vanilla cake with a highly detailed, intricate, swirly frosting design'",0.6011741161346436,0.7115023732185364,64.77689852734883
+4,"'a small, adorable, grey and white hedgehog sits on top of a moist, creamy vanilla cake with delicate, intricate frosting'",0.5934106111526489,0.7861946225166321,74.84976837092917
+4,"'a tiny, round, cute hedgehog with a pink nose sits on top of a rich, moist, vanilla cake decorated with beautiful, swirly frosting'",0.5232470035552979,0.728097677230835,77.72963818767472
+4,"'a delicate, small hedgehog with a golden ring sits proudly on top of a moist, vanilla cake with highly detailed, intricate, swirly frosting'",0.4798380434513092,0.731628954410553,66.37511582918897
+5,"a small, round, adorable, and playful hedgehog sits on top of a rich, moist, and decadent vanilla cake with intricate and delicate frosting",0.6569238901138306,0.6883852481842041,63.39582435200288
+5,"a tiny, round, and cute hedgehog curls up on top of a large, fluffy, and creamy vanilla cake with beautiful, swirly frosting patterns",0.6253959536552429,0.7246565818786621,75.56919715001277
+5,"a single, solitary, round hedgehog rests on top of a large, moist, and delicious vanilla cake with highly detailed, golden, and sparkling frosting",0.5883467793464661,0.707850992679596,60.72802268001861

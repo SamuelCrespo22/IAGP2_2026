@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,highly detailed arafed palm tree on a rock in the ocean at sunset,0.889819860458374,0.7425869107246399,57.735136251708035
+1,arafed palm tree standing alone on a rocky outcropping in the calm ocean at dusk,0.8530369400978088,0.7262697219848633,59.699309078904065
+1,serene and realistic arafed palm tree on a granite boulder in the ocean at golden hour,0.8652717471122742,0.7468537092208862,56.14133093999056
+2,highly detailed arafed palm tree on a rugged rock in the calm ocean at golden hour,0.8761119842529297,0.7281668186187744,53.163239653289786
+2,highly detailed arafed palm tree on a weathered rock in the crystal-clear ocean at sunset,0.8726099729537964,0.7638462781906128,56.94854482056186
+2,"highly detailed, 4k, realistic arafed palm tree on a rocky outcropping in the serene ocean at dusk",0.8773118257522583,0.7502201795578003,58.35490239605777
+3,highly detailed arafed palm tree on a rock formation in the crystal clear ocean at golden hour sunset,0.8624827861785889,0.7749229669570923,58.82343633327724
+3,highly detailed arafed palm tree on a rocky outcrop in the calm ocean at a warm sunset,0.874017059803009,0.7547647953033447,57.77782435945117
+3,highly detailed arafed palm tree on a rugged rock in the serene ocean at a vibrant sunset with warm tones,0.8835018873214722,0.7879137992858887,56.77026790978938
+4,highly detailed palm tree standing alone on a rocky outcropping in the ocean at golden hour in a realistic 4k digital painting,0.8631630539894104,0.7883828282356262,62.593812911966126
+4,a serene palm tree on a weathered rock in the tropical ocean at sunset in stunning high definition,0.8831080794334412,0.7741143107414246,59.94946242761835
+4,a majestic palm tree perched on a granite boulder in the crystal clear ocean at a vibrant tropical sunset,0.9161370396614075,0.7352306842803955,54.99372174942443
+5,"a majestic, highly detailed palm tree perched on a weathered granite boulder in the crystal clear turquoise ocean at a vibrant tropical sunset with golden hues",0.8947018980979919,0.6840571165084839,51.461816447613415
+5,"a majestic palm tree stands tall on a massive granite outcropping in the radiant, crystal clear ocean at a breathtaking tropical sunset",0.8983509540557861,0.7251251339912415,55.69945059727996
+5,"a towering, highly detailed palm tree perched on a rugged granite boulder in the calm, crystal clear ocean at a warm, vibrant tropical sunset with soft pastel hues",0.8961756229400635,0.6992402672767639,53.3425614161818

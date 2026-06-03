@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a katana and flames in his hand,0.8172686696052551,0.6020322442054749,56.46412239753109
+1,highly detailed anime warrior holding a sword with bright orange and yellow fire engulfing his fist,0.8161041140556335,0.7097890377044678,64.33774962170554
+1,stylized anime swordsman with a dragon's roar and blazing fire dancing in his palm,0.7738782167434692,0.6348572373390198,55.05249821428278
+2,anime character with a katana and flames in a dramatic pose,0.8038344383239746,0.6159202456474304,55.27820508185789
+2,highly detailed anime character wielding a katana and surrounded by intense flames,0.777810275554657,0.6333386898040771,56.19869446701829
+2,stylized anime warrior with a katana and flames bursting forth from his hands in a 4k digital painting,0.8505288362503052,0.6001015901565552,57.125462582186316
+3,"stylized anime warrior with vibrant flames bursting forth from his hands, highly detailed 4k digital painting masterpiece",0.8062102794647217,0.6698541045188904,58.24893230186751
+3,"anime warrior standing heroically, flames erupting intensely from his hands in a 4k digital oil painting",0.781848132610321,0.7197690606117249,63.64391943118913
+3,"epic anime warrior with flames blazing fiercely from his fists, depicted in a highly detailed 4k digital art piece",0.792258620262146,0.6828181743621826,55.05004627537538
+4,stylized high-definition anime warrior with a katana and flames bursting forth from his hands in a vivid 4k digital painting masterpiece,0.8083446025848389,0.6215168237686157,57.01307752276893
+4,anime warrior with a katana and flames blazing from his hands in a highly detailed 4k digital oil painting,0.8070600628852844,0.6192352771759033,53.52338825399001
+4,"highly detailed 4k digital painting of an anime warrior with a katana and flames erupting from his hands in a bold, dynamic composition",0.7977302074432373,0.6385370492935181,54.61970627959134
+5,stylized highly detailed anime warrior with a katana and flames bursting forth from his hands in a vibrant 4k digital painting,0.7947196960449219,0.6306741237640381,56.34826921123373
+5,anime warrior standing in a fiery inferno with stylized flames bursting from his hands as he wields a katana in a highly detailed 4k digital masterpiece,0.7939231395721436,0.7070906162261963,66.18659270393174
+5,highly detailed anime warrior with flames engulfing his hands as he raises a katana to the sky in a 4k digital painting filled with dynamic motion and colors,0.7680081129074097,0.6382037401199341,58.79851836848528

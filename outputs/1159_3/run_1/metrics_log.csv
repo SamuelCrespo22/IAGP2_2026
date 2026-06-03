@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and flames in his hand highly detailed,0.823609471321106,0.6193090677261353,53.1077047999885
+1,anime warrior with fire engulfing his sword in a mystical setting,0.8526906967163086,0.4945600926876068,42.28219995305791
+1,highly detailed digital painting of a young anime hero wielding a sword as fire erupts from the blade,0.8063269257545471,0.6275345087051392,56.137260861798474
+2,mystical anime warrior with flames engulfing his gleaming steel sword in a fantasy realm,0.8294878005981445,0.5225415825843811,41.83845132065876
+2,highly detailed anime warrior with blazing fire consuming his sword amidst ancient mystical ruins,0.7844582796096802,0.5943162441253662,42.92259883436148
+2,highly realistic digital painting of an anime warrior with fire raging around his illuminated sword in a mystical landscape,0.7542523145675659,0.5640133619308472,41.245675524977386
+3,magnificent anime warrior surrounded by fiery flames engulfing his sword in a mystical medieval landscape,0.7655631303787231,0.6472880244255066,59.36978319000723
+3,a highly detailed anime warrior stands victorious amidst blazing inferno engulfing his sword in a mystical ancient forest,0.7461135387420654,0.722667396068573,57.77366502910146
+3,a highly realistic digital painting of an anime warrior with fire dancing at the edge of his sword in a mystical mystical mountain range,0.7624548673629761,0.5753989815711975,43.07098987087517
+4,anime warrior with flames engulfing his sword in a dark mystical forest,0.7809082269668579,0.6045668721199036,48.185852072446906
+4,majestic anime warrior with fire blazing around his sword in a misty mystical landscape,0.7298283576965332,0.639999508857727,41.48169389952914
+4,highly detailed anime warrior stands amidst intense fire and smoke with his sword in hand in a mystical ancient setting,0.8038970232009888,0.708419680595398,60.57527358664087
+5,"mystical anime warrior with intense flames engulfing his sword in a highly detailed, 4k digital painting",0.8427153825759888,0.6216310262680054,52.66830912307847
+5,"anime warrior with blazing fire surrounding his sword in a dark, mystical forest setting",0.7655501365661621,0.6488185524940491,53.05877195576101
+5,"highly detailed, fantasy anime warrior with a magical sword engulfed in flames, set against a 4k, cinematic digital backdrop",0.7969107627868652,0.5804219245910645,47.90691845497473

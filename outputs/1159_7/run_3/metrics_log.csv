@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"a small, adorable hedgehog sitting on top of a small, intricately decorated block of mocha cake",0.5910220146179199,0.6075999736785889,54.04764231756078
+1,"a small, cute hedgehog is sitting on the top of a large, moist, vanilla block of cake",0.6091802716255188,0.6759556531906128,56.04369286612956
+1,"a highly detailed, realistic hedgehog is sitting on the edge of a small, ornate, white chocolate block of cake",0.5477744340896606,0.7509555816650391,62.079993136654274
+2,"a small, adorable, hedgehog is sitting on the top of a large, moist, vanilla block of decadent cake with intricate frosting",0.6076757311820984,0.6696809530258179,53.63130704841352
+2,"a tiny, cute hedgehog is perched on the summit of a gigantic, creamy vanilla cake with delicate, swirling patterns",0.5113234519958496,0.6982011795043945,65.2895729017569
+2,"a small, cuddly hedgehog is nestled on the peak of a massive, moist, vanilla block cake with rich, velvety frosting and subtle, shimmering highlights",0.6488683223724365,0.7367526292800903,60.25057170356905
+3,"a small, adorable hedgehog rests on the summit of a gigantic, moist, white vanilla block cake with luscious, creamy frosting and delicate, sparkling highlights",0.5391702055931091,0.8122900724411011,82.31926458144707
+3,"a tiny, cuddly hedgehog is nestled at the top of a colossal, fluffy, vanilla block cake with rich, velvety frosting and subtle, shimmering highlights",0.631942629814148,0.7548134326934814,72.21014517856314
+3,"a small, endearing hedgehog sits atop a massive, moist, fluffy vanilla block cake with decadent, creamy frosting and delicate, shining highlights",0.6422474384307861,0.7594467997550964,68.13816507505116
+4,"a small, adorable, hedgehog is nestled on the peak of a colossal, moist, vanilla block cake with rich, velvety, golden frosting and subtle, shimmering highlights",0.5892300605773926,0.732542097568512,56.764754453827294
+4,"a delicate, cuddly hedgehog is perched atop a gigantic, creamy vanilla block cake with luxurious, rich frosting and delicate, sparkling highlights",0.5351618528366089,0.7618875503540039,72.22120928844664
+4,"a tiny, adorable hedgehog is snugly nestled on the summit of a gigantic, moist, 4k, highly detailed vanilla block cake with sumptuous, velvety frosting and delicate, shimmering, golden highlights",0.5529171228408813,0.7258813381195068,61.56245767126118
+5,"a small, adorable hedgehog is snugly nestled on the summit of a gigantic, fluffy, vanilla block cake with decadent, velvety frosting and delicate, sparkling highlights",0.6138758063316345,0.7588836550712585,62.81239161892368
+5,"a tiny, cuddly hedgehog is perched on the apex of a colossal, moist, vanilla block cake with rich, creamy frosting and subtle, shimmering accents",0.6176111698150635,0.7991154193878174,74.64711440762669
+5,"a small, endearing hedgehog is cozily nestled on the peak of a massive, fluffy, vanilla block cake with sumptuous, velvety frosting and intricate, glittering highlights",0.5095507502555847,0.7420374155044556,61.02402251692699

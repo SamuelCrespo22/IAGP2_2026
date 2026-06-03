@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,highly detailed realistic glass of freshly squeezed orange juice with a vibrant slice of orange on the side,0.926896333694458,0.5467623472213745,39.642266185241034
+1,a close-up of a glass with a slice of orange and a refreshing glass of orange juice on a kitchen table,0.9401600360870361,0.5310344696044922,43.6298222816108
+1,highly realistic 4k digital painting of a glass of orange juice with a perfectly sliced orange on the side,0.9179143905639648,0.5496372580528259,46.51564231907071
+2,'a glass with a slice of fresh orange and a glass of chilled orange juice on a clean kitchen table',0.8925408124923706,0.6695347428321838,57.133788089730274
+2,"'a highly detailed, close-up shot of a glass with a juicy slice of orange and a refreshing glass of orange juice in a modern kitchen'",0.9126170873641968,0.7170620560646057,58.158072856030614
+2,"'a beautiful, highly realistic, 4k digital painting of a glass with a slice of orange and a glass of orange juice on a simple, wooden kitchen table'",0.8859739899635315,0.680878221988678,55.5925513380858
+3,a highly detailed close-up of a glass with a slice of orange and a refreshing glass of orange juice on a minimalist kitchen table,0.9300201535224915,0.5819480419158936,43.8830265384569
+3,a vibrant 4k photo of a glass of orange juice with a slice of orange on a wooden kitchen table,0.9116973280906677,0.5756526589393616,43.961871520117974
+3,a photorealistic masterpiece of a glass with a slice of orange and a glass of orange juice on a modern kitchen table in a soft morning light,0.8507020473480225,0.7492121458053589,63.94963069638248
+4,'a highly detailed close-up of a crystal glass with a slice of fresh orange and a refreshing glass of chilled orange juice on a modern kitchen table',0.9084734916687012,0.6304512619972229,48.4295267668567
+4,'a 4k digital painting of a glass with a slice of juicy orange and a glass of homemade orange juice on a wooden kitchen table',0.8718768954277039,0.6878795623779297,56.2526619539565
+4,'a realistic close-up of a glass with a slice of orange and a glass of freshly squeezed orange juice on a rustic farmhouse kitchen table with morning sunlight',0.8693375587463379,0.6334024667739868,58.09264091108035
+5,'a highly detailed close-up of a glass with a thick slice of orange and a refreshing glass of freshly squeezed orange juice on a modern kitchen table',0.928814709186554,0.5439096093177795,43.705129907856204
+5,'a 4k photo of a glass with a slice of a juicy orange and a glass of chilled orange juice on a wooden kitchen table with a warm tone',0.9046850800514221,0.5983287692070007,47.78815111220847
+5,'a digital painting of a glass with a slice of orange on a kitchen table with a soft focus and subtle lighting effects',0.7643512487411499,0.7307126522064209,57.52680627450873

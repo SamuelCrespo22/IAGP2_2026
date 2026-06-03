@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+5,"a highly detailed, 4k resolution, photorealistic digital painting of a mouse with a breathtaking, swirly rainbow tail, reminiscent of a classic Disney character",0.8474217653274536,0.5050320625305176,32.47943026821962,run_3
+5,"highly realistic, vibrant, 4k digital painting of a mouse with a very bright, multicolored tail and extremely fluffy, long fur",0.8450387716293335,0.5978265404701233,40.051403607047774,run_4
+5,"a mesmerizing, highly detailed, 4k resolution digital painting of a mouse with a breathtaking, swirly rainbow tail, in a style reminiscent of Hayao Miyazaki's whimsical characters",0.8301417827606201,0.6171349287033081,45.33971051632684,run_3

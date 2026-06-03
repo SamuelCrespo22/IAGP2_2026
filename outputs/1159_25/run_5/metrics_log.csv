@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,a highly detailed glass of freshly squeezed orange juice with a single slice of orange on the side,0.9257776737213135,0.49553364515304565,42.34661817649843
+1,a realistic still life of a glass of orange juice with a slice of orange placed carefully on a minimalist table,0.8825384974479675,0.6538084745407104,55.221709503379394
+1,a close-up of a crystal glass filled with ice and a glass of freshly squeezed orange juice with a vibrant orange slice on the side,0.8987479209899902,0.5694176554679871,52.3792627866322
+2,"a highly detailed, photorealistic glass of freshly squeezed orange juice with a single slice of orange on a rustic wooden table",0.9345798492431641,0.5336406826972961,41.664576180468565
+2,a perfectly rendered glass of freshly squeezed orange juice with a single slice of orange garnish on a modern kitchen countertop,0.906248927116394,0.6310734152793884,49.56400316782953
+2,"a stunning, highly detailed glass of freshly squeezed orange juice with a single slice of orange on a minimalist white background",0.9163438081741333,0.5455960631370544,65.6803124068521
+3,"'a highly detailed, photorealistic glass of freshly squeezed orange juice with a single slice of orange on a rustic, worn wooden table with a soft, warm focus'",0.9286011457443237,0.546377956867218,43.17419496248886
+3,"'a highly detailed, 4k, photorealistic glass of freshly squeezed orange juice with a single slice of orange on a beautifully crafted, distressed wooden table'",0.9389532804489136,0.5083925724029541,37.350385835882626
+3,"'a highly detailed, realistic, glass of freshly squeezed orange juice with a single slice of orange on a hand-carved wooden table, set in a warm, sunlit room'",0.8397230505943298,0.6574159264564514,56.6597025961466
+4,"a highly detailed, 8k, photorealistic glass of freshly squeezed orange juice with a single slice of orange on a perfectly crafted, antique, distressed wooden table",0.9342540502548218,0.542887806892395,42.932195599146766
+4,"a photorealistic, high-resolution glass of freshly squeezed orange juice with a single slice of orange on a beautifully crafted, vintage, wooden table in a cozy, warm room",0.9087095856666565,0.6061643958091736,54.667940698679836
+4,"a stunning, highly detailed, 4k, oil painting of a glass of freshly squeezed orange juice with a single slice of orange on a beautifully crafted, hand-carved, wooden table in a soft, natural light",0.9105511903762817,0.5735732316970825,47.99351795015304
+5,"a photorealistic, 8k, freshly squeezed glass of orange juice with a slice of orange on a beautifully crafted, antique wooden table",0.9197375178337097,0.6063553690910339,49.477701572790046
+5,"a highly detailed, high resolution, photorealistic glass of freshly squeezed orange juice with a single slice of orange sitting on a distressed wooden table in soft warm natural light",0.9275049567222595,0.5583437085151672,45.144521817333946
+5,"a 4k, highly textured, masterpiece glass of freshly squeezed orange juice with a single slice of orange resting on a beautifully crafted, weathered wooden table in a cozy rustic setting",0.8710761666297913,0.6069861054420471,47.19488298465478

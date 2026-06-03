@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and flames engulfing his hand,0.8416619300842285,0.6529012322425842,58.78847205102931
+1,highly detailed anime character wielding a sword with fire emanating from his palm,0.8405791521072388,0.6008455157279968,51.899660000442495
+1,digital painting of a young anime warrior grasping a sword with a fierce fire burning in his hand,0.8299219608306885,0.5922152400016785,47.653583506581114
+2,anime character with a sword and intense flames engulfing his right hand,0.7957903146743774,0.6675318479537964,60.01756166186702
+2,highly detailed anime character wields a sword amidst a fiery explosion,0.822761595249176,0.6696790456771851,54.347992914505845
+2,digital painting of an anime warrior with flames dancing across his hand as he holds a gleaming sword,0.8253617286682129,0.6769148111343384,60.63669031902561
+3,anime character with a sword and intense flames engulfing his hand,0.8134109973907471,0.6601132750511169,57.359895782691304
+3,anime boy with a sword and flames consuming his hand in a fantasy setting,0.8108898401260376,0.6351420879364014,53.67827707543308
+3,highly detailed digital painting of a young anime warrior with a sword and blazing flames surrounding his hand,0.8379483819007874,0.6460956931114197,55.467448726667094
+4,anime character with a sword and intense flames engulfing his hand in a dark fantasy setting,0.8148568868637085,0.6143897175788879,59.082565151972425
+4,"highly detailed anime character with a sword and flames dancing across his hand, surrounded by a mystical aura",0.7923023104667664,0.6564128994941711,56.584404105166115
+4,"digital painting of a powerful anime warrior with a sword and flames consuming his hand, set against a dramatic night sky backdrop",0.8201383352279663,0.6449818015098572,58.35049387574417
+5,anime warrior with sword and intense flames engulfing his hand,0.8322304487228394,0.6325780153274536,52.825711791302695
+5,highly detailed anime character wielding a sword with flames dancing across his palm,0.8172484636306763,0.6576229333877563,60.24360167134592
+5,a digital painting of an anime swordsman with flames consuming his hand as he prepares to strike,0.819390594959259,0.6233267784118652,55.50364503546868

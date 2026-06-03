@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a large rock in the calm ocean at golden hour sunset,0.8855168223381042,0.7299116849899292,56.50931106509355
+1,vibrant arafed palm tree on a rocky outcropping in the serene ocean at sunset,0.8780467510223389,0.7577195167541504,60.276417783209425
+1,highly detailed arafed palm tree standing tall on a rugged ocean rock at a warm vibrant sunset,0.8788666725158691,0.791675865650177,63.09454670232785
+2,arafed palm tree on a large rock in the peaceful evening ocean at golden hour sunset,0.8744279146194458,0.710778534412384,53.98731077890754
+2,arafed palm tree standing alone on a giant granite rock in the serene turquoise ocean at sunset,0.8869634866714478,0.7693056464195251,54.59408866131755
+2,arafed palm tree perched on a massive boulder in the tranquil deep blue ocean at golden hour with warm sunset colors,0.8929429054260254,0.6932529211044312,54.0384596088159
+3,a serene palm tree perched on a massive boulder in the crystal clear ocean at golden hour with soft warm sunset colors,0.883694052696228,0.7470177412033081,55.572159345067256
+3,a majestic palm tree rises from the gentle waves on a colossal granite boulder in the serene deep blue ocean at golden hour with vibrant sunset hues,0.8802007436752319,0.7677894234657288,59.70017911949339
+3,a highly detailed palm tree is situated atop a colossal rocky outcropping in the tranquil deep blue ocean at golden hour with a warm and inviting sunset atmosphere,0.8795424103736877,0.7694535851478577,60.09943889239152
+4,arafed palm tree perched on a massive granite boulder in the serene deep blue ocean at golden hour with vibrant warm sunset colors,0.8944454193115234,0.7536793947219849,57.33181126863494
+4,a majestic arafed palm tree precariously perched on a colossal boulder in the tranquil deep blue ocean at golden hour with soft warm sunset hues,0.8871288299560547,0.6715847849845886,51.68552002742082
+4,highly detailed arafed palm tree stands proudly on a gigantic boulder amidst the serene deep blue ocean at golden hour with warm sun-kissed colors,0.8925151824951172,0.651130199432373,47.457074412207184
+5,arafed palm tree perched on a massive granite boulder in the deep blue ocean at warm golden hour with high contrast vibrant colors,0.8708882331848145,0.6751708388328552,48.76179624537851
+5,a single arafed palm tree stands tall on a rugged granite boulder in the tranquil deep blue ocean at golden hour with warm sunset hues,0.8856210708618164,0.7352797985076904,58.577143065185254
+5,a majestic arafed palm tree on a towering granite boulder in the serene deep blue ocean at golden hour with highly detailed realistic colors,0.876720666885376,0.6685213446617126,51.43126758166461

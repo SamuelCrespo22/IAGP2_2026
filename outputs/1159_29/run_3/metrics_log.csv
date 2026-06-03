@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a large rock in the ocean at a vibrant sunset,0.875511109828949,0.7706019282341003,61.590536625143834
+1,"a stunning, highly detailed arafed palm tree on a rocky outcropping in the ocean at golden hour",0.8782458901405334,0.7395402789115906,56.94810393362556
+1,"a majestic arafed palm tree standing on a weathered rock at the edge of the ocean with warm, golden light of sunset",0.8858139514923096,0.7657092213630676,59.62774460425726
+2,"a stately afaared palm tree standing on a rugged outcropping at the ocean's edge with the warm, golden softness of sunset",0.8786495923995972,0.7585268616676331,57.04664159517078
+2,"a majestic afaared palm tree standing on a worn rock at the beach's edge with warm, golden light of a serene sunset",0.8941940069198608,0.7316383123397827,55.673433995270145
+2,"a highly detailed, 4k masterpiece of a stately arafed palm tree standing on a worn, weathered rock at the ocean's edge with warm, golden, serene light of a tranquil sunset",0.8788051605224609,0.7854165434837341,60.26216150716098
+3,"majestic, towering palm tree standing on a weathered rock at the beach's edge with warm, soft golden light of a peaceful sunset",0.8935489654541016,0.7102147936820984,55.19219899752238
+3,"a highly detailed, vibrant palm tree stands tall on a worn, rugged rock at the beach's edge, bathed in the warm, golden hues of a serene sunset",0.8883537650108337,0.7807983756065369,62.284842916270506
+3,"an idyllic, picturesque palm tree grows on a weathered rock at the beach's edge, surrounded by gentle waves and illuminated by the soft, warm light of a breathtaking sunset",0.8823216557502747,0.719327986240387,55.15289090591997
+4,"a serene, majestic, and heavily detailed palm tree stands on a rugged, worn rock at the beach's edge, bathed in the warm, golden light of a breathtaking sunset",0.8878291249275208,0.7809959650039673,60.60449526855699
+4,"a stunning, aged palm tree stands on a weathered rock at the beach's edge, with the soft, warm glow of a serene sunset casting long shadows",0.8906370401382446,0.7181711792945862,54.438941471587334
+4,"a highly detailed, majestic afaared palm tree stands on a worn, rocky outcropping at the beach's edge, with the warm, golden light of a serene sunset slowly dipping below the horizon",0.8924857378005981,0.7396281957626343,56.69090304210785
+5,"a highly detailed, majestic, fiery orange afaared palm tree standing on a rugged, worn rock at the beach's edge with warm, golden light of a serene, peaceful sunset",0.884570300579071,0.8138706088066101,65.02415313605968
+5,"a serene, majestic, afaared palm tree standing on a worn rock at the beach's edge with soft, golden, warm light of a breathtaking, vibrant sunset",0.8949137926101685,0.7518515586853027,56.687124610987304
+5,"a stunning, highly detailed, majestic afaared palm tree standing on a weathered, worn, rocky outcropping at the beach's edge with warm, gentle, golden light of a serene, tranquil sunset",0.8908852338790894,0.7347040772438049,55.82739786005367

@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"a small, adorable hedgehog is sitting on top of a delicious, freshly baked block of cake",0.6076094508171082,0.6609877943992615,56.673113372706545
+1,"a hedgehog with a sweet tooth is perched on top of a rich, velvety chocolate cake",0.6154215335845947,0.5846419334411621,42.74999270935856
+1,"a tiny, spiky hedgehog is delicately resting on a colorful, intricately designed block of layered vanilla cake",0.5277222394943237,0.750892162322998,72.71321191315157
+2,"a hedgehog with a sweet tooth sits on top of a decadent, rich chocolate cake",0.6319137811660767,0.6284875869750977,47.780812682131725
+2,"a highly detailed, realistic hedgehog with a love for chocolate perches atop a moist, velvety chocolate cake",0.5955641269683838,0.5926610827445984,47.44463770219293
+2,"a cute, cartoon hedgehog with a big appetite for chocolate is delicately positioned on top of a rich, fudgy chocolate cake",0.611798882484436,0.6805629134178162,57.69766371015498
+3,"a hedgehog with an insatiable sweet tooth sits atop a lavish, velvety rich chocolate cake",0.5430864095687866,0.6626834869384766,47.982841586170004
+3,"a highly detailed, realistic hedgehog indulges in decadent chocolate cake with frosty, creamy chocolate icing",0.6138828992843628,0.7448312044143677,52.267558707195974
+3,"a stylized, digital painting of a spiky hedgehog enjoying a moist, rich, multi-layered chocolate cake in a beautifully decorated bakery",0.605840802192688,0.6189452409744263,45.152221265310025
+4,"a hedgehog with a voracious sweet tooth sits atop a moist, velvety rich chocolate cake",0.642648458480835,0.6283338069915771,49.129432427209615
+4,"a highly detailed, 4k, digital painting of a hedgehog on top of a decadent, dark chocolate cake",0.6194547414779663,0.6774187088012695,50.81802833161586
+4,"a tiny, spiky hedgehog with a discerning palate sits on a rich, chocolatey, multi-layered cake",0.625882625579834,0.6250526905059814,48.8371091908325
+5,"'a hedgehog with an insatiable sweet craving sits atop a decadent, rich, and moist chocolate cake'",0.6002204418182373,0.6565925478935242,49.40387051100449
+5,"'a cute, adorable hedgehog indulges in a slice of velvety, fudgy, and heavenly chocolate cake'",0.5736700296401978,0.6925580501556396,57.96535532957732
+5,"'a detailed digital painting of a hedgehog with a voracious sweet tooth sitting atop a sumptuous, rich, and creamy chocolate cake'",0.6102306842803955,0.6647434234619141,45.2202293171399

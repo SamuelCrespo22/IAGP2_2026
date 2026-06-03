@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the barren surface of a distant planet with a bright light shining in the background,0.8461745381355286,0.5285248756408691,31.786252013011634
+1,highly detailed astronaut standing on a desolate alien planet with a brilliant light source in the distance,0.8094248175621033,0.6029170751571655,37.63433370643113
+1,astronaut standing on the rocky surface of a mysterious planet with a vibrant star shining in the background,0.8143165707588196,0.6485055685043335,34.40721738346355
+2,Astronaut standing on the surface of a distant planet with a bright blue light shining in the background amidst a 4k resolution,0.8450886607170105,0.5371378660202026,40.78123715377352
+2,"Astronaut standing on the dusty surface of a far-off planet with a vibrant light source in the background, highly detailed",0.7997026443481445,0.6759595274925232,48.883135002315704
+2,"Astronaut standing on the barren surface of a mysterious planet with a radiant light emanating from a bright object in the background, digital painting",0.8416047096252441,0.5483793020248413,34.873215172278044
+3,astronaut standing on the rugged surface of a distant alien world with a brilliant light shining in the background,0.861000657081604,0.6422785520553589,48.95623148561528
+3,astronaut standing on a barren planet with a radiant beam of light illuminating the dark sky,0.8107473254203796,0.4766378104686737,30.24555620399725
+3,highly detailed astronaut standing on the rocky terrain of a mysterious extraterrestrial planet with a vibrant light emanating from behind,0.8247724771499634,0.6714410781860352,46.62559463899043
+4,astronaut standing on the rocky terrain of a far-off extraterrestrial planet with a brilliant light illuminating the sky,0.8599030375480652,0.672517716884613,41.38650202912862
+4,astronaut standing on alien soil amidst an otherworldly landscape with a radiant sun shining in the distance,0.8121320605278015,0.6278644800186157,45.67680949785482
+4,highly detailed astronaut standing on the barren surface of a distant celestial body with a magnificent star shining brightly in the cosmos,0.790765106678009,0.5624797940254211,36.34623103591528
+5,"astronaut standing on a barren, rocky terrain of a mysterious alien planet with a glowing nebula in the background",0.8548658490180969,0.5664971470832825,29.568406146886545
+5,astronaut standing on the surface of a desolate extraterrestrial world with a radiant star shining in the distance,0.7805644273757935,0.4518739581108093,29.381706502703263
+5,"highly detailed astronaut standing on a rugged, otherworldly landscape with a brilliant, pulsing light radiating from behind.",0.8693683743476868,0.6767935752868652,47.265902191087264

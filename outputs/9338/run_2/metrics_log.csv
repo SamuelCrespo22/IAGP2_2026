@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,"painting of a tiny mouse with a long, fluffy colorful tail",0.7620693445205688,0.6317004561424255,50.40581037566104
+1,"highly detailed digital artwork of a small mouse with a vibrant, swirly tail",0.7532339692115784,0.6172727346420288,42.415056552401154
+1,"detailed oil painting of a tiny, curious mouse with a soft, multicolored tail",0.7099542021751404,0.6423812508583069,35.021914706786895
+2,"painting of a small, grey mouse with a long, fluffy colorful tail",0.7407395243644714,0.7215522527694702,41.125968903655405
+2,"highly detailed digital painting of a tiny mouse with a soft, fluffy tail",0.7495465278625488,0.7006418108940125,39.08694289510917
+2,"realistic 4k image of a miniature mouse with a long, vibrant tail",0.6382991671562195,0.7496616840362549,45.20506354332704
+3,"painting of a small, grey mouse with a long, soft, vibrant, multicolored tail",0.6968141198158264,0.7562910914421082,40.994969404819635
+3,"highly detailed digital painting of a cute mouse with a fluffy, rainbow-colored tail",0.7935062646865845,0.6608381867408752,42.80988226253748
+3,"realistic, 4k, oil painting of a teeny, adorable mouse with a lengthy, fluffy, multicolored tail",0.776244044303894,0.650234580039978,33.98665769326569
+4,"highly detailed digital painting of a small, endearing mouse with a long, vibrant, multicolored tail",0.7369494438171387,0.6538904905319214,37.36920535405568
+4,"highly detailed, 4k digital artwork of a cute mouse with a fluffy, rainbow-colored, curly tail",0.6628736257553101,0.6700922250747681,44.28687490207796
+4,"highly detailed, photorealistic digital painting of a little mouse with a bright, multicolored, sparkly tail",0.7298906445503235,0.6877123117446899,41.016805979470455
+5,"highly detailed digital painting of a cute mouse with a fluffy, multicolored, vibrant tail",0.7819610238075256,0.6075538992881775,41.791631933341314
+5,"highly detailed photorealistic digital painting of a mouse with a brightly colored, fluffy tail, set in a warm sunlit room",0.6912084817886353,0.7206593155860901,46.78909145812532
+5,"a highly detailed, 4k digital painting of a adorable mouse with a long, fluffy, shimmering rainbow-colored tail, surrounded by subtle warm colors",0.7963161468505859,0.6220633387565613,45.05941043725994

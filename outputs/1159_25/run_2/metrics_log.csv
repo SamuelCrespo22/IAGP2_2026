@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,A highly detailed glass of freshly squeezed orange juice with a slice of orange on the side,0.9290145039558411,0.5355271697044373,42.29791706001302
+1,A glass of vibrant orange juice with a slice of orange resting on a wooden table,0.928499698638916,0.4473733901977539,38.27256465035188
+1,"A close-up of a glass of orange juice with a slice of orange floating on top, shot in a bright and airy studio",0.9276041984558105,0.6298935413360596,57.95314593197755
+2,A highly detailed glass of freshly squeezed orange juice with a perfectly sliced orange on the side,0.9248945116996765,0.5712133049964905,42.334612255518806
+2,"A crystal glass of freshly squeezed orange juice, garnished with a vibrant orange slice in a warm morning setting",0.9270946383476257,0.6145035028457642,42.94714871591556
+2,"A stunning, highly realistic glass of orange juice with a freshly squeezed slice of orange, served in a delicate, antique glass with a golden rim",0.8939520120620728,0.5659899711608887,52.608582343333595
+3,"A highly detailed, photorealistic glass of freshly squeezed, 100% orange juice with a slice of orange on the side",0.9311032891273499,0.4816829562187195,42.21937247134633
+3,"A glass of freshly squeezed, extra juicy orange juice with a slice of orange on a minimalist, wooden table",0.9108697175979614,0.5982922911643982,43.18168410988004
+3,"A highly detailed, high-resolution glass of freshly squeezed orange juice with a slice of orange on a rustic, stone countertop.",0.9218142032623291,0.5820655822753906,40.853279248946876
+4,"highly detailed, photorealistic, 4k digital painting of a glass of freshly squeezed, 100% orange juice with a slice of orange on the side",0.9010871648788452,0.5210214257240295,47.59363220130504
+4,"a crystal glass filled with vibrant, freshly squeezed orange juice and garnished with a slice of orange on a wooden table",0.9350489974021912,0.4729723334312439,42.12712848273696
+4,"a photorealistic, 100% accurate, digital rendering of a glass of freshly squeezed orange juice with a slice of orange on a white background, highly detailed and realistic",0.9317837953567505,0.5410454869270325,66.17258250761411
+5,"a crystal glass filled with freshly squeezed, juicy orange juice and garnished with a slice of orange on a rustic wooden table",0.9272112846374512,0.5892481803894043,44.924322956901996
+5,"a crystal glass on a worn wooden table, filled with a glass of vibrant, freshly squeezed orange juice garnished with a slice of orange, in a highly detailed 4K image",0.9217606782913208,0.4863164722919464,40.646938882262816
+5,"a tall clear glass brimming with freshly squeezed orange juice garnished with a slice of orange on a wooden table in a warm, cozy atmosphere",0.9075367450714111,0.7000075578689575,56.49810064643528

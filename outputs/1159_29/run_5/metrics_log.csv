@@ -1,0 +1,17 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a rock at the water's edge in the warm evening light,0.8834683299064636,0.6444735527038574,49.54554269520211
+1,a single palm tree stands on a rugged outcropping in a serene ocean scene at sunset,0.8756210803985596,0.7814976572990417,60.587407934313624
+1,highly detailed arafed palm tree silhouetted against a vibrant orange and pink ocean sunset sky on a rocky outcropping.,0.8903873562812805,0.8100771903991699,71.91215780167317
+2,highly detailed arafed palm tree silhouetted against a warm orange pink ocean sunset sky on a rugged rocky outcropping,0.8933950662612915,0.8123015761375427,70.15133757686222
+2,highly detailed large 4k arafed palm tree silhouetted against a vibrant orange pink ocean sunset sky on a rocky outcropping at golden hour,0.8978838920593262,0.8244156837463379,71.95446823117499
+2,highly detailed realistic digital painting of a majestic arafed palm tree silhouetted against a breathtaking orange pink ocean sunset sky on a dramatic rocky outcropping,0.902611255645752,0.8105859756469727,72.97672247428883
+3,highly detailed highly realistic vibrant digital painting of a majestic arafed palm tree silhouetted against a breathtaking warm orange pink ocean sunset sky on a dramatic rugged rocky outcropping,0.871370792388916,0.8418579697608948,75.46999613468263
+3,highly detailed 4k realistic digital painting of a majestic arafed palm tree illuminated by the warm orange glow of a setting sun on a dramatic rocky outcropping above the turquoise ocean,0.8914977312088013,0.7632143497467041,64.68975355912251
+3,highly detailed highly realistic dramatic digital painting of a majestic solitary arafed palm tree silhouetted against a breathtaking vibrant orange pink ocean sunset sky on a rocky outcropping overlooking a tranquil turquoise ocean below,0.9020754098892212,0.8240963220596313,69.2849656228715
+4,highly detailed realistic 4k digital painting of a stunning areca palm tree silhouette against a mesmerizing vibrant orange pink ocean sunset sky on a rugged rocky outcropping,0.8860454559326172,0.8275889754295349,70.54040022687916
+4,highly detailed realistic oil painting style digital art of a majestic areca palm tree silhouetted against a breathtaking warm orange pink ocean sunset sky on a dramatic rocky coastline,0.8884997963905334,0.8469561338424683,85.97754744753607
+4,highly detailed realistic digital painting of a single areca palm tree dramatically silhouetted against a breathtaking orange pink ocean sunset sky on a rocky cliffside with a calm sea below,0.8821919560432434,0.804962694644928,71.82109435242947
+5,highly detailed realistic digital 8k painting of a stately arafed palm tree standing tall against a vibrant orange pink ocean sunset sky on a rugged rocky outcropping,0.8899964690208435,0.8124268054962158,71.6276761429694
+5,majestic highly detailed realistic digital painting of a stately arafed palm tree silhouetted against a breathtaking fiery orange pink ocean sunset sky on a dramatic rocky outcropping at low tide,0.8898648023605347,0.8466671109199524,81.95814478713048
+5,highly detailed realistic 4k digital painting of a regal arafed palm tree framed by a breathtaking orange pink ocean sunset sky with soft golden light on a dramatic rocky outcropping,0.8921772837638855,0.8156219720840454,69.17250525817545
