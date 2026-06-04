@@ -30,6 +30,20 @@ INITIAL_PROMPTS = {
 client = utils.init_groq_client()
 
 # ---------------------------------------------------------
+# Selection helpers
+# ---------------------------------------------------------
+def select_best_candidate(candidates):
+    return max(
+        candidates,
+        key=lambda item: (
+            item['Metrics']['CLIP_Sim'],
+            -item['Metrics']['LPIPS'],
+            -item['Metrics']['RMSE']
+        )
+    )
+
+
+# ---------------------------------------------------------
 # Main optimization loop
 # ---------------------------------------------------------
 def main():
@@ -83,8 +97,6 @@ def main():
                 writer.writerow(["Iteration", "Prompt", "CLIP_Sim", "LPIPS", "RMSE", "Combined_Score"])
                 writer.writerow(["Baseline", best_prompt, best_metrics['CLIP_Sim'], best_metrics['LPIPS'], best_metrics['RMSE'], ""])
             
-            best_combined = None
-            
             # Iteration loop (LLM fine-tuning)
             for iteration in range(NUM_ITERATIONS):
                 print(f"  Iteration {iteration+1}/{NUM_ITERATIONS}...")
@@ -116,13 +128,12 @@ def main():
                         candidate['Metrics']['CLIP_Sim'],
                         candidate['Metrics']['LPIPS'],
                         candidate['Metrics']['RMSE'],
-                        f"{candidate['Combined_Score']:.6f}"
+                        f"{candidate.get('Combined_Score', 0.0):.6f}"
                     ])
 
-                current_best = max(scoring_candidates, key=lambda item: item['Combined_Score'])
+                current_best = select_best_candidate(scoring_candidates)
 
-                if best_combined is None or current_best['Combined_Score'] > best_combined:
-                    best_combined = current_best['Combined_Score']
+                if current_best['Prompt'] != best_prompt:
                     best_prompt = current_best['Prompt']
                     best_metrics = current_best['Metrics']
                     base_img = current_best['Image']
@@ -130,9 +141,17 @@ def main():
                     if current_best['Image'] is not None:
                         utils.safe_save_image(current_best['Image'], os.path.join(run_output_dir, "current_best.png"))
 
-                print(f"    Best candidate this iteration: {best_prompt} (combined={best_combined:.6f})")
+                print(
+                    f"    Best candidate this iteration: {best_prompt} "
+                    f"(CLIP: {best_metrics['CLIP_Sim']:.6f}, LPIPS: {best_metrics['LPIPS']:.6f}, "
+                    f"RMSE: {best_metrics['RMSE']:.6f})"
+                )
 
-            print(f"-> Winner (Run {run_id}): {best_prompt} (CLIP: {best_metrics['CLIP_Sim']:.4f}, combined: {best_combined:.6f})")
+            print(
+                f"-> Winner (Run {run_id}): {best_prompt} "
+                f"(CLIP: {best_metrics['CLIP_Sim']:.4f}, LPIPS: {best_metrics['LPIPS']:.4f}, "
+                f"RMSE: {best_metrics['RMSE']:.4f})"
+            )
 
         utils.extract_top_3_for_report(filename, img_base_dir, generator, NUM_RUNS)
     
