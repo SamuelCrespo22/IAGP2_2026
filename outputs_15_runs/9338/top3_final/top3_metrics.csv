@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+2,detailed pixel perfect digital painting of a mouse with a stunning colorful flowing tail,0.8451445698738098,0.5649442076683044,42.714611996663805,run_10
+4,"highly detailed digital painting of a real mouse with a stunning multicolored flowing tail, painted in perfect pixel perfect detail",0.8425312042236328,0.588631272315979,37.585691871892685,run_10
+4,"highly detailed digitally painted mouse portrait with a long, colorful, flowing tail and soft, ambient lighting effects",0.8417133092880249,0.5635996460914612,38.96133233243928,run_8

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,there is a perfectly real glass of 100% fresh orange juice with a slice of orange on the side,0.9121634364128113,0.5398103594779968,46.684079945014446
+1,a highly detailed realistic glass of orange juice sits next to a slice of orange on a minimalist white background,0.9124341011047363,0.6618003249168396,67.55688143287914
+1,a large jug of freshly squeezed orange juice is accompanied by a solitary slice of orange on the kitchen counter,0.744019091129303,0.725835919380188,54.75226104624784
+1,a single glass of iced orange juice is placed on a rustic wooden table next to a small slice of orange,0.9138554334640503,0.5902708768844604,44.430186936958464
+1,a highly detailed photorealistic still life image of a glass of orange juice and a single slice of orange on a simple white tablecloth,0.9129045605659485,0.6908798217773438,65.85714830031796
+2,glass of freshly squeezed orange juice on a wooden table with a slice of orange on the side,0.9409406781196594,0.4729152023792267,37.46096669918097
+2,a crystal glass containing freshly squeezed orange juice on a small rustic wooden table with an orange slice,0.9293847680091858,0.5077210664749146,40.715677671930074
+2,highly detailed realistic glass of orange juice with a slice of orange on the side,0.9087245464324951,0.49704188108444214,41.611707399309246
+2,glass of orange juice with a slice of orange on a small wooden plate on a worn wooden table,0.9312278628349304,0.5540094971656799,44.66756973492408
+2,a realistic digital painting of a glass of freshly squeezed orange juice with a slice of orange on the side,0.9135209918022156,0.509762167930603,45.431883081388996
+3,"highly detailed glass of freshly squeezed orange juice on a wooden table with a slice of orange on the side, warm lighting",0.9286078810691833,0.5925469994544983,50.619136088002506
+3,glass of freshly squeezed orange juice on a wooden table with a slice of orange on the side in a cozy living room,0.8582873940467834,0.6827768683433533,54.51638428415914
+3,"a delicate glass containing freshly squeezed orange juice sits on a beautifully crafted wooden table, with an accompanying slice of orange, highly detailed",0.9236058592796326,0.5459498763084412,45.463059542236046
+3,"wooden table holding a glass of freshly squeezed orange juice, with a vibrant slice of orange placed on the side, 4k masterwork",0.9484294652938843,0.477785587310791,39.52097000351367
+3,"glass of freshly squeezed orange juice on a rustic wooden table with a few orange slices and leaves nearby, softly illuminated",0.8885536193847656,0.6362038254737854,48.106538711437835
+4,"wooden table holding a glass of freshly squeezed 100% orange juice, with a vibrant orange slice placed on the side, ultra-detailed 4k masterwork",0.9265493750572205,0.5118745565414429,43.75165791594508
+4,"a simple wooden table with a glass of orange juice and an actual slice of orange, 8-bit art",0.917980968952179,0.62212735414505,49.80601921558359
+4,"a beautifully crafted wooden table holding a glass of freshly squeezed orange juice and a juicy orange slice, highly detailed digital painting",0.9122624397277832,0.5850830078125,45.286553418761194
+4,"a wooden table holding a glass of orange juice with a slice of orange on the side, 4k realistic art",0.9091001749038696,0.6323205828666687,51.168269228612566
+4,"a wooden table with a glass of orange juice and a perfectly sliced orange, highly realistic 4k oil on canvas",0.7808929681777954,0.6902765035629272,59.41383032845249
+5,"'a beautiful, highly detailed, 4k wooden table scene with a glass of freshly squeezed orange juice, next to a vibrant and juicy slice of orange, 3d digital art'",0.877682089805603,0.6000669002532959,45.69901817696026
+5,"'a stunning, realistic, 4k wooden table setup holding a glass of freshly squeezed orange juice, accompanied by a slice of orange, highly detailed oil painting'",0.8198939561843872,0.6765263080596924,53.78268559097372
+5,"'a wooden table, intricately crafted, holding a glass of freshly squeezed orange juice and a vibrant, juicy slice of orange, 4k master artwork'",0.8446615934371948,0.5384752750396729,42.46462356148006
+5,"'a highly detailed, 4k wooden table with a glass of freshly squeezed orange juice and a colorful, vibrant slice of orange placed beside it, 3d rendering'",0.8760069608688354,0.5629317164421082,41.7276702475426
+5,"'a beautiful, highly realistic, 4k wooden table scene featuring a glass of freshly squeezed orange juice and a vibrant, juicy slice of orange, expertly painted digital art'",0.8741257190704346,0.6454421877861023,50.79035766238847

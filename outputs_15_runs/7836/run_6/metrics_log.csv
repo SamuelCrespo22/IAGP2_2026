@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,highly detailed astronaut standing on the barren surface of a distant planet with a radiant light shining in the background,0.8287808895111084,0.5737618207931519,30.13341096551098
+1,astronaut standing in a hero pose on the rocky surface of a rugged alien world with a brilliant light emanating from the horizon,0.8348393440246582,0.6821565628051758,53.7630184682025
+1,astronaut standing in front of a futuristic spacecraft on a distant planet with a bright starry sky,0.785223126411438,0.5540021061897278,33.398617896009455
+1,the silhouette of an astronaut standing on the edge of a cliff overlooking a vast barren landscape on a distant mysterious planet,0.7856342792510986,0.6633782386779785,48.82953976538364
+1,highly detailed astronaut standing on the icy surface of a distant planet with a brilliant light shining in the bright blue sky,0.799637496471405,0.6683388352394104,54.524421283274904
+2,"highly detailed astronaut standing on the surface of a distant, barren planet with a bright, blazing light shining in the background",0.8328572511672974,0.5582810044288635,35.42971573332821
+2,a lone astronaut standing on the rugged terrain of an alien world with a brilliant light radiating in the sky,0.8645539283752441,0.6690599322319031,47.88364023671692
+2,"an astronaut in a pressurized suit standing on the barren, dusty surface of a distant planet, with a bright, shining celestial body in the background",0.7698257565498352,0.6401382088661194,39.18681291312139
+2,"highly detailed, realistic astronaut standing on the surface of a mysterious, rocky planet with a light of intense, pulsing power emanating from behind",0.8471567034721375,0.5864933133125305,32.44102421968852
+2,"astronaut on the surface of a desolate, otherworldly planet illuminated by a brilliant, shimmering light in the distance",0.888046383857727,0.5277637243270874,34.539670675128306
+3,"astronaut standing on a barren, alien landscape with a glowing star in the background",0.8628063201904297,0.47277435660362244,28.763447607775195
+3,"astronaut on a desolate, crimson planet with an intense, shimmering light in the distance",0.8163530230522156,0.5539515018463135,36.23534393050781
+3,"a lone astronaut stands on the surface of a forsaken, otherworldly world bathed in the soft, ethereal glow of a distant light",0.8141242861747742,0.6858913898468018,58.13830492885048
+3,"a highly detailed astronaut explores a ruined, extraterrestrial cityscape under the warm, shimmering light of a nearby star",0.8625684976577759,0.7756321430206299,52.17144710153771
+3,"astronaut on a desolate, grey planet with an enormous, blazing star shining brightly in the sky",0.7531570196151733,0.5203283429145813,31.215124401205582
+4,"astronaut standing on barren, alien terrain surrounded by a breathtaking, radiant glow in the far distance",0.8716720342636108,0.5794596672058105,38.37631367291735
+4,"astronaut on a desolate alien world bathed in the warm, ethereal light of a distant star",0.8220162987709045,0.5384023189544678,40.63727858481871
+4,"a highly detailed astronaut standing on the rugged, cratered surface of a distant moon set against a brilliant, shimmering light in the distance",0.7791219353675842,0.632087230682373,40.849227102614854
+4,"astronaut on the stark, inhospitable surface of an alien world lit by a stunning, luminescent beam",0.8019202351570129,0.5252333283424377,32.82576894787836
+4,"a highly realistic astronaut exploring the barren, rocky surface of a distant, desolate planet set beneath a breathtaking, starry sky",0.7166006565093994,0.6767866015434265,35.31790273640662
+5,"astronaut standing on the barren, extraterrestrial terrain beneath a radiantly shining light in the distance, 4k digital painting",0.8177210688591003,0.6354125738143921,46.994679064872194
+5,"a solitary astronaut explores the unforgiving surface of a distant, alien world under a majestic light on the horizon, highly detailed",0.8829450607299805,0.5301686525344849,37.76991716271907
+5,"astronaut descending onto the desolate, extraterrestrial surface where a glowing, ethereal light beckons in the distance",0.8329469561576843,0.5285640954971313,37.73763970467871
+5,"astronaut on the alien, otherworldly surface of a desolate planet illuminated by the warm glow of a shining light in the sky",0.8795011043548584,0.5756820440292358,34.740818004918374
+5,"astronaut standing alone on a distant, barren planet under the brilliant, shimmering light of a setting sun in the distance, watercolor style",0.7940025925636292,0.8237292170524597,96.02397743772444

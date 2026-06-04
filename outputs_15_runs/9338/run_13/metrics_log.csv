@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,vibrant watercolor painting of a mouse with a lengthy colorful tail,0.7431910634040833,0.8552648425102234,145.02266402184253
+1,highly detailed 4k digital painting of a mouse with a multicolored fluffy tail,0.7887048721313477,0.670613169670105,40.47716968894169
+1,colorful oil painting of a mouse with an intricate long tail,0.7152726650238037,0.6787145137786865,37.95947853479656
+1,whimsical masterpiece of a mouse with a radiant fluffy tail,0.7109875679016113,0.6492618918418884,41.70933749827482
+1,realistic digital painting of a mouse with a slender multicolored tail,0.6727898716926575,0.7127728462219238,40.84823244544715
+2,highly detailed hyperrealistic 8k digital painting of a mouse with a bright rainbow-colored fluffy tail,0.7634581327438354,0.6949800848960876,42.00876351752371
+2,"digital masterpiece of a realistic, high-resolution mouse with a multicolored, long bushy tail",0.7609032392501831,0.670401394367218,34.64341025851693
+2,4k photorealistic oil painting of a mouse with a soft pastel-colored fluffy tail,0.7802867889404297,0.6311474442481995,40.84106262129799
+2,"extremely detailed, high-fidelity digital artwork of a mouse with a vibrant multicolored fluffy tail and intricate background",0.8211120963096619,0.6424351930618286,36.68444714470733
+2,"highly detailed, photorealistic 8k digital painting of a mouse with a fluffy multicolored tail in a serene natural environment",0.6526705026626587,0.728731095790863,38.95910774318052
+3,"highly detailed, photorealistic digital artwork of a mouse with a bright multicolored fluffy tail and a busy, intricate background",0.6969248652458191,0.7007389068603516,38.74721872427524
+3,"detailed computer-generated image of a mouse with a thick, textured vibrant fluffy tail and stunning, high-fidelity background details",0.6946122050285339,0.7095756530761719,40.70044193678769
+3,"vibrant, highly realistic digital painting of a mouse with a long multicolored fluffy tail and richly detailed, intricate patterns in the background",0.7515770792961121,0.6612873077392578,37.144107010414565
+3,"extremely detailed, 4k digital artwork of a mouse with a soft, colorful fluffy tail and crisp, highly intricate textures in the background",0.6856274604797363,0.6964923143386841,54.317202237481965
+3,"highly detailed, beautiful digital image of a mouse with a long, fluffy multicolored tail and stunning, realistic background with intricate details and patterns",0.720836341381073,0.6904256939888,35.964246326331825
+4,"highly detailed, realistic digital artwork of a mouse with a long, multicolored plumage tail and intricate texture background",0.6789359450340271,0.668051540851593,37.34485393212523
+4,"extremely detailed, photorealistic digital painting of a mouse with a fluffy, multicolored, rainbow-colored tail and detailed city landscape",0.5708909630775452,0.7431498765945435,42.678434053915936
+4,"high-fidelity, 4k digital artwork of a mouse with a vibrant, multicolored fluffy tail and intricate, ornate, gilded background",0.7500282526016235,0.6489413976669312,32.068817932902405
+4,"highly realistic, highly detailed digital art of a mouse with a long, multicolored fuzzy tail and intricate, detailed, stained glass window background",0.6597565412521362,0.7895491123199463,38.987582897211254
+4,"extremely detailed, highly realistic digital masterpiece of a mouse with a fluffy, multicolored, sparkly tail and detailed, intricate, fantastical forest landscape",0.7111721038818359,0.8125183582305908,42.44628589578968
+5,"highly detailed, photorealistic digital art of a mouse with a multicolored fluffy tail and intricate, hand-painted backgrounds",0.7390663623809814,0.7077367305755615,38.778883730308415
+5,"extremely detailed, ultra-high-resolution digital artwork of a mouse with a vibrant multicolored fluffy tail and realistic, textured background",0.7184481620788574,0.6814616322517395,38.27512577677677
+5,"highly detailed, 4k digital painting of a mouse with a fluffy, multicolored tail and subtle, dreamy atmosphere",0.7860171794891357,0.6698048710823059,39.788082040787636
+5,"photorealistic, high-fidelity digital artwork of a mouse with a vibrant multicolored fluffy tail and realistic, 3D rendered background",0.7247617840766907,0.714499294757843,41.99223448936863
+5,"highly detailed, vibrant, and colorful digital illustration of a mouse with a fluffy, multicolored tail and intricate, swirling patterns.",0.7701585292816162,0.6453027725219727,53.20433202116972

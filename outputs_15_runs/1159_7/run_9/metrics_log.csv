@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"'a small, cute hedgehog is sitting on top of a block of colorful cake'",0.6375076174736023,0.6855159401893616,74.06121384197961
+1,"'highly detailed image of a tiny hedgehog sitting on a large, moist, chocolate cake'",0.635286808013916,0.6476640105247498,48.98213826373285
+1,"'realistic, 4k digital painting of a hedgehog sitting on top of a stack of fluffy, white cake'",0.629891037940979,0.7034040689468384,53.317964358017996
+1,"'beautiful, highly realistic depiction of a hedgehog sitting on a block of rich, decadent cake'",0.5477080345153809,0.7023570537567139,47.081666918046785
+1,"'a masterpiece of digital art featuring a small hedgehog sitting on a single, towering, vanilla cake'",0.480518102645874,0.6849768757820129,45.56606734243757
+2,"a small, adorable hedgehog perched on a block of multi-colored, swirly birthday cake",0.6223759055137634,0.6565209627151489,71.08502056131377
+2,"a miniature, fluffy hedgehog sitting atop a vibrant, 3D-printed cake design",0.6394147872924805,0.6844010949134827,64.50085067954713
+2,"a teeny-tiny, cute hedgehog is situated on the edge of a gigantic, round, multi-layered cake",0.491555780172348,0.6097842454910278,52.52862286348781
+2,"highly detailed, whimsical hedgehog sitting on top of a colorful, hand-painted cake",0.6043647527694702,0.7498811483383179,71.60551194519414
+2,"a tiny, realistic hedgehog is perched delicately on the surface of a gigantic, fluffy, white cake",0.6076755523681641,0.7229886651039124,67.85486658198815
+3,"a highly detailed miniature, fluffy hedgehog sitting at the top of a 3D-printed cake",0.6175997257232666,0.691724956035614,57.181221392143065
+3,"a tiny, adorable hedgehog perched on a colorful 3D-printed dessert",0.6040358543395996,0.7365888357162476,67.82902871443389
+3,"a miniature, vibrant hedgehog sitting atop a layered, realistic 3D-printed cake",0.6307655572891235,0.633306086063385,50.32878513292099
+3,"a small, cute hedgehog nestled among the intricate designs of a 3D-printed cake",0.6662219166755676,0.6909729242324829,63.925315531503074
+3,"a detailed, realistic miniature hedgehog sitting atop a perfectly designed 3D-printed cake with fondant decorations",0.6488791704177856,0.7107966542243958,56.60117538324058
+4,"A highly detailed, 4K, realistic image of a tiny, endearing hedgehog snuggled within the ornate patterns of a 3D-printed cake",0.6202472448348999,0.6956403255462646,63.582803844259864
+4,"A small, cute hedgehog comfortably resting within the intricate etched designs of a multi-colored 3D cake",0.5466755032539368,0.69193434715271,63.785389291312406
+4,"A miniature, charming hedgehog nestled securely amidst the delicate patterns of a precision 3D-printed cake",0.6322726011276245,0.739835798740387,67.71692740180252
+4,"A small, adorable hedgehog safely nestled among the stunning designs of a intricately layered 3D cake",0.6016669273376465,0.6843984127044678,57.97834160545496
+4,"A teeny, sweet hedgehog snuggled warmly within the beautiful, elaborate details of a hand-crafted 3D-printed cake",0.6393681168556213,0.7137271761894226,62.187329914677605
+5,'a highly detailed little hedgehog curled up amidst the lacy patterns of a 3D-printed birthday cake',0.6172055006027222,0.7437222003936768,72.14197893476964
+5,"'a cute, adorable hedgehog hiding amongst the intricate designs of a delicious, multi-layered edible art sculpture'",0.6805729866027832,0.6833677291870117,59.321679965167824
+5,"'a small, fluffy hedgehog resting among the delicate, swirling patterns of hand-painted, realistic pastry art'",0.6568118333816528,0.7274500727653503,68.77873703974618
+5,"'a tiny, cuddly hedgehog nestled between the ornate, swirling designs of a 3D-printed dessert masterpiece'",0.7011772394180298,0.6265521049499512,53.97539521713098
+5,"'a miniature, delicate hedgehog snuggled within the beautiful, detailed, and realistic patterns of a designer, 3D-printed wedding cake'",0.4316484332084656,0.7462741136550903,67.92928782637918

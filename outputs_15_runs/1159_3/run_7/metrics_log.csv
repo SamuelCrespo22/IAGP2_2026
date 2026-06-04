@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sharp sword and flames in his hand,0.8246044516563416,0.6201185584068298,55.88647487744949
+1,highly detailed anime character wielding a fire-kissed blade,0.812096357345581,0.6361596584320068,52.878693927472646
+1,fantasy anime hero with a fiery aura and sword in hand,0.8321058750152588,0.5838529467582703,44.503700340620036
+1,digital painting of an anime character holding a burning katana,0.7848228216171265,0.6396530866622925,57.18021543422912
+1,highly detailed 4k digital art of an anime warrior with a blazing fire sword,0.8090918660163879,0.6264120936393738,52.09348051652418
+2,highly detailed fantasy anime hero with a blazing fiery aura and sword in hand,0.8044799566268921,0.6216923594474792,45.61222459056312
+2,vibrant fantasy anime warrior with intense fiery energy and sword in mid-motion,0.7526455521583557,0.6264791488647461,43.695249881638006
+2,"fantasy anime hero in a majestic fiery aura, wielding a majestic sword with epic detail",0.8005009889602661,0.6453197002410889,51.86361423130242
+2,"a highly stylized anime hero with a mesmerizing fiery aura, holding a gleaming sword in a dramatic pose",0.7969570159912109,0.6676529049873352,61.23557642782612
+2,"highly realistic 4k digital painting of a fantasy anime hero surrounded by a fiery aura, wielding a sharp sword in hand",0.8034741878509521,0.632457971572876,48.68830242011737
+3,fantasy anime hero with a blazing aura in highly detailed 4k digital painting style,0.7981721758842468,0.5527856945991516,43.31697449949243
+3,"highly detailed fantasy anime warrior with fiery aura and sword in hand, 4k resolution",0.8132719397544861,0.5279839634895325,37.77253568095029
+3,"fantasy anime hero with intense fiery aura, holding a gleaming silver sword in hand, digital painting",0.7980573773384094,0.5561119318008423,38.38298772002103
+3,a highly detailed 4k fantasy anime hero with sword in hand and fiery magical aura,0.8111315369606018,0.5712716579437256,40.942871038213916
+3,"highly detailed fantasy anime hero with fiery sword and magical aura in a vibrant, dynamic 4k digital painting scene",0.8255868554115295,0.6106228232383728,44.72212144249301
+4,fantasy anime hero with a blazing aura and sword in hand holding a mystical shield highly detailed digital painting,0.7511237859725952,0.5630466938018799,38.67077428550666
+4,fantasy anime hero with fiery aura in a heroic stance wielding a sword and wearing a flowing cloak,0.8179537057876587,0.5805342793464661,48.55607950571423
+4,"fantasy anime hero with a majestic fiery aura, wielding a longsword and standing in front of a majestic mountain highly detailed",0.7672091126441956,0.6470272541046143,47.94095735526749
+4,"fantasy anime warrior with an ethereal fiery aura, donning a samurai helmet and wielding a glowing katana highly detailed digital art",0.7820992469787598,0.5541553497314453,45.864067565111135
+4,"fantasy anime hero with an intense fiery aura, holding a magical sword and standing amidst a whirlwind of flames highly detailed digital painting masterpiece",0.772991418838501,0.7032119035720825,61.24973087266082
+5,fantasy anime masterfully illustrated hero with intense fiery aura and sword in hand,0.7766653299331665,0.5905867218971252,44.24774250371203
+5,fiery fantasy anime hero with an ethereal glow and sword raised high,0.7615585923194885,0.611034095287323,48.15823711124473
+5,"highly detailed, photorealistic fantasy anime warrior with a blazing aura and sword in hand",0.8184167146682739,0.5287901759147644,37.01367730483192
+5,epic fantasy anime action hero with a burning aura and sword shining brightly,0.7430230379104614,0.5667275786399841,44.496458092810784
+5,"anime-inspired, high-fantasy hero with a fierce, golden aura and mighty sword in hand",0.7394510507583618,0.61827552318573,41.24778245987058

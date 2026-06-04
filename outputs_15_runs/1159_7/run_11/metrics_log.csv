@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,highly detailed digital painting of a small cute hedgehog sitting on top of a block of moist decadent chocolate cake,0.6052436232566833,0.584261417388916,47.23982592409076
+1,a highly realistic 4k image of a tiny spiky hedgehog perched on top of a small slice of fluffy cake,0.6294757127761841,0.6530514359474182,46.59194139453306
+1,a masterpiece digital artwork of a hedgehog with a big appetite for cake sitting on top of a rectangular slice of vanilla cake,0.5833272337913513,0.7331220507621765,51.39765432205784
+1,a detailed oil painting of a cute little hedgehog with a fork in its hand eating a slice of rich chocolate cake,0.4774029552936554,0.6823234558105469,43.404465945901656
+1,photorealistic digital rendition of a small adorable hedgehog sitting with a slice of moist chocolate cake in front of it on a wooden table,0.5995053648948669,0.5940809845924377,46.65194893314239
+2,'a highly realistic 4k digital painting of a small spiky hedgehog perched on top of a single fluffy white cake',0.6598786115646362,0.6829155087471008,51.70207619273904
+2,'a photorealistic 4k image of a tiny spiky hedgehog delicately standing on a miniature slice of golden cake',0.6167523264884949,0.5722709894180298,45.97321585317393
+2,'an exquisitely detailed 4k image of a small spiky hedgehog sitting on top of a mini slice of fluffy vanilla cake',0.6292380094528198,0.6719290614128113,58.33150455575188
+2,'a highly realistic 8k image of a tiny spiky hedgehog perched on top of a small slice of fluffy multi-colored cake',0.6345378160476685,0.7254387140274048,49.28511448236241
+2,'a highly detailed 4k oil painting of a small spiky hedgehog standing proudly on top of a small slice of fluffy rainbow-colored cake',0.6248936653137207,0.6593633890151978,45.69419610221084
+3,highly realistic photorealistic 4k digital art of a small spiky hedgehog perched on top of a single fluffy white vanilla cake,0.691358745098114,0.6707802414894104,49.20353641039422
+3,an ultra-detailed 8k digital oil painting of a tiny spiky hedgehog sitting on top of a lone fluffy white cake,0.6410050392150879,0.6664966344833374,51.9733511138776
+3,a highly detailed 4k digital watercolor of a small spiky hedgehog posed on top of a single fluffy white cake with a few cherries on it,0.6263374090194702,0.7112576961517334,62.404833231148515
+3,a highly realistic 4k digital mixed media of a small spiky hedgehog sitting on top of a single fluffy white cake in a cozy living room,0.5514131784439087,0.6761885285377502,57.6501126254478
+3,a highly realistic hyper-realistic 4k digital painting of a tiny spiky hedgehog perched on top of a single fluffy white cake with a few candles around it,0.6398904919624329,0.6852502822875977,47.634273361565555
+4,highly realistic photorealistic ultra-high definition digital art of a small spiky grey hedgehog perched on top of a perfectly frosted single fluffy white vanilla cake,0.6910476684570312,0.7556060552597046,56.62569210180634
+4,highly realistic 4k digital painting of a baby spiky hedgehog sitting on top of a single fluffy white vanilla cake with a delicate sprinkle of edible gold dust,0.6774396300315857,0.6623708605766296,50.66296652059954
+4,highly realistic photorealistic digital art of a small spiky hedgehog delicately balancing on top of a single fluffy white vanilla cake with soft warm lighting,0.6139190196990967,0.7437034845352173,54.255518541269836
+4,highly detailed 8k digital art of a tiny spiky hedgehog comfortably resting on top of a single fluffy white vanilla cake with a subtle blue background,0.6531015038490295,0.7341799736022949,57.40041828739072
+4,highly realistic photorealistic digital painting of a small spiky hedgehog proudly sitting on top of a single fluffy white vanilla cake with intricate piping and decorations,0.6425444483757019,0.7050400376319885,57.602474914566606
+5,highly detailed photorealistic 4k digital art of a small spiky hedgehog sitting atop a single fluffy white vanilla cake,0.6569421887397766,0.6403177380561829,52.116793890426614
+5,realistic highly vibrant digital art of a cute spiky hedgehog perched on top of a single fluffy white vanilla cake,0.6741788983345032,0.6959788799285889,51.043213376508426
+5,highly realistic and highly detailed digital art of a small spiky hedgehog standing on a single fluffy white vanilla cake with subtle icing patterns,0.6908411979675293,0.7002066373825073,63.879487875008216
+5,a highly realistic 4k masterpiece of a small spiky hedgehog delicately perched on top of a single fluffy white vanilla cake with a sprinkle of edible glitter,0.5946853160858154,0.7074571251869202,61.51849588840358
+5,a highly detailed and photorealistic 4k digital painting of a small spiky hedgehog sitting on the edge of a single fluffy white vanilla cake with a few crumbs scattered around,0.6274607181549072,0.6999015212059021,51.897827295259376

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a high-quality digital sword and intense flames in his hand,0.7889401912689209,0.6024645566940308,53.107195026590354
+1,highly detailed anime warrior with a fiery sword and confident expression,0.8172300457954407,0.6514188647270203,49.35627441714802
+1,a beautifully rendered anime hero wielding a flame-coated katana in a dynamic pose,0.8478811979293823,0.6366980075836182,59.233715854569574
+1,"anime fantasy character with an epic fiery broadsword in hand, highly detailed digital painting style",0.7781937122344971,0.5851854681968689,46.77985577008789
+1,digital art of a highly skilled anime swordsman with a blazing sword and dramatic background flames,0.79701828956604,0.6513906121253967,58.479622050023295
+2,"highly detailed anime hero wielding a flame-coated katana in a dramatic, dynamic pose",0.809614896774292,0.6503655314445496,59.11464165459219
+2,a stunning anime hero holds a blazing flame-coated katana in a heroic stance,0.7379807233810425,0.6667433381080627,63.80224617769043
+2,"a beautifully rendered anime hero in a striking pose, wielding a katana that shimmers with intense flame effects",0.811214804649353,0.6204929351806641,58.59530895881346
+2,"an anime hero in a dynamic, action-packed pose, wielding a magnificent flame-coated katana with highly detailed textures",0.7725694179534912,0.6424994468688965,56.08324687435294
+2,"highly realistic anime hero standing heroically, embracing an enormous, intricately designed flame-coated katana in a dramatic, vibrant scene",0.7412346601486206,0.7139980792999268,61.47741044050788
+3,breathtakingly detailed anime hero wielding a flame-imbued katana in a dynamic battle stance,0.8323392271995544,0.6286599040031433,53.04924985862807
+3,highly realistic anime hero posing with a fiery blade in vibrant colors,0.805824339389801,0.6822823882102966,60.2758353737322
+3,"stunningly rendered anime hero masterfully wielding a blaze-kissed katana, dynamic lighting effects",0.7939660549163818,0.5926681756973267,49.72855412937388
+3,exquisite digital painting of an anime hero grasping a flame-tipped katana with intense force,0.7812627553939819,0.6578356027603149,53.0683259588494
+3,"beautifully crafted anime hero standing triumphantly, holding a blazing katana in a sweeping motion",0.7836990356445312,0.6534708738327026,59.54420924558554
+4,a highly detailed anime hero in a stunning dynamic pose wielding a flame-coated katana,0.7977935671806335,0.6478511095046997,58.47823567199192
+4,an epic anime hero standing heroically in a dramatic scene with a flame-coated katana,0.7719579935073853,0.6170533299446106,56.0578109712589
+4,"a beautifully rendered anime hero in mid-air with a vibrant flame-coated katana in a highly detailed, cinematic style",0.7813565731048584,0.6609700918197632,55.970083768311376
+4,"an anime hero in a dramatic, action-packed pose striking a powerful stance with a flame-coated katana",0.7462199926376343,0.6093412637710571,59.957687919959724
+4,"a highly realistic anime hero heroically wielding a majestic flame-coated katana in a dynamic, 4k quality pose",0.8304017782211304,0.6274626851081848,54.8000428089512
+5,"a highly detailed anime hero wielding a blazing flame-coated katana in a dynamic, high-energy pose",0.7857720851898193,0.6572919487953186,61.360172536055615
+5,a majestic anime hero standing heroically with his gleaming flame-coated katana raised high in mid-air,0.7599284052848816,0.6318339705467224,59.5418484762667
+5,"a beautifully rendered anime hero posing heroically with a large, glowing flame-coated katana, set against a stunning digital cityscape backdrop",0.7433140277862549,0.7224891185760498,55.743535225627504
+5,"a highly detailed, 4k anime hero wielding a massive, burning flame-coated katana, set against a dynamic digital fantasy landscape",0.6959778070449829,0.5978341102600098,52.3114130179063
+5,"an epic, highly detailed anime hero standing triumphantly with a shining flame-coated katana, against a beautifully rendered digital fantasy cityscape at sunset",0.709693431854248,0.7095695734024048,50.03643519639911

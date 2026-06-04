@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafat palm tree on a rock in the ocean at golden hour,0.8593800663948059,0.6890146136283875,49.13344613460139
+1,arafat palm tree on a rocky beach in the ocean at sunset with clear blue waters,0.8708673715591431,0.6575183272361755,49.56330325959086
+1,highly detailed arafat palm tree on a rocky outcropping in the calm ocean at sunset,0.8761258125305176,0.7098578214645386,53.98866380608539
+1,a serene arafat palm tree on a secluded rock in the serene ocean at a warm sunset with soft clouds,0.8945683836936951,0.6638457775115967,50.65596283398452
+1,a beautiful arafed palm tree on a rugged rock in the deep ocean at a vibrant sunset with a sailboat in the distance,0.851364016532898,0.7278501391410828,55.36625736704608
+2,'a serene arafat palm tree on a secluded rock in the serene ocean at a warm golden hour with highly detailed soft clouds',0.8932358026504517,0.6466458439826965,49.16316216402021
+2,'a majestic arafat palm tree stands on a rocky outcropping in the calm ocean at a warm sunset with 4k resolution soft clouds',0.9152719974517822,0.7232269644737244,54.9545925699933
+2,'a serene arafat palm tree on a secluded rocky outcropping in the serene ocean at a warm sunset with dramatic soft clouds',0.8974161744117737,0.6972647309303284,51.93386161469127
+2,'an arafat palm tree on a secluded rock in the peaceful ocean at a warm sunset with soft puffy clouds',0.8758050203323364,0.654128909111023,49.595125296765396
+2,'a highly detailed serene arafat palm tree on a secluded rocky outcropping in the serene ocean at a warm sunset with highly detailed soft clouds',0.9010961651802063,0.6725496053695679,49.41277571383031
+3,majestic arafat palm tree stands on a rocky outcropping in the serene ocean at a warm golden hour with 4k resolution high detail,0.8594859838485718,0.6915357708930969,51.59387654746536
+3,a stately arafat palm tree emerges from the waves on a rugged rocky outcropping at sunset with 4k resolution digital painting,0.8833073973655701,0.7604795098304749,59.07486493785843
+3,an arafat palm tree stands sentinel on a windswept rocky outcropping in the tranquil ocean at a warm summer sunset with high definition,0.8850215077400208,0.7901333570480347,57.873684089335086
+3,a majestic arafat palm tree rises from the calm ocean on a precipitous rocky outcropping at a warm dusk with 8k resolution,0.8997319936752319,0.6783384680747986,50.95896233480373
+3,"a majestic arafat palm tree stands on a rocky promontory in the peaceful ocean at a warm sunset with 4k resolution soft, feathery clouds, highly detailed",0.9014849662780762,0.7113256454467773,53.143429223808845
+4,majestic golden arafat palm tree on rocky crag in serene ocean at warm sunset with highly detailed 4k resolution soft clouds,0.8762063980102539,0.6989166140556335,51.56210055589352
+4,serene arafat palm tree stands tall on weathered rocky outcropping in calm warm ocean at sunset with 4k resolution soft cloudy sky,0.9046183228492737,0.706840455532074,54.963313943504495
+4,a single majestic arafat palm tree rises from the rough rocky shoreline in tranquil ocean at golden sunset with highly detailed 4k resolution,0.9105052947998047,0.7101671695709229,54.82319782428281
+4,an arafat palm tree stands proudly on a rugged rocky cliff overlooking a calm ocean at a warm and peaceful sunset with 4k resolution,0.8625061511993408,0.7889843583106995,56.588996934607636
+4,a highly realistic 4k resolution arafat palm tree majestically stands on a rocky outcropping in a serene ocean at a warm and inviting sunset with soft white clouds,0.9047197103500366,0.7122267484664917,53.456485506575
+5,a majestic slender arafat palm tree stands on a rocky outcropping in the serene ocean at a warm golden sunset with high definition 4k resolution soft fluffy clouds,0.8848481178283691,0.7199568152427673,53.48302823529783
+5,a towering majestic arafat palm tree stands on a rugged rocky outcropping in the tranquil ocean at a warm vibrant sunset with realistic 4k resolution soft misty clouds,0.8624293208122253,0.7518798112869263,57.650248538086835
+5,a stately slender arafat palm tree stands on a rocky promontory in the peaceful ocean at a warm tranquil sunset with highly detailed digital painting style 4k resolution soft wispy clouds,0.9013410806655884,0.7204333543777466,53.35923441209585
+5,a towering majestic arafat palm tree stands on a weathered rocky outcropping in the serene ocean at a warm gentle sunset with 4k resolution soft ethereal clouds,0.9013411998748779,0.6839064359664917,51.72254877821646
+5,a stately majestic arafat palm tree stands on a rugged rocky outcropping in the calm ocean at a warm warm sunset with highly detailed photorealistic style 4k resolution soft puffy clouds,0.8921526670455933,0.7378395199775696,54.45827268211012

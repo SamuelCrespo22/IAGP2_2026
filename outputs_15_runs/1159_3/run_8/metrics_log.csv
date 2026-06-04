@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a large bright flame on the end of his sword,0.7957119941711426,0.6138654351234436,54.54159954401401
+1,anime boy with a fire-tipped katana standing heroically,0.7798124551773071,0.6138152480125427,59.70192132562305
+1,an epic 4k anime character wielding a fiery sword,0.803855299949646,0.615707516670227,50.02434734242326
+1,highly detailed anime warrior with a blaze engulfing his katana,0.7851991653442383,0.5937191843986511,51.0115558439161
+1,stylized digital painting of a courageous anime man holding a flaming broadsword high,0.8244881629943848,0.6323150992393494,55.659501523871796
+2,stylized highly detailed digital painting of a brave anime warrior holding a blazing broadsword high,0.7753809690475464,0.6073172092437744,47.280146653900026
+2,stylized 4k masterwork digital painting of a fearless anime hero wielding a flaming broadsword in mid-air,0.7634292244911194,0.6178703904151917,50.118478763928856
+2,highly realistic and detailed anime digital painting of a courageous man with a fiery broadsword in triumph,0.7917497754096985,0.5876740217208862,41.30670723545553
+2,vibrant and highly stylized anime digital painting of a fearless warrior holding a blazing broadsword in a dramatic pose,0.7744379043579102,0.6257551312446594,49.704430625094474
+2,highly realistic and 4k resolution stylized anime digital painting of a heroic man holding a blazing broadsword with intense light,0.8251965045928955,0.5834576487541199,46.137871273933996
+3,highly detailed and 4k resolution real-world reference stylized anime digital painting of a heroic man holding a blazing broadsword with intense golden light,0.795944094657898,0.698934018611908,54.6091235292735
+3,highly realistic and ultra-high definition masterpiece stylized anime digital artwork of a powerful man wielding a blazing two-handed sword with dramatic radiance,0.7921275496482849,0.610134482383728,48.248242492818676
+3,highly stylized and 4k resolution real-world reference digital painting of a heroic man holding a blazing broadsword with intense light and deep atmosphere,0.7880116701126099,0.5739545226097107,44.89870397403869
+3,highly detailed and 4k resolution reference-guided stylized anime digital artwork of a courageous man holding a blazing broadsword with intense golden light and deep shadows,0.7957055568695068,0.7387905120849609,62.30183447984236
+3,highly realistic and 4k resolution ultra-detailed stylized anime digital painting of a heroic man holding a blazing broadsword with intense magical energy and profound depth,0.8132008910179138,0.5858278870582581,44.242807924932855
+4,highly realistic and super detailed 4k resolution stylized anime digital painting of a heroic man holding a fiery broadsword with intense blinding light,0.8186144828796387,0.6188682913780212,49.869705133011664
+4,highly realistic and highly detailed 8k resolution stylized anime digital painting of a powerful man holding a blazing broadsword with intense radiating light,0.7963095903396606,0.6369248628616333,50.842559266283864
+4,highly realistic and photorealistic 4k resolution stylized anime digital painting of a mighty warrior holding a blazing broadsword with intense fiery light,0.8152731657028198,0.6513051390647888,53.38917750663075
+4,highly stylized and highly detailed 4k resolution anime digital painting of a heroic man holding a blazing broadsword with intense blinding golden light,0.80827796459198,0.7246185541152954,58.67690210449673
+4,extremely realistic and highly detailed 4k resolution stylized anime digital painting of a heroic man holding a blazing battle-ready broadsword with intense radiating golden light,0.8152596354484558,0.7029891014099121,56.471763033964216
+5,highly realistic and 8k resolution stylized anime digital painting of a heroic man holding a blazing broadsword with intense warm light in a fiery background,0.814102292060852,0.6887498497962952,59.04735830711382
+5,highly detailed and vibrant stylized anime digital painting of a heroic man grasping a blazing broadsword with intense light,0.794376015663147,0.6264552474021912,48.5146261899929
+5,highly realistic ultra-high definition anime digital painting of a strong man wielded a blazing broadsword with extreme light effects,0.7509697675704956,0.6276126503944397,49.606315590811874
+5,highly stylized and highly detailed realistic anime digital art painting of a heroic warrior holding a blazing broadsword with incredible light,0.803324282169342,0.5685502290725708,44.10215967819774
+5,highly polished and highly realistic stylized anime digital art painting of a heroic man holding a blazing broadsword with dramatic intense light effects,0.8285835385322571,0.5991989970207214,45.96427212469424

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafat palm tree on a rocky outcropping in the calm ocean at a vibrant sunset,0.8649880886077881,0.7663500308990479,58.10642818905209
+1,arafat palm tree on a solitary rock in the serene ocean at a warm golden hour,0.8899619579315186,0.6899240612983704,51.29457540327464
+1,highly detailed arafat palm tree on a rugged rocky outcropping in the calm turquoise ocean at a breathtaking sunset,0.846091091632843,0.6973450779914856,49.620645711588246
+1,a beautiful arafat palm tree on a single rock in the gentle ocean at a colorful sunset,0.9150097370147705,0.7516607642173767,59.24805951476699
+1,"a stunning, highly detailed, 4k masterpiece of an arafat palm tree on a weathered rocky outcropping in the tranquil ocean at the moment of sunset.",0.8759212493896484,0.7597110271453857,56.514143027301394
+2,beautiful isolated arafat palm tree on a small rocky outcropping at the gentle ocean at a vibrant colorful sunset,0.8806805610656738,0.7632316946983337,59.837282797202995
+2,a stunning highly detailed arafat palm tree on a single rock in the serene gentle ocean at a breathtaking sunset,0.897127628326416,0.7280113697052002,57.14454216324554
+2,highly realistic 4k digital painting of an arafat palm tree on a solitary rock in the calm gentle ocean at a colorful vibrant sunset,0.916015625,0.7595185041427612,59.92430136138118
+2,serene arafat palm tree standing alone on a towering single rock in the peaceful gentle ocean at a warm colorful sunset,0.8980404734611511,0.7616292238235474,60.41740653918677
+2,a colorful and serene arafat palm tree on a single rock in the clear calm ocean at a beautiful and peaceful sunset reflection,0.8821586966514587,0.738548755645752,58.42732411707872
+3,highly realistic 8k digital art of an arafat palm tree on a solitary rock in the serene peaceful ocean at a warm golden sunrise,0.9153991937637329,0.7354300022125244,56.480465653160635
+3,vibrant colorful highly detailed 4k digital painting of an arafat palm tree on a rugged rock in the gentle calm ocean at a breathtaking sunset,0.9102140665054321,0.7467146515846252,58.89358721690389
+3,highly detailed photorealistic digital artwork of a single arafat palm tree on a rocky outcropping in the tranquil ocean at a fiery colorful sunset,0.8715248107910156,0.7772223949432373,63.485020407846726
+3,realistic 4k digital oil painting of an arafat palm tree standing alone on a weathered rock in the peaceful ocean at a soft warm twilight,0.8482028245925903,0.719679057598114,52.0388526369488
+3,highly realistic highly detailed 4k digital portrait of an arafat palm tree on a granite rock in the calm soothing ocean at a colorful vibrant golden hour,0.9014941453933716,0.7083553075790405,52.28589350834853
+4,"highly detailed, 4k, realistic digital oil painting of an arafat palm tree on a solitary rock in the tranquil ocean at a breathtaking vibrant sunset",0.9001065492630005,0.7607726454734802,61.86338193475216
+4,vibrant 4k digital masterpiece of an arafat palm tree standing alone on a rugged rock in the serene ocean during a warm golden hour,0.9224722385406494,0.7124539017677307,53.04017291713014
+4,"highly realistic, highly detailed 4k digital painting of an arafat palm tree growing on a single isolated rock in the peaceful gentle ocean at a colorful fiery sunset",0.9132837057113647,0.7699642181396484,62.54922733102397
+4,majestic highly detailed 4k digital art piece of an arafat palm tree rooted on a solitary rock in the calm reflective ocean at a breathtaking warm sunset,0.9196978807449341,0.7794713377952576,63.9708125970048
+4,highly realistic 4k digital art of an arafat palm tree standing alone on a solitary rocky outcropping in the serene ocean at a colorful vibrant sunrise,0.8935763239860535,0.7283742427825928,56.571955025438264
+5,vibrant 4k highly realistic digital painting of a majestic arafat palm tree standing alone on a jagged rock in the tranquil ocean during a warm golden hour,0.9095588326454163,0.7352598309516907,57.11763896487465
+5,dramatic 4k digital artwork of a lone arafat palm tree perched on a rocky outcrop in the calm ocean under a vibrant golden sky,0.8462949991226196,0.7819206714630127,62.24112729082187
+5,highly detailed 4k digital rendering of an arafat palm tree isolated on a rugged coastline at sunset with the ocean in soft focus,0.8732555508613586,0.7071425914764404,52.436139189078936
+5,stunning 4k digital masterpiece of an arafat palm tree standing on a rocky bluff overhanging the serene ocean at golden hour,0.8559885025024414,0.7897389531135559,60.51286180603395
+5,breathtaking 4k digital sculpture of an arafat palm tree anchored to a rocky ledge in the peaceful ocean during a warm golden glow,0.8786605596542358,0.7278938293457031,51.51857603888418

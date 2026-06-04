@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,highly detailed realistic image of a small brown hedgehog sitting on top of a single block of moist chocolate cake,0.6625974774360657,0.6340415477752686,47.33218497016041
+1,a detailed image of a tiny spiky hedgehog perched on a rectangular block of vanilla cake with chocolate frosting,0.6500343084335327,0.6699223518371582,58.20303509695083
+1,highly detailed cake and hedgehog sitting on a simple table in a cozy atmosphere,0.5426414608955383,0.6259796023368835,43.99584713356683
+1,realistic detailed image of a small hedgehog on top of a large round cake with colorful decorations,0.6516432762145996,0.5798915028572083,56.69030807601515
+1,an incredibly realistic highly detailed image of a tiny spiky hedgehog sitting on a single block of moist mocha frosting covered cake,0.6765307188034058,0.5784304738044739,46.48997425938104
+2,an incredibly lifelike highly detailed portrait of a wee spiky hedgehog sitting on a large single block of rich mocha frosting covered cake,0.6661859154701233,0.5308348536491394,42.65935507353875
+2,a photorealistically rendered highly detailed image of a small spiky hedgehog perched on a pedestal made of moist mocha frosting covered cake,0.6463068723678589,0.573921799659729,47.8781005575433
+2,an exquisitely realistic highly detailed image of a hedgehog with tiny spikes sitting on a single large block of creamy mocha frosting covered cake,0.6159868836402893,0.6243503093719482,50.78466962310869
+2,a highly realistic highly detailed image of a wee spiky hedgehog with large round eyes sitting on top of a large single block of moist mocha frosting covered cake,0.6465110778808594,0.549217164516449,43.26467517174342
+2,a remarkably realistic highly detailed image of an adorable spiky hedgehog sitting on a single pedestal made of rich moist mocha frosting covered cake with a delicate drizzle of chocolate sauce.,0.6612787246704102,0.6114542484283447,50.275361439415434
+3,an incredibly realistic hyper-real highly detailed image of a tiny spiky hedgehog sitting on a single block of rich velvety dark mocha frosting covered cake,0.6662184000015259,0.5813074707984924,49.98736168397968
+3,an incredibly detailed photorealistic image of a small hedgehog resting on top of a single block of moist decadent chocolate frosting cake,0.6691495776176453,0.6066774129867554,46.25875508300876
+3,a highly realistic finely detailed digital painting of a tiny hedgehog sitting on a single block of creamy mocha frosting cake,0.6084802150726318,0.5963039398193359,48.01621655281853
+3,an incredibly life-like highly detailed 4K image of a small spiky hedgehog perched on a single block of moist dark mocha frosting covered cake,0.6268572807312012,0.5829780101776123,45.43004751522305
+3,a photorealistic highly detailed oil painting of a tiny hedgehog sitting on a single block of moist velvety dark mocha frosting covered cake,0.6211967468261719,0.6009825468063354,50.01141902370474
+4,"an incredibly realistic highly detailed image of a tiny spiky hedgehog sitting on a single block of moist, velvety chocolate cake",0.66029953956604,0.5844392776489258,46.50071196199049
+4,"a photorealistic 4k image of a small, prickly hedgehog perched on top of a slice of moist, decadent mocha frosting-covered cake",0.6427302360534668,0.6169944405555725,48.89402670209688
+4,"a highly detailed, digitally painted masterpiece of a minuscule hedgehog sitting on a pedestal of creamy, moist chocolate cake",0.5920799374580383,0.5960217714309692,42.99405431260853
+4,"a realistic, highly detailed image of a teeny, spiky hedgehog balancing on a single block of rich, mocha-flavored cake",0.6396492123603821,0.6006842851638794,48.61400364193075
+4,"an incredibly realistic, 4k image of a tiny, adorable hedgehog sitting on a slice of creamy, moist mocha frosting-covered chocolate cake",0.627135157585144,0.6987631916999817,53.55369590671681
+5,highly realistic image of a tiny spiky hedgehog sitting on a single block of warm mocha cake,0.6517949104309082,0.5820121765136719,45.85758137162777
+5,an incredibly detailed image of a tiny brown hedgehog resting on moist mocha frosting covered cake,0.6335365772247314,0.6476117968559265,52.971109119961184
+5,a highly polished digital painting of a tiny grey spiky hedgehog sitting on a block of mocha frosting,0.7099754810333252,0.603538990020752,43.60975504479166
+5,an incredibly realistic 4k image of a tiny black and white spiky hedgehog sitting on a single block of mocha frosting covered cake,0.625951886177063,0.6434266567230225,41.62389956048461
+5,highly detailed and photorealistic image of a tiny spiky blue hedgehog sitting on a single block of moist chocolate frosting,0.717714786529541,0.5559081435203552,48.58401649304494

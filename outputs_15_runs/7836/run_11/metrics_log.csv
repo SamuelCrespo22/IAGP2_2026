@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the barren surface of a distant alien world with a brilliant white light shining in the background,0.8567783832550049,0.5564437508583069,31.12712520917142
+1,highly detailed astronaut standing on the surface of a rocky exoplanet with an intense beam of light behind him,0.8393486738204956,0.6166293025016785,37.694654518640895
+1,astronaut standing on the dusty surface of a mysterious planet with a warm orange glow emanating from the horizon,0.7934953570365906,0.7818027138710022,55.65159622223111
+1,"4k masterpiece astronaut standing on a desolate, rugged alien landscape with a bright ray of light illuminating the surrounding terrain",0.8484764099121094,0.7074711918830872,56.669916550935646
+1,highly realistic astronaut standing on a foreign world with a striking light at sunset in the distance,0.8520898818969727,0.6302265524864197,45.459595510907256
+2,a highly detailed astronaut standing on the cracked barren surface of a distant alien world with a brilliant white light shining in the background,0.7936130166053772,0.6288939714431763,35.33881233328446
+2,astronaut standing on the rocky barren surface of a desolate distant alien world with a brilliant white light behind,0.8266976475715637,0.6838810443878174,56.67225431930338
+2,astronaut in a spacesuit standing on the barren surface of a rugged distant alien world at sunrise,0.8163484930992126,0.7531008124351501,57.25478282225812
+2,a finely detailed astronaut standing on the stark barren surface of a mysterious distant alien world with a brilliant white light glowing in the background,0.7726684808731079,0.6052834391593933,35.91651383456201
+2,astronaut standing at the edge of a barren lake on the surface of a distant alien world with a brilliant white light rising in the background,0.8622705340385437,0.5425135493278503,38.78452777379325
+3,"an astronaut standing at the edge of a vast, barren lake on the surface of a distant alien world with a brilliant white light rising in the background",0.8720807433128357,0.5322511792182922,35.31038121831551
+3,an astronaut standing at the edge of a desolate lake on a distant planet with a white light shining in the background,0.8882136940956116,0.6107897162437439,43.77676593323332
+3,highly detailed astronaut standing at the edge of a barren lake on a distant alien world with a brilliant white light rising above the horizon,0.8588207960128784,0.5981995463371277,46.81589254201966
+3,"astronaut standing at the edge of a vast lake on a distant, barren alien world with a bright, glowing light rising behind them",0.8658668994903564,0.5389525890350342,33.52741644186231
+3,a 4k-resolution masterpiece of an astronaut standing on a rocky shore at the edge of a barren lake with a brilliant white light bursting above the distant alien world's surface,0.816031813621521,0.6653559803962708,46.61371733075927
+4,an astronaut standing at the rocky edge of a barren lake on a far-off alien world under a radiant white glow,0.8704068660736084,0.6832323670387268,59.96094049248243
+4,"an astronaut in a white spacesuit standing at the edge of a small, serene lake on a desolate extraterrestrial landscape",0.8156009912490845,0.6961217522621155,58.224567450220384
+4,"a highly detailed astronaut standing at the edge of a small, tranquil lake on a distant, barren planet with an intense white light in the background",0.7395232915878296,0.6307737231254578,44.56126565934302
+4,"a breathtaking 4k image of an astronaut standing at the edge of a pristine, crystal-clear lake on a remote, extraterrestrial planet",0.8246422410011292,0.7163431644439697,63.01170753001367
+4,"a striking masterpiece of an astronaut standing in the foreground, with a beautiful white glow emanating from a lake on a distant, barren planetary landscape",0.8332831263542175,0.5528233051300049,34.10550803833155
+5,a lone astronaut standing at the edge of a barren lake on a distant alien world with a soft blue light in the background,0.8515282273292542,0.6402989029884338,49.271788959407395
+5,a highly detailed astronaut standing at the edge of a desolate lake on a distant planet with a warm golden light shining in the background,0.8067302107810974,0.739698588848114,56.96406042809879
+5,an astronaut standing at the edge of a frozen lake on a distant icy planet with a bright purple light shining in the background,0.80525803565979,0.7209144830703735,67.82908624157038
+5,a figure in a spacesuit standing at the edge of a serene lake on a distant planet with a soft purple light in the background,0.8358333110809326,0.7062435150146484,57.85361513265582
+5,a highly detailed astronaut standing alone at the edge of a vast lake on a distant planet with a soft blue light shining in the background,0.8314753770828247,0.6178452968597412,45.26866917226649

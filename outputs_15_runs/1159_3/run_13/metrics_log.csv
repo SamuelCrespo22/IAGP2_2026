@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and flames erupting from his fist,0.8164417743682861,0.6701839566230774,57.27049181568717
+1,highly detailed anime character wielding a sword and intense fire,0.8324856758117676,0.6288634538650513,51.69216059174889
+1,digital painting of a sword-wielding anime character with a fiery aura surrounding him,0.8227716088294983,0.652528703212738,60.00773927201221
+1,fantasy anime character with a sword and a blazing inferno in his hand,0.7930094003677368,0.6443528532981873,49.67795665980555
+1,"anime masterpiece of a skilled warrior with a flaming sword and a bold, dynamic pose",0.7483701705932617,0.5823850631713867,43.9863046210177
+2,highly detailed realistic anime character wielding a gleaming sword amidst fiery flames,0.803033709526062,0.6570616364479065,54.80964574660476
+2,intense digital painting of a highly detailed anime character standing at the edge of a burning inferno,0.7740654945373535,0.7580658793449402,71.20495292685888
+2,4k resolution anime character with intricate designs holding a fiery blade and surrounded by blazing fire,0.7678980827331543,0.7182335257530212,55.93549830910082
+2,"highly detailed, high-fantasy anime warrior with a burning sword, set against a dark, smoldering background",0.7885088920593262,0.6298879384994507,50.53912497518152
+2,"highly detailed anime character with a radiant grin, wielding a mighty fiery sword in a scene of apocalyptic splendor",0.814134955406189,0.6270003318786621,50.22011714975936
+3,highly detailed anime battle scene with intense fire and smoke,0.7640708088874817,0.728386402130127,57.33800854706849
+3,highly detailed anime warrior standing triumphantly amidst intense flames,0.7591238021850586,0.7545917630195618,65.98820445001653
+3,high-intensity anime action shot with a sword and fiery explosion,0.7194514274597168,0.6715114116668701,48.619345937623514
+3,highly detailed hand-drawn anime character wielding a massive sword and surrounded by fire,0.8197762966156006,0.6577514410018921,51.68741766301935
+3,realistic highly detailed anime fantasy scene with a hero battling a fiery dragon,0.6498491168022156,0.6738543510437012,43.19005787209022
+4,"highly detailed anime character wielding a fiery blade in a dramatic, fiery battle",0.8042355179786682,0.6329349279403687,50.76349677430046
+4,highly detailed anime warrior standing amidst intense flames with a blazing sword,0.7414493560791016,0.745195746421814,64.55874620797488
+4,an extremely detailed 4K digital painting of a fierce anime character wielding a sword amidst a blazing inferno,0.8263411521911621,0.7233861088752747,61.69741876104182
+4,"highly realistic anime character wielding a sword and surrounded by fiery, orange, and yellow flames",0.8206758499145508,0.748360812664032,60.784590327505974
+4,"highly detailed digital anime artwork of a strong warrior holding a sword and standing before an intense, blazing fire.",0.7589631080627441,0.6899004578590393,54.46980284853949
+5,highly detailed anime character wielding a powerful fire blade,0.823500394821167,0.6063857078552246,46.13521683853186
+5,highly detailed anime warrior girl in a fiery explosion pose,0.7346532344818115,0.7357839345932007,60.78362824531429
+5,highly detailed digital painting of a anime warrior in a fiery sword fight,0.7449080348014832,0.6462506651878357,50.049325385684654
+5,highly detailed 4K anime warrior girl standing amidst intense flames,0.7179101705551147,0.7404391765594482,66.09437680205669
+5,highly detailed dark fantasy anime character wielding a sword and surrounded by fiery smoke,0.7646063566207886,0.5743646621704102,52.03466488062206

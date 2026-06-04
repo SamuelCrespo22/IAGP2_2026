@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a highly detailed sword and flames in his hand,0.8307347297668457,0.6151593923568726,50.526397151212265
+1,a fantasy anime character wielding a 4k resolution sword with fire,0.8010529279708862,0.5480736494064331,41.128681788034285
+1,"a majestic anime character with a fiery sword, highly detailed digital painting",0.8112033605575562,0.6191540360450745,50.04448807825325
+1,"anime character with a detailed sword and blazing fire, 4k digital image",0.8229289054870605,0.5988413095474243,50.32729154006303
+1,"a highly realistic anime character holding a sword with a roaring fire, digital art style",0.7112579345703125,0.6877546906471252,50.92834448068334
+2,anime character with a highly detailed realistic longsword and intense flames engulfing his hand,0.84560227394104,0.6148998737335205,50.922574941003745
+2,anime character holding a highly detailed ancient sword and fierce flames dancing in the background,0.7449151277542114,0.6847060322761536,59.5714814273215
+2,anime character standing in a mystical realm with a highly detailed sword and large flames burning in his grasp,0.8106122612953186,0.6208462715148926,50.84483135657123
+2,highly detailed digital anime character with a realistic katana and intense orange and yellow flames in his fist,0.7869426608085632,0.6907855272293091,60.88124962071025
+2,a highly realistic and detailed anime character wielding a powerful kusanagi and flames blazing from his palm,0.8013619780540466,0.59569251537323,51.601497976249014
+3,"'Anime character with a highly detailed, realistic, high-contrast, longsword and intense flames engulfing his hand in a dramatic, cinematic scene'",0.8347979784011841,0.6309952139854431,56.81664605643088
+3,"'Character from a fantasy anime with a realistic, 3D-rendered, longsword and flames burning his hand fiercely'",0.779863715171814,0.5987330079078674,47.150175191260814
+3,"'A highly detailed, anime art-inspired depiction of a warrior holding a realistic, polished longsword with flames intensely burning his fingers'",0.8337217569351196,0.579803466796875,45.42750702721396
+3,"'Epic fantasy anime scene with a hero grasping a longsword and engulfed in powerful, blazing flames that are accurately detailed and realistic'",0.7650632262229919,0.5818422436714172,43.43207409922347
+3,"'Highly realistic, detailed, and cinematic depiction of an anime warrior wielding a gleaming longsword with intense, roaring flames engulfing his hand in a beautiful, digital painting style'",0.8180186748504639,0.619861900806427,49.57536547955324
+4,"anime character with a highly detailed, sharp, and realistic longsword and intense flames engulfing his hand in a dramatic battle scene",0.8214783072471619,0.560723066329956,45.43413284529961
+4,"intense anime flames engulfing an anime character's hand as he wields a highly detailed, realistic, medieval-style longsword",0.8181644678115845,0.6149156093597412,52.57360265096274
+4,"anime character with a highly detailed, realistic longsword and intense flames engulfing his hand, as if painted by a master digital artist",0.8485041260719299,0.6087949275970459,53.30801252001855
+4,"realistic longsword with intense, swirling flames grasped by an anime character's hand in a highly detailed, dark fantasy scene",0.798220157623291,0.5835807919502258,52.18757301472666
+4,"highly detailed, realistic anime character wielding a longsword as intense flames erupt and engulf his hand, surrounded by a warm, golden light",0.8430945873260498,0.7118179798126221,59.704036141847745
+5,"highly detailed anime warrior with a realistic longsword and intense flames engulfing his hand, as if rendered in exquisite 4k digital art",0.8114614486694336,0.6090503334999084,50.67572609736136
+5,masterfully painted digital anime character wielding a gleaming longsword and surrounded by raging inferno flames,0.814862072467804,0.6735345125198364,56.62853710912492
+5,"highly realistic anime sword warrior with intense flames burning his hand, as if crafted by a skilled digital painter",0.812626838684082,0.6407021284103394,50.28948281585896
+5,"a highly detailed digital anime character with a realistic longsword, his hand engulfed in fierce, blazing flames as if from a beautiful oil painting",0.7720682621002197,0.6203628182411194,49.13824848519439
+5,"highly detailed digital art of an anime sword wielder with intense flames dancing across his hand, reminiscent of a masterpiece by a skilled artist",0.7765757441520691,0.6934956312179565,62.12331723263015

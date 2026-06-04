@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime style character with a glowing sword and fiery flames in his hand,0.7927941083908081,0.6493738293647766,61.02638226287501
+1,an anime artist's interpretation of a legendary warrior wielding a sword and fire,0.8190642595291138,0.5459170937538147,42.90005315134977
+1,highly detailed digital painting of a young anime protagonist holding a blazing sword,0.8528022766113281,0.6060889959335327,52.60500199161445
+1,"an intricately illustrated anime scene featuring a hero with a sword and flames, in a fantasy landscape",0.7157201766967773,0.6543776988983154,51.36999877886561
+1,"anime warrior with a sword and fire in hand, as depicted in a vibrant and colorful anime comic book",0.8039187788963318,0.5701702237129211,40.10690578161704
+2,highly detailed realistic digital painting of a young anime protagonist holding a blazing magical sword,0.833189845085144,0.5618691444396973,47.817198515801394
+2,youthful highly detailed anime-inspired oil painting of a hero holding a fiery glowing sword,0.8161675930023193,0.6718511581420898,48.62525932462961
+2,highly detailed digital anime painting of a young protagonist holding an enchanted flaming sword,0.8403304815292358,0.610388994216919,51.273952091147095
+2,a highly realistic anime-style 4k digital painting of a young warrior holding a burning blazing sword,0.8173519372940063,0.6263182163238525,50.65514074253664
+2,highly detailed masterful digital painting of a young anime-like warrior hero holding a flaming sword with intense light effects,0.8296595811843872,0.6132640838623047,50.53006376874444
+3,highly detailed traditional digital painting of a young anime protagonist holding a blazing katana,0.830130398273468,0.6352522373199463,55.15600103798995
+3,detailed anime portrait of a fierce young hero wielding a fiery sword in a fantasy landscape,0.8026279211044312,0.614977240562439,46.50759732049194
+3,4k resolution highly realistic digital artwork of a young anime warrior holding a blazing longsword surrounded by flames,0.8604562282562256,0.6708402633666992,55.16812437653591
+3,highly realistic oil painting of a young anime protagonist standing heroically with a blazing sword at sunset,0.7049815654754639,0.825157880783081,64.86038671720259
+3,highly detailed 4k digital painting of a young anime hero in a dynamic pose holding a blazing samurai sword with intense flames,0.7678576707839966,0.6781337857246399,56.660814728601565
+4,highly detailed realistic anime warrior standing victorious with a glowing longsword in the center of a fiery battlefield,0.784976601600647,0.5965531468391418,43.70543896474341
+4,4k resolution realistic anime artwork of a young warrior with a burning longsword amidst flames that dance around her,0.8003202676773071,0.7093074917793274,60.0503795619195
+4,"highly realistic, highly detailed digital painting of a fierce anime warrior holding a blazing longsword surrounded by intense flames",0.8152320384979248,0.6777947545051575,53.7874458877134
+4,stunning 4k anime artwork of a skilled warrior holding a blazing sword in a fiery environment with realistic flames,0.8278279900550842,0.6788350939750671,57.245920721082506
+4,"highly realistic, detailed 4k digital artwork of an anime warrior standing in a fiery explosion, surrounded by intense flames and holding a glowing longsword",0.7967512607574463,0.749380350112915,69.23218697060194
+5,4k resolution photorealistic digital artwork of a young anime warrior holding a blazing longsword surrounded by intense flames,0.8573093414306641,0.6615161895751953,57.75878256712662
+5,highly detailed realistic anime digital art of a youthful warrior brandishing a fiery blade amidst roaring infernos,0.7945691347122192,0.6746675372123718,49.658311765547694
+5,a highly realistic 4k resolution digital painting of an anime warrior gripping a blazing longsword amidst a whirlwind of flames,0.8111860752105713,0.640870988368988,52.84796351835927
+5,ultra-realistic 4k digital artwork of an anime warrior holding a blazing longsword surrounded by a fiery vortex of flames,0.8290972113609314,0.6843989491462708,59.263028495619594
+5,photorealistic 4k digital art of a young anime warrior brandishing a blazing longsword amidst a sea of flickering flames.,0.7930493354797363,0.6052448749542236,50.1193180698979

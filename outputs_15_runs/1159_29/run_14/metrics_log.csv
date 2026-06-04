@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a granite rock in the ocean at golden hour sunset,0.8740283250808716,0.7794774174690247,62.41598260015443
+1,an arafed palm tree on a rocky outcropping in the calm blue ocean at sunset,0.862973690032959,0.7432615756988525,56.69609916615159
+1,highly detailed 4k arafed palm tree standing tall on a rugged ocean rock at a vibrant sunset,0.8911568522453308,0.8001605272293091,61.088746168009116
+1,an arafed palm tree and rocky shore at the edge of the horizon at a breathtaking sun setting,0.8725281953811646,0.7281302213668823,51.91529328128682
+1,digital painting style arafed palm tree on a majestic rocky cliff overlooking the turquoise ocean at dusk,0.7634907960891724,0.7116432785987854,52.383134567472155
+2,highly detailed 4k realistic arafed palm tree standing strong on a rugged ocean rock at a breathtaking warm sunset,0.8799556493759155,0.7508882880210876,57.52604357253782
+2,4k arafed palm tree with intricate bark and detailed leaves standing tall on a rocky outcrop at golden hour,0.8444678783416748,0.7035373449325562,54.7348545131018
+2,highly detailed 4k digital painting of a lone arafed palm tree silhouetted on a rugged ocean rock at a vibrant sunset,0.8872455358505249,0.8208500742912292,67.18035815596411
+2,a highly realistic 4k arafed palm tree stands resolute on a jagged rocky outcrop amidst turbulent turquoise waters at sunset,0.8767998814582825,0.7888877987861633,59.91339827271071
+2,highly detailed 4k photorealistic arafed palm tree on rugged ocean rock with warm golden light shining through dramatic clouds in the sky,0.8992550373077393,0.671500563621521,51.26538055288266
+3,highly detailed 4k realistic arafed palm tree on rugged granite ocean rock with warm golden sunlight shining through dark dramatic thunderheads in the sky,0.896877110004425,0.7467107176780701,61.55656068871035
+3,photorealistic 4k masterpiece of an arafed palm tree on rugged ocean rock with soft warm sunlight streaming through dramatic cumulus clouds,0.880234956741333,0.6422630548477173,52.96991820787703
+3,highly detailed 8k oil painting of a lone arafed palm tree on rugged limestone ocean rock with warm golden light shining through a gap in dramatic clouds,0.819954514503479,0.6759476661682129,48.5554564703176
+3,realistic 4k digital painting of a majestic arafed palm tree on weathered ocean rock with warm soft sunlight shining through wispy clouds,0.7863959670066833,0.6636252999305725,52.22402481503164
+3,highly detailed 4k realistic landscape of a single arafed palm tree on rugged sea-worn rock with golden warm light illuminating dramatic towering clouds,0.8821514248847961,0.6744597554206848,54.05069894766439
+4,highly detailed 8k photorealistic palm tree on rugged ocean boulder with warm gentle golden light shining through dramatic cumulus clouds in the sky,0.8970573544502258,0.6966159343719482,54.004310671330785
+4,highly detailed 4k photorealistic majestic arafed palm tree on weathered ocean rock outcropping with soft warm golden light illuminating dramatic wispy clouds,0.8889527320861816,0.6851283311843872,52.581322638425306
+4,highly detailed highly realistic 4k digital artwork of arafed palms swaying gently in the breeze on rugged ocean rock face under a warm golden sunny sky,0.809746265411377,0.6826940774917603,53.2548248806149
+4,highly detailed 4k photorealistic arafed palm tree against a backdrop of rugged rocky coastline with warm golden light streaming through dramatic puffy clouds,0.8477057218551636,0.7066025733947754,52.591119231797414
+4,masterfully detailed 4k photorealistic digital painting of arafed palm trees on rugged rocky ocean outcropping with warm vibrant golden light shining through majestic dramatic clouds in the sky,0.8478357791900635,0.723801851272583,57.22639554472549
+5,highly detailed 8k photorealistic arafu palm tree standing tall on rugged ocean rock with rich golden light shining through dramatic clouds in the blue sky,0.8890849947929382,0.6586138010025024,55.201139703882625
+5,"highly detailed 4k photorealistic arafed palm tree on rugged rocky outcroppings with warm golden late afternoon light shining through soft, white clouds",0.766848087310791,0.6655580401420593,48.099416110615216
+5,highly detailed 4k photorealistic arafed palm tree on rugged ocean rock surrounded by crashing turquoise waves with golden light falling through dramatic storm clouds,0.8745147585868835,0.6707903742790222,54.88642559796192
+5,highly detailed 4k photorealistic arafed palm tree standing strong on rocky coastline with warm golden morning light shining through wispy clouds,0.8917888402938843,0.6365909576416016,46.48027258172413
+5,"highly detailed 4k photorealistic arafed palm tree on rugged rocky shore at sunset with rich golden light shining through vibrant, pink clouds",0.8735713362693787,0.7461459636688232,58.50005462054643

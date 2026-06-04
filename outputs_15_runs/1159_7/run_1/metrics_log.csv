@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"a small, fluffy, adorable hedgehog sitting on top of a rich, moist chocolate cake",0.6198385953903198,0.6388897895812988,49.997342735605095
+1,a small hedgehog perched on a single square block of creamy vanilla cake,0.6684305667877197,0.7304568886756897,64.31852957250763
+1,"highly detailed, realistic hedgehog sitting on a large block of decadent chocolate cake",0.6055737137794495,0.6240850687026978,46.54896642831442
+1,a tiny hedgehog is sitting on a small cube of layered red velvet cake,0.6429449319839478,0.6975888609886169,48.956730723021934
+1,"a tiny, adorable, cartoon-inspired hedgehog is sitting on top of a gigantic block of fluffy white cake",0.6005035638809204,0.7448017597198486,70.96811127855437
+2,"'a small, adorable, and fluffy hedgehog perched on a single square block of rich, creamy vanilla cake'",0.6604353189468384,0.7499632835388184,72.5282166469891
+2,"'a tiny, golden-hued hedgehog sitting on a single white square block of moist, fluffy vanilla cake'",0.46382981538772583,0.7625790238380432,78.67510011155674
+2,"'highly detailed, 4k digital painting of a small, prickly hedgehog delicately balancing on a single square block of decadent vanilla cake'",0.5893739461898804,0.6317465305328369,47.013684955093886
+2,"'a low-angle, close-up shot of a hedgehog perched on a single, large square block of creamy vanilla cake, with soft, warm lighting'",0.639285683631897,0.718661904335022,63.70542706483933
+2,"'realistic, oil painting of a small, spiky hedgehog comfortably resting on a single square block of classic, moist vanilla cake'",0.5844122171401978,0.6049273014068604,44.48148417613263
+3,a small brown hedgehog perched on a single square block of creamy vanilla cake,0.6363449692726135,0.6119391918182373,57.48798043987717
+3,a delicate hedgehog posing on top of a single square vanilla cake block,0.5931133031845093,0.738561749458313,69.62673759917541
+3,a highly detailed tiny hedgehog snuggled comfortably on a single square creamy vanilla cake,0.6322138905525208,0.7491232752799988,72.63264728650279
+3,"a single, diminutive hedgehog sitting delicately on top of a small square creamy vanilla cake",0.6109360456466675,0.7195737957954407,68.98271673262371
+3,"a small, adorable, highly detailed hedgehog sitting regally on a single square block of creamy vanilla cake",0.6150089502334595,0.7153006196022034,69.66914980983962
+4,a small hedgehog perched delicately on a single square block of creamy vanilla cake,0.6435967087745667,0.774451732635498,69.32977631810184
+4,a hedgehog sits on top of a small cube of vanilla cake,0.6376882195472717,0.759342610836029,67.98238874858171
+4,a perfectly rendered hedgehog is perched on a square block of vanilla cake highly detailed,0.6683925986289978,0.7077745199203491,59.925882492884476
+4,a small hedgehog with a discerning eye surveys a single square block of creamy vanilla cake,0.6040850877761841,0.6868176460266113,62.37296135713067
+4,a small hedgehog is delicately situated on a single square block of creamy vanilla cake in the style of a watercolor painting,0.6690870523452759,0.7230703830718994,77.83593895576247
+5,"a small, adorable hedgehog is intricately placed on a single square block of creamy, moist vanilla cake in the style of a highly detailed watercolor painting",0.6383651494979858,0.7336015701293945,78.26661984285033
+5,a miniature hedgehog sits delicately balanced on the edge of a single square block of golden vanilla cake in the style of a 4k digital painting,0.6284546256065369,0.5790261626243591,44.61239648985914
+5,a tiny hedgehog is artfully positioned on the top of a single square block of creamy vanilla cake with subtle texture in the style of a masterpiece impressionist piece,0.6529263257980347,0.6449280977249146,62.60925353095684
+5,"a small, plump hedgehog is gently perched on one corner of a single square block of creamy vanilla cake in the style of a highly realistic digital painting",0.6861518621444702,0.61492520570755,53.859752118284874
+5,"a hedgehog is posed in a delicate, precarious balance on a single square block of moist vanilla cake in soft, warm light with subtle texture in the style of a fine art watercolor painting",0.6489824652671814,0.7040442228317261,58.29163392164274

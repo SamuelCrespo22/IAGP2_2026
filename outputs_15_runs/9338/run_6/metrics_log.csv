@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,"highly detailed painting of a mouse with a bright, colorful tail",0.7550679445266724,0.6621850728988647,46.300628786491515
+1,"highly detailed painting of a mouse with a long, colorful tail and fluffy fur",0.7933493852615356,0.6065067648887634,48.8375415572811
+1,"a digital masterpiece of a mouse with a vibrant, patterned tail and cute face",0.7318015694618225,0.663960337638855,43.82594778599569
+1,"realistic painting of a mouse with a long, striped tail and tiny eyes",0.7184943556785583,0.670194685459137,35.2729638073301
+1,"highly detailed, 4k digital painting of a mouse with a fluffy, colorful tail and happy expression",0.7730123996734619,0.5936572551727295,45.73159222688376
+2,"highly detailed digital painting of a mouse with a long, vibrant tail and soft fluffy fur",0.7604270577430725,0.6796333193778992,34.86733567661936
+2,"high resolution 4k image of a mouse with a long, pastel-colored tail and luxurious fluffy fur",0.6151525378227234,0.7015702128410339,56.20024030640836
+2,"oil painting style of a mouse with a long, rainbow-colored tail and velvety fluffy fur",0.793084979057312,0.6062741279602051,34.26701796401494
+2,"realistic portrait of a mouse with a long, glittering tail and super soft fluffy fur",0.7321568727493286,0.6854377388954163,44.58141603397583
+2,"highly detailed photorealistic image of a mouse with a long, shimmering tail and thick, plush fluffy fur",0.7207755446434021,0.7063939571380615,38.19301045879751
+3,"highly detailed, realistic painting of a mouse with a long, slender tail and soft fluffy fur",0.7490502595901489,0.6764635443687439,33.124288811236646
+3,"a highly realistic, high-definition 4k image of a mouse with a vibrant, colorful tail and its fluffy fur detailed accurately",0.7124629616737366,0.6830191612243652,38.74929617148012
+3,"highly detailed, realistic artwork featuring a mouse with a long, slender tail and its fur depicted in soft and realistic brushstrokes",0.6973979473114014,0.6643638014793396,34.25141238445565
+3,"digital painting of a mouse with a colorful, long tail and its soft fluffy fur in precise detail",0.7937917709350586,0.5986424088478088,42.349539130419345
+3,"highly detailed portrait of a mouse with a long, colorful, slender tail and its fur rendered in soft, realistic light",0.6869833469390869,0.7283229827880859,41.20008255100862
+4,"highly detailed digital painting of a mouse with a bright, long tail and its soft, fluffy fur rendered in precise realistic detail",0.721149206161499,0.7185099124908447,39.62950198376447
+4,"digital painting of a mouse with a colorful, long tail and its soft, fluffy fur shown in high resolution precise detail",0.7869293689727783,0.6104900240898132,40.016456376571405
+4,"a detailed, 4k digital painting of a mouse with a vibrant, long tail and its soft, fluffy fur in perfect realistic detail",0.7596246004104614,0.689342200756073,36.23230791260113
+4,"a precise digital painting of a mouse with a colorful, long tail and its soft, fluffy fur in highly realistic, detailed style",0.7396517992019653,0.6896657943725586,42.53354371197211
+4,"highly realistic digital painting of a mouse with a bright, long tail and its soft, fluffy fur in precise, detailed realistic style illustration",0.7442675828933716,0.6939043998718262,40.82770099158293
+5,"digital painting of a mouse with a vibrant, long tail and its soft, silky, fluffy fur in highly detailed precise realism",0.7488589286804199,0.6834056973457336,37.78528652242247
+5,"highly detailed digital painting of a mouse with a colorful, long tail and its soft, fluffy fur in precise, realistic detail",0.7439920902252197,0.6997472047805786,40.07870592744632
+5,"a highly realistic, detailed digital painting of a mouse with a long, colorful tail and its soft, fluffy fur in precise detail",0.7783129215240479,0.6478181481361389,39.23176485518725
+5,"precise, realistic, digital painting of a mouse with a long, colorful, flowing tail and its soft, fluffy, textured fur",0.8107804656028748,0.5970590710639954,42.467825684832896
+5,"highly detailed, realistic digital painting of a mouse in a cozy environment with a long, colorful, vibrant tail and its soft, fluffy, silky fur",0.703615665435791,0.6304629445075989,38.31683557771909

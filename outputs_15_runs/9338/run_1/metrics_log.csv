@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a majestic mouse with a brightly colored and long tail,0.7203818559646606,0.683629035949707,50.28340610499868
+1,a realistic mouse with a highly detailed colorful tail,0.7373456954956055,0.692320704460144,37.07522589630743
+1,digital artwork of a sweet mouse with a fluffy colorful tail and bright eyes,0.7431309223175049,0.5870882868766785,58.167590532614156
+1,highly detailed painting of a curious mouse with a vibrant and curly tail,0.6696972846984863,0.7200565338134766,44.91659386730566
+1,a stunning 4k digital painting of a playful mouse with a multicolored and wispy tail,0.8020901679992676,0.6011174321174622,33.866965863098514
+2,a highly detailed 4k vibrant digital painting of a playful mouse with a long and wispy multicolored tail,0.8270529508590698,0.5314555764198303,35.89562908716458
+2,a whimsical 8k digital masterpiece of a lively mouse with a multicolored and fluffy tail,0.8035321235656738,0.5718445777893066,44.08973680991726
+2,a breathtakingly realistic 4k digital painting of a playful mouse with a wispy colorful tail and a serene surrounding,0.7394903898239136,0.7188255190849304,48.48526594001539
+2,a beautiful 8k highly detailed digital artwork of a happy mouse with a multicolored fluffy tail in a fantasy environment,0.6510476469993591,0.7443888187408447,44.6476360033655
+2,a stunning 16k highly realistic digital painting of a curious mouse with a long wispy and colorful tail amidst a lush greenery,0.7032490372657776,0.7210693359375,39.164329123577104
+3,a highly detailed 8k vibrant digital painting of a realistic playful mouse with a long and elegant multicolored tail,0.7719426155090332,0.5888745188713074,30.44315641080875
+3,"a whimsical mouse with a long and wispy multicolored tail, rendered in highly detailed 4k digital art style",0.6748539805412292,0.6782839894294739,38.57052895649752
+3,a highly realistic 4k oil painting of a playful mouse with a long curly multicolored tail,0.6978943347930908,0.6227098703384399,31.180681519417945
+3,"a highly detailed digital artwork of a playful mouse with a long and wispy rainbow-colored tail, in the style of classic fantasy art",0.7492262721061707,0.6753302216529846,45.40135686100605
+3,"a highly detailed 4k watercolor painting of a playful mouse with a long and delicate multicolored tail, in a whimsical and dreamlike setting",0.7095898389816284,0.765243649482727,106.11303281347672
+4,a highly detailed 8k vibrant digital oil painting of a playful mouse with a long and soft fluffy multicolored tail,0.7619814872741699,0.6302333474159241,33.738534084345666
+4,a highly realistic 4k digital watercolor of a cute mouse with a long and wispy pastel multicolored tail,0.7232658863067627,0.7258281111717224,55.09247264365784
+4,a photorealistic 8k digital painting of a playful mouse with a long and curly bright colorful tail,0.7479737401008606,0.6796247959136963,37.30551026518998
+4,a highly detailed 4k digital mixed-media of a cute mouse with a long and fluffy multicolored sparkly tail,0.629767656326294,0.6737271547317505,44.9177860583699
+4,a highly realistic 8k detailed digital acrylic painting of a playful mouse with a long and slender multicolored glittery tail,0.8169392347335815,0.6371210813522339,42.54538115366331
+5,vibrant 8k hyperrealistic digital art of a lively mouse with a long colorful tail and intricate whiskers,0.8147605061531067,0.6123260259628296,39.62618648456607
+5,highly detailed 4k pixel perfect digital painting of a playful mouse with a multicolored flowing tail and a bright sunny background,0.7476251721382141,0.6674119830131531,75.04163997672501
+5,a highly realistic 8k digital artwork of a curious mouse with a long and fluffy multicolored tail and a soft focus effect,0.7074014544487,0.682783842086792,44.06693064420925
+5,a highly detailed 8k ultra-vibrant digital painting of a happy mouse with a long colorful flowing tail and a minimalistic background,0.831669807434082,0.5414384007453918,43.753341188760906
+5,highly realistic 4k digital artwork of a playful mouse with a long wispy multicolored tail and a subtle gradient sky,0.7742741703987122,0.6773604154586792,51.30887901466612

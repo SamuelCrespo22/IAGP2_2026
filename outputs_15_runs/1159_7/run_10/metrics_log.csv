@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"highly detailed image of a small hedgehog sitting atop a large block of moist, decadent chocolate cake",0.6563425064086914,0.6346819400787354,50.28408413297946
+1,"a delicate miniature figurine hedgehog posing proudly on top of a perfectly frosted block of cake in a warm, golden lighting",0.5896835923194885,0.6952465772628784,62.42380284937143
+1,"in a realistic 4k digital painting style, a small, prickly hedgehog is situated atop a majestic block of layered, fluffy cake",0.6112136244773865,0.6059718728065491,40.2617161040882
+1,"there is a realistic, intricately detailed, small hedgehog positioned on top of a large, multi-tiered block of creamy, velvety cake",0.6079903841018677,0.6790618896484375,50.607360300729894
+1,"an exquisitely rendered scene of a hedgehog in a party hat, joyfully sitting on top of a colorful, swirly block of cake in a whimsical, hand-drawn style",0.6108672022819519,0.770171046257019,75.93395939837643
+2,"highly detailed image of a small spiky hedgehog sitting atop a rich, velvety chocolate cake",0.6157054901123047,0.6393601298332214,47.25188369180688
+2,"image of a miniature hedgehog perched on a towering block of decadent, fudgy chocolate",0.6630308628082275,0.5089039206504822,48.109023041278775
+2,"highly realistic 4k image of a tiny hedgehog standing on a massive slice of moist, indulgent chocolate cake",0.6170861721038818,0.6686040163040161,49.99402748888573
+2,"detailed painting of a small hedgehog sitting delicately on a large wedge of dark, decadent chocolate cake",0.6290584206581116,0.6278191804885864,47.754490145449466
+2,"high-definition image of a small, adorable hedgehog sitting regally atop a gigantic block of creamy, sweet chocolate cake",0.5982331037521362,0.6485315561294556,52.85952659838531
+3,"richly detailed miniature hedgehog posing regally on a massive block of dark, fudgy, premium chocolate",0.7119646072387695,0.5567126870155334,48.657780914588386
+3,"image of a tiny, majestic hedgehog perched proudly on a gigantic, velvety, fudge brownie",0.5777769088745117,0.5479872226715088,48.16732151124603
+3,"highly realistic miniature hedgehog sitting atop a monumental block of sumptuous, rich, chocolate mousse",0.5991859436035156,0.5723392963409424,46.92328480428648
+3,"detailed, highly colored miniature hedgehog settled delicately on a gargantuan, decadent, chocolate truffle",0.5448018312454224,0.5816068649291992,49.02134469788687
+3,"miniature, highly detailed hedgehog sitting majestically at the pinnacle of a towering, opulent, fudge cake",0.6051725149154663,0.5955532193183899,45.190946202224445
+4,"'richly detailed highly realistic miniature hedgehog posing majestically on a colossal block of velvety dark, fudgy, premium Belgian chocolate'",0.5836584568023682,0.6091663837432861,47.43736562298931
+4,"'exquisitely rendered miniature hedgehog sitting imperiously on a gigantic block of glossy, fudgy, artisanal high-cocoa-content chocolate'",0.6054732799530029,0.5287699103355408,44.62601902662276
+4,"'hyper-realistic miniature hedgehog posing regally from the top of a colossal block of dark, fudgy, handcrafted premium chocolate'",0.6848745346069336,0.5854381322860718,45.77707883513188
+4,"'minute but majestic hedgehog sitting atop a gigantic block of sumptuous, fudgy, high-end premium milk chocolate'",0.672652006149292,0.5631572008132935,47.44413616269856
+4,"'meticulously detailed highly textured miniature hedgehog posed dramatically on a massive block of decadent, fudgy, specialty dark chocolate'",0.6562448740005493,0.5633772611618042,52.41341690477327
+5,"brightly illuminated miniature hedgehog posing regally on a massive block of dark, velvety, premium chocolate",0.6180412769317627,0.5583128333091736,54.54763409264154
+5,"richly detailed, highly realistic miniature hedgehog posing with confidence on an enormous block of rich, fudgy chocolate",0.6858223676681519,0.6019219160079956,45.70303368095894
+5,"miniature European hedgehog posing majestically on a gigantic block of dark, rich, high-quality chocolate",0.6693059206008911,0.5198829174041748,49.49220250427292
+5,"highly detailed, 4K miniature hedgehog posing with elegance on a colossal block of dark, decadent, artisanal chocolate",0.6252142190933228,0.5909979939460754,52.166331470565005
+5,"realistic miniature hedgehog standing proudly on an imposing block of dark, fudgy, smooth premium chocolate",0.6934337019920349,0.5050826668739319,49.061758898883454

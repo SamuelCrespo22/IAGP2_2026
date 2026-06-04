@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and flames dancing in his hand,0.7979872226715088,0.6455658674240112,59.443431241124365
+1,highly detailed anime character holding a sword and surrounded by flickering fire,0.8319461345672607,0.6269168257713318,53.03234673256433
+1,vibrant digital painting of a young anime warrior holding a sword and conjuring fire,0.7958916425704956,0.6287364363670349,54.825173649182155
+1,"fantasy anime character with a fiery aura and a sword in hand, highly detailed",0.7840102314949036,0.617708683013916,47.9875473953332
+1,detailed 4k anime art of a sword-wielding character with intense fire magic in his palm,0.8444855809211731,0.5996446013450623,53.706669369558284
+2,detailed high-resolution anime art of a sword-wielding warrior with intense fiery flames erupting from their palm,0.8314074277877808,0.6459769010543823,53.888740074415416
+2,epic 4k anime scene with a heroic character wielding a sword and unleashing powerful fire magic,0.7689333558082581,0.565201997756958,45.24598824374332
+2,highly detailed digital painting of an anime character casting fire spells and wielding a sleek sword,0.8365945816040039,0.6285970211029053,51.24834991803609
+2,intense anime scene of a powerful wizard using fire magic to enhance their sword fighting skills,0.7239421606063843,0.5311870574951172,42.2080639530049
+2,4k ultra-realistic anime art depicting a dynamic character with intense fire magic and a razor-sharp sword at their side,0.821162223815918,0.6245635151863098,49.36441423027134
+3,highly detailed 4k anime art of a sword-wielding character standing on a cliff with intense fire magic in his palm,0.7759214639663696,0.5940841436386108,43.17007576839911
+3,4k digital painting of a sword-wielding anime character performing fire magic in front of a massive dark backdrop,0.8306314945220947,0.6240463256835938,60.97984338090996
+3,detailed digital art of a muscular anime warrior holding a sword and unleashing a blast of fire from his palm,0.7906637787818909,0.6687595248222351,49.309998752936636
+3,highly detailed realistic anime art of a sword-wielding character casting fire magic in a dark mystical environment,0.7898033261299133,0.5715770721435547,50.52812688976158
+3,4k masterclass anime art of a sword-wielding character with vibrant flames and intense magical energy in his palm.,0.8421419858932495,0.6569807529449463,60.793415851163545
+4,highly detailed realistic 4k anime art of a sword-wielding character with intense fire magic in his palm,0.8317850828170776,0.6180474758148193,49.05611605892234
+4,"4k anime art of a strong sword-wielding warrior with vibrant fire magic in his palm, highly detailed and dramatic lighting",0.7940059900283813,0.6410195827484131,54.7422111928199
+4,"detailed 4k digital painting of an anime sword-wielding character with intense fire magic in his palm, dramatic pose and expression",0.8040233850479126,0.6357609629631042,55.16497371927676
+4,"highly detailed 4k anime art of a sword-wielding hero with powerful fire magic in his hand, set in a mystical fantasy world",0.7854568958282471,0.5458316802978516,41.26635262556931
+4,"realistic 4k anime art of a sword-wielding character with intense fire magic in his palm, focused on detailed textures and realistic environments",0.7925236225128174,0.6043117642402649,47.260273881882966
+5,highly detailed 8k anime art of a sword-wielding hero with intense blazing fire magic in his palm and dynamic lightning effects,0.8079882860183716,0.6014285087585449,55.8811557510224
+5,vivid 4k digital painting of a sword-wielding mage surrounded by intense flames and crackling sparks,0.7890360355377197,0.618548572063446,52.891282747804375
+5,highly realistic 4k anime art of a sword-wielding warrior unleashing fierce fire magic with vibrant red and orange hues,0.8008826971054077,0.6846505999565125,54.90859616809266
+5,exquisite 4k digital art of a sword-wielding character showcasing powerful pyrokinetic abilities with swirling dark and light smoke,0.7924361228942871,0.5676169395446777,52.19816281509666
+5,detailed 4k anime style digital painting of a majestic sword-wielding sorcerer with electrifying fiery magic amidst a smoldering dark background,0.7738023400306702,0.5971587300300598,56.967252950551305

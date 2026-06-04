@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,highly detailed digital painting of a mouse with a vibrant colorful tail,0.7989892959594727,0.6122764945030212,34.98143695054875
+1,"painting of a mouse with a bright, swirly, colorful tail and a matching long tail",0.7940590381622314,0.5995994806289673,56.88793562712967
+1,colorful and highly detailed realistic image of a mouse with a fluffy colorful tail,0.7861116528511047,0.6359221935272217,39.27119857119059
+1,detailed digital artwork of a cute mouse with a rainbow-colored tail and a fluffy body,0.7446043491363525,0.6614096164703369,46.670097007014
+1,highly realistic 4k painting of a tiny mouse with a big bright colorful tail and bright little eyes,0.8004452586174011,0.5988927483558655,38.88034226250469
+2,highly realistic 4k digital painting of a tiny mouse with a soft big bright colorful tail and bright little shiny eyes,0.7158014178276062,0.6728976368904114,41.80342247901289
+2,highly detailed 4k digital artwork of a tiny mouse with a vibrant big bright colorful tail and bright little sparkling eyes,0.7995923161506653,0.6064469218254089,44.11332859345146
+2,realistic 4k oil painting of a tiny mouse with a long big bright colorful tail and bright little expressive eyes,0.7828841209411621,0.5953511595726013,35.564062025501606
+2,highly realistic 4k watercolor painting of a small mouse with a fluffy big bright colorful tail and bright little round eyes,0.6995657682418823,0.7369856834411621,108.61350658622818
+2,super realistic 4k acrylic painting of a tiny mouse with a delicate big bright colorful tail and bright little alert eyes,0.760759711265564,0.5961319804191589,39.169560823759944
+3,highly realistic highly detailed 4k digital painting of a tiny mouse with a slightly longer big bright colorful tail and bright little eyes looking upwards,0.7586866021156311,0.6556553840637207,35.992271684835
+3,highly realistic 4k painting of a small mouse with a large extremely bright colorful tail and big bright expressive eyes,0.7760401368141174,0.6011863350868225,46.09105155560588
+3,brightly colored vibrant highly realistic 4k digital artwork of a tiny mouse with a large fluffy bright colored tail and big round little eyes,0.7499675154685974,0.6483816504478455,45.49415853324631
+3,highly realistic 4k painting of a tiny white mouse with a long extremely bright colorful tail and big round bright little eyes,0.7780700325965881,0.5915306210517883,49.06043929811644
+3,extremely detailed highly realistic 4k digital painting of a tiny mouse with a large extremely bright colorful tail and big round bright curious eyes,0.7236431837081909,0.6568602323532104,36.39291998073542
+4,highly realistic ultra-detailed digital painting of a teeny mouse with a gigantic bright colorful tail and sparkling bright little eyes,0.769154965877533,0.6613771319389343,36.3809168294021
+4,highly detailed 4k masterpiece of a miniature mouse with a enormous bright colorful tail and shining bright little eyes,0.718062162399292,0.6741739511489868,43.55476393164071
+4,highly realistic 8k digital artwork of a tiny mouse with a humongous bright colorful tail and dazzling bright little eyes,0.7072525024414062,0.6625286340713501,37.21571501476425
+4,highly detailed photorealistic digital portrait of a small mouse with a colossal bright colorful tail and gleaming bright little eyes,0.663034975528717,0.7313540577888489,40.20591890402447
+4,highly realistic 4k oil painting of a minuscule mouse with a tremendous bright colorful tail and shining bright little eyes,0.7669050693511963,0.621954083442688,39.39933021752102
+5,highly realistic highly detailed 4k digital painting of a small mouse with a vibrant big bright colorful tail and sparkling bright little eyes,0.7561436891555786,0.6371516585350037,37.57863828773039
+5,tiny mouse with a gigantic bright colorful tail and bright little eyes in a highly realistic ultra-high-definition digital painting style,0.8393484354019165,0.5602045059204102,35.52469354451052
+5,highly realistic 4k ultra-detailed masterpiece digital painting of a minuscule mouse with an enormous bright colorful tail and tiny bright shining eyes,0.7736448049545288,0.6274663805961609,36.217294286267624
+5,a highly realistic 4k ultra-high-definition digital painting of a wee mouse with a massive bright colorful tail and small bright sparkling eyes,0.7484786510467529,0.7124636769294739,42.05687224996191
+5,highly realistic highly detailed 4k digital painting of a minuscule mouse with a gigantic bright colorful tail and its bright little eyes gazing directly at the viewer,0.7437164187431335,0.6158699989318848,32.03104238937348

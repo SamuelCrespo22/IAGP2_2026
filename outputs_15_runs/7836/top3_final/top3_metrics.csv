@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+4,"a 4k, surreal masterpiece depicts an astronaut standing at the edge of a cliff overlooking a breathtaking, otherworldly vista of a planet with a glowing, ethereal light source suspended in the atmosphere",0.9290568232536316,0.6034572124481201,48.82883335134344,run_2
+4,"Photorealistic, 8k digital painting of a lone astronaut standing at the edge of a glowing, iridescent, extraterrestrial environment.",0.9276474714279176,0.5664871335029602,39.96577029587118,run_1
+5,highly detailed 4k image of a lone astronaut trekking across a barren alien terrain with a small planet in the background,0.921048104763031,0.4609784185886383,27.5478430622944,run_13

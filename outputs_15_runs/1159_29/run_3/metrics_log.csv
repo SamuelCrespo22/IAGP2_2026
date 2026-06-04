@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a cliff in the ocean at golden hour,0.8786647319793701,0.7390955686569214,51.200201895545334
+1,arafed palm tree on a rocky beach in the ocean at sunset with warm colors,0.8706055283546448,0.7418214678764343,59.1805559263916
+1,detailed low-contrast arafed palm tree on a stone in the calm ocean at sunset,0.8734186291694641,0.6032084822654724,47.49729322785649
+1,arafed palm tree perched on a coral outcropping in the ocean at sunset with vibrant colors,0.8924869894981384,0.7523283362388611,57.661140485812155
+1,highly detailed 4k arafed palm tree growing out of a granite boulder in the serene ocean at orange hour,0.8962398171424866,0.7313476204872131,55.00766748998381
+2,highly detailed 8k vibrant Arafed palm tree growing out of a rugged granite boulder in the peaceful ocean at sunset,0.8861290216445923,0.7912789583206177,60.59999561260838
+2,highly detailed real-world 4k Arafed palm tree growing out of a boulder in the serene ocean at orange hour,0.8960659503936768,0.7283872365951538,55.509520769579986
+2,highly realistic and detailed 4k Arafed palm tree emerging from a weathered granite boulder in the calm ocean at golden hour,0.8702645897865295,0.7593564391136169,59.17783989751248
+2,4k realistic image of a mature Arafed palm tree rooted in the rocky granite boulder in the tranquil ocean at orange hour,0.8854132890701294,0.7169907689094543,53.46878973090324
+2,highly detailed photorealistic 4k image of a thriving Arafed palm tree growing from a granite boulder in the serene tropical ocean at sunset,0.8838509917259216,0.7503541111946106,55.43143032811826
+3,highly detailed 8k realistic arafed palm tree emerging organically from a grey granite boulder in the calm serene ocean at golden hour sunset,0.8574730157852173,0.7687140703201294,58.889460249394276
+3,masterpiece highly detailed 4k realistic vibrant arafed palm tree growing from a moss covered granite boulder at orange hour with warm golden light,0.80584716796875,0.7480746507644653,66.96686399228334
+3,digital painting 4k highly detailed realistic arafed palm tree sprouting from a rugged granite boulder in the peaceful ocean at pinkish orange hour,0.8355859518051147,0.7838393449783325,57.05932028951135
+3,highly detailed realistic vibrant 4k arafed palm tree flourishing from the cracks of a weathered granite boulder in a tranquil ocean at sunset,0.8770528435707092,0.7457178831100464,53.889976686245696
+3,vibrant highly detailed 4k realistic arafed palm tree pushing through the crevices of a rough granite boulder in a serene gentle ocean at the warmest hue of orange,0.7383553385734558,0.6865187883377075,50.39380395132491
+4,highly detailed 4k realistic arafed palm tree growing out of a rocky granite boulder,0.791135311126709,0.7418208122253418,57.90249975246555
+4,highly detailed 4k serene arafed palm tree standing proudly on a granite outcropping in the ocean,0.8153356313705444,0.6280832886695862,49.06218956779149
+4,highly detailed 4k digital painting of a lush arafed palm tree rooted in a giant granite boulder at orange hour,0.8477514982223511,0.7572764754295349,57.12616984582916
+4,4k realistic highly textured arafed palm tree emerging from a massive granite boulder in the ocean at sunset,0.8513230085372925,0.8081120252609253,62.65662981825282
+4,highly detailed 4k masterpiece of a serene arafed palm tree growing out of a dramatic granite boulder in the ocean at golden hour,0.8750394582748413,0.75787353515625,58.730725062064636
+5,"highly detailed, ultra real 4k arafed palm tree growing out of a rugged granite boulder near the serene ocean at golden hour",0.803703784942627,0.7744325399398804,57.49536266946247
+5,highly detailed realistic 4k stylized arafed palm tree sprouting from a granite rock amidst a peaceful ocean scene at orange hour,0.892338752746582,0.7600690126419067,58.15105208974661
+5,serene 4k arafed palm tree emerging from a weathered granite boulder at the ocean's edge under orange light,0.8958365321159363,0.79498690366745,59.63084460579008
+5,"highly detailed, photorealistic 4k arafed palm tree growing from a moss-covered granite boulder in a tranquil ocean setting at sunset",0.851913571357727,0.7684130668640137,64.03343432474367
+5,"highly detailed, realistic 4k stylized arafed palm tree growing from a cracked granite boulder in the serene and peaceful ocean at golden hour.",0.89338219165802,0.7593206763267517,57.225522517529996

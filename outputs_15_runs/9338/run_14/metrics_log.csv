@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a mouse with a vibrant colorful tail,0.8004177808761597,0.6435010433197021,50.744970346986044
+1,a highly detailed painting of a mouse with a bright multi-colored tail,0.6899794340133667,0.7002511620521545,41.318752916606165
+1,a whimsical mouse with a long colorful tail in a 4k digital painting style,0.7975059747695923,0.5874158143997192,43.422444895244205
+1,a realistic image of a mouse with a long fluffy colorful tail,0.7405383586883545,0.6667097210884094,38.37977930958476
+1,a masterpiece oil painting of a mouse with a long flowing colorful tail,0.7495260834693909,0.6000138521194458,31.614316712591865
+2,painting of a mouse with a very vibrant colorful tail,0.7876627445220947,0.6434543132781982,50.32052695279606
+2,mouse with a highly detailed colorful striped tail,0.7074835300445557,0.7199628353118896,33.119521362291586
+2,detailed digital painting of a mouse with a long colorful fluffy tail,0.8048592805862427,0.5955178737640381,39.528793242090785
+2,a highly realistic oil painting of a mouse with a bright colorful striped tail,0.7069683074951172,0.6428511738777161,32.141691976035126
+2,colorful realistic illustration of a single mouse with a bold expressive tail,0.787783145904541,0.6554517149925232,49.99791245235244
+3,detailed watercolor painting of a mouse with a long colorful fluffy tail,0.715153157711029,0.8615342974662781,145.08343085165762
+3,highly detailed digital painting of a mouse holding a tiny colorful scarf,0.695620596408844,0.6799213290214539,41.095720969689665
+3,a 4k digital painting of a mouse with a bright colorful fluffy tail standing on a green leaf,0.6861180067062378,0.7160570025444031,38.29915989359361
+3,highly realistic close-up digital painting of a mouse's long colorful fluffy tail,0.7655335664749146,0.6243035793304443,40.74941776954436
+3,highly detailed digital painting of a curious mouse with a long colorful fluffy tail in a sunny meadow,0.7508573532104492,0.7669131755828857,72.08545772139152
+4,"highly detailed digital painting of a mouse with a long, fluffy, and perfectly colored tail",0.7295790314674377,0.6885704398155212,36.95837427572099
+4,digital painting in the style of a 4k Disney animation of a mouse with a long colorful fluffy tail,0.8061865568161011,0.6115685105323792,49.50765869740288
+4,highly realistic detailed close-up of a mouse with a long fluffy vibrant tail,0.6712996959686279,0.7532444000244141,41.559171932933424
+4,"a beautiful, stunning, and realistic digital painting of a mouse with a long, colorful, and fluffy tail",0.7832338809967041,0.6367949843406677,35.42087749905294
+4,highly detailed stylized digital portrait of a mouse with an extremely long and luxuriant fluffy colorful tail,0.730667233467102,0.6609017848968506,44.14953771201714
+5,digital painting in the style of a highly detailed 4k Disney animation of a large mouse with a very long colorful fluffy tail,0.8148133158683777,0.5752048492431641,49.303094359863195
+5,"digital painting in the style of a breathtaking, highly detailed, 4k Disney animation of a cute mouse with a vibrant fluffy tail",0.7843074798583984,0.6253727674484253,35.24687224636
+5,highly detailed digital painting in the style of a 4k Disney movie of a friendly mouse with an extremely long colorful fluffy tail,0.7969993352890015,0.566383957862854,48.9268323078682
+5,"colorful digital painting in the style of a highly detailed 4k Disney animation of a large, adventurous mouse with a very long fluffy tail",0.780028760433197,0.566067099571228,52.09530605660311
+5,"highly realistic digital painting in the style of a 4k Disney animation masterpiece of a happy mouse with a long, vibrant, fluffy tail",0.7007253170013428,0.6285644173622131,37.53290376840871

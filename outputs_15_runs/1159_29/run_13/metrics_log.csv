@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafat palm tree on a rocky outcropping in the ocean waves at golden hour,0.8655648231506348,0.7305808663368225,61.56619987005619
+1,vibrant arafat palm tree on a rock formation in the ocean at breathtaking sunset,0.8800530433654785,0.7055397629737854,51.861842512573816
+1,a detailed arafed palm tree on a rugged cliffside in the ocean at perfect sunset,0.8426298499107361,0.7673053741455078,51.881025947032846
+1,a realistic arafed palm tree on a small rocky island in the ocean at dramatic sunset,0.8641084432601929,0.7427615523338318,59.69431692403375
+1,highly detailed arafed palm tree on a massive rock in the ocean at stunning warm sunset,0.882002592086792,0.7696813344955444,58.32943259139816
+2,arafet palm tree on a large rock in the ocean at a warm sunset,0.8961740732192993,0.7265496850013733,55.67906607719544
+2,a beautiful arafed palm tree on a rock in the calm evening ocean,0.8982119560241699,0.608029305934906,45.70266977555023
+2,highly detailed arafed palm tree standing on a rocky outcropping in the serene ocean at dusk,0.8569350242614746,0.7230087518692017,56.80508480524666
+2,a stunning arafed palm tree in the foreground of a majestic ocean sunset on a large boulder,0.9010478258132935,0.7175127267837524,53.34740880560408
+2,digitally painted arafed palm tree on a giant rock in the peaceful ocean at golden hour,0.8341065049171448,0.6866279244422913,50.46168934891174
+3,stunning majestic arafed palm tree in the foreground of a breathtaking ocean sunset on a rugged large boulder,0.8940093517303467,0.7181049585342407,50.9051964814756
+3,a highly detailed arafed palm tree in the foreground of a stunning ocean sunset on a large rocky outcropping,0.8918637037277222,0.7816858291625977,59.69116641847196
+3,the majestic arafed palm tree in the foreground of a serene ocean sunset on a massive boulder under a clear sky,0.8915776014328003,0.6727560758590698,48.34506601748282
+3,a detailed arafed palm tree in the foreground of a majestic ocean sunset over a vast expanse of calm ocean waters,0.8937415480613708,0.6609672904014587,46.72342160732047
+3,an ultra-detailed realistic arafed palm tree in the foreground of a breathtaking ocean sunset on a massive granite boulder in a tropical landscape with a beautiful sky,0.8985056281089783,0.6833423972129822,51.30973567478472
+4,a majestic towering arafed palm tree in the foreground of a breathtakingly beautiful ocean sunset on a large boulder,0.896190881729126,0.7000804543495178,50.971146626547664
+4,"a highly detailed, serene arafed palm tree stands proudly in the foreground of a majestic ocean sunset on a rocky outcropping",0.8912686109542847,0.7712866067886353,60.71137544050957
+4,"an enormous, stunningly beautiful arafed palm tree in the foreground of a breathtakingly colorful ocean sunset on a vast boulder",0.9077577590942383,0.6982988715171814,52.40321724991011
+4,an arafed palm tree in the foreground of a stunning ocean sunset with a warm golden light cast on a large boulder,0.886529266834259,0.7593165636062622,55.89807909482766
+4,"a perfectly framed, highly detailed arafed palm tree in the foreground of a majestic, highly realistic ocean sunset on a large granite boulder",0.9075306057929993,0.7309000492095947,52.04885483675436
+5,"an enormous, highly detailed, stunningly beautiful red arafed palm tree in the foreground of a breathtakingly colorful, warm-toned ocean sunset on a vast, weathered boulder",0.9123729467391968,0.7687353491783142,60.96910004651349
+5,"an oversized, photorealistic, majestic arafed palm tree in the left foreground of a vibrant, dynamic ocean sunset on a large, rocky outcropping",0.884160041809082,0.7586787343025208,60.2744892979311
+5,"a stunningly beautiful, highly realistic arafed palm tree in the foreground of a kaleidoscopically colorful, dreamy ocean sunset on a massive, rugged boulder",0.9089017510414124,0.7070286870002747,48.738780551578714
+5,"a breathtakingly stunning, highly detailed arafed palm tree growing out of the foreground of a kaleidoscopically colorful, highly textured ocean sunset on a vast, weathered rock formation",0.8983829021453857,0.7698043584823608,60.92082749127938
+5,"an enormous, highly detailed, perfectly realistic arafed palm tree in the foreground of a breathtakingly colorful, softly lit ocean sunset on a massive, granite boulder",0.9177617430686951,0.7475476264953613,56.19791888909801

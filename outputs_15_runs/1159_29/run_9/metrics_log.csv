@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a rock in shallow calm turquoise ocean at golden sunset,0.8918322324752808,0.7231306433677673,55.43634841680491
+1,highly detailed arafed palm tree on a rocky outcropping in the calm ocean at sunset in a warm tropical climate,0.8860223293304443,0.7439498901367188,55.98023138345753
+1,a large arafed palm tree stands tall on a single large rock in the deep blue ocean at a vibrant colorful sunset,0.8603410124778748,0.7006360292434692,53.090915278861104
+1,an isolated arafed palm tree on a lone rock in the calm serene ocean at a dramatic warm sunset,0.876317024230957,0.7915461659431458,68.17228539608598
+1,a close up highly detailed arafed palm tree on a rock near crystal clear turquoise ocean waters at a beautiful serene sunset sky,0.8511828184127808,0.7270781397819519,52.37398751230338
+2,arabesque palm tree on a rocky outcropping in a serene shallow turquoise ocean at a warm golden sunset,0.9159237146377563,0.735737681388855,54.43579793420815
+2,a majestic frondy palm tree on a rocky promontory in a tranquil shallow turquoise ocean at a vibrant golden sunset,0.8872396349906921,0.6635225415229797,52.33358738129568
+2,a stately tall palm tree on a rugged rock formation in a peaceful shallow turquoise ocean at a soft golden sunset,0.8759236335754395,0.7057615518569946,53.017061996651606
+2,an exotic swaying palm tree on a craggy rock in a calm shallow turquoise ocean at a rich golden sunset,0.8849407434463501,0.6900200843811035,50.745443110649155
+2,a lush verdant palm tree on a windswept rocky headland in a still shallow turquoise ocean at a delicate golden sunset,0.8610696792602539,0.6724593043327332,51.44142923840514
+3,arabesque palm tree on a rocky outcropping in a serene shallow emerald ocean at a warm vibrant sunset,0.9131991863250732,0.7348958849906921,55.59116264791702
+3,highly detailed arabesque palm tree on a rugged rocky outcropping in a soft shallow teal ocean at a warm golden hour,0.8602402806282043,0.7448354959487915,55.60707358787107
+3,palm tree in an arched arabesque doorway on a rocky outcropping above a serene shallow turquoise ocean at a warm golden sunset,0.841858983039856,0.8583353757858276,61.54321503834701
+3,realistic depiction of an arabesque palm tree on a rocky outcropping in a peaceful shallow aquamarine ocean at a warm golden sunrise,0.8863948583602905,0.7325515747070312,57.83763938114908
+3,highly realistic and highly detailed palm tree in an arched arabesque doorway on a rocky outcropping overlooking a serene shallow sapphire ocean at a warm golden dusk,0.7830007672309875,0.8355345129966736,60.37320599092848
+4,arabesque palm tree on a rugged rocky outcropping in a serene shallow cerulean ocean at a warm golden sunset,0.8853557109832764,0.7351008057594299,54.67455283453731
+4,highly detailed arabesque-style palm tree on a rocky ledge in a tranquil shallow turquoise ocean at a soft warm golden hour,0.8509472608566284,0.724273681640625,55.45413405342699
+4,serene palm tree surrounded by arabesque patterns on a rugged rocky outcropping in a shallow cerulean ocean at a warm golden hour,0.8687996864318848,0.7095538973808289,52.70616298893041
+4,detailed digital art of an arabesque palm tree on a rocky outcropping in a shallow turquoise ocean at a warm golden sunset with 4k resolution,0.8452513217926025,0.7685234546661377,56.70899757072848
+4,serene highly detailed palm tree in arabesque style on a rugged rocky outcropping overlooking a calm and shallow turquoise ocean at a warm golden hour,0.8629252314567566,0.7116175889968872,51.27189141392956
+5,arabesque palm tree on a rugged rocky outcropping in a serene shallow turquoise ocean at a warm golden sunset with vibrant tropical flowers,0.8551610112190247,0.7256993651390076,54.45280755269403
+5,arabesque palm trees on a rocky outcropping in a shallow turquoise ocean at a serene warm golden sunset with clear blue sky,0.875206470489502,0.7117785811424255,57.68437362507316
+5,highly detailed arabesque palm tree on a rugged rocky outcropping in a peaceful shallow turquoise ocean at a warm golden hour with sunbeams,0.8357701301574707,0.7407739162445068,55.4627462813194
+5,arabesque palm tree on a rocky outcropping in a shallow turquoise ocean at a stunning warm golden sunrise with a few fluffy white clouds,0.8782651424407959,0.7658320069313049,56.66928938736459
+5,highly detailed arabesque palm tree on a rugged rocky outcropping in a serene shallow turquoise ocean at a warm golden sunset with perfect reflection in calm water,0.8918007016181946,0.7298543453216553,58.7935304851701

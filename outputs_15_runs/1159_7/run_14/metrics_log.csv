@@ -1,0 +1,29 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,'a detailed small hedgehog is sitting on top of a single block of vanilla cake',0.5963661074638367,0.7421488761901855,65.73682187589849
+1,"'a small, cute hedgehog is perched on a single block of delicious chocolate cake'",0.6130349040031433,0.576154351234436,46.09814955046261
+1,"'highly realistic, photorealistic, 4k rendering of a small hedgehog sitting on top of a single block of cake'",0.6600472331047058,0.5739341378211975,46.94209359707729
+1,"'a highly detailed, hand-drawn style drawing of a small hedgehog sitting on top of a single block of cake in a bright, sunny garden'",0.6019087433815002,0.7520957589149475,57.49204994564538
+1,"'a small, adorable hedgehog is sitting on top of a large, multi-tiered block of decadent chocolate cake'",0.5116551518440247,0.5911410450935364,41.192878968347415
+2,"highly realistic, photorealistic, 4k, ultra-high-definition rendering of a small hedgehog sitting on top of a single block of cake",0.602277934551239,0.574859082698822,45.87660968854125
+2,"highly detailed, highly realistic, photorealistic, 4k, digital painting of a small hedgehog sitting on top of a single block of cake",0.6277890205383301,0.6161016821861267,50.14081124905717
+2,"ultra-realistic, photorealistic, 4k, highly detailed digital image of a small hedgehog perched on a single block of cake",0.6631176471710205,0.5561549663543701,46.625007193796534
+2,"highly realistic, ultra-detailed, 8k rendering of a small hedgehog sitting on top of a single round block of vanilla cake",0.6577669978141785,0.6216543316841125,50.92904857168337
+2,"highly realistic, photorealistic, 4k, highly detailed oil painting of a small hedgehog sitting on top of a single block of moist chocolate cake",0.6191427707672119,0.6284525990486145,52.90487212652394
+3,"ultra-realistic, photorealistic, 4k, highly detailed, digitally painted image of a tiny hedgehog resting on a small single block of moist vanilla cake",0.6641193628311157,0.6864711046218872,49.90176038834206
+3,"delicately rendered, high-definition, ultra-realistic digital image of a small, adorable hedgehog curled up on top of a single, single block of moist vanilla cake",0.6225447058677673,0.7360421419143677,67.80234959074826
+3,"a highly detailed, 4k, ultra-realistic digital image of a small, furry hedgehog perched on a solitary block of moist, fluffy vanilla cake",0.6600207090377808,0.5800716876983643,47.28782681688255
+3,"realistic, high-definition, 4k image of a small hedgehog sitting on a single block of moist, fluffy, golden vanilla cake with intricate texture",0.5933780670166016,0.6442753672599792,55.6504862271536
+3,"photo-realistic, 4k digital image of a tiny, prickly hedgehog sitting delicately on a small, single, golden block of moist, fluffy, vanilla cake with fine details everywhere",0.5469965934753418,0.7048823833465576,57.04405525060553
+4,"highly realistic, photorealistic, 4k, extremely detailed, digitally rendered image of a small hedgehog resting on a single block of moist vanilla cake with a delicate sprinkle of powdered sugar on top",0.6554848551750183,0.7553619146347046,64.50491017728861
+4,"ultra-realistic, cinematic, 4k, highly detailed, digitally painted portrait of a tiny hedgehog lying on a moist block of vanilla cake",0.6216369271278381,0.6724352240562439,54.38126433020594
+4,"photorealistic, highly detailed, cinematic, 4k, digitally rendered image of a hedgehog on a moist single block of cake",0.6324946284294128,0.6208109259605408,42.33111374210111
+4,"realistic, detailed, 4k, highly realistic, digitally painted still life of a tiny hedgehog on a moist block of vanilla cake",0.5891468524932861,0.7179109454154968,54.59372121180194
+4,"highly detailed, photorealistic, 4k, cinematic, digitally painted image of a small hedgehog nestled inside a single moist vanilla cake.",0.6555781960487366,0.6741761565208435,52.724229551762015
+5,"highly realistic, photorealistic, 4k, museum quality, digitally painted image of a tiny hedgehog resting on a small block of moist vanilla cake
+ultra-realistic digital painting of a cute hedgehog sitting on a moist single vanilla cake, 4k resolution, high level of detail",0.6407179832458496,0.6261208057403564,45.14425965477696
+5,precise,0.46570298075675964,0.6983575820922852,38.87158096504444
+5,high fidelity,0.34830594062805176,0.7853779196739197,50.22641341876455
+5,photorealistic,0.4309294521808624,0.629952073097229,38.2828641507056
+5,"perfect composition
+highly detailed, photorealistic 4k digital painting of a miniature hedgehog posing on a moist slice of vanilla cake as if its a pedestal",0.6513048410415649,0.6698275804519653,48.493239850358044

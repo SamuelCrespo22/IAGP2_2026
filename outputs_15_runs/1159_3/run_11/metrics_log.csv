@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a glowing sword and flames erupting from his hand,0.8568540811538696,0.6530300974845886,61.53316713280606
+1,anime warrior with a fiery sword and a powerful stance,0.7945051193237305,0.6477227807044983,59.64907295269584
+1,fantasy anime hero with a burning sword and an epic background,0.7787876725196838,0.5877496600151062,44.536862469427454
+1,highly detailed anime character wielding a sword with fire dancing in his palm,0.7514240741729736,0.683544397354126,61.026104231533175
+1,anime swordsman with a magical sword aflame and a dynamic pose,0.7952403426170349,0.6463900804519653,59.40852412161387
+2,anime character wielding a vibrant glowing sword with intense flames erupting from his hand in a highly detailed digital painting,0.830618679523468,0.6386933326721191,58.39122499841171
+2,a highly detailed anime character stands proudly holding an epic glowing sword with raging flames spewing out from his clenched fist,0.8194774985313416,0.6283142566680908,52.80341729473601
+2,"an anime warrior with a magnificent glowing blade and fierce flames blazing from his outstretched hand, rendered in a 4K digital painting masterpiece",0.8406047821044922,0.5628210306167603,48.643701659572244
+2,"a majestic anime hero grasps a radiant glowing sword with blazing flames exploding from his hand, set against a dark mystical background",0.7705066204071045,0.6724835634231567,61.686506632179714
+2,"anime character with an electrifying glowing sword and blazing flames shooting out of his hand, created in the style of a digital fantasy artwork",0.8374373316764832,0.587982714176178,53.63148360934086
+3,anime character with a highly detailed glowing sword and intense flames erupting from his outstretched hand,0.8401164412498474,0.6202409267425537,58.841224162857245
+3,an epic anime warrior wielding a radiant sword and surrounded by fiery flames,0.7701423168182373,0.6583607792854309,50.973413290070354
+3,detailed digital painting of an anime warrior with a shining sword and flames burning in his clenched fist,0.8350186347961426,0.6285721659660339,50.082026397753594
+3,highly stylized anime character holding a glowing sword and engulfed in a wall of roaring fire,0.7497283220291138,0.6264925599098206,49.75260350216457
+3,anime masterclass - highly detailed digital painting of a brave warrior with a fiery sword and inferno erupting from his grasping hand,0.7620046138763428,0.6571175456047058,51.7698050888292
+4,anime character with a majestic glowing sword and intense flames shooting out from his hand,0.8324059247970581,0.6151320934295654,54.78547933798407
+4,highly detailed anime warrior with a radiant glowing sword and burning flames engulfing his fist,0.8005216717720032,0.6744774580001831,56.04456186674682
+4,fantasy anime hero with a blazing magical sword and blazing fire erupting from his palm,0.7983745336532593,0.6211866736412048,53.20244887475215
+4,highly realistic digital painting of an anime character wielding a fiery sword and flames dancing on his fingertips,0.786467432975769,0.7074683904647827,59.133842764629655
+4,vibrant anime artist concept of a powerful hero equipped with a glowing magical sword and intense flames spewing from his hand,0.782988429069519,0.6066240072250366,47.93451756957047
+5,anime character standing heroically with a glowing sword and flames erupting from his hand in a highly detailed 4k masterpiece,0.8426529169082642,0.6421944499015808,59.06311630953093
+5,anime character wielding a gleaming sword with an intense explosion of flames emanating from his hand,0.8288058042526245,0.5862838625907898,47.63561758086183
+5,epic anime warrior grasping a radiant sword with flames bursting from his fist in a dramatic and highly detailed digital painting,0.8369518518447876,0.6296106576919556,51.60501749953221
+5,heroic anime character with a majestic glowing sword and a towering inferno erupting from his hand,0.8327405452728271,0.6106951236724854,49.880097475300786
+5,"anime warrior standing powerfully with a gleaming blade in hand, engulfed by a mighty blast of flames and surrounded by a ring of fire",0.7863817811012268,0.6566798686981201,57.24007535936448

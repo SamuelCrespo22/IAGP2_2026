@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,highly detailed glass of freshly squeezed orange juice with a slice of orange on the side,0.9271289110183716,0.50538170337677,40.649312553312114
+1,a close-up of a glass of orange juice with a slice of orange next to it,0.9159271121025085,0.5732232332229614,45.91687585837268
+1,a still life of a glass of orange juice and a slice of orange on a minimalist table,0.8083664178848267,0.6860232949256897,58.57179599803755
+1,a warm and inviting scene of a glass of orange juice with a slice of orange on a wooden table,0.9039430022239685,0.5687504410743713,42.96066715590938
+1,a photorealistic digital painting of a glass of orange juice with a slice of orange on the side,0.8445205092430115,0.6202768683433533,53.8271074871157
+2,"highly detailed glass of freshly squeezed, perfectly segmented orange juice with a slice of orange on the side",0.9370902180671692,0.4931967854499817,39.57353792045699
+2,"vibrant, 4k quality glass of freshly squeezed orange juice with a perfectly arranged slice on the side",0.9098304510116577,0.5059249401092529,36.36703192254237
+2,"highly detailed masterpiece of a glass of freshly squeezed orange juice with a single, perfectly sliced orange on the side",0.9310917854309082,0.4478757083415985,39.87020398383622
+2,"highly detailed digital painting of a glass of freshly squeezed orange juice with a slice of orange on the side, served in a cozy, warm atmosphere",0.8237357139587402,0.6470518708229065,56.39159331118625
+2,"4k, highly detailed, realistic glass of freshly squeezed orange juice with a perfectly sliced, slightly tilted orange on the side",0.93255615234375,0.48270583152770996,38.36131284972068
+3,"highly detailed glass of freshly squeezed, perfectly segmented and crystal clear orange juice with a thin slice of orange on the side",0.9311612844467163,0.533132791519165,42.48955298117157
+3,"highly detailed glass of freshly squeezed, perfectly segmented, vibrant orange juice with a slice of orange on the side, 4k resolution",0.9410536289215088,0.41225290298461914,38.64595925675333
+3,"perfectly segmented glass of freshly squeezed orange juice with a thick slice of orange on the side, highly detailed, in the style of a digital painting",0.8975446224212646,0.5060459971427917,47.97520783148382
+3,"highly detailed glass of freshly squeezed orange juice with a perfectly segmented slice of orange on the side, served on a rustic wooden table",0.9352257251739502,0.5164496302604675,38.722701018803214
+3,"a highly detailed, crystal clear glass of freshly squeezed orange juice with a slice of orange on the side, in a bright and airy kitchen, 4k resolution, masterpiece.",0.9076565504074097,0.7101655006408691,62.681317706717145
+4,"highly detailed glass of freshly squeezed, crystal-clear, perfectly segmented, radiant orange juice with a slice of orange resting on the side, 4k, surreal resolution",0.926203191280365,0.4643906354904175,43.548596321392324
+4,"photorealistic depiction of a glass of freshly squeezed, vibrant orange juice with a slice of orange positioned on the side, 8k",0.9210851192474365,0.5278728604316711,44.028690572289115
+4,"highly detailed glass of expertly crafted, perfectly segmented, radiant orange juice with a slice of orange delicately placed on the side in a minimalist setting, 4k resolution",0.9346081018447876,0.3908337354660034,39.07446415448511
+4,"glass of freshly squeezed, crystal-clear, perfectly segmented, vibrant orange juice with a slice of orange positioned artfully on the side, ultra-high definition",0.9287489056587219,0.5352222323417664,44.946022375883004
+4,"highly detailed glass of freshly squeezed, exquisitely segmented, glowing orange juice with a slice of orange placed elegantly on the side, 4k digital art",0.9007626175880432,0.5304880142211914,46.5526312064131
+5,"highly detailed glass of freshly squeezed, crystal clear, perfectly segmented, vibrant and juicy orange juice with a slice of orange on the side, in a warm and cozy home kitchen, 4k resolution",0.881344735622406,0.6629436016082764,55.140421837360094
+5,"highly detailed glass of freshly squeezed, 100% concentrated, perfectly segmented, bright orange juice with a slice of orange on the side, in a modern and elegant dining setting, 4k resolution",0.8897088766098022,0.6330385208129883,56.069986781677436
+5,"highly detailed glass of freshly squeezed, premium quality, perfectly segmented, vibrant orange juice with a slice of orange on the side, in a luxurious and sophisticated bar, with soft focus effect",0.8219796419143677,0.6453619599342346,54.88761122156464
+5,"highly detailed, photorealistic glass of freshly squeezed, perfectly segmented, vibrant orange juice with a slice of orange on the side, in a bright and airy kitchen, with subtle lighting effects, 4k resolution",0.7367813587188721,0.7521536946296692,52.59085172737974
+5,"highly detailed glass of freshly squeezed, expertly crafted, perfectly segmented, vibrant orange juice with a slice of orange on the side, in a cozy and inviting breakfast nook, with a warm and natural color palette, 4k resolution",0.695936918258667,0.7414870858192444,55.41030878931405

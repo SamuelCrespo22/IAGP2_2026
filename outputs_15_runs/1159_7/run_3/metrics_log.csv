@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,small hedgehog sitting atop a single slice of decadent chocolate cake,0.6095194816589355,0.6884387135505676,52.78641830833426
+1,highly detailed image of a tiny hedgehog precariously perched on a block of moist chocolate cake,0.6323639750480652,0.6593596339225769,48.96775322512093
+1,"a realistic depiction of a small, adorable hedgehog sitting on a pedestal made of rich chocolate cake",0.6054675579071045,0.5645577907562256,43.446482320883554
+1,an extremely detailed still life of a small hedgehog sitting on top of a single block of creamy vanilla cake,0.6160424947738647,0.751446545124054,50.816689200803104
+1,highly realistic 4k image of a small hedgehog sitting elegantly on a towering block of fluffy red velvet cake,0.5948471426963806,0.6776159405708313,47.882879674290656
+2,highly detailed photorealistic image of a tiny hedgehog precariously perched on a block of moist velvety chocolate cake,0.6542062759399414,0.6379587054252625,51.98154367003444
+2,4k highly detailed image of a cute hedgehog delicately sitting on a slice of decadent rich chocolate cake,0.6033142805099487,0.6600281596183777,51.464130182522396
+2,an exquisitely rendered highly detailed image of a teeny hedgehog teetering on a dense moist chocolate cake,0.5917706489562988,0.6542235016822815,47.39380541439592
+2,highly detailed realistic image of a small hedgehog gingerly perched on a block of moist fudgy chocolate cake,0.6529728174209595,0.5843089818954468,48.750598019140746
+2,highly detailed highly realistic masterpiece image of a tiny hedgehog precariously perched on a block of moist mocha flavored chocolate cake,0.6194635629653931,0.7025411128997803,55.19984068097616
+3,highly detailed photorealistic 4k image of a small spiky tiny hedgehog precariously perched on a block of moist rich velvety chocolate cake,0.6595471501350403,0.629601776599884,45.689965918282184
+3,realistic digital art image of a baby hedgehog standing on a slice of decadent moist velvety chocolate cake,0.5842568278312683,0.618939220905304,48.30462961087576
+3,a photorealistic image of a tiny adult hedgehog clinging to the side of a moist block of velvety milk chocolate cake,0.6444989442825317,0.6441861391067505,51.516484913923094
+3,highly detailed oil painting of a small spiky hedgehog sitting on top of a block of creamy moist velvety chocolate cake,0.6275643706321716,0.6249549984931946,48.201259248241
+3,detailed photorealistic image of a very small baby hedgehog precariously perched on the edge of a moist block of dark velvety chocolate cake,0.6148538589477539,0.65993332862854,53.122328257810075
+4,highly detailed photorealistic ultra-high-definition 8k image of a small spiky tiny hedgehog delicately perched on a block of moist rich velvety chocolate cake,0.6708816885948181,0.5960308313369751,48.4530228613013
+4,highly detailed photorealistic 4k image of a tiny spiky hedgehog precariously perched on a large block of smooth creamy white chocolate cake,0.6394379138946533,0.6883974671363831,56.932213539826286
+4,highly detailed photorealistic 4k image of a small hedgehog with tiny spikes precariously perched on a block of moist rich dark velvety chocolate cake,0.6239711046218872,0.6105831861495972,53.29080513131918
+4,highly detailed highly textured photorealistic 4k image of a small spiky hedgehog with cute big round eyes perched on a block of moist rich velvety milk chocolate cake,0.687991738319397,0.5229039788246155,44.875882176966996
+4,highly detailed photorealistic ultra-high-definition 8k digital painting of a small spiky hedgehog precariously perched on a block of moist rich velvety dark chocolate cake,0.632438063621521,0.6420405507087708,51.42528520644208
+5,highly detailed ultra textured photorealistic ultra high definition image of a small spiky hedgehog with big round expressive eyes perched on a block of moist decadent velvety milk chocolate cake,0.7251759171485901,0.5888093709945679,39.226711785908364
+5,highly detailed highly textured 4k photorealistic masterpiece of a tiny spiky hedgehog with cute big round bright inquisitive eyes sitting on a block of rich creamy moist milk chocolate cake,0.6275250911712646,0.5444731712341309,43.90792937349639
+5,photorealistic highly detailed highly textured 4k digital painting of a small adorable spiky hedgehog with big round round sparkling eyes standing on a block of moist velvety moist milk chocolate cake,0.6900553703308105,0.6096951961517334,40.39595843929622
+5,hyper-realistic highly detailed textured 4k image of a small cute spiky hedgehog with big round round wide open eyes perched on a block of moist rich velvety moist milk chocolate cake,0.7093472480773926,0.5853922367095947,46.971537166878456
+5,highly detailed hyper-realistic highly textured 8k photorealistic masterpiece of a tiny spiky hedgehog with cute big round bright big eyes sitting atop a block of moist rich velvety moist milk chocolate cake,0.7291813492774963,0.5509093403816223,43.80865118172537

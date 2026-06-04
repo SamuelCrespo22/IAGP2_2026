@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a mouse with a bright colorful tail,0.7832408547401428,0.6465933322906494,49.10168417955399
+1,highly detailed digital painting of a mouse with a vibrant tail,0.7315516471862793,0.6828809380531311,34.066611692181425
+1,"a colorful mouse with a long, detailed tail",0.765713632106781,0.6749729514122009,40.52608548916873
+1,delicate digital artwork of a small mouse with a long colorful tail,0.7396644949913025,0.6800029873847961,44.52818742260758
+1,"highly detailed 4k rendering of a mouse with a bright, whimsical tail",0.6771303415298462,0.7114236950874329,42.7407114944735
+2,"vibrant digital painting of a mouse with a bright, colorful, intricate tail",0.8060569763183594,0.5836156010627747,41.72473366791217
+2,"highly detailed 4k digital mouse portrait with a long, colorful tail",0.757067859172821,0.6666462421417236,44.7430038997869
+2,"a mouse with a long, rainbow-colored tail, painted in a style reminiscent of a Van Gogh masterpiece",0.7806962132453918,0.7697553634643555,42.95930920723836
+2,"a close-up of a mouse with a bright, colorful pom-pom tail, highly detailed and rendered in 4k",0.6335715055465698,0.7411998510360718,48.90282181729368
+2,"a photorealistic, highly detailed digital painting of a mouse with a bright, colorful, flowing tail",0.7289124131202698,0.6528468728065491,36.773147109650296
+3,"vibrant highly detailed digital painting of a mouse with a bright, bold, multi-colored intricate tail",0.7810843586921692,0.5831471681594849,35.1858766626894
+3,"digital art of a mouse with a colorful, swirly, sparkly intricate tail",0.7811067700386047,0.706828236579895,42.88729123009619
+3,"oil painting of a mouse with a bright, colorful, fluffy, intricately patterned tail",0.7999078035354614,0.6500890254974365,46.3469601724957
+3,"detailed digital painting of a realistic mouse with a vibrant, bright, rainbow-colored long curly tail",0.7837514877319336,0.6435648798942566,40.414724842104796
+3,"super-realistic, highly detailed digital masterpiece of a mouse with a bright colorful, intricate, curly tail in focus",0.7417601346969604,0.6401740312576294,31.742545618077312
+4,"Highly detailed digital painting of a mouse with a shimmering, colorful, intricate tail that shines brightly",0.7929911613464355,0.6153188943862915,34.84271809827573
+4,"Vibrant, realistic digital painting of a single mouse with a long, thin, colorful tail",0.6482765078544617,0.7019549608230591,35.2611741155386
+4,"A majestic digital masterpiece of a mouse with a vibrant, intricate, swirly tail that captures the essence of wonder",0.7645692825317383,0.7540855407714844,41.08544678460924
+4,"Detailed, whimsical digital painting of a mouse with a mesmerizing, colorful, flowing tail that appears to be moving",0.8193544745445251,0.5732061266899109,43.219333348383195
+4,"A realistic, highly detailed digital painting of a mouse with a long, slender, intricately patterned tail that appears to be a work of art.",0.6558775901794434,0.7205444574356079,33.91167428829608
+5,"Detailed, highly realistic digital painting of a mouse with a mesmerizing, colorful, flowing tail that appears to be moving",0.7939454317092896,0.5806902050971985,32.32543854172975
+5,"A whimsical, high-definition digital artwork of a mouse with a lively, multi-colored, flowing tail that seems to be in motion",0.8149502277374268,0.5703249573707581,34.54294820120242
+5,"Detailed, vibrant digital painting of a mouse with a long, flowing, rainbow-colored tail that appears to be swaying",0.8075063228607178,0.6027219891548157,37.05019687515052
+5,"Whimsical, highly textured digital artwork of a mouse with a colorful, flowing tail adorned with delicate patterns that appear to be rippling",0.7550597190856934,0.7045537829399109,58.96300977800542
+5,"Highly detailed, 4k-resolution digital painting of a mouse with a magical, flowing, starry night-colored tail that appears to be dancing",0.7279345393180847,0.950645387172699,50.52291451518568

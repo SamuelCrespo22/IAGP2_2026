@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,there is a glass of freshly squeezed orange juice with a slice of orange on the side,0.9216175079345703,0.5453457832336426,42.444195161345945
+1,highly detailed glass of orange juice with a slice of orange sitting on the edge of a wooden table,0.9262294769287109,0.5027390122413635,41.48885631272814
+1,a realistic 4k digital painting of a glass of orange juice with a slice of orange on the side,0.917721152305603,0.584147036075592,51.454715196924724
+1,a warm afternoon at home with a glass of ice-cold orange juice and a slice of orange on the side,0.7896360158920288,0.7325126528739929,61.583025802925015
+1,a still life of a glass of orange juice with a few slices of orange arranged artfully beside it,0.8707287311553955,0.6153082251548767,52.28100986919178
+2,highly detailed glass of freshly squeezed orange juice with a real slice of orange sitting on the edge of a rustic wooden table,0.9142996072769165,0.5077650547027588,41.14301641036462
+2,highly detailed realistic glass of orange juice with a slice of orange on a wooden cutting board,0.9269737005233765,0.5177949666976929,38.98991560001013
+2,a highly realistic glass of freshly squeezed orange juice with a slice of orange perched on the edge of a wooden table in soft warm sunlight,0.9069055318832397,0.5632814168930054,45.14900002148036
+2,highly detailed photorealistic glass of orange juice with a slice of orange on a beautifully crafted wooden table,0.9079082012176514,0.5737704038619995,44.95518690523694
+2,highly detailed vibrant glass of freshly squeezed orange juice with a juicy slice of orange sitting on the edge of a wooden table set in a cozy kitchen,0.9356929063796997,0.5585147738456726,41.2542955621616
+3,highly detailed 4k digital painting of a glass of freshly squeezed orange juice with a vibrant juicy slice of orange sitting on the edge of a natural wooden table set in a cozy rustic kitchen,0.7271236777305603,0.6794300079345703,54.234478004909946
+3,highly detailed digital illustration of a glass of freshly squeezed orange juice with a bright juicy slice of orange perched on the edge of a dark wooden table in a warm kitchen,0.9268027544021606,0.5700570344924927,52.06049979627631
+3,4k highly detailed photo-realistic digital painting of a glass of freshly squeezed orange juice with a slice of orange resting on the edge of a light wooden table in a modern kitchen,0.8989152908325195,0.6542370319366455,58.04774227993803
+3,highly detailed realistic oil painting of a glass of freshly squeezed orange juice with a slice of orange sitting on the edge of a dark wood table in an old kitchen,0.8943138718605042,0.6768432855606079,64.7063670343057
+3,highly detailed 4k digital painting of a glass of freshly squeezed orange juice with a slice of orange placed on the edge of a handcrafted wooden table in a cozy farmhouse kitchen,0.8807977437973022,0.608275830745697,47.99798751073671
+4,highly detailed 4k rendering of an orange juice glass with a slice of orange sitting on a rustic wooden table in a cozy morning kitchen,0.8822959065437317,0.6190363764762878,49.04627964273763
+4,vibrant glass of freshly squeezed orange juice on a wooden table set in a warm and inviting kitchen,0.7228735685348511,0.7151733040809631,52.07529928270244
+4,highly detailed and realistic glass of freshly squeezed orange juice with a thick slice of orange on the edge of a wooden table in a traditional kitchen,0.9203761219978333,0.5373860597610474,45.17572127794213
+4,a beautiful highly detailed still life of a glass filled with freshly squeezed orange juice sitting next to a slice of orange on a wooden table in a classic country kitchen,0.8098147511482239,0.6890844106674194,55.126230741451295
+4,highly detailed realistic close-up of an orange juice glass with a slice of orange on the edge of a wooden table set in a cozy farmhouse kitchen,0.8933055996894836,0.6117772459983826,45.73718835235421
+5,highly detailed bright citrusy glass of freshly squeezed orange juice with a juicy slice of orange sitting on the edge of a rustic wooden table set in a cozy morning kitchen,0.8111498951911926,0.6949005126953125,51.810324219924105
+5,a perfect 4k realistic glass of freshly squeezed orange juice with a juicy slice of orange perched on the edge of a vintage wooden table in a warm kitchen,0.9097605347633362,0.5863540172576904,47.91359652353981
+5,highly detailed glass of orange juice with a slice of orange resting on a beautifully crafted wooden table set in a sunlit kitchen with soft golden light,0.7738146781921387,0.7277094721794128,57.989978718660744
+5,highly detailed vibrant glass of freshly squeezed orange juice with a slice of orange positioned at a 45-degree angle on the edge of a wooden table set in a cozy kitchen with a blurred background,0.9002104997634888,0.593942403793335,51.14297227766761
+5,highly detailed photorealistic glass of freshly squeezed orange juice with a slice of orange sitting on the edge of a distressed wooden table set in a warm and inviting kitchen with soft shadows,0.8978101015090942,0.5880938768386841,45.29007586278789

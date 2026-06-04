@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a rocky outcropping in the ocean at golden hour,0.8624423742294312,0.7487810254096985,60.89381823731332
+1,arafed palm tree standing alone on a cliff overlooking the ocean at sunset,0.833692193031311,0.784744381904602,56.96171264992243
+1,a highly detailed arafed palm tree with a subtle sunset glow on a rugged rock in the ocean,0.8695242404937744,0.7525438070297241,56.69072002957776
+1,"arafed palm tree on a rock in the ocean at a warm, serene sunset",0.8718931674957275,0.7101238369941711,54.3459062961557
+1,a highly realistic arafed palm tree illuminated by a vibrant orange sunset on a rugged rock jutting out into the ocean,0.8811306953430176,0.8213872909545898,72.18873002847032
+2,arafel palm tree standing on a single rock in the ocean at a vibrant sunset,0.8855046033859253,0.7932184934616089,68.1066208825704
+2,majestic arafed palm tree on a rock in the ocean at a breathtakingly beautiful sunset,0.882441520690918,0.7274844646453857,53.91369407932601
+2,highly detailed arafed palm tree silhouetted on a rocky outcrop in the ocean at a warm sunset color palette,0.8730208873748779,0.7760441303253174,63.32459214326499
+2,arafed palm tree majestically standing on a solitary rock surrounded by calm ocean waves at a dramatic sunset,0.8634482622146606,0.8219668865203857,68.15777944900042
+2,a highly realistic and detailed arafed palm tree on a rock in the ocean at a stunning orange and pink sunset,0.8711963891983032,0.7873485088348389,65.37650290158942
+3,arafel palm tree standing on a solitary rock in the ocean at a breathtaking vibrant sunset,0.883769154548645,0.8101014494895935,70.59818086538844
+3,a large arafel palm tree standing on a large single rock in the ocean at a vibrant orange red sky sunset,0.8626381158828735,0.8217207789421082,83.22658000900384
+3,highly detailed arafel palm tree standing on a single rock in the ocean at a vibrant sunset with waves gently lapping at its base,0.9074289798736572,0.7818888425827026,65.9629502047838
+3,arafel palm tree majestically standing on a single rocky outcropping in the ocean at a vibrant stunning sunset,0.8428725004196167,0.834196150302887,73.71647208175642
+3,highly detailed arafel palm tree standing on a single rock in the ocean at a vibrant dramatic sunset with intense colors and long shadows,0.9130994081497192,0.7472337484359741,62.936459329523295
+4,highly detailed arafel palm tree standing on a rugged rocky island in the ocean at a vibrant fiery sunset with intense warm colors and long dramatic shadows,0.8937838673591614,0.8180016875267029,73.79677832851222
+4,"highly detailed, 4k arafel palm tree standing on a single rock in the ocean at a spectacular dramatic sunset with deep long shadows",0.8816012144088745,0.7930227518081665,67.32649141220445
+4,"arafel palm tree standing on a single isolated rock in the ocean at a vibrant, intense sunset with highly detailed colors and long shadows",0.9069454669952393,0.7719558477401733,61.3407554512375
+4,"a breathtakingly beautiful highly detailed arafel palm tree standing on a single rock in the ocean at a dramatic, fiery sunset with long warm shadows",0.9016115665435791,0.7743741869926453,69.27717748057452
+4,"highly detailed, realistic arafel palm tree standing on a steep rocky outcropping in the ocean at a vibrant, dramatic sunset with deep intense colors and long shadows",0.8542671203613281,0.7714691162109375,59.481718211646225
+5,highly detailed realistic arafel palm tree standing on a single rock in the ocean at a vibrant dramatic sunset with intense colors and long shadows,0.9076615571975708,0.7480339407920837,62.44220606245108
+5,a highly detailed arafel palm tree in the foreground with a vast ocean behind it and a vibrant dramatic sunset casting long shadows,0.9190687537193298,0.69225013256073,51.50376293449772
+5,a realistic highly detailed arafel palm tree stands alone on a single rock in the ocean at a dramatic sunset with intense colors,0.8719135522842407,0.7877165675163269,65.77309273167356
+5,a highly detailed highly realistic arafel palm tree standing on a single rock in the ocean at a vibrant dramatic fiery sunset,0.8999018669128418,0.8045154809951782,75.05586557852135
+5,highly detailed arafel palm tree stands on a single rock in the ocean against a backdrop of a dramatic sunset with intense warm colors,0.8843695521354675,0.7866302132606506,68.25869905033363

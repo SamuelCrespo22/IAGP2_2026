@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree in the foreground of a rock formation on a calm ocean at golden hour,0.8639490604400635,0.7721630334854126,57.689008198402306
+1,a large arafed palm tree standing on a rocky outcrop near the ocean as the sun sets over the water,0.8549866080284119,0.7094208002090454,53.809073478527964
+1,highly detailed arafed palm tree growing on a rocky beach in the early evening,0.8611574769020081,0.660926103591919,49.260073201639415
+1,a close-up of an arafed palm tree standing proudly on a rock as the sun rises over the ocean,0.8376638889312744,0.6985544562339783,53.541644859721835
+1,a 4k masterpiece image of a single arafed palm tree on a rocky outcrop in the ocean at sunset with vibrant colors,0.8600337505340576,0.7938387393951416,64.38712867844733
+2,highly detailed arafel palm tree on a rocky outcropping in the calm ocean at golden sunset,0.8821064233779907,0.7340385913848877,58.076404364392985
+2,finely crafted exotic palm tree amidst the serene waves of the ocean on a weathered rocky formation at dusk,0.8896723985671997,0.7335560321807861,58.63959424243015
+2,realistic a single large palm tree stands on a jagged rock formation in the middle of a vast open ocean at a perfect tropical sunset,0.8865691423416138,0.8217383027076721,64.57784471385125
+2,stylized highly detailed palm tree surrounded by crashing waves on a massive boulder in the open ocean as the sun dips below the horizon,0.8984119296073914,0.7098184823989868,53.6657423067486
+2,a majestic highly realistic palm tree rises from a large rock in the center of a seemingly endless tranquil ocean at the peak of a breathtaking sunset,0.855097234249115,0.8382883071899414,71.68021055478249
+3,highly detailed stylized palm tree standing tall amidst crashing waves on a massive boulder in the open ocean as the sun sets slowly below the horizon,0.9044462442398071,0.72784823179245,57.11563626448849
+3,highly vibrant palm tree silhouette against a breathtaking sunset sky with crashing waves and massive ocean boulder,0.901416540145874,0.7411598563194275,62.81545011847561
+3,highly realistic 4k digital painting of a palm tree surrounded by turbulent ocean waves and a boulder,0.8317030668258667,0.6405295729637146,52.705474596397096
+3,stylized highly detailed palm tree on a rocky cliff overlooking the open ocean with waves crashing against the shore,0.7578615546226501,0.6892701387405396,53.72334069752552
+3,majestic highly detailed digital painting of a palm tree standing strong amidst the crashing waves and massive boulder of the open ocean at dusk,0.8595526814460754,0.695939302444458,52.408046965833435
+4,highly detailed realistic palm tree standing tall amidst crashing turquoise waves on a massive rugged boulder in the open blue ocean as the sunset slowly approaches the horizon,0.8678776621818542,0.7298784255981445,60.671473129894274
+4,4k resolution stylized palm tree standing serene amidst foamy ocean waves on a massive weathered rock in the open deep ocean as the sun sinks slowly below the horizon,0.8643397092819214,0.7543022632598877,59.40552253477657
+4,highly detailed impressionist palm tree standing tall amidst crashing white waves on a massive granite boulder in the open vast ocean as the sun sets slowly in the distance,0.915363073348999,0.7050025463104248,54.922253702850824
+4,beautifully detailed hyperrealistic palm tree standing proud amidst powerful ocean waves on a massive rugged outcropping in the open vast ocean as the sun dips slowly below the horizon,0.9084590673446655,0.7343497276306152,60.04355467475827
+4,highly detailed photorealistic palm tree standing tall amidst intense crashing waves on a massive ancient boulder in the open dark blue ocean as the sun sets slowly in the west,0.9059286117553711,0.7262163758277893,59.64492277101082
+5,highly detailed realistic palm tree standing tall amidst crashing white waves on a large granite boulder in the open vast ocean as the sun sets slowly behind a thin layer of cirrus clouds,0.8913571834564209,0.6780560612678528,51.40467035867699
+5,highly detailed impressionist palm tree standing strong amidst turbulent sea foam on a massive granite boulder overlooking the open blue waters as the sun dips slowly in the distance,0.9097317457199097,0.7296160459518433,58.972609077215324
+5,a highly detailed 4k quality digital painting of an impressionist palm tree standing tall amidst crashing white waves on a massive granite boulder in the open vast ocean as the sun sets slowly,0.8543702363967896,0.7196272611618042,55.36738961110347
+5,a highly detailed impressionist palm tree standing tall alongside a massive granite boulder on a rocky coast amidst crashing white waves in the open vast ocean as the sun sets slowly in the distance,0.8686115145683289,0.7062592506408691,54.216299996470205
+5,highly detailed photorealistic impressionist palm tree standing strong amidst crashing white waves on a massive granite boulder on a rugged cliff overlooking the open blue waters as the sun sets slowly in the distance,0.8024870157241821,0.7486689686775208,53.37349169192599

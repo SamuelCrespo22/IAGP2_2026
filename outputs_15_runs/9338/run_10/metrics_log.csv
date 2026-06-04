@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,highly detailed painting of a cute mouse with a vibrant colorful tail,0.7549248933792114,0.6562547087669373,52.35542738624807
+1,detailed 4k digital painting of a mouse with a bright multicolored long tail,0.7479224801063538,0.5750383734703064,32.16161570755468
+1,colorful masterpiece of a mouse with a swishy tail,0.8093043565750122,0.6435084342956543,64.76708975737887
+1,highly detailed realistic digital painting of a mouse with a fluffy colorful tail,0.7423369884490967,0.6646510362625122,37.65983401792365
+1,detailed vibrant digital art of a mouse with a long colorful flowing tail,0.8135616779327393,0.624050498008728,37.705976913009074
+2,highly detailed vibrant realistic digital art of a mouse with a long colored flowing tail,0.7135711908340454,0.7033816576004028,37.193141735594075
+2,detailed pixel perfect digital painting of a mouse with a stunning colorful flowing tail,0.8451445698738098,0.5649442076683044,42.714611996663805
+2,highly realistic 4k digital art of a mouse with an extended colorful flowing tail and detailed environment,0.7561404705047607,0.7104709148406982,39.5985398665199
+2,vivid fantasy digital art of a mouse with an intricately designed long flowing tail in a whimsical setting,0.7387815713882446,0.7161455154418945,44.16373524404405
+2,detailed realistic digital masterpiece of a mouse with a majestic colorful flowing tail and delicate textures,0.7909817099571228,0.6506748795509338,37.74518745965471
+3,detailed pixel perfect digitally rendered 4k image of a mouse with a stunning colorful flowing tail,0.77595055103302,0.62912917137146,43.111141567503495
+3,highly detailed realistic digital painting of a mouse with vibrant colors and flowing tail,0.8069973587989807,0.5836141109466553,31.95071038606311
+3,a masterpiece of digital art featuring a mouse with an extremely colorful and flowing tail,0.7664424180984497,0.5464305877685547,39.84510275367908
+3,a realistic photorealistic digital painting of a mouse with a colorful flowing tail and a blurred background,0.6640444993972778,0.6935518383979797,37.904795437843845
+3,highly detailed realistic digital painting of a mouse with a stunning colorful flowing tail in a warm and cozy environment,0.7286463975906372,0.6456618309020996,35.82718408148262
+4,detailed high-resolution pixel perfect digital painting of a mouse with a stunning vibrant colorful flowing tail,0.8337813019752502,0.5520366430282593,41.568606174076386
+4,highly detailed 4k ultra-realistic digital painting of a mouse with a beautifully flowing multicolored tail,0.7419395446777344,0.6921021938323975,44.045647591912044
+4,a masterpiece of digital art featuring a mouse with a stunning colorful flowing tail intricately detailed with soft textures,0.7372841238975525,0.551776647567749,44.2248907471526
+4,highly realistic digital painting of a mouse with a long flowing tail in a kaleidoscope of bright colors,0.7463664412498474,0.8017206788063049,32.69208184104301
+4,"highly detailed digital painting of a real mouse with a stunning multicolored flowing tail, painted in perfect pixel perfect detail",0.8425312042236328,0.588631272315979,37.585691871892685
+5,detailed realistic digital painting of a mouse with a long colorful flowing tail,0.7928746938705444,0.6190148591995239,33.525272273309426
+5,highly detailed pixel perfect digital art of a mouse with a vibrant colorful flowing tail,0.8060885071754456,0.590925931930542,42.43057844234556
+5,a perfect 4k digital painting of a mouse with a bright colorful flowing tail,0.7853993773460388,0.6085247993469238,38.188544860815476
+5,incredibly realistic detailed digital portrait of a mouse with a lengthy flowing colorful tail,0.7108482122421265,0.6948785185813904,39.52906311714273
+5,a stunning highly detailed digital masterpiece of a mouse with a beautiful flowing colorful tail,0.7801685929298401,0.6073728203773499,31.285059886544456

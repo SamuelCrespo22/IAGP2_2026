@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the surface of a distant alien planet with a bright light shining in the background,0.8342158198356628,0.5224665999412537,34.34612224452767
+1,realistic astronaut standing on the barren surface of a planet with a brilliant light source in the background of the image,0.8153109550476074,0.6130689382553101,35.35645898538135
+1,"highly detailed, 4k, astronaut standing on the surface of a rocky alien world with a bright light shining in the background",0.8503983616828918,0.6353163719177246,45.82108438828187
+1,dramatic astronaut standing on the surface of a desolate planet with a brilliant light source in the distance on a horizon,0.8657448887825012,0.5789082050323486,35.62838389168616
+1,"realistic, detailed astronaut standing in the center of the frame on the surface of a barren alien planet with a bright light shining in the sky",0.8138811588287354,0.5576192140579224,35.589688537847486
+2,dramatic highly detailed astronaut standing on the barren surface of a desolate planet with a brilliant light source on a distant horizon at sunset,0.8044570684432983,0.7446908354759216,53.09798900465131
+2,astronaut standing alone on the desolate planet's surface surrounded by a vast emptiness with a bright light source in the distance,0.8672158718109131,0.5667806267738342,36.03887298282028
+2,a masterfully crafted 4k digital painting of an astronaut standing on the edge of a desolate planet with a brilliant light source rising above the horizon,0.8642325401306152,0.6207200288772583,44.86175274201453
+2,"stunning astronaut figure standing on the harsh, barren surface of a distant planet with a brilliant light source shining brightly in the dark sky",0.8009710311889648,0.6120967864990234,32.132523577746404
+2,"dramatic astronaut standing resolute on the desolate surface of a distant, unforgiving alien world with a brilliant light source in the distance illuminating the dark landscape",0.833915114402771,0.5890658497810364,32.50026713639156
+3,"astronaut standing on the barren, rocky planet's surface with an endless, dark horizon and a faint light in the near distance",0.8559638261795044,0.5518583059310913,36.26129440584166
+3,"astronaut standing isolated on a desolate, crimson planet with a brilliant light source in the far-off sky",0.8164821863174438,0.5127946734428406,28.8032463846041
+3,"highly detailed astronaut standing alone on a distant, barren moon with a bright, shining star near the horizon",0.8221225738525391,0.5829575061798096,36.6784043299742
+3,"astronaut standing on the edge of a vast, dusty planet with a faint light source and minimal atmospheric haze",0.7752602100372314,0.6622586250305176,42.41216033134288
+3,"astronaut standing solitary on the cold, unforgiving surface of a distant, icy planet under a breathtaking, star-filled sky",0.7914904952049255,0.5647059082984924,33.22890309408976
+4,vibrant astronaut standing alone on the barren wasteland's surface surrounded by a vast emptiness with a distant bright light source,0.8585574626922607,0.5770468711853027,38.75837390618397
+4,a lone astronaut stands on the desolate alien planet's rugged terrain surrounded by an endless emptiness with a bright light in the distance,0.7641383409500122,0.6542254686355591,43.3153049885289
+4,"astronaut in a spacesuit standing on the dry, cracked surface of a distant planet surrounded by a sea of emptiness with a brilliant light in the horizon",0.8417696952819824,0.582424521446228,42.187037255531834
+4,"a highly detailed astronaut stands on the surface of a desolate alien world, surrounded by an endless expanse of emptiness with a bright light source shining in the distance",0.8408374786376953,0.5613716840744019,38.38843782573665
+4,an astronaut in a worn spacesuit stands isolated on a bleak and barren alien landscape with a stunning bright light source in the far-off distance,0.8036985397338867,0.6377817988395691,39.81178452768056
+5,astronaut standing proudly on the barren planet's surface surrounded by an endless space with a radiant light source glowing softly in the distance,0.8010215759277344,0.5943270921707153,34.71993929940846
+5,"astronaut in a spacesuit standing strong alone on a dry, desolate planet surrounded by an expansive emptiness with a shining light visible in the background",0.8012173175811768,0.6546897292137146,42.75446218131064
+5,"highly detailed astronaut standing solitary on a remote, isolated planet with a massive, empty sky and a vibrant light source in the far-off distance",0.780121386051178,0.5193843245506287,33.7818605342512
+5,"astronaut standing isolated on a lifeless, rocky planet's surface with a bright, burning light in the background surrounded by nothingness",0.870346188545227,0.5086327195167542,30.89078698245949
+5,"detailed, digital painting of an astronaut standing alone on a barren, empty planet's surface with a stunning, glowing light source visible in the far-off distance",0.8772931098937988,0.5181558132171631,28.670185651835105

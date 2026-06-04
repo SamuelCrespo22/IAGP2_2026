@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut in realistic high-definition standing on the barren surface of a distant icy planet with a bright light shining in the background,0.8009608387947083,0.6105324625968933,38.9873078099204
+1,a highly detailed astronaut standing on the surface of a mysterious alien world with a vibrant glow in the distance,0.8697787523269653,0.5136229991912842,34.75323698121083
+1,an astronaut in a stunning 4k digital painting standing on the rocky surface of a remote planet with a brilliant star shining in the background,0.8621025085449219,0.6877698302268982,44.294665402862954
+1,"the astronaut in a beautiful oil painting standing on the surface of a barren, icy, and distant planet with a bright light radiating in the background",0.8469901084899902,0.5594596862792969,40.77497826672738
+1,"an incredibly realistic astronaut standing on a barren, dusty, and desolate alien planet with a brilliant, shining light source illuminating the dark background",0.7877535223960876,0.6275925040245056,36.09348038350528
+2,a highly detailed astronaut standing on the surface of a barren alien world with a vibrant glow in the distance,0.862154483795166,0.4674159288406372,33.3661277006786
+2,a finely rendered astronaut stands on a rugged alien terrain with a radiant glow in the sky,0.8142279386520386,0.7144564390182495,54.98101241528617
+2,an astronaut wearing a reflective suit stands on a mysterious alien world with a warm aura in the distance,0.8002738356590271,0.5672484636306763,36.55644697540855
+2,highly detailed astronaut figure on a desolate alien landscape with a soft orange glow in the horizon,0.7611756920814514,0.75665283203125,49.83995880799247
+2,a vividly colored astronaut stands on the barren surface of a distant alien planet with a shimmering glow emanating from the nearby mountains,0.8550491333007812,0.7089288234710693,53.002326029259315
+3,highly detailed astronaut standing on the surface of a mysterious ancient alien world with a vibrant otherworldly glow in the distance,0.8491149544715881,0.5618451833724976,34.499857805484254
+3,a stunningly realistic astronaut standing on the rugged terrain of a hidden alien planet with a bright shimmering light in the background,0.7879518270492554,0.6805182099342346,44.5427649814283
+3,highly detailed astronaut standing on the edge of a mysterious alien cliff surrounded by a kaleidoscope of colors and vibrant energy,0.7776026725769043,0.6224156022071838,47.6633906153795
+3,4k digital painting of an astronaut in a futuristic spacesuit standing on a distant alien world with an ethereal light in the distance,0.8364152908325195,0.6268762946128845,52.036676970403
+3,highly realistic digital artwork of an astronaut exploring the surface of a mysterious alien world with a soft dreamy glow in the horizon,0.8346714377403259,0.606398344039917,51.556819512961624
+4,highly detailed astronaut standing in the foreground of a mysterious alien world with a vibrant glow rising in the distance,0.8238013982772827,0.5069013237953186,35.927509863137196
+4,"an astronaut in a highly detailed, futuristic spacesuit standing on a barren alien surface with a breathtaking, glowing landscape in the background",0.7690735459327698,0.6036974191665649,39.592701406804814
+4,"4k, highly detailed astronaut exploring the surface of a distant, uncharted alien planet with a vibrant, otherworldly glow in the horizon",0.8261817693710327,0.5467401742935181,35.51820271416101
+4,"a highly detailed, majestic astronaut standing at the edge of a vast, alien landscape with a stunning, glowing nebula in the sky",0.8495587110519409,0.533642053604126,31.873887881932966
+4,"highly detailed, photorealistic astronaut standing in a dimly lit, alien cave with a soft, ethereal glow emanating from the walls",0.7303984761238098,0.7288817167282104,41.8532949090696
+5,highly detailed realistic astronaut standing on the surface of a mysterious uncharted alien world with a vivid glow in the distance,0.7770774364471436,0.59135502576828,32.57983249547092
+5,4k resolution astronaut standing on a distant alien landscape with an otherworldly glow in the far horizon,0.8356761932373047,0.5507004857063293,34.78402005021254
+5,vibrant digital painting of an astronaut exploring a glowing alien environment with towering mountains in the background,0.8936989307403564,0.745090126991272,74.1366637122966
+5,masterpiece astronaut standing in the center of an extraterrestrial landscape with a radiant glow emanating from the sky,0.7891883850097656,0.5425750613212585,36.11131404982706
+5,highly detailed low-light photography of an astronaut standing on the surface of a glowing alien world with an eerie mist in the distance,0.8156879544258118,0.6117791533470154,44.841721844662345

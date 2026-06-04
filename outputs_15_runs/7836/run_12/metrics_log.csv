@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the surface of a distant planet with a bright light shining in the background,0.8374931812286377,0.5311977863311768,33.21879346739757
+1,astronaut standing on a distant exoplanet's surface with a brilliant spotlight illuminating the surroundings,0.8775109648704529,0.4684999883174896,30.71600341706363
+1,highly detailed astronaut standing on the rocky surface of a mysterious planet with intense light in the background,0.791158139705658,0.6906296610832214,47.84401866792095
+1,"astronaut standing on the rugged terrain of a distant celestial body, bathed in the warm glow of a shining light",0.8665729761123657,0.6458970904350281,39.311501566738414
+1,"highly realistic astronaut standing on the alien surface, with a vibrant light source casting dramatic shadows behind him",0.7419191002845764,0.6652716994285583,37.27084611580098
+2,astronaut standing on a rugged alien exoplanet's surface with a brilliant spotlight illuminating the detailed landscape,0.8829563856124878,0.6286973357200623,40.91405720276674
+2,astronaut standing in a pool of light on a distant and barren exoplanet's surface,0.8082533478736877,0.5207895040512085,32.48384606565817
+2,highly detailed astronaut stands on a distant exoplanet's surface with spotlights casting long shadows everywhere,0.7949363589286804,0.5384469032287598,35.071990582957554
+2,a highly realistic astronaut stands alone on a dark exoplanet's surface under the brilliant glow of a spotlight,0.7981162071228027,0.5436840057373047,32.185484244810624
+2,astronaut standing on a distant exoplanet's surface with a high intensity spotlight casting dramatic shadows on the rugged terrain,0.8551581501960754,0.6186197996139526,40.767388487364265
+3,"astronaut standing on a rough, barren alien exoplanet's surface with a brilliant spotlight illuminating the detailed landscape",0.8707327246665955,0.5735489726066589,37.03021618603766
+3,astronaut in highly detailed 4k digital painting standing on a rugged alien exoplanet's surface under a stunning spotlight,0.8626576662063599,0.6957181096076965,55.3412571739785
+3,astronaut standing at the edge of a vast alien exoplanet's surface with a brilliant spotlight casting long shadows across the landscape,0.8602762222290039,0.5451834797859192,38.111643027204124
+3,astronaut standing in the center of a rugged alien exoplanet's surface with a brilliant spotlight casting a warm glow on the intricate terrain,0.8372765779495239,0.578103244304657,35.19951553428769
+3,"astronaut standing on a desolate alien exoplanet's surface bathed in the soft, ethereal light of a brilliant spotlight at dusk",0.8165426254272461,0.6625520586967468,46.57199241301072
+4,'astronaut standing on a rocky alien exoplanet's surface with intense sunlight highlighting the vast landscape',0.8819200992584229,0.6666224002838135,52.158323905285606
+4,'distant astronaut exploring a barren alien exoplanet's terrain with a massive spotlight shining down',0.8204129934310913,0.5122561454772949,29.050597676154563
+4,'highly detailed astronaut standing on a rugged extraterrestrial surface with an otherworldly spotlight illuminating the surroundings',0.7840511798858643,0.6333297491073608,34.006131277986086
+4,'4k digital painting of an astronaut standing on a mountainous alien exoplanet's surface with a brilliant light highlighting the textures',0.8770406246185303,0.7107563018798828,61.61700613203324
+4,'masterpiece digital artwork of an astronaut standing on a mysterious alien exoplanet's surface with an enormous spotlight creating an ethereal atmosphere',0.7445396780967712,0.5045897364616394,36.37513057631411
+5,highly detailed astronaut standing on a rugged and mysterious alien exoplanet's surface with a brilliant spotlight illuminating the intricate landscape,0.8641645312309265,0.6379319429397583,44.01623045713888
+5,astronaut in a heroic pose standing on a rough and rocky alien exoplanet with a bright spotlight shining down on the terrain,0.8449571132659912,0.6097495555877686,37.29723867301729
+5,an astronaut in a sleek white spacesuit stands on a barren yet beautiful alien world with a stunning spotlight highlighting the dramatic landscape,0.7679438591003418,0.5713660717010498,37.981292849237846
+5,"vivid astronaut portrait on a stunning exoplanet, with a bright spotlight casting long shadows across the rocky terrain and into the distance",0.7983013391494751,0.6724661588668823,44.746796107902526
+5,highly realistic astronaut standing at the edge of a vast alien landscape with a brilliant spotlight casting a warm glow on the rugged terrain and the astronaut's spacesuit,0.798559844493866,0.6875901222229004,46.000964954716395

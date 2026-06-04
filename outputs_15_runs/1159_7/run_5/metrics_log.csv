@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,there is a small realistic hedgehog sitting on top of a highly detailed block of moist vanilla birthday cake,0.6120144128799438,0.730760931968689,66.05420422417227
+1,a small pink hedgehog is perched on top of a realistic block of cake as a bird watches from a nearby branch,0.5654950141906738,0.7234459519386292,48.638150434965915
+1,the highly detailed image of a small white hedgehog sitting on top of a block of rich chocolate cake is so beautiful,0.6479994058609009,0.7254673838615417,67.09904496701415
+1,there is a real little hedgehog standing on top of a stunning digital painting of a block of cake with colorful sprinkles,0.6362870931625366,0.7411301136016846,62.35295737169069
+1,a small hedgehog sits peacefully on top of a highly realistic block of moist chocolate cake with creamy frosting and a single candle,0.5982664823532104,0.6665396094322205,52.28340605273797
+2,highly detailed realistic image of a small white hedgehog sitting calmly on top of a block of moist rich chocolate cake,0.6383234858512878,0.6992171406745911,63.71036543320869
+2,a highly detailed digital painting of a small white hedgehog sitting on top of a decadent rich chocolate cake,0.6239430904388428,0.6689839959144592,48.23945855370042
+2,the highly detailed image of a small white hedgehog peacefully sitting on a large block of rich chocolate cake in a serene kitchen setting,0.612852156162262,0.765884280204773,47.79405590006204
+2,4k highly detailed image of a tiny adorable white hedgehog sitting on top of a large block of rich chocolate cake,0.6660431623458862,0.7293964624404907,58.59895156310141
+2,a masterpiece digital art of a small white hedgehog sitting on a large block of moist and rich chocolate cake in a well-lit kitchen with natural light.,0.6250423192977905,0.697711169719696,49.37056326875499
+3,"4k highly detailed, photorealistic image of a tiny adorable white hedgehog sitting on top of a large block of rich, moist chocolate cake",0.6563421487808228,0.6410722136497498,51.064994718905226
+3,highly detailed 4k digital painting of a little white hedgehog perched on a giant slice of decadent chocolate cake,0.6109722852706909,0.734398603439331,50.988853494219896
+3,4k ultra-detailed image of a teeny white hedgehog nestled in the icing of a massive chocolate cake,0.623204231262207,0.7414924502372742,73.34059632294992
+3,highly realistic 4k image of a small white hedgehog sitting proudly on top of a towering block of velvety chocolate cake,0.6015098690986633,0.7186218500137329,57.91249549780867
+3,4k hyper-realistic digital artwork of a tiny adorable white hedgehog balancing on the edge of a gigantic slice of creamy chocolate cake,0.6758986115455627,0.713479220867157,57.10139988533413
+4,tiny adorable white hedgehog delicately perched on the edge of an enormous rich mocha chocolate slice,0.6815720796585083,0.735132098197937,69.90247844521886
+4,"a high-quality, 4k, highly detailed digital painting of a hedgehog precariously positioned at the edge of a colossal chocolate cake",0.6159564852714539,0.5728344917297363,44.66124874044802
+4,"a 4k masterpiece of a minuscule white hedgehog walking along the edge of a gigantic, creamy, velvety chocolate dessert",0.6181060075759888,0.685754120349884,56.208932325274105
+4,"a beautiful, 4k hyper-realistic digital artwork of a teeny white hedgehog attempting to balance on the rim of a massive, moist chocolate cake",0.67714923620224,0.6557803153991699,52.73079762707374
+4,"a 4k ultra-realistic digital image of a wee white hedgehog standing at the edge of a gigantic, decadent, dripping chocolate slice with a delicate drizzle of chocolate sauce",0.6493224501609802,0.694449782371521,59.26144089833171
+5,tiny adorable pure white hedgehog delicately perched on the edge of an enormous rich decadent mocha chocolate slice,0.5655173063278198,0.7462249994277954,70.48410175568408
+5,highly detailed tiny adorable white hedgehog delicately perched on the edge of a warm enormous rich mocha chocolate slice,0.6870766282081604,0.744146466255188,74.17271984225076
+5,miniature adorable white hedgehog delicately perched on the edge of an enormous freshly baked rich mocha chocolate slice,0.6643370389938354,0.7693025469779968,68.466797251599
+5,a highly detailed 4k miniature adorable white hedgehog delicately perched on the edge of a warm enormous rich double-layer mocha chocolate slice,0.5643958449363708,0.7741720676422119,70.46734045021945
+5,a tiny adorable white hedgehog delicately perched on the edge of an enormous rich velvety mocha chocolate slice in a serene natural landscape,0.6511355638504028,0.7348336577415466,57.971255374131566

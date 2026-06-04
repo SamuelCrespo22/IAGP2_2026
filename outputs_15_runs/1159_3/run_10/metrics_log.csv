@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and flames in his right hand,0.8217390775680542,0.6454355716705322,58.64449634100795
+1,anime warrior with a glowing fire sword and determined expression,0.8315261602401733,0.6316494941711426,51.3124729889006
+1,highly detailed anime character holding a blazing sword with intense focus,0.8022515177726746,0.6223818063735962,50.32768424966657
+1,stylized anime character surrounded by fire and smoke with a mighty sword in hand,0.7883375883102417,0.6353724598884583,57.38322847871153
+1,anime hero wielding a fiery blade and standing heroically in a mystical forest,0.7084739804267883,0.7365583181381226,58.096062171405876
+2,anime warrior with a highly detailed glowing blue fire sword and determined expression,0.8147683143615723,0.6387653946876526,55.65131301968434
+2,anime warrior with a masterpiece digital painting glowing fire sword and fierce determined expression,0.831436276435852,0.6304571032524109,53.54625710527043
+2,anime warrior holding a glowing fire sword with an intense determined look standing in a misty mountainous landscape,0.7800250053405762,0.5946232080459595,43.183080471313886
+2,anime warrior standing proudly with a highly detailed digital painting style glowing fire sword and a strong confident determined expression,0.7848086953163147,0.6273472309112549,53.90958835652289
+2,anime warrior with a beautiful 4k digital painting style glowing fire sword and a fierce warrior determined expression standing strong against a sunset blue sky,0.7324811220169067,0.7453781962394714,68.87769513127367
+3,highly detailed anime warrior with a radiant flame-wreathed fire sword and intense determined expression,0.7914743423461914,0.6805287003517151,52.99977373545377
+3,anime warrior with a burning fire sword and resolute expression in a dynamic pose,0.8337011337280273,0.6479774713516235,51.18751883524757
+3,digital painting of an anime warrior with a glowing fire sword and steadfast determination,0.8117856979370117,0.5841706991195679,52.033379831509855
+3,highly realistic anime warrior holding a blazing fire sword with a focused and unyielding expression,0.8327021598815918,0.6134313344955444,48.9543208071927
+3,anime warrior masterfully wielding a fiery sword with an unwavering determined gaze and dynamic movement,0.8186100125312805,0.5913429260253906,49.33964840676011
+4,anime warrior with a fiery blazing sword and strong determined expression in a dramatic energetic pose,0.8079872131347656,0.6361245512962341,53.38636488190764
+4,highly detailed anime warrior with a burning fire sword and fearless resolute expression in a dynamic dramatic pose,0.8246381282806396,0.6565971374511719,51.25708454515311
+4,digital painting of a fierce anime warrior with a burning blazing fire sword and intense concentrated expression in a powerful dynamic pose,0.8202481865882874,0.6339082717895508,51.97666720673105
+4,anime masterpiece of a fierce warrior with a blazing fire sword and confident strong expression in a dynamic heroic pose,0.811328649520874,0.6573705673217773,46.03767418675518
+4,highly detailed realistic anime warrior with a burning fire sword and courageous fearless expression in a powerful dynamic 4k resolution pose,0.7785019874572754,0.6782691478729248,48.48413176502923
+5,"anime warrior with a highly detailed burning fire sword and resolute expression in a dynamic, action-packed pose",0.8548412919044495,0.6443753242492676,49.705930825336566
+5,"anime warrior with intense determination in a dynamic pose wielding a blazing fire sword in a dramatic, cinematic setting",0.795272946357727,0.65375816822052,52.96667557226754
+5,"a highly detailed, 4k-quality anime warrior with a burning, fiery blade and unwavering resolve in a dynamic stance",0.7773072719573975,0.6374357342720032,52.62806828161152
+5,"a highly realistic, digital painting of an anime warrior with a resolute expression and fiery sword in a dramatic, dynamic pose",0.8259115815162659,0.6093021631240845,47.032351104287294
+5,"anime warrior with a fiery, blazing blade and strong, unyielding spirit in a highly detailed, cinematic dynamic pose",0.8099333047866821,0.6446735858917236,49.89705213572636

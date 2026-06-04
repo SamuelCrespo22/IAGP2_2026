@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a long sword and flames in his hand,0.8028408288955688,0.6360592842102051,58.3126309621913
+1,anime battle warrior with fire ablaze in his outstretched grasp,0.8045589923858643,0.6554526090621948,54.42406510043168
+1,highly detailed anime hero wielding a sharp sword surrounded by intense fire,0.8363233208656311,0.6612086296081543,53.02272616482054
+1,4k digital painting of an anime character with a mighty sword and roaring fire,0.7236850261688232,0.645918071269989,46.343399326617984
+1,"a dynamic anime master with flames dancing in his hand, gripping a mighty katana",0.7744350433349609,0.6913681626319885,67.52596837317792
+2,highly detailed realistical anime hero wielding a mighty sharp sword surrounded by intense flames,0.8569338321685791,0.6396594047546387,51.01899510662489
+2,4k highly detailed anime hero standing heroically surrounded by fierce fire with a sharp sword in hand,0.7727083563804626,0.6697483658790588,54.22445270418533
+2,highly detailed realistic anime hero in a powerful fighting stance surrounded by massive fire and smoke with a gleaming sharp sword,0.7461589574813843,0.6996325254440308,55.59368944386171
+2,highly realistic detailed anime hero in a dramatic pose standing amidst intense flames with a sharp powerful sword,0.7549474239349365,0.7429417371749878,67.24279739442561
+2,highly detailed digital painting style anime hero standing in the midst of a massive inferno wielding an extremely sharp sword,0.722815752029419,0.7469607591629028,66.74765510901145
+3,highly detailed realistic anime hero wielding a mighty sharp katana surrounded by intense golden flames,0.8046140670776367,0.6803335547447205,60.26729296524815
+3,highly detailed vibrant anime hero charging into battle with a gleaming sharp sword surrounded by a halo of flames,0.8157130479812622,0.5911415219306946,43.71018426719816
+3,incredibly detailed digital painting of an anime hero standing heroically in a fierce battle scene with a sharp sword and surrounded by fiery explosions,0.7835774421691895,0.6893108487129211,57.56993249620613
+3,highly detailed highly realistic stylized anime hero standing heroically on a rugged cliff with a massive sharp sword in hand and surrounded by a maelstrom of intense flames,0.6698734760284424,0.661942183971405,54.92299455490718
+3,highly detailed highly realistic anime hero standing heroically on a windswept mountain surrounded by swirling intense flames with a gleaming sharp katana in hand,0.7865985631942749,0.6864292621612549,58.079417265284576
+4,highly detailed photorealistic anime hero in dynamic motion wielding a mighty sharp sword surrounded by intense flames,0.8288025856018066,0.6408654451370239,50.023656614746045
+4,4k detailed anime hero standing victorious with a powerful sword surrounded by raging inferno,0.8050457835197449,0.6917999386787415,56.69757208679637
+4,highly realistic anime warrior in a dramatic pose holding a razor-sharp katana amidst swirling fire,0.8065589666366577,0.6557956337928772,56.8430150331936
+4,highly detailed digital painting of a mighty anime hero wielding a gleaming sharp sword while engulfed in fiery blaze,0.7827786207199097,0.6962326169013977,57.653337745129164
+4,realistic anime hero with intricate details standing amidst chaotic flames while holding a sharp and gleaming sword in hand,0.7968523502349854,0.6980841159820557,57.05013206199928
+5,highly detailed realistic anime hero wielding a mighty sharp sword and shield surrounded by intense flames,0.7914583683013916,0.6637477874755859,52.40779221124741
+5,highly detailed realistic anime hero with a fiery background and intense flames surrounding his mighty sharp sword,0.7888275980949402,0.6851989030838013,56.276716986538815
+5,realistic anime hero with intense flames and a sharp sword fighting in the foreground with a blurred cityscape background,0.7699843645095825,0.7152937650680542,52.10881700777794
+5,highly detailed realistic anime hero standing heroically with a mighty sharp sword and a confident expression surrounded by fiery explosions,0.8013796806335449,0.6153393983840942,46.43170818409873
+5,highly detailed realistic anime hero in a dramatic pose with intense flames and a mighty sharp sword in hand set against a darkened city backdrop,0.8220987319946289,0.6788626313209534,54.88629878561554

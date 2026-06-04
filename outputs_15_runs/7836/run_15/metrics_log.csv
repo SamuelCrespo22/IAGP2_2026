@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the surface of a distant planet with a bright light shining in the background,0.8374931812286377,0.5311977863311768,33.21879346739757
+1,highly detailed astronaut standing on a barren alien planet with a massive celestial body in the sky,0.8077749609947205,0.5255089402198792,34.63677386614852
+1,astronaut standing in front of a vibrant explosion on the surface of a planetary body,0.8343489766120911,0.5042569637298584,43.7898996764721
+1,highly realistic astronaut standing on the edge of a cliff on a hostile extraterrestrial world,0.8099238872528076,0.696578860282898,49.83323160796909
+1,"astronaut in a detailed sci-fi spacesuit standing at the edge of a vast, gleaming crater on a distant, uncharted planet",0.7772504687309265,0.5624731779098511,41.05637056548052
+2,astronaut standing on the surface of a realistic planet with a bright beam of light shining in the background,0.8270018696784973,0.5533884167671204,37.588269188007715
+2,highly detailed astronaut standing on the surface of a distant alien world with a brilliant light in the background,0.8103904128074646,0.5853614807128906,36.9027811750006
+2,spacecraft astronaut standing on the surface of a planet with a vibrant light shining behind them,0.8435647487640381,0.47656750679016113,30.002377055620613
+2,digital painting of an astronaut standing on the surface of a mysterious planet with a ray of light shining from the top,0.8659719824790955,0.5676566362380981,47.35913680440286
+2,highly detailed 4k astronaut standing on the surface of an extraterrestrial planet with a glowing light source in the background,0.7904370427131653,0.5635037422180176,35.62651655849526
+3,highly detailed digital painting of an astronaut standing on the surface of a misty alien planet with a beam of sunlight shining from above,0.7994186878204346,0.7748596668243408,79.05000268636469
+3,realistic digital art of an astronaut standing at the edge of a craggy extraterrestrial landscape with a sliver of starlight peeking through the horizon,0.8721994757652283,0.6923129558563232,47.55386086491529
+3,4k digital masterpiece of an astronaut exploring the barren terrain of an unknown celestial body in a warm golden hour light,0.8262796401977539,0.6770622134208679,42.02677126834329
+3,detailed oil painting-style digital artwork of an astronaut exploring the rugged surface of a distant planet surrounded by a vibrant orange and pink sky,0.8177701830863953,0.8247932195663452,73.94717788261568
+3,digital painting of an astronaut standing at the base of a colossal alien structure on a desert planet with a shaft of sunlight illuminating the surrounding sand and rock formations,0.7817782163619995,0.9610093235969543,92.8108013575619
+4,realistic highly detailed digital painting of an astronaut standing at the edge of a rugged alien landscape with a sliver of starlight peeking through the horizon,0.8722119927406311,0.7116628885269165,43.63253085379026
+4,a realistic highly detailed 4k digital art of an astronaut standing at the edge of a craggy extraterrestrial terrain with a thin crescent moon visible in the sky,0.8355094194412231,0.6827372312545776,46.04335153756329
+4,"realistic highly detailed digital painting of an astronaut standing at the edge of a barren, rocky, extraterrestrial landscape with a sliver of starlight peeking through the horizon",0.8455092310905457,0.7005743980407715,42.47897326018115
+4,"vibrant digital art of an astronaut standing at the edge of a dramatic, otherworldly, extraterrestrial landscape with a sliver of starlight peeking through the horizon",0.8744336366653442,0.6358315944671631,39.73739727068717
+4,"realistic highly detailed digital painting of an astronaut standing at the edge of a vast, arid, extraterrestrial terrain with a few scattered asteroids visible in the distance",0.8593060970306396,0.6955896615982056,51.94214187024699
+5,"vibrant highly detailed digital art of an astronaut standing at the edge of a breathtaking, mystical, extraterrestrial landscape with a sliver of starlight peeking through the horizon",0.8768349885940552,0.6476724147796631,39.05026148702518
+5,"dramatic, highly detailed digital art of an astronaut standing at the edge of a glowing, otherworldly, extraterrestrial landscape with a sliver of starlight rising above the horizon",0.8880916833877563,0.6194490790367126,33.75783059704166
+5,"a highly realistic, vibrant digital painting of an astronaut standing at the edge of a serene, extraterrestrial landscape with a glimmer of starlight peeking through the darkness",0.9085843563079834,0.5730394124984741,32.87456750793432
+5,"a stunning 4k digital art of an astronaut standing at the edge of a majestic, mystical, extraterrestrial landscape with a sliver of starlight shining through the atmosphere",0.8928008079528809,0.6111970543861389,37.20153203443013
+5,"highly detailed, cinematic digital art of an astronaut standing at the edge of a dramatic, otherworldly, extraterrestrial landscape with a sliver of starlight glowing in the distance",0.8798738718032837,0.672833263874054,38.839429181344414

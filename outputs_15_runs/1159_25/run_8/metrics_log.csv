@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,a glass of freshly squeezed orange juice with a segment of orange on the side,0.918656051158905,0.554896354675293,41.97848655416897
+1,a highly detailed digital painting of a glass of orange juice with a slice of orange on the side,0.8955215215682983,0.6130117177963257,51.76350135795768
+1,a perfectly ripe orange slice placed next to a glass of freshly poured orange juice,0.9216193556785583,0.5803645849227905,47.12505343796091
+1,a beautifully styled still life of a glass of orange juice with a slice of orange on the side,0.9013086557388306,0.6322340965270996,54.112293934584955
+1,a close-up of a glass of vibrant orange juice with a segment of orange peel on the rim,0.9331074357032776,0.4533756971359253,43.653201588896835
+2,a highly detailed close-up of bright coral orange juice in a glass with a segment of orange peel on the rim,0.8889712691307068,0.5057397484779358,50.223222392502834
+2,a vibrant 4k rendering of a glass of orange juice with a slice of peel resting on the rim,0.9479806423187256,0.3846224844455719,35.044952041002055
+2,a masterpiece close-up of a glass containing freshly squeezed orange juice with a piece of peel on the rim,0.9351850152015686,0.490641713142395,46.08321050252366
+2,a realistic photograph of a glass of orange juice with a slice of peel floating on the surface and a blurred background,0.8931131362915039,0.6733251810073853,63.08521256194674
+2,a highly stylized painting of a glass of orange juice with a thick slice of orange peel on the rim and a soft focus effect,0.8253878355026245,0.5535399317741394,47.85932252365595
+3,vibrant highly detailed 4k rendering of a glass of freshly squeezed orange juice with a slice of peel resting on the rim,0.9414747357368469,0.42344987392425537,37.206940442012744
+3,"an extremely realistic glass of orange juice with a slice of peel on the rim, photographed on a white background in a studio setting, 4k",0.9283561706542969,0.6483760476112366,67.64309702826363
+3,"digital painting of a glass of orange juice with a slice of peel on the rim, highly detailed, warm and inviting atmosphere",0.9144759178161621,0.6261371970176697,58.32026491584568
+3,"glass of freshly squeezed orange juice with a slice of peel resting on the rim, rendered in stunning 4k detail, natural light from a nearby window",0.9252573251724243,0.6542038917541504,50.05263052826612
+3,"a highly realistic 4k masterpiece of a glass of orange juice with a slice of peel on the rim, subtle reflections and textures, shallow depth of field",0.8943355083465576,0.6727949380874634,59.81913442919838
+4,highly detailed realistic 4k rendering of a glass of freshly squeezed orange juice with a slice of peel resting on the rim,0.9215505123138428,0.3916756510734558,36.92134849495931
+4,vibrant realistic 8k still-life photography of a glass of orange juice with a slice of peel on the rim,0.9367579221725464,0.41919204592704773,39.32296073052167
+4,a highly detailed and realistic photo-realistic depiction of a glass of orange juice with a slice of peel on the rim,0.928142249584198,0.41079163551330566,38.34248318039407
+4,ultra-high definition highly detailed digital painting of a glass of orange juice with a slice of peel resting on the rim,0.8473621010780334,0.6065502166748047,53.63466026846385
+4,highly realistic and highly detailed 4k still-life photography of a glass of orange juice with a slice of peel on the edge of a table in warm sunlight,0.9364713430404663,0.5816329717636108,47.773621437991956
+5,'a highly detailed 4k rendering of a glass of freshly squeezed orange juice with a slice of peel resting on the rim',0.9439977407455444,0.40230682492256165,37.50302926343792
+5,'an ultra-realistic 4k digital painting of a glass of orange juice with a slice of peel on the edge',0.9393419027328491,0.6403416395187378,55.86827324170945
+5,'a photorealistic 4k image of a glass of orange juice with a slice of peel nestled on the rim',0.9434004426002502,0.4059095084667206,40.403583253836665
+5,'a 4k masterpiece of a glass of orange juice with a slice of peel delicately placed on the rim',0.9011880159378052,0.6022348403930664,56.41862789159135
+5,"'an ultra-detailed 4k still life of a glass of orange juice with a slice of peel on the rim, lit from the side'",0.9289807081222534,0.5662424564361572,54.04097039185858

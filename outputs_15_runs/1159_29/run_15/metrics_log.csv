@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafel palm tree on a granite boulder amidst calm ocean waters at sunset golden hour,0.8562580943107605,0.7496270537376404,58.103470573330085
+1,majestic afaared palm tree stands alone on a rugged rocky outcropping at sunset in a serene tropical ocean,0.8996108174324036,0.6932923793792725,55.97159055611615
+1,the perfect afaared palm tree silhouette in warm orange hues stands on a dark grey rock in the still waters of the ocean during golden hour,0.8794941306114197,0.7818286418914795,64.46112405206856
+1,the beautiful afaared palm tree with a rough trunk on a large rock in the calm ocean water at sunset in a realistic style,0.9065688252449036,0.6497655510902405,49.186041000007066
+1,highly detailed afaared palm tree in a realistic 4k digital painting style on a rock in the ocean at a breathtaking sunset,0.8700908422470093,0.7532711625099182,58.599465466808624
+2,the beautiful aerial palm tree with a rugged trunk on a large rock in the serene ocean water at golden hour in a highly detailed realistic style,0.9044145345687866,0.7353252172470093,56.00334505152184
+2,"the vibrant, majestic palm tree with a weathered trunk on a giant boulder in the tranquil ocean water at sunset in a digital painting",0.9228762984275818,0.7143855690956116,54.711048062416715
+2,"a large, stunning palm tree with a worn trunk on a massive rock in the peaceful ocean water at dawn in a realistic style",0.909852921962738,0.6263439059257507,50.25918086981906
+2,"the tall, elegant palm tree with a rough-hewn trunk on a huge rock in the crystal-clear ocean water at dusk in a highly detailed style",0.9049355983734131,0.619290292263031,47.389001857855966
+2,"the majestic palm tree with a gnarled trunk on a large island in the calm, turquoise ocean water at sunset in a 4k digital painting",0.9290686845779419,0.6989817023277283,58.60671350615269
+3,"a majestic palm tree with a twisted, rugged trunk on a large tropical isle in the serene, tropical ocean waters at golden hour in a highly detailed, 4k digital masterpiece",0.9015769958496094,0.6790717840194702,51.807723363679045
+3,"the stunning palm tree with a gnarled, weathered trunk on a vast island in the clear, turquoise sea at sunset in a photorealistic, digital painting",0.9155915975570679,0.6766791343688965,52.21928337611599
+3,"a picturesque palm tree with a sturdy, aged trunk on a sprawling island in the bright, cerulean ocean at dusk in a 4k, oil-on-canvas style digital art",0.9149622917175293,0.7174488306045532,56.84120493620555
+3,"the beautiful palm tree with a knotted, twisted trunk on a sandy, palm-fringed atoll in the gentle, emerald ocean at the golden hour in a highly detailed, digital painting",0.8674987554550171,0.6882206797599792,50.523322941458545
+3,"the magnificent palm tree with a massive, gnarled trunk on a rocky, island shore in the soft, sapphire ocean at sunset in a highly detailed, 8k digital painting",0.8845797181129456,0.7004179954528809,55.07901591432887
+4,majestic gnarled palm tree with a robust trunk on a serene tropical atoll in the crystal-clear turquoise ocean water at golden hour in a 4k digital painting,0.8877049684524536,0.7294488549232483,62.770237334593794
+4,the grandiose palm tree with twisted roots on a vast island in the tranquil turquoise ocean at sunset in an intricately detailed digital painting,0.9177427887916565,0.7312716245651245,59.267236886453716
+4,"the iconic gnarled palm tree with knotted bark on a sandy beach in the calm, turquoise ocean at golden hour in a highly detailed 4k digital masterpiece",0.8992322683334351,0.6642864346504211,50.33202204283895
+4,"a majestic, gnarled solitary palm tree on a rocky outcropping in the peaceful turquoise ocean at sunset in a 4k digital painting",0.9120379686355591,0.7641807198524475,57.98731854042718
+4,"the towering, gnarled palm tree with a sprawling canopy on a tropical isle in the serene, turquoise ocean at golden hour in an exquisitely detailed 4k digital artwork",0.8981277942657471,0.7209352254867554,60.09311767899053
+5,"majestic palm tree with a rugged, ancient trunk on a lush island in the serene, crystal-clear ocean water at golden hour in a highly detailed 4k digital painting",0.8317356109619141,0.6842952370643616,54.268221991534496
+5,"the tranquil palm tree with a twisted, weathered trunk on a large, tropical island in the calm, turquoise ocean water at sunset in a realistic 4k digital art",0.9010848999023438,0.6612316370010376,50.60155721732928
+5,"the beautiful palm tree with a gnarled, knotted trunk on a rocky island in the peaceful, emerald-green ocean water at dusk in a photorealistic 4k digital painting",0.8148930072784424,0.6256182193756104,51.43894243215711
+5,"a single majestic palm tree with a rugged, gnarled trunk on a small, isolated island in the crystal-clear, turquoise ocean water at golden hour in a 4k digital masterpiece",0.9166812896728516,0.6896860599517822,54.72317078742377
+5,"the stunning palm tree with a twisted, tortured trunk on a large, scenic island in the calm, ocean water at sunset in a highly realistic 4k digital art piece",0.9108318090438843,0.7301459908485413,55.60912347815915

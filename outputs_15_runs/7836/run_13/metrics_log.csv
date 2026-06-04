@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the barren surface of a distant planet with a bright radiant light shining in the background,0.8562794327735901,0.542258083820343,30.844183484212415
+1,astronaut standing on the surface of a remote planet with a vibrant star shining behind,0.7993713021278381,0.5049995183944702,30.608133763951304
+1,astronaut standing on a rocky alien terrain with a shining celestial object illuminating the scene,0.8577516078948975,0.6477171182632446,39.93952161943038
+1,highly detailed astronaut standing on the rugged surface of a mysterious planet with a bright glow in the background,0.7945225238800049,0.6315122842788696,38.37241318265829
+1,astronaut standing in a dramatic pose on the surface of a desolate alien world with a shining beacon shining in the background,0.8413591384887695,0.5193154811859131,31.181584732376017
+2,astronaut standing on a rugged extraterrestrial landscape with a star shining brightly overhead,0.8693825602531433,0.655426561832428,36.35803342000863
+2,astronaut on a barren alien world with a distant planet illuminated by a ray of sunlight,0.8817009329795837,0.4826529622077942,32.93369647815559
+2,highly detailed astronaut standing on a rocky alien terrain with an exploding star shining in the background,0.8354969024658203,0.6830039024353027,40.40705735325341
+2,astronaut standing on a barren asteroid with a stunning nebula shining in the distance,0.8062381744384766,0.4914342761039734,26.83877756768671
+2,"4k, highly realistic digital painting of an astronaut standing on a distant moon with a crescent-shaped star shining in the sky",0.788848340511322,0.5453334450721741,31.791366849046337
+3,'astronaut on a barren alien world at sunset with a distant planet illuminated by a warm ray of sunlight',0.8135597109794617,0.5831663608551025,36.49934131138289
+3,'highly detailed image of an astronaut on a desolate alien landscape with a distant planet visible in the background',0.7610655426979065,0.5721337199211121,31.054242795776428
+3,'digital painting of an astronaut on a vast barren alien world with a large planet rising above the horizon',0.8698824644088745,0.4289781153202057,24.502287465958215
+3,'astronaut standing on a rugged alien terrain with a massive planet hanging low in the sky',0.8043277263641357,0.5742541551589966,30.770011227971782
+3,'realistic 4k image of an astronaut walking on a barren alien world with a small planet visible in the distance',0.9179549217224121,0.49622607231140137,26.003275846948537
+4,highly detailed 4k digital painting of an astronaut in a spacesuit walking on a rugged alien wasteland with a small distant planet,0.8280340433120728,0.6884680390357971,46.182214364428965
+4,realistic 8k cinematic image of an astronaut astronaut in a white spacesuit walking on a barren dusty alien terrain with a tiny blue and white planet in the background,0.7821630239486694,0.6948496103286743,43.88728723192238
+4,detailed low poly 4k art of an astronaut with a red and silver spacesuit exploring a barren rocky alien landscape with a tiny distant planet visible,0.8046363592147827,0.6622062921524048,44.822700560053704
+4,photorealistic 4k digital illustration of an astronaut in a blue and silver spacesuit standing on a barren alien planet with a small blue planet visible through the atmosphere,0.7891442179679871,0.5377306938171387,30.98419981797041
+4,highly detailed realistic 4k image of an astronaut in a white spacesuit exploring a vast barren alien world with a small blue and white planet visible in the hazy distance,0.8102085590362549,0.6368321180343628,51.14585765346856
+5,realistic 8k image of an astronaut exploring a barren alien wasteland with a distant planet visible in the haze,0.8628284931182861,0.6692596077919006,50.67495393738935
+5,highly detailed 4k image of a lone astronaut trekking across a barren alien terrain with a small planet in the background,0.921048104763031,0.4609784185886383,27.5478430622944
+5,realistic 4k image of an astronaut standing on a barren alien world with a hazy distant planet and stars visible above,0.9106659889221191,0.4711481034755707,24.2160823440271
+5,photorealistic 4k image of an astronaut walking on a rocky barren alien surface with a distant alien planet visible through the atmosphere,0.9031947255134583,0.6360230445861816,43.743740703759435
+5,highly detailed 8k image of an astronaut venturing across a barren alien landscape with a small distant planet and stars in the sky,0.8242751359939575,0.48241686820983887,25.474915432681307

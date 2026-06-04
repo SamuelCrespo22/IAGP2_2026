@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,vibrant anime warrior with sword and flames in his grasp,0.8164371252059937,0.6228949427604675,51.8509475201255
+1,highly detailed anime character with a fiery blade in hand,0.8185408115386963,0.6325812339782715,52.983575628547335
+1,digital painting of a fantasy anime swordsman surrounded by fire,0.8136996626853943,0.6300316452980042,49.58579206024907
+1,a 4k resolution anime image of a swordsman holding a sword and flames,0.7920500040054321,0.6188300251960754,56.01544770108731
+1,an epic anime masterpiece with a hero wielding a blazing sword,0.7335362434387207,0.5831595659255981,45.59245549030511
+2,highly detailed anime warrior wielding a blazing sword in hand,0.8204274773597717,0.6108866930007935,50.44923481389816
+2,a highly detailed anime fantasy warrior with a fiery longsword,0.7845277786254883,0.563811182975769,43.820533105083044
+2,highly detailed close-up of an anime character holding a flaming katana,0.8001884818077087,0.6236978769302368,50.56390850849108
+2,highly detailed anime character standing proudly with a blazing magical blade,0.8331745862960815,0.5871232748031616,46.184357003119906
+2,highly detailed stylized anime action scene of a warrior holding a fiery dragon's claw sword,0.7911053895950317,0.6135938763618469,50.473987696596055
+3,highly detailed anime warrior standing proudly with a radiant magical katana,0.7514684200286865,0.6503197550773621,49.94419320090106
+3,highly detailed close-up of an anime character gripping a blazing magical staff,0.7776646018028259,0.5875601768493652,44.48869251822282
+3,highly detailed anime character standing heroically with an ethereal magical blade,0.7969427704811096,0.6378915309906006,57.34798855232449
+3,highly detailed epic anime battle fantasy combat art with a shining magical sword,0.7093400955200195,0.6442458629608154,54.784953321651635
+3,highly detailed majestic anime hero wielding a mighty magical blade in a heroic pose,0.7928709983825684,0.6075424551963806,46.177244863493655
+4,highly detailed anime warrior standing confidently with a burning magical katana,0.7816135287284851,0.6270119547843933,53.00594616902301
+4,highly realistic anime character standing heroically with a fiery magical sword,0.8237398266792297,0.6123734712600708,49.05425669034333
+4,highly detailed digital anime portrait of a proud warrior wieldng an enormous blazing blade,0.8367881178855896,0.6272380948066711,49.953545325466195
+4,masterfully crafted anime illustration of a strong warrior proudly holding a large magical flame sword,0.822288453578949,0.5965621471405029,44.86674875922941
+4,highly detailed anime fantasy character standing triumphantly with a gigantic radiant blazing sword,0.7267155647277832,0.622336208820343,47.375789126166204
+5,highly detailed realistic digital anime portrait of a mighty warrior wielding an enormous blazing sword in vivid 4k resolution,0.7718994617462158,0.6315871477127075,44.659734102558424
+5,highly realistic and detailed anime-style digital portrait of a fearless warrior holding a massive flaming blade from a heroic perspective,0.7962551116943359,0.6544268727302551,48.1454412793848
+5,a highly detailed digital painting style anime portrait of a proud warrior with a powerful blazing sword that's surrounded by magical flames,0.8298517465591431,0.6883226037025452,55.38789195535978
+5,a highly detailed realistic looking digital anime portrait of a brave warrior wielding an enormous blazing sword in a heroic fantasy environment,0.8057177066802979,0.5808238387107849,43.70770001384444
+5,"a highly realistic and detailed 4k digital anime portrait of a mighty warrior with an enormous blazing sword, showcasing his proud and fearless personality in stunning color",0.7472158670425415,0.6329565048217773,46.7879702673523

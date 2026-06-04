@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,"painting of a tiny mouse with a bright, fluffy colorful tail",0.7654784917831421,0.6513534784317017,52.86060379024534
+1,"highly detailed digital painting of a mouse with a vibrant, long colorful tail",0.810582160949707,0.5924884676933289,34.36362227365738
+1,4k digital art of a small mouse sporting a multicolored extended tail,0.6792151927947998,0.7103878855705261,42.62498160393232
+1,"detailed illustration of a cute mouse with a long, colorful, swirly tail",0.6917791366577148,0.6289911270141602,78.51898886994903
+1,"masterpiece digital painting of an adorable mouse with a fluffy, colorful, sparkly tail",0.7951250672340393,0.6107571721076965,46.34939776669512
+2,"highly detailed photorealistic portrait of a mouse with a vibrant, long colorful tail",0.6578124761581421,0.6849962472915649,45.723306224071166
+2,"highly detailed, 4k digital painting of a mouse with a long, fluffy colorful tail",0.8012851476669312,0.6311635971069336,38.58646303413872
+2,"highly detailed, realistic oil painting of a mouse with a vibrant, long colorful tail",0.7190219163894653,0.6404823064804077,32.35962189470815
+2,"highly detailed digital painting of a mouse with a long, wavy, multi-hued tail",0.6810100078582764,0.7008064985275269,33.24397315418281
+2,"highly detailed, hyper-realistic digital artwork of a mouse with a vibrant, elongated colorful tail",0.6602138876914978,0.7085286974906921,38.859360413150284
+3,"highly detailed, realistic digital painting of a mouse with a long, colorful, flowing tail",0.7965222597122192,0.640974760055542,32.76797804667645
+3,"a highly detailed mouse with a vibrant, multicolored, flowing tail, set against a subtle gradient background",0.7441762089729309,0.6947110295295715,41.18172265654568
+3,"4k digital painting of a mouse with an intricate, colorful, long tail and expressive whiskers",0.7771284580230713,0.5907144546508789,35.09766595141718
+3,"digital artwork of a mouse displaying a vibrant, curly, long tail, captured in a delicate, impressionistic style",0.717585563659668,0.7328975200653076,51.14864948061899
+3,"highly realistic, detailed digital painting of a mouse with a long, slender, rainbow-colored tail and captivating eyes",0.7296637296676636,0.7009320259094238,36.96287070482058
+4,"highly detailed realistic digital painting of a mouse with a vibrant, long colorful tail",0.7026504278182983,0.6713488101959229,36.68319110934263
+4,"highly detailed digital artwork of a mouse with a long, bright, multicolored tail and subtle whisker details",0.7064011096954346,0.7074933052062988,42.408271490033506
+4,"4K ultra-realistic digital painting of a mouse with a long, colorful, flowing tail",0.7830908894538879,0.651159405708313,37.55991373099397
+4,"highly detailed oil painting style digital artwork of a mouse with a vibrant, long, colorful tail and intricate fur texture",0.8051405549049377,0.556096076965332,29.496423383566327
+4,"highly detailed digitally painted mouse portrait with a long, colorful, flowing tail and soft, ambient lighting effects",0.8417133092880249,0.5635996460914612,38.961332332439284
+5,"highly detailed 4k digitally painted mouse portrait with a long, vibrant, flowing tail and warm, soft ambient lighting effects",0.7514801621437073,0.5462948083877563,33.75703215838895
+5,"digitally painted mouse portrait with a long, colorful tail and subtle, delicate ambient lighting that creates a cozy atmosphere",0.7587028741836548,0.6152036786079407,34.1324154336349
+5,"highly detailed digital painting of a mouse with a long, flowing tail and soft, warm lights that emphasize the texture of the fur",0.7331703305244446,0.6707550287246704,36.58743914227075
+5,"a highly realistic mouse portrait with a long, colorful, flowing tail, set against a softly lit, gentle background that accentuates the subject",0.746878981590271,0.621832549571991,39.23916595239706
+5,"highly detailed, photorealistic mouse portrait with a long, vibrant tail and subtle, naturalistic lighting effects that create a sense of depth and dimension",0.7313007116317749,0.6716099977493286,38.50490040897287

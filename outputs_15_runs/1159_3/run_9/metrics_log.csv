@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,anime character with a sword and fire burning in his outstretched hand,0.8392343521118164,0.5900041460990906,54.528912656433775
+1,highly detailed anime character wielding a sword with flames engulfing his fist,0.8300912976264954,0.6674317717552185,56.391308663767674
+1,a young anime hero with a mighty dragon-shaped sword and fire erupting from his palm,0.7203679084777832,0.6120983958244324,47.746725949901574
+1,a fantasy anime male with a sword and flames in hand set against a dark background,0.7772567868232727,0.6166275143623352,60.32667221850414
+1,digital painting of an anime warrior with a fiery sword and hand alight with magical energy,0.8440790772438049,0.6173644065856934,57.26798056379481
+2,digital painting of an anime warrior with intense fiery sword and hand ablaze with magical energy,0.822446346282959,0.6394602060317993,58.57139412926559
+2,highly detailed digital painting of a fierce anime warrior wielding a blazing magical sword and having hand aglow with mystical energy,0.7782331705093384,0.5999619960784912,51.063379746451176
+2,vibrant anime warrior with fiery sword and glowing hand in an epic digital painting style,0.8040215373039246,0.6498194932937622,54.44464031538903
+2,masterpiece of an anime warrior with flames engulfing a mystical sword and their hand shining with magical aura in a 4k digital painting,0.8375046849250793,0.59727543592453,53.71776536988403
+2,highly realistic digital painting of an anime warrior wielding a sword with flames and magical energy coursing through their hand in an intense battle scene,0.7799729108810425,0.6036447286605835,45.09573797183972
+3,highly detailed digital painting of an anime warrior with a blazing sword and hand ablaze with intense magical energy,0.8063386082649231,0.5946091413497925,52.90010619862951
+3,digital painting of a legendary anime warrior wielding a fiery sword and hand aglow with powerful magic,0.8282372355461121,0.6206181049346924,56.2859018095386
+3,vibrant 4k digital art of an anime warrior brandishing a fiery sword and hand shining with magical aura,0.8206627368927002,0.6239106059074402,52.93336258937349
+3,highly realistic anime style digital painting of a warrior armed with a blazing sword and hands alight with vibrant magical energy,0.8014024496078491,0.5585044622421265,47.24179019579488
+3,masterfully crafted digital painting of a heroic anime warrior standing with a fiery sword and hand radiating mystical magical energy,0.7964195013046265,0.6028356552124023,51.26117122096258
+4,digital painting of an anime warrior with a fiery sword and hand alight with intense magical energy,0.8463186621665955,0.6154581904411316,56.87830347350336
+4,highly detailed digital painting of an anime warrior with a blazing sword and hand shining with magical energy,0.8080450892448425,0.5576058626174927,45.52409120604161
+4,anime warrior in a fierce battle stance with a sword of flames and hand engulfed in mystical energy against a dark background,0.7766129970550537,0.6683063507080078,61.41058270706168
+4,highly realistic digital painting of a majestic anime warrior wielding a fiery sword and surrounded by wisps of shimmering magical aura,0.7745488286018372,0.571245551109314,44.7274423420961
+4,detailed 4k digital painting of a powerful anime warrior holding a sword of flames and radiating magical energy from their hand and upper body,0.8090850114822388,0.6530546545982361,53.662024808629404
+5,"highly detailed digital painting of a mystical anime warrior wielding a blazing, fiery sword with intense magical energy emanating from her hand and casting an otherworldly glow",0.7928252816200256,0.6653426885604858,55.35509743157419
+5,"anime warrior with a radiant sword and hand alight, surrounded by an aura of fiery magical energy in a highly detailed digital painting style",0.7829371690750122,0.6364343166351318,56.782059640958856
+5,"fiery sword in hand, a powerful anime warrior stands ready, radiating intense magical energy and encased in a highly detailed digital painting",0.7854933142662048,0.6314746737480164,53.6613464456327
+5,"a highly detailed, 4k digital painting of an anime warrior with magical energy surrounding her and her sword blazing with fiery intensity",0.8063302040100098,0.5860071778297424,46.06309440417527
+5,"an epic digital painting of an anime warrior imbued with magical energy, her hand and sword glowing with intense, fiery light in a highly detailed, cinematic style",0.7787281274795532,0.5602152347564697,45.1374509194367

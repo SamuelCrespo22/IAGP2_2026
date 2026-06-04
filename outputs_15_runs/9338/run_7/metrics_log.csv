@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a mouse with a long colorful tail in a whimsical landscape,0.63802170753479,0.7037187218666077,51.37052669336851
+1,mouse with a bright blue tail standing on its hind legs,0.728286623954773,0.7752574682235718,48.1336465162595
+1,highly detailed digital painting of a mouse with a vibrant multicolored tail,0.7412797212600708,0.6509808897972107,36.8712669499283
+1,realistic depiction of a mouse in mid-hop with a rainbow-colored tail and bold brushstrokes,0.7760814428329468,0.6391069889068604,39.80678894398992
+1,whimsical 4k digital portrait of a mouse with a curly colorful tail and dreamy atmosphere,0.7709637880325317,0.5192732810974121,40.08369132992589
+2,realistic highly detailed depiction of a mouse in mid-hop with a multicolored rainbow tail and soft brushstrokes,0.7113281488418579,0.6999136209487915,39.074941385321516
+2,"mouse mid-hop motion blur with bold rainbow tail and vivid, textured brushstrokes",0.760096549987793,0.6838245391845703,36.479566005358514
+2,"digital painting of a mouse jumping with a shimmering rainbow tail and expressive, loose brushstrokes",0.8267651796340942,0.6408098936080933,46.9630304285477
+2,"realistic 4k image of a mouse leaping with a bright rainbow tail and dynamic, abstract brushstrokes",0.7844034433364868,0.6019717454910278,47.335364075798594
+2,"oil painting of a mouse frozen in mid-air with a vibrant rainbow tail and thick, impasto brushstrokes",0.8396415710449219,0.6104540824890137,54.618659843803734
+3,"'oil painting of a mouse frozen in mid-air with a soft, pastel rainbow tail and thick, textured brushstrokes'",0.8003503680229187,0.6848862171173096,54.80409590323103
+3,"'hyper-realistic, 4k digital painting of a mouse suspended in mid-air with a vibrant, multi-colored rainbow tail'",0.7596688866615295,0.6774922609329224,41.520876371313825
+3,"'vibrant, highly detailed oil painting of a mouse frozen in mid-air with a bright, swirling rainbow tail and expressive brushstrokes'",0.8079200983047485,0.5801615118980408,52.72081669411279
+3,"'masterpiece oil painting of a mouse frozen in motion with a long, flowing rainbow tail and rich, impasto colors'",0.7936617732048035,0.5868517756462097,49.57578708701221
+3,"'highly realistic, fine art digital painting of a mouse suspended in mid-air with a delicate, shimmering rainbow tail and subtle, blended colors'",0.7990424633026123,0.6296399235725403,41.84037998354059
+4,vibrant oil painting of a mouse frozen in mid-air with a bright rainbow tail and textured impasto brushstrokes,0.756828784942627,0.6339887976646423,63.609802411798285
+4,delicate oil painting of a mouse in mid-air with a fluffy rainbow tail and soft brushstrokes,0.8218793869018555,0.5955137014389038,44.23105479669547
+4,highly detailed 4k digital artwork of a mouse suspended in mid-air featuring a vibrant rainbow tail with thick brushstrokes,0.784991979598999,0.5900675654411316,42.339106882762124
+4,highly realistic oil painting of a mouse trapped in time with a bright multicolored tail and bold brushwork,0.765503466129303,0.5755856037139893,31.057641605504955
+4,whimsical masterpiece digital artwork of a tiny mouse flying in the air surrounded by a shimmering rainbow aura and intricate brushstrokes,0.7276630997657776,0.6753798127174377,53.615931246911
+5,"oil painting of a small rodent suspended in the air with a multicolored, glowing tail and textured brushstrokes",0.7793734669685364,0.6482542753219604,42.00512758875144
+5,"highly detailed digital painting of a mouse leaping through a vortex of colorful light with a radiant, rainbow tail",0.7561219930648804,0.6186544299125671,42.56721021145371
+5,"highly realistic 4k oil painting of a tiny mammal frozen in the midst of a dramatic flight with a vibrant, swirled tail",0.7155373096466064,0.7448235154151917,53.037898164605956
+5,"masterpiece of a mouse with an iridescent, feathered tail soaring through a kaleidoscope of colors",0.7285038232803345,0.7327234745025635,45.585559977331684
+5,"oil painting of a delicate creature mid-air with a shimmering, rainbow-colored tail and thick impasto brushwork in a loose, expressive style",0.7052767276763916,0.6217039227485657,48.455398122260604

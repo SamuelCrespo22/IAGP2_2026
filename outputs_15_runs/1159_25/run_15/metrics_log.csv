@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,there is a clear glass of freshly squeezed orange juice with a large slice of orange sitting next to it on a white table,0.8890949487686157,0.690873384475708,67.10087200536644
+1,"a glass of orange juice with an orange slice on the side, set against a blurred background, highly detailed",0.8948386311531067,0.5931180715560913,55.59823320236055
+1,"the perfect morning, a glass of ice-cold orange juice and a slice of orange placed elegantly on the side",0.927621603012085,0.654495358467102,56.96965690568753
+1,"a glass of glass and a slice of orange, both placed in a symmetrical formation, in a 4k digital painting style",0.5683398842811584,0.7379247546195984,64.42527974635883
+1,a glass of freshly squeezed orange juice with a thick slice of orange on the table in front of a blurred kitchen window,0.7634036540985107,0.7473485469818115,66.91140027064841
+2,highly detailed morning scene with a glass of ice-cold orange juice and a slice of orange placed elegantly on a crisp white tablecloth,0.7523884773254395,0.7525721788406372,66.41476988679847
+2,a serene still life of a morning glass of orange juice and an orange slice arranged on a simple wooden table,0.8942586779594421,0.6195889115333557,49.990673529086145
+2,photorealistic morning table setting with a glass of chilled orange juice and a perfectly sliced orange on the side,0.8539890646934509,0.6970523595809937,57.96045733637812
+2,a morning masterpiece featuring a glass of ice-cold orange juice and a delicate orange slice on a fine china plate,0.901403546333313,0.6696839332580566,64.36288713267554
+2,perfectly detailed and realistic depiction of a morning breakfast scene with a glass of ice-cold orange juice and a slice of orange on a modern kitchen table,0.6788808703422546,0.7272945642471313,56.14411835387773
+3,"the flawless morning, a glass of crystal-clear ice-cold orange juice and a slice of vibrant orange placed delicately on the side",0.8853932023048401,0.6034719944000244,53.64471281887523
+3,"morning sunlight filters through the windows, a glass of freshly squeezed orange juice and a slice of orange placed on a beautiful ceramic plate",0.7092159390449524,0.7530192136764526,58.920261794344555
+3,"an inviting still life, a tall clear glass filled with ice and freshly squeezed orange juice, alongside a perfectly sliced and arranged orange half",0.8794412612915039,0.647082507610321,56.55486389283477
+3,"the serene atmosphere of a luxurious breakfast setting, a glass of ice-cold orange juice resting next to a delicate slice of orange on a fine china plate",0.7589693665504456,0.7459589838981628,64.99831787280303
+3,"highly detailed, 4k realistic digital art of a glass of ice-cold orange juice and a carefully sliced orange placed elegantly on a minimalist table setup",0.91975337266922,0.5920271277427673,51.21578291005604
+4,"a flawless morning, a crystal-clear glass of ice-cold fresh squeezed orange juice and a vibrant slice of orange placed elegantly on a rustic wooden side table",0.8907256722450256,0.6326401233673096,47.856060995324015
+4,"a serene morning, a delicate glass of ice-cold orange juice and a sliced orange garnish resting beautifully on a linen draped coffee table",0.8350062370300293,0.7259809374809265,60.5779818865319
+4,"the perfect morning, a chilled glass of orange juice and a slice of orange placed artistically on a minimalist sideboard",0.6889346241950989,0.7589035034179688,52.04634375519362
+4,"a morning idyllic scene, a refreshing glass of ice-cold orange juice and a slice of orange sitting on a weathered wooden bench",0.7039202451705933,0.833100438117981,55.86553425315152
+4,"an exquisite still life, a gleaming glass of ice-cold orange juice and a succulent slice of orange placed thoughtfully on a fine antique side table",0.6889787912368774,0.686123251914978,59.250010177294286
+5,"the perfect serene morning, a glass of crystal-clear orange juice and a slice of perfectly sliced orange placed artfully on the side",0.883069634437561,0.6870405673980713,60.817927270347674
+5,a tranquil summer morning with a refreshing glass of orange juice and a vibrant orange slice elegantly placed beside it,0.9256086945533752,0.6266370415687561,53.205729559673074
+5,"highly detailed, 4k rendition of a quiet morning moment with a glass of ice-cold freshly squeezed orange juice and a slice of orange delicately arranged on a decorative plate",0.7935921549797058,0.7056788206100464,55.84595060741537
+5,"an expertly crafted, hyper-realistic depiction of a warm morning with a glass of chilled orange juice and a slice of orange placed artistically against a soft, warm background",0.8919428586959839,0.6131516695022583,50.421441923062524
+5,"the idyllic morning scene, a crystal glass holding a glass of icy orange juice and a delicate slice of orange placed gently beside it, all captured in exquisite detail with a subtle, dreamy quality",0.8180265426635742,0.7700525522232056,65.59015773073135

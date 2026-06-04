@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,"painting of a mouse with a bright, colorful, fluffy tail",0.8022346496582031,0.6309876441955566,57.871671874651334
+1,"highly detailed digital painting of a mouse with a long, fluffy, multi-colored tail",0.7536454200744629,0.6755779981613159,37.3510532635961
+1,"a masterfully crafted, surreal mouse art piece with a vibrant, swirly tail",0.7834581732749939,0.6375291347503662,33.88307895851587
+1,"colorful 4k digital painting of a mouse with a long, fluffy, sparkly tail",0.8336500525474548,0.6432949304580688,44.5539820756058
+1,"stunning, photorealistic painting of a mouse with a beautiful, shimmering, rainbow-colored tail",0.8340046405792236,0.6653951406478882,42.46255846498352
+2,"highly detailed photorealistic painting of a mouse with a vibrant, shimmering, multicolored tail",0.775680661201477,0.6326861381530762,36.77622411185891
+2,"stunning digital artwork of a mouse with a beautiful, iridescent, rainbow-colored tail",0.7754430770874023,0.7024425268173218,42.74864052173925
+2,"realistic 4k rendering of a mouse with a gorgeous, sparkly, pastel-colored tail",0.6481518149375916,0.7235310673713684,54.58696060617521
+2,"beautiful watercolor painting of a mouse with a stunning, shimmering, metallic-colored tail",0.7114120721817017,0.7735066413879395,94.95251235130499
+2,"photorealistic digital masterpiece of a mouse with a beautiful, shimmering, gradient-colored tail",0.7225919961929321,0.7248169183731079,43.200590605027934
+3,"highly detailed digital painting of a mouse with a long, slender, multicolored tail",0.644685685634613,0.7222421765327454,34.70546814489032
+3,"photorealistic portrait of a cute, furry mouse with a beautiful, shimmering, rainbow-colored tail",0.7366817593574524,0.7178648710250854,41.46239890691927
+3,"stunning, vivid, realistic picture of a mouse with a vibrant, rainbow-colored, sparkly tail",0.7506502866744995,0.7142410278320312,41.89972181973892
+3,"beautiful, highly detailed oil painting of a mouse with a shimmering, iridescent, multicolored tail",0.7851907014846802,0.5883673429489136,34.05376829429327
+3,"realistic, highly colored digital art of a happy, little mouse with a shimmering, colorful, rainbow tail",0.7783482074737549,0.6005541086196899,40.62356275836384
+4,"stunning, highly detailed painting of a mouse with a breathtaking, glittering, multicolored tail",0.7744383215904236,0.6794602870941162,36.31870260621712
+4,"photorealistic, 4k digital art of a mouse with a beautiful, shimmering, rainbow-colored tail and realistic environment",0.7103292346000671,0.7102533578872681,37.91872958392495
+4,"mesmerizing, masterfully crafted oil painting of a mouse with an iridescent, shimmering, colored tail and intricate details",0.7771297693252563,0.6498668193817139,31.105904564323946
+4,"beautiful, realistic, photorealistic portrait of a mouse with a vibrant, colorful, rainbow-colored tail and perfect texture",0.7524535655975342,0.7006624937057495,44.87314259872463
+4,"stunning, surreal, highly detailed digital artwork of a mouse with a radiant, glittering, rainbow-colored tail and dreamy atmosphere",0.7781688570976257,0.6887924671173096,45.35611381862119
+5,"stunning, highly detailed, photorealistic painting of a mouse with a vibrant, shimmering, multi-colored tail and bright, inquisitive eyes",0.7019445300102234,0.6376851797103882,41.62142179848386
+5,"beautiful, intricate digital masterpiece of a mouse with a stunning, rainbow-colored tail and a delicate, almost transparent wing",0.6758475303649902,0.6927632093429565,40.127019327649144
+5,"a breathtakingly realistic depiction of a mouse with a shimmering, iridescent tail and exquisite, detailed fur texture",0.7490976452827454,0.6832930445671082,40.53115708158486
+5,"photorealistic, 4k quality image of a mouse with a majestic, rainbow-colored tail and an almost lifelike, three-dimensional appearance",0.6544942259788513,0.731925368309021,42.09955353327729
+5,"stunning, highly realistic digital painting of a mouse with a vibrant, shimmering tail and delicate, intricate details in its whiskers and paw pads",0.6862730979919434,0.6997880339622498,38.52305762479873

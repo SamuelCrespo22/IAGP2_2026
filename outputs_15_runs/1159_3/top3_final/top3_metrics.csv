@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+4,'a highly detailed anime character expertly wielding a burning sword in his hand',0.8777474761009216,0.6009542942047119,49.56122670322597,run_3
+5,digital painting highly detailed of an anime character wielding a sword with a massive blast of fire in the background,0.862785816192627,0.6090785264968872,47.72932244681561,run_1
+5,a highly detailed and photorealistic anime character expertly wielding a burning sword in his hand,0.8625450134277344,0.6002804636955261,49.80657050384655,run_3

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,a glass of freshly squeezed orange juice with a slice of orange on the side,0.9225618839263916,0.5689079761505127,42.110670829446335
+1,a glass on a wooden table with a slice of orange and a few ice cubes,0.8795329332351685,0.4141470789909363,33.351881021050744
+1,highly detailed digital painting of a glass of orange juice with a slice of orange on the side,0.8868969678878784,0.6164489984512329,52.64091342778106
+1,a clear glass on a rustic table with a glass of orange juice and a single orange slice,0.906548261642456,0.6730412840843201,58.148694759390565
+1,realistic 4k photograph of a glass of orange juice with a slice of orange floating gently on top,0.925332248210907,0.46579858660697937,46.89661464551531
+2,highly detailed glass of freshly squeezed orange juice with a thick slice of navel orange on the side,0.9251805543899536,0.5559148192405701,40.93782273096034
+2,"highly detailed glass of orange juice with a thick slice of navel orange floating on its side, set against a subtle warm wooden table background",0.9313750863075256,0.5316492915153503,42.73061770418007
+2,"highly detailed realistic digital painting of a glass of orange juice with a slice of orange on the side, set in a cozy modern home interior",0.8106889724731445,0.7094914317131042,58.295695487626425
+2,"a highly detailed realistic glass of orange juice with a thick slice of navel orange on the side, illuminated by soft morning sunlight",0.9342774748802185,0.5226434469223022,42.56432377252301
+2,"highly detailed 4k digital painting of a glass of freshly squeezed orange juice with a slice of orange on the side, set in a minimalist kitchen with natural light pouring in",0.907865047454834,0.7101404666900635,60.52313350611377
+3,"highly detailed realistic glass of fresh squeezed orange juice with a thick slice of navel orange on the side, illuminated by warm morning sunlight",0.9208027720451355,0.5983700752258301,46.82013155214445
+3,"a stunningly crisp 4k digital painting of a glass of orange juice with a thick slice of navel orange, bathed in soft golden light",0.9125664234161377,0.6011942625045776,52.86743622463336
+3,"highly realistic and hyper detailed glass of orange juice with a thick slice of navel orange, gently lit by a morning sunbeam",0.9391929507255554,0.4907492995262146,42.89910214517123
+3,"a perfectly rendered glass of orange juice with a slice of navel orange, set amidst a serene morning background of soft grass and warm sunlight",0.8549438118934631,0.8186368942260742,66.69620344066804
+3,"highly detailed and photorealistic still life of a glass of orange juice with a thick slice of navel orange, captured in a studio setting with softbox lighting.",0.9183050394058228,0.5903555154800415,57.89112556970599
+4,"highly realistic glass of fresh squeezed orange juice with a thick slice of navel orange, softly lit by a morning sunbeam",0.9313584566116333,0.6073601245880127,46.403186209548586
+4,"stunningly detailed orange juice with a thick slice of navel orange and ice, illuminated by a warm sunbeam",0.9385426044464111,0.5302753448486328,45.08481043136909
+4,"4k digital painting of a glass of juice with a slice of navel orange on a minimalist kitchen table, lit by a single morning sunbeam",0.8035434484481812,0.6995951533317566,61.00246523593067
+4,"highly detailed, ultra-realistic glass of orange juice with a thick slice of navel orange, surrounded by a delicate morning mist and gentle sunlight",0.9204977750778198,0.5352972745895386,46.73459931123768
+4,"photorealistic glass of orange juice with a thick slice of navel orange, placed on a simple kitchen surface and softly lit by the early morning sun.",0.9314520955085754,0.5514776706695557,48.201203257395896
+5,"highly realistic still life of a glass of orange juice with a thick slice of navel orange, illuminated by a morning sunbeam",0.8927532434463501,0.5916851758956909,50.92149190034727
+5,"a photorealistic glass of freshly squeezed orange juice with a prominent slice of citrus, softly lit",0.9342612028121948,0.5077141523361206,39.30676184526684
+5,highly detailed digital still life of a glass filled with orange juice and garnished with a large navel orange slice,0.9124612808227539,0.6252493262290955,52.8270119763935
+5,"hyper realistic morning scene featuring a glass of orange juice, a navel orange, and a sunbeam",0.71302330493927,0.7260371446609497,57.36233589315943
+5,"a 4k hyper detailed still life of a glass of orange juice with a thick slice of navel orange, gently lit by a morning sun's warm rays",0.9148544073104858,0.5050428509712219,41.70023235009318

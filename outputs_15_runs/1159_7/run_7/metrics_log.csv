@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"a tiny, adorable hedgehog perched on top of a rich chocolate cake",0.6001472473144531,0.6313382983207703,50.963262475371494
+1,"a small, cute hedgehog sitting on a large, round block of fluffy white cake",0.6124117374420166,0.752751350402832,76.79275285441695
+1,"a hedgehog in a party hat sits on top of a large, multi-layered vanilla cake",0.45270752906799316,0.759221613407135,63.362209032755175
+1,"a small, furry hedgehog delicately balanced on a single, towering cake",0.5525356531143188,0.7013288736343384,56.425155915017186
+1,"a cute hedgehog wearing a chef's hat proudly sits atop a perfectly baked, 3-tiered strawberry shortcake",0.5197819471359253,0.715985894203186,60.00021027422193
+2,"A highly detailed, photorealistic image of a small, cute hedgehog sitting on a large, round block of fluffy white cake",0.6387554407119751,0.7445715665817261,70.41605444246359
+2,"A tiny, adorable hedgehog perched on a giant, spherical block of pristine white angel food cake",0.6394830942153931,0.7137568593025208,71.37414795331782
+2,"A small, cute hedgehog in a fancy hat sitting on a large, white, moist, fluffy bundt cake",0.619025468826294,0.7480336427688599,66.95435551061968
+2,"An endearing, miniature hedgehog sitting at the top of a massive, snow-white, velvety pound cake",0.6125993728637695,0.7604522705078125,67.9171991058261
+2,"A sweet, small hedgehog in a party hat sitting on a gigantic, round, fluffy white croquembouche.",0.6329036951065063,0.6357858180999756,56.81195616453072
+3,"A realistic, tiny hedgehog sitting alone on a giant, pure white slice of angel food cake",0.49779999256134033,0.732244074344635,70.92091003305848
+3,"A teeny, pink hedgehog perched proudly on a colossal, fluffy block of freshly baked angel food cake",0.5640312433242798,0.7529045343399048,80.04336771805963
+3,"A minuscule, grey hedgehog is shown standing on a gargantuan, sugar-dusted spherical block of angel food cake",0.5851773619651794,0.7284571528434753,54.573185836336265
+3,"A cute, white hedgehog sits on top of a gigantic, multi-tiered tower of moist, fluffy angel food cake",0.5097479820251465,0.7557807564735413,66.77061835042961
+3,"A small, brown hedgehog is delicately balancing on a massive, gleaming sphere of the fluffiest, most tender angel food cake",0.6274237632751465,0.612525224685669,47.02798873053911
+4,"A tiny, adorable, highly detailed, cartoon hedgehog perched on a massive, spherical block of fluffy, pristine white angel food cake",0.6596825122833252,0.6911796927452087,72.26167233778538
+4,"A small, cute, realistic hedgehog sitting on a gigantic, rounded block of sweet, fluffy white angel food cake",0.666903018951416,0.7035421133041382,72.64277076373709
+4,"A miniature, endearing, surreal hedgehog resting on a colossal, spherical block of light, tender white angel food cake",0.6284763813018799,0.6545712351799011,50.08667875271295
+4,"A teeny, tiny, highly stylized hedgehog perched on a massive, rounded, ornate block of flaky, soft white angel food cake",0.6330965757369995,0.636340320110321,58.68973887598903
+4,"A diminutive, adorable, photorealistic hedgehog sitting on a enormous, massive, layered block of moist, fluffy white angel food cake",0.6134413480758667,0.6904650330543518,67.55760026369374
+5,"A small, ultra-realistic, cartoonish hedgehog sitting on a gigantic, rounded block of sweet, fluffy white angel food cake",0.6879163980484009,0.7221516370773315,73.5748349892833
+5,"A petite, adorable, highly detailed hedgehog perches on a massive, rounded block of moist, fluffy white angel food cake",0.6551007032394409,0.6639755964279175,63.46919478252889
+5,"A tiny, cuddly, realistic hedgehog sits atop a gigantic, rounded block of fluffy white angel food cake with intricate, swirly frosting",0.6164828538894653,0.7055457234382629,69.77523540041665
+5,"A small, cute, highly stylized hedgehog is centered on a gigantic, rounded block of sweet, fluffy white angel food cake",0.6426055431365967,0.6655089855194092,68.77618258996775
+5,"A compact, adorable, highly realistic hedgehog sits in the foreground on a gigantic, rounded block of sweet, fluffy white angel food cake with fine, delicate sprinkles.",0.5559000968933105,0.7628936767578125,70.5362809066696

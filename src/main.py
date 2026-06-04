@@ -17,10 +17,10 @@ load_dotenv()
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 TARGETS_DIR = os.path.join(BASE_DIR, "data")
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs_15_runs")
 NUM_ITERATIONS = 5      # Optimization: how many times to try to improve the prompt
-VARIANTS_PER_ITER = 3   # Optimization: how many new prompts per iteration
-NUM_RUNS = 5            # Requirement: repetitions of the cycle per image (at least 5)
+VARIANTS_PER_ITER = 5   # Optimization: how many new prompts per iteration
+NUM_RUNS = 15           # Requirement: repetitions of the cycle per image (at least 5)
 
 # Colab prompt dictionary
 INITIAL_PROMPTS = {
@@ -115,18 +115,20 @@ def call_llm_for_prompts(current_prompt, clip_score, rmse_score):
     system_prompt = (
         "You are an expert prompt engineer for Stable Diffusion models. "
         "Your goal is to perfectly reconstruct a target image by tweaking the prompt. "
-        "Respond ONLY with EXACTLY 3 new prompt variations separated by the pipe character '|'. "
-        "Do not include numbering, explanations, quotes, or conversational text. Just the 3 phrases separated by '|'."
+        "Respond ONLY with EXACTLY 5 new prompt variations separated by the pipe character '|'. "
+        "Do not include numbering, explanations, quotes, or conversational text. "
+        "Just the 5 phrases separated by '|'."
     )
-    
+
     user_prompt = (
         f"The current best prompt is: '{current_prompt}'.\n"
         f"Its CLIP similarity score is {clip_score:.4f} (higher is better, 1.0 is perfect).\n"
         f"Its pixel RMSE error is {rmse_score:.4f} (lower is better, 0.0 is perfect).\n\n"
-        f"Generate 3 variations of this prompt to try and improve these scores. "
-        f"Try altering descriptive words, fixing hallucinations, adding style keywords (e.g., highly detailed, 4k, masterpiece, digital painting), "
+        f"Generate 5 variations of this prompt to try and improve these scores. "
+        f"Try altering descriptive words, fixing hallucinations, adding style keywords "
+        f"(e.g., highly detailed, 4k, masterpiece, digital painting), "
         f"or slightly changing the framing. "
-        f"Format strictly as: variation 1 | variation 2 | variation 3"
+        f"Format strictly as: variation 1 | variation 2 | variation 3 | variation 4 | variation 5"
     )
 
     try:
@@ -136,24 +138,32 @@ def call_llm_for_prompts(current_prompt, clip_score, rmse_score):
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
-            temperature=0.7 
+            temperature=0.9
         )
-        
+
         raw_text = response.choices[0].message.content.strip()
-        variations = [v.strip() for v in raw_text.split('|') if v.strip()]
-        
+        variations = [v.strip() for v in raw_text.split("|") if v.strip()]
+
         if len(variations) < VARIANTS_PER_ITER:
             variations = [
-                current_prompt + ", highly detailed", 
-                current_prompt + ", high quality, sharp", 
-                current_prompt + ", best lighting"
+                current_prompt + ", highly detailed",
+                current_prompt + ", high quality, sharp",
+                current_prompt + ", best lighting",
+                current_prompt + ", masterpiece",
+                current_prompt + ", ultra realistic"
             ]
-            
+
         return variations[:VARIANTS_PER_ITER]
-        
+
     except Exception as e:
         print(f"  [Groq API error]: {e}")
-        return [current_prompt + " hd", current_prompt + " 4k", current_prompt + " 8k"]
+        return [
+            current_prompt + " hd",
+            current_prompt + " 4k",
+            current_prompt + " 8k",
+            current_prompt + " masterpiece",
+            current_prompt + " ultra detailed"
+        ]
 
 # ---------------------------------------------------------
 # Main optimization loop

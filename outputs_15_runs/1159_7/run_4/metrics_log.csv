@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,the hedgehog is sitting precisely on top of a rich moist vanilla cake,0.5105214715003967,0.7290922403335571,56.71628287306923
+1,a small hedgehog is perched at the edge of a decadent chocolate cake,0.5571448802947998,0.6803597211837769,48.2046351632174
+1,highly detailed hedgehog statue sits atop an intricately designed 4k block of vanilla cake,0.6189488172531128,0.6633638143539429,52.62726788480463
+1,a photorealistic hedgehog figure is delicately placed upon a towering stack of fluffy whipped cream cakes,0.522113561630249,0.7316408753395081,60.272751710644236
+1,"a realistic hedgehog model is elegantly posed on top of a gleaming, multi-tiered cake masterpiece",0.5857304930686951,0.68268883228302,52.497055374803395
+2,highly detailed realistic hedgehog statue sits atop an intricately designed 4k block of moist vanilla cake,0.6276101469993591,0.6203511953353882,43.76538022918755
+2,highly detailed 4k realistic hedgehog figurine sits atop a intricately designed block vanilla sponge cake,0.6361839175224304,0.6792758107185364,61.179621411092384
+2,highly detailed 4k realistic sculpture of a hedgehog sits atop an intricately designed block of moist vanilla bean cake,0.6585302948951721,0.5995275974273682,51.790473611214594
+2,an incredibly detailed 4k digital painting of a hedgehog statue sits atop an intricately designed block of rich vanilla cake,0.6454043388366699,0.678103506565094,48.91779180096005
+2,highly detailed highly realistic 4k still-life photograph of a hedgehog sculpture sits atop an intricately designed block of moist vanilla birthday cake,0.5745753049850464,0.7387187480926514,59.65122567248388
+3,highly detailed 4k realistic sculpture of a hedgehog sits atop an intricately designed moist vanilla bean pound cake,0.6809849739074707,0.5832494497299194,42.5414531194691
+3,highly realistic 4k sculpture of a hedgehog sitting atop a moist vanilla bean layer cake,0.6128702759742737,0.6757218241691589,52.22338864983023
+3,4k digital painting of a highly detailed sculpture of a hedgehog perched atop a block of moist vanilla bean cake,0.6897969841957092,0.6183698773384094,46.02918303012389
+3,a highly realistic 4k sculpture of a hedgehog resting on top of an intricately designed moist vanilla bean cake with a subtle sheen,0.6301191449165344,0.5928945541381836,43.109888409014644
+3,highly detailed digital sculpture of a hedgehog sitting atop a 4k rendered moist vanilla bean cake with an intricately designed crumb structure,0.6309127807617188,0.6016440987586975,51.114098206366926
+4,highly realistic 4k digital painting of a detailed sculpture of a hedgehog perched atop a block of moist vanilla bean cake,0.6528323888778687,0.6144025921821594,44.902858432128745
+4,4k photorealistic digital art of a stunning sculpture featuring a hedgehog on top of a moist cream-filled vanilla bean cake,0.6391049027442932,0.6782266497612,47.55047038530863
+4,4k highly detailed oil painting of a beautiful sculpture of a hedgehog situated on a block of sweet vanilla bean cake,0.6347782015800476,0.6255015134811401,44.234675919536436
+4,detailed digital rendering of a realistic sculpture of a hedgehog resting on a block of creamy vanilla bean cake,0.636815071105957,0.71876460313797,60.41663412392862
+4,4k realistic digital artwork of an intricately designed sculpture of a hedgehog sitting on top of a rich moist vanilla bean cake,0.6288243532180786,0.6923195719718933,50.77235465626526
+5,Highly detailed 4k digital painting of a sculpture of a hedgehog posed atop a block of moist vanilla bean cake in warm sunlight,0.5953555107116699,0.647840678691864,46.06389349076613
+5,4k digital painting of a highly realistic sculpture of a hedgehog sitting proudly on top of a slice of moist vanilla bean cake,0.678934633731842,0.6704955101013184,54.67300880156676
+5,A highly detailed 4k digital masterpiece of a hedgehog sculpture perched atop a stack of moist vanilla bean cake,0.5650076270103455,0.7049614787101746,47.015159056106185
+5,"A highly realistic sculpture of a hedgehog resting on a pedestal of moist vanilla bean cake, rendered in 4k digital painting",0.6643984913825989,0.6731318235397339,49.976085289935796
+5,4k digital painting of a whimsical sculpture of a hedgehog reclining on a block of moist vanilla bean cake with a delicate drizzle of honey.,0.5950716733932495,0.605198323726654,44.010549166929486

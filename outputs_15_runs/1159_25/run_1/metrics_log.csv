@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,'a highly realistic glass of freshly squeezed orange juice with a slice of orange on the side',0.9008345007896423,0.5735489130020142,45.09177128395395
+1,'a 4k digital painting of a glass of orange juice with a slice of orange next to it',0.8988102674484253,0.6219831109046936,57.81298330843869
+1,'a photorealistic still life of a glass of orange juice and a slice of orange',0.7587553858757019,0.6203486919403076,53.77406389287476
+1,'a highly detailed close-up of a glass of orange juice with a slice of orange on the rim',0.905889093875885,0.5548226833343506,50.59616929292411
+1,"'a beautiful digital illustration of a glass of orange juice with a slice of orange on the side, natural light pouring in the window'",0.7854864597320557,0.7420395612716675,56.9054571966214
+2,highly detailed glass of freshly squeezed orange juice with a thick slice of peeled orange on the side,0.9261800646781921,0.48452064394950867,39.4689661183798
+2,a highly realistic glass of orange juice with a juicy slice of orange placed beside it,0.9172769784927368,0.5731035470962524,51.08920771509611
+2,beautifully lit glass of orange juice with a thin slice of orange on the rim of the glass,0.9273252487182617,0.48746737837791443,47.220461676197814
+2,a still life of a glass of orange juice and a small slice of orange on a decorative plate,0.8771837949752808,0.6554059982299805,57.4174386513777
+2,highly detailed 4k digital painting of a glass of orange juice with a slice of peeled orange and a few drops of juice on the rim,0.8739197850227356,0.5575571656227112,51.72137010862402
+3,beautifully lit glass of freshly squeezed orange juice with a thin slice of orange on the rim of a delicate glass,0.9022054672241211,0.37890303134918213,37.04770323906102
+3,"a perfectly lit glass of orange juice with a thin slice of orange on the rim, highly detailed",0.9457734227180481,0.380403071641922,38.4376902469015
+3,"a stunning close-up of a glass filled with orange juice with a thin slice of orange on the rim, photographed in a studio",0.9281479716300964,0.4887523651123047,47.81374728760525
+3,"a masterfully lit glass of orange juice with a thin slice of orange on the rim of a clear glass, rendered in digital painting",0.9229787588119507,0.6204367876052856,59.84891586915247
+3,"a crystal glass filled with freshly squeezed orange juice and adorned with a thin slice of orange on the rim, beautifully styled in soft natural light",0.9246445298194885,0.5044803023338318,45.37006581060788
+4,"'a highly realistic glass of orange juice with a thin slice of orange on the rim, highly detailed, 4k resolution'",0.9185973405838013,0.38172653317451477,36.506687203955636
+4,"'a perfectly lit glass of orange juice with a delicate slice of orange on the rim, photorealistic and detailed'",0.9300525188446045,0.4718388020992279,46.59343033036168
+4,"'an artistically composed glass of orange juice with a thin slice of orange on the rim, highly detailed and textured'",0.9389554858207703,0.37728700041770935,40.30073854975498
+4,"'a bright and inviting glass of orange juice with a perfect slice of orange on the rim, highly detailed and in 4k'",0.9303657412528992,0.48765552043914795,37.0010828770442
+4,"'a close-up of a glass of orange juice with a thin slice of orange on the rim, highly detailed and highly realistic'",0.9197916984558105,0.5614364743232727,50.244411396021555
+5,"a highly realistic glass of freshly squeezed orange juice with a thin slice of orange on the rim, 4k",0.9418182373046875,0.34634724259376526,35.13314207291585
+5,"a perfectly lit glass of vibrant orange juice with a thin slice of orange on the rim, ultra-high resolution",0.9446470737457275,0.32929813861846924,36.89125317985054
+5,"a detailed glass of icy cold orange juice with a thin slice of orange on the rim, highly saturated colors",0.9179251194000244,0.5102815628051758,40.96682301839706
+5,"a beautiful glass of chilled orange juice with a thin slice of orange on the rim, masterfully composed",0.9226184487342834,0.4501456022262573,40.061358192180464
+5,"a stunning glass of perfectly poured orange juice with a thin slice of orange on the rim, highly textured",0.9196573495864868,0.43317633867263794,36.27832267888151

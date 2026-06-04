@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,there is a high-quality glass of freshly squeezed orange juice with a perfect slice of orange on a rustic wooden table,0.9282270073890686,0.4929768443107605,37.00308349865921
+1,"a photorealistic glass of orange juice with a slice of orange sits on a crisp, white cloth",0.9262775182723999,0.6337507963180542,69.71352685589278
+1,highly detailed glass of 100% orange juice with a vibrant slice of orange on a modern kitchen countertop,0.8325971961021423,0.762000560760498,64.44322888919702
+1,realistic image of a glass of orange juice with a slice of orange on a weathered wood grain table,0.9205569624900818,0.5404094457626343,43.46820786493029
+1,"a digital masterpiece of a glass of orange juice with a slice of orange on a minimalist glass table set in a warm, natural light",0.914940595626831,0.7084071636199951,59.67690360245537
+2,highly detailed realistic glass of freshly squeezed orange juice with a perfect slice of orange on a rustic wooden table,0.9313309192657471,0.5319049954414368,40.51903036944812
+2,a photorealistic still life painting of a glass of freshly squeezed orange juice with a perfect slice of orange on a weathered wooden table,0.9263734221458435,0.5141938924789429,43.62122002221914
+2,there is a crystal clear glass of freshly squeezed orange juice with a perfectly sliced orange on a beautifully crafted wooden table,0.9245791435241699,0.5113745927810669,41.48091460123191
+2,a highly realistic still life of a glass of freshly squeezed orange juice with a perfectly sliced orange on a wooden table in a warm and cozy atmosphere,0.8998304009437561,0.6199805736541748,54.94537178048125
+2,a precise and detailed photorealistic image of a glass of freshly squeezed orange juice with a perfect slice of orange on a traditional wooden table with a soft warm light,0.9291110634803772,0.5236212611198425,41.81615067085042
+3,highly detailed realistic photo-realistic glass of freshly squeezed orange juice with a perfectly sliced orange on a rustic wooden table,0.9325696229934692,0.5555428266525269,40.93258582449821
+3,perfectly rendered detailed realistic glass of freshly squeezed orange juice with a single slice of orange on a distressed wooden table,0.947516143321991,0.431487500667572,36.11507283967592
+3,highly realistic 4k image of a glass filled with freshly squeezed orange juice accompanied by a single slice of orange on a weathered wooden table,0.9285416007041931,0.4520089030265808,36.84236700901416
+3,detailed photorealistic digital oil painting of a glass of freshly squeezed orange juice with a single orange slice on a wooden console table,0.8517914414405823,0.616169810295105,52.60362326967687
+3,highly realistic studio-lit glass of freshly squeezed orange juice with a carefully placed single slice of orange on a vintage wooden table,0.9162490367889404,0.5627027153968811,45.48784055468307
+4,perfectly rendered detailed realistic glass of freshly squeezed orange juice with an orange slice on a worn wooden table,0.9475688934326172,0.430354505777359,37.102503993527165
+4,highly detailed 4k digital painting of a glass of freshly squeezed orange juice with a single slice of orange on a rustic wooden table,0.9318153858184814,0.5167104601860046,41.43236190626903
+4,"glass of orange juice with a slice of orange on a weathered wooden table, highly realistic and detailed in a digital painting style",0.8943625688552856,0.5810232162475586,44.77147572997672
+4,realistic depiction of a glass of freshly squeezed orange juice with a single slice of orange perched on a distressed wooden side table,0.8986501693725586,0.5934745073318481,54.09166156666451
+4,perfectly rendered realistic digital painting of a glass of freshly squeezed orange juice with a slice of orange on a wooden table with visible wood grain and subtle wear and tear,0.9269296526908875,0.49614059925079346,44.31275149869209
+5,highly detailed realistic perfectly rendered glass of freshly squeezed orange juice with an orange slice garnish on a rustic weathered wooden table,0.9331966638565063,0.49611788988113403,37.4252187220348
+5,crystal clear glass of freshly squeezed orange juice with a slice on a beautifully worn wooden surface,0.9409588575363159,0.4853340983390808,37.38957885841163
+5,realistic still life of a glass of juice on a vintage wooden table with a single orange slice,0.912523090839386,0.5964576601982117,49.583266889882026
+5,detailed oil painting style of a perfectly poured glass of orange juice with an orange slice on a weathered wooden table,0.8817655444145203,0.5348626971244812,44.98489439689237
+5,vibrant realistic close-up of a perfect glass of freshly squeezed orange juice with a slice on a beautifully textured wooden table,0.9248082637786865,0.47117117047309875,37.84676382240235

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree in an idealized setting on a rock at ocean's edge at golden hour,0.8598544597625732,0.6973684430122375,48.999427855503974
+1,a solitary mature palm tree on a rocky outcropping in the ocean at sunset,0.8341889381408691,0.7724535465240479,64.45193538902869
+1,a beautiful palm tree on a rock amidst calm ocean waters at the end of day,0.8947180509567261,0.5728552937507629,43.265312762205454
+1,an arafed palm tree isolated on a rock within a tranquil ocean scene at dusk,0.8985136151313782,0.6717584133148193,52.07965103085453
+1,"a highly detailed, realistic arafed palm tree standing proudly on a rocky islet in the vast ocean at sundown",0.8931299448013306,0.7820801138877869,64.00872433326167
+2,an arafed palm tree standing alone on a rugged rock within a serene and peaceful ocean scene at golden hour,0.8383224010467529,0.7450091242790222,60.59562690137378
+2,an isolated palm tree on a rocky outcropping amidst a tranquil morning ocean at dusk,0.8454526662826538,0.7472704648971558,59.544816445416146
+2,a single majestic palm tree rising above a rugged shoreline within a softly glowing serene ocean landscape during twilight,0.8793336749076843,0.6961926221847534,58.0086802616616
+2,"a robust and arafed palm tree situated on a rugged and weathered rock, standing strong against a tranquil ocean scene with soft warm light at dusk",0.8514900207519531,0.6803989410400391,53.54446471110718
+2,a majestic arafed palm tree isolated on a granite rock amidst a peaceful and calm evening ocean scene with subtle warm tones and soft gentle light,0.8941192030906677,0.6458101272583008,49.12746292050366
+3,an a lone palm tree isolated on a rock within a serene ocean scene at golden hour dusk,0.8849361538887024,0.7185266613960266,55.69518402361138
+3,an a mature palm tree isolated on a rock within a peaceful ocean scene at orange hue dusk,0.8920568227767944,0.7228949069976807,58.09571961474578
+3,a single majestic palm tree isolated on a granite rock within a tranquil dark blue ocean scene at soft golden hour,0.9012590050697327,0.726528525352478,59.79039418235878
+3,a beautiful palm tree in isolation on a rugged rock within a breathtaking ocean scene at warm dusk lighting,0.8874080181121826,0.7307504415512085,57.07242544733732
+3,an elegant palm tree standing alone on a weathered rock within a serene 4k resolution ocean scene at a warm and soft fading dusk,0.8736629486083984,0.7427436113357544,57.24808529720322
+4,'a highly detailed majestic palm tree isolated on a granite rock within a tranquil serene dark blue ocean scene at soft golden hour',0.8996064066886902,0.7280959486961365,59.16116679005451
+4,'a serene and peaceful single majestic palm tree on a rugged granite rock at the edge of a tranquil dark blue ocean under soft golden hour lighting',0.8897695541381836,0.7189514636993408,56.13285976380295
+4,'a 4k ultra-high resolution digital painting style image of a single majestic palm tree on a rocky granite outcropping within a peaceful tranquil dark blue ocean at soft golden hour',0.8908730745315552,0.7654943466186523,62.70176263224787
+4,'a breathtakingly beautiful highly detailed single palm tree stands strong on a large granite rock within a tranquil serene dark blue ocean scene at golden hour with a few subtle wispy clouds',0.8827639818191528,0.7336358428001404,56.09845076313362
+4,"'a majestic palm tree stands proudly isolated on a large granite rock within a tranquil and peaceful dark blue ocean scene bathed in the warm soft light of golden hour, with intricate textures and details'",0.9077748656272888,0.7117045521736145,54.70927584500366
+5,a majestic palm tree stands proudly isolated on a large weathered granite rock within a serene and peaceful dark navy blue ocean scene bathed in the warm soft gentle light of sunset,0.8630920648574829,0.6664198637008667,49.27947898966394
+5,a highly detailed majestic palm tree stands proudly on a large granite outcropping within a tranquil and peaceful deep blue ocean scene bathed in the soft warm golden hour light,0.8353540301322937,0.6621423959732056,46.94718931300655
+5,a breathtakingly beautiful highly detailed palm tree stands majestically isolated on a large weathered granite rock at the edge of a calm peaceful dark blue ocean scene illuminated by warm soft gentle sunlight at golden hour,0.8605707287788391,0.7248863577842712,55.27506759023161
+5,a stunning highly detailed and realistic palm tree stands proudly isolated on a large rugged granite boulder within a tranquil and peaceful light blue ocean scene bathed in the warm soft light of early morning,0.843407154083252,0.591655969619751,47.022370632140145
+5,a highly detailed and realistic masterpiece palm tree stands proudly isolated on a large granite rock within a serene and peaceful dark teal ocean scene bathed in the soft warm light of late afternoon,0.8760278224945068,0.6246906518936157,52.287140077620855

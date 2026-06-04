@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+1,highly realistic 4k image of a fresh glass of orange juice with a thick juicy slice of orange sitting beside it,0.95088392496109,0.5467509031295776,44.54326924049127,run_4
+3,"wooden table holding a glass of freshly squeezed orange juice, with a vibrant slice of orange placed on the side, 4k masterwork",0.9484294652938844,0.477785587310791,39.52097000351367,run_9
+2,a vibrant 4k rendering of a glass of orange juice with a slice of peel resting on the rim,0.9479806423187256,0.3846224844455719,35.044952041002055,run_8

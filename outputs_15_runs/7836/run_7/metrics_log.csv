@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the surface of a distant planet with a bright light shining in the background,0.8374931812286377,0.5311977863311768,33.21879346739757
+1,highly detailed astronaut standing near the edge of a cliff on the alien planet with an intense light shining in the distant,0.8610943555831909,0.7459079623222351,56.063678291986754
+1,stunning 4k digital painting of an astronaut standing on the surface of a desolate barren planet with a radiant light in the background,0.8838175535202026,0.734518826007843,54.325655102774036
+1,astronaut in spacesuit proudly standing on the rocky terrain of a remote planet with a vibrant sunset in the sky,0.8177922368049622,0.8190729022026062,67.00866990642898
+1,realistic highly detailed digital artwork of an astronaut posing on the foreign terrain of an extraterrestrial planet under the warm glow of a setting sun,0.798484206199646,0.84249347448349,73.36179791582033
+2,stunning photorealistic 4k digital painting of an astronaut standing on the surface of a desolate barren planet with a bright glowing light in the background,0.8687129020690918,0.7213101983070374,49.297289978562766
+2,highly detailed 4k digital artwork of an astronaut standing on a barren planet with a radiant beam of light shining in the distance,0.8341091871261597,0.5716519355773926,32.33482794349599
+2,breathtaking 4k oil on canvas digital painting of an astronaut standing alone on the surface of a barren desolate planet with a vibrant light in the background,0.8263349533081055,0.7082711458206177,50.636658722234145
+2,stunning 4k ultra-realistic digital painting of an astronaut standing on a barren alien world with a glowing celestial light illuminating the darkness,0.8650585412979126,0.44306665658950806,25.450736713828547
+2,photorealistic 4k digital oil painting masterpiece of an astronaut standing at the edge of a barren planet with an intense light in the background,0.8011556267738342,0.7542865872383118,56.2159469597126
+3,stunning 8k highly detailed digital painting of an astronaut standing on the surface of a barren desert planet with a blazing sunset in the background,0.8365082144737244,0.8454039692878723,75.47527022188254
+3,breathtaking 4k digital art of an astronaut standing on a vast desolate world with a radiant aurora,0.8450291156768799,0.5369324684143066,36.42906397338031
+3,mesmerizing digital painting of a lone astronaut on a distant barren planet with an intense starlight,0.7779484987258911,0.5694438219070435,29.029827694908796
+3,beautiful 4k digital artwork of an astronaut standing on the edge of a desolate alien landscape with a stunning nebula,0.9095579385757446,0.6244539022445679,45.70936043473128
+3,highly realistic 8k digital painting of an astronaut exploring a barren alien world with a bright crescent moon,0.803197979927063,0.5154531598091125,29.120383596987256
+4,beautiful highly detailed 8k digital painting of an astronaut standing on the edge of a vast barren alien landscape with a breathtaking nebula and stars,0.8393144607543945,0.5165541768074036,26.74239553159149
+4,surreal digital artwork of an astronaut in a futuristic spacesuit standing alone at the edge of a stunning alien world with a vibrant nebula,0.8489263653755188,0.5552866458892822,41.94903195341585
+4,breathtaking 4k digital artwork of an astronaut exploring the surface of a desolate alien planet with a mesmerizing nebula and distant mountains,0.8794759511947632,0.6467791795730591,43.49382526717474
+4,stunning 4k digital artwork of an astronaut in a sleek black spacesuit standing at the edge of a desolate alien landscape with a vibrant starfield and nebula,0.8666073083877563,0.5750830173492432,33.22893597806113
+4,highly realistic 4k digital painting of an astronaut standing on the edge of an alien world with a breathtaking nebula and distant galaxies,0.8506739139556885,0.48615387082099915,30.643582128032588
+5,beautiful highly detailed 4k digital artwork of a lone astronaut standing on a barren alien wasteland with a breathtaking celestial nebula,0.7758826017379761,0.49788928031921387,28.30137147968793
+5,"stunning 4k digital painting of an astronaut standing at the edge of a desolate, rocky alien landscape with a vibrant, cosmic nebula in the background",0.8651630878448486,0.6617982983589172,40.45073541567278
+5,"breathtaking digital artwork of an astronaut exploring the edge of a harsh, arid alien environment with a stunning, colorful nebula",0.8481019735336304,0.519135057926178,37.33032590620708
+5,"highly realistic 4k digital painting of an astronaut standing at the edge of an alien landscape with a vast, shimmering nebula and intricate, detailed ground",0.8773025274276733,0.48673444986343384,31.024878933861864
+5,"beautiful digital artwork of a lone astronaut standing at the edge of a desolate, barren alien landscape with a stunning, realistic, 4k nebula",0.8739547729492188,0.6260708570480347,39.612741882321174

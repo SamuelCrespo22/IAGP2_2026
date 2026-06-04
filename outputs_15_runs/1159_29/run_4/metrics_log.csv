@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113103866577148,54.195637357691524
+1,arafed palm tree on a rocky outcropping in the serene ocean at sunset,0.8611788749694824,0.7619318962097168,61.396711075337066
+1,highly detailed arafed palm tree standing tall on a rugged rock in the calm ocean at golden hour,0.8786806464195251,0.7304998636245728,56.605531708103754
+1,a beautiful arafed palm tree perched on a weathered rock in the tranquil ocean at sunset with warm colors,0.8806967735290527,0.7331523299217224,55.631137197239724
+1,a stunning 4k rendering of an arafed palm tree on a rocky shoreline in the ocean at sunset with vibrant hues,0.894212007522583,0.7283651232719421,54.40971674147871
+1,a majestic masterpiece of an arafed palm tree growing out of a rock formation in the peaceful ocean during a breathtaking sunset,0.8675886392593384,0.7448633313179016,55.36293064990929
+2,"'a highly detailed 4k rendering of an ancient arafed palm tree on a rugged shoreline in the ocean at golden hour with soft, vibrant hues'",0.8820377588272095,0.67523592710495,48.971481841754674
+2,"'a breathtaking, highly realistic 4k digital painting of an arafed palm tree on a rocky shoreline in the ocean at a warm sunset with rich colors'",0.8810026049613953,0.7778708934783936,60.69433963552233
+2,"'a stunning, hyper-realistic 4k masterpiece of an arafed palm tree on a weathered shoreline in the calm ocean at the time of sunset with subtle, muted tones'",0.88844233751297,0.7117139101028442,49.44803111084518
+2,"'an ultra-detailed, 4k digital portrait of an arafed palm tree on a scenic rocky shoreline in the ocean at the moment of sunset with soft, warm colors'",0.8929272890090942,0.693972110748291,51.93093307034594
+2,"'a visually striking, highly realistic 4k rendering of an arafed palm tree on a dramatic shoreline in the ocean at a vibrant sunset with contrasting, bold hues'",0.9091489315032959,0.7461163997650146,55.78948234933489
+3,"a vividly detailed, hyper-realistic 8k rendering of an arafed palm tree on an atmospheric shoreline in the ocean at a breathtaking golden hour",0.9184019565582275,0.7155104279518127,50.49140406024008
+3,"a highly realistic, 4k digital art piece of a majestic arafed palm tree on a rugged shoreline in the ocean at a vibrant orange sunset",0.9223947525024414,0.7724528312683105,62.72701423899646
+3,"a stunningly beautiful, photorealistic 6k digital painting of an arafed palm tree on a tranquil shoreline in the ocean at a soft pink sunrise",0.9017961025238037,0.7282212376594543,53.48310297367621
+3,"an exquisite, highly detailed 8k masterpiece of a dramatic arafed palm tree on a windswept shoreline in the ocean at a fiery yellow sunset",0.9193817377090454,0.7868763208389282,62.89592875755293
+3,"a breathtakingly realistic, 4k rendered digital art piece of a serene arafed palm tree on a secluded shoreline in the ocean at a warm peach dawn",0.8780443668365479,0.7002665996551514,48.19173852736815
+4,"a highly realistic, vibrant, 8k digital art piece of a majestic arafed palm tree on a rugged shoreline in the ocean at a breathtaking orange sunset",0.8968493342399597,0.7725501656532288,62.90714562510847
+4,"a highly realistic, photorealistic, 4k digital art piece of a towering, ancient arafed palm tree on a rocky shoreline in the ocean at a warm, orange sunset",0.8691461086273193,0.7952213883399963,69.88061024134986
+4,"a highly detailed, highly realistic, 4k digital painting of a majestic arafed palm tree on a rugged, rocky shoreline in the ocean at a vibrant, orange sunset",0.8792562484741211,0.8032775521278381,68.06913361678079
+4,"a highly realistic, highly detailed, 4k digital art piece of a group of arafed palm trees on a rugged shoreline in the ocean at a colorful, orange sunset",0.8812211155891418,0.806433379650116,66.8287792604378
+4,"a highly realistic, highly detailed, 8k digital art piece of a majestic arafed palm tree on a rocky shoreline with a lighthouse in the ocean at a vibrant, orange sunset",0.7953954935073853,0.8478253483772278,72.92386168618796
+5,"a highly realistic, 8k digital painting of a majestic arafed palm tree on a rugged shoreline in the ocean at a vibrant orange sunset",0.8991119265556335,0.7933014631271362,64.04062865025547
+5,"a highly detailed, 4k digital art piece of a single majestically standing arafed palm tree in front of a rugged shoreline in the ocean at low tide",0.8156538009643555,0.5966497659683228,47.23672161825045
+5,a photorealistic masterpiece of a arafed palm tree cluster on a rocky shoreline in the ocean at a vibrant orange sunset with a slight mist,0.8777453899383545,0.8150051236152649,69.55395402103863
+5,"a highly realistic, 4k digital illustration of an arafed palm tree on a rugged shoreline in the ocean at a warm golden sunrise",0.8313775062561035,0.7297329306602478,53.96418677696738
+5,"a highly realistic, 4k digital art piece of a group of arafed palm trees swaying gently in the wind on a rugged shoreline in the ocean at a vibrant orange sunset",0.8695924282073975,0.8159582614898682,66.47530057780514

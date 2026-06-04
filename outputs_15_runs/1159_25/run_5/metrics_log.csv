@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,'a vibrant glass of fresh squeezed orange juice with a slice of orange on the nearby plate',0.8932393193244934,0.6095661520957947,53.741352946456985
+1,'a highly detailed still life of a glass of orange juice and a slice of orange on the side',0.8388462066650391,0.6275437474250793,52.7756717855105
+1,'there is a glass of orange juice with a single slice of orange sitting on the edge of the table',0.9202887415885925,0.6202490329742432,55.07688645754148
+1,'a perfectly realistic 4k digital painting of a glass of orange juice and a slice of orange on the table',0.9288274049758911,0.637997567653656,56.04390455754483
+1,'a glass of orange juice with a few segments of orange on the rim and a single slice on the side',0.9082801342010498,0.5973658561706543,49.542709369557414
+2,a highly realistic 8k digital masterpiece of a glass of orange juice and a slice of orange on a minimalist wooden table,0.9197165966033936,0.5895119309425354,48.17571587422101
+2,a perfectly realistic 4k highly detailed digital painting of a glass of freshly squeezed orange juice and a slice of orange on a rustic wooden table,0.9228459000587463,0.5665642023086548,43.64719624602973
+2,a photorealistic 4k digital artwork of a glass of orange juice and a slice of orange on a plain white tablecloth against a warm background,0.9045441150665283,0.6714028120040894,66.01735417141451
+2,a perfectly realistic 8k digital painting of a glass of orange juice and a slice of orange on the table in a cozy morning atmosphere,0.7799217700958252,0.7248020172119141,59.38527178278745
+2,a highly realistic 4k digital oil painting of a glass of orange juice and a slice of orange on a weathered old table in a soft golden light,0.7552750110626221,0.6783754825592041,61.19794021497774
+3,a highly detailed realistic 8k digital painting of a glass of freshly squeezed orange juice and a slice of orange on a simple wooden table,0.9323542714118958,0.5819288492202759,46.46790428392526
+3,a perfectly realistic 4k digital oil painting of a glass of orange juice and a slice of orange on a minimalist decorative table,0.778533935546875,0.687222957611084,56.755349889064135
+3,an incredibly realistic digital still life of a glass of orange juice and a slice of orange on a decorative plate on a plain white background,0.8599639534950256,0.7481657862663269,70.86922240363297
+3,a photorealistic 4k digital painting of a glass of orange juice and a slice of orange on the edge of a worn wooden table,0.9140155911445618,0.5603392720222473,46.75085168592713
+3,an extremely detailed realistic 4k digital watercolor painting of a glass of orange juice and a slice of orange on a vintage wooden table with a window in the background,0.8978185653686523,0.7359439134597778,62.43719880379998
+4,highly detailed 8k digital painting of a glass of freshly squeezed orange juice and a slice of orange on a rustic wooden table,0.9351471662521362,0.5747206807136536,45.604404976093704
+4,an incredibly realistic high-resolution 4k digital art piece of a glass of juice and an orange slice on a minimalist table,0.9356735944747925,0.566291332244873,41.722200141107365
+4,a stunning highly realistic 8k oil painting of a glass of freshly squeezed orange juice and a slice of orange on a vintage wooden table,0.8223904371261597,0.6142672896385193,49.59152874860555
+4,a beautiful 8k digital artwork of a glass of freshly squeezed juice and a slice of orange on a simple wooden table with soft focused background,0.9350830912590027,0.5110858082771301,42.37619868737493
+4,a highly realistic 8k photo-realistic digital painting of a glass of freshly squeezed orange juice and a slice of orange on a classic wooden table with warm natural lighting,0.9238864779472351,0.5914750099182129,45.284414825048714
+5,"'incredibly photorealistic, highly detailed 4k digital art piece of a glass of juice and an orange slice on a simple, minimalist wooden table'",0.929032027721405,0.5206199884414673,41.9230928578378
+5,"'a stunningly realistic, high-resolution 4k digital art piece of a glass of juice and an orange slice on a plain, low-key table at a 45 degree angle'",0.938412606716156,0.3455415666103363,37.294073056342825
+5,"'a 4k digital art piece featuring a glass of juice and an orange slice on a sleek, minimalist glass table with subtle shadows'",0.9081944227218628,0.6884950399398804,51.12027190299132
+5,"'an extremely realistic, highly textured 4k digital art piece of a glass of juice and an orange slice on a flat, minimalist table in a warm, cozy setting'",0.834762692451477,0.6800862550735474,53.11383751575437
+5,"'a highly realistic, masterfully rendered 4k digital art piece of a glass of juice and an orange slice on a minimalist table with soft, gentle lighting'",0.9208859205245972,0.6567652225494385,55.91731071575017

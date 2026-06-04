@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.6058163642883301,55.50990575624207
+1,"anime character with a high-quality, highly detailed sword and flames in his hand",0.8331978917121887,0.6120163202285767,49.82534600714587
+1,anime warrior with a magical sword and intense fire in his hand,0.8322867751121521,0.616132378578186,51.16955984014796
+1,digital painting of an anime character wielding a sword with a blast of fire in the background,0.8402032852172852,0.6329087615013123,51.987770288948035
+1,a finely crafted 4k anime portrait of a hero with a sword and glowing embers,0.789881706237793,0.658827543258667,57.07174405577881
+1,"anime character with an elegant, intricately designed sword and fiery sparks surrounding him",0.8105946779251099,0.6349267959594727,51.43175837561952
+2,highly detailed digital painting of an anime warrior wielding a sword amidst a fiery explosion,0.7426137328147888,0.7258785367012024,60.418542161383115
+2,digital painting of a fiery anime duel scene with a skilled warrior in the foreground,0.7502771615982056,0.7336010336875916,59.459214969482616
+2,anime character in a dramatic pose wielding a blazing sword in a fiery mystical landscape,0.7538354396820068,0.6466567516326904,56.39131404044331
+2,highly realistic digital painting of a brave anime hero standing triumphantly on top of a mountain of flames,0.6251740455627441,0.7400239706039429,64.49913843561363
+2,4k digital masterpiece painting of a fierce anime warrior holding a burning sword and standing in a fiery vortex,0.7842226028442383,0.7089666724205017,65.30578231754126
+3,digital painting in the style of Akira of an anime character wielding a sword with an intense blast of fire in the background,0.7492769956588745,0.6358902454376221,55.0417490068247
+3,an anime character with intricate details wielding a sword amidst highly detailed flames in a digital painting,0.8023383617401123,0.6611335277557373,53.95469089096629
+3,highly detailed digital painting of an anime character swinging a glowing sword amidst massive flames with dramatic lighting,0.816952109336853,0.7200430035591125,64.4017625471431
+3,a highly realistic digital painting of an anime character battling a fierce fiery explosion while wielding a sharp sword,0.7886909246444702,0.6481942534446716,53.11524988396972
+3,vibrant highly detailed digital art of a strong anime character fighting with a blazing sword and a massive fireball in the background,0.7480154037475586,0.6644906997680664,54.32325122698125
+4,digital painting of a fiery anime warrior wielding a majestic sword in a dramatic explosion-filled background,0.7801724672317505,0.6417214274406433,55.46025657232815
+4,highly detailed digital painting of an anime character battling a fierce dragon with a blaze in the distance,0.6407212018966675,0.7159188389778137,55.58911159715694
+4,"vibrant, dynamic anime scene with a sword-wielding hero surrounded by intense flames and smoke",0.6798290014266968,0.6676769852638245,54.009767420827245
+4,4k digital artwork of a powerful anime warrior holding a mighty sword and standing in front of a colossal fireball,0.7641982436180115,0.6725769639015198,56.70332618150469
+4,"highly realistic, oil painting-inspired digital art of an anime character wielding a sword while flames erupt from the ground in a dramatic, apocalyptic landscape",0.7428745031356812,0.7355257868766785,59.705891153064776
+5,digital painting highly detailed of an anime character wielding a sword with a massive blast of fire in the background,0.862785816192627,0.6090785264968872,47.72932244681561
+5,realistic digital painting of an anime character wielding a sword with a fiery explosion in the background,0.8333215713500977,0.6823230385780334,54.79396103510094
+5,highly realistic digital painting of an anime character in a dynamic pose wielding a sword with flames engulfing the background,0.7838627696037292,0.6566528081893921,59.64783051176463
+5,digital art of an anime character standing confidently with a sword raised in one hand and flames bursting out of the background,0.8147530555725098,0.6317598819732666,59.53697124499759
+5,epic digital painting of an anime character in mid-battle stance wielding a sword with intense flames raging in the background,0.7886035442352295,0.6239375472068787,54.36750982864998

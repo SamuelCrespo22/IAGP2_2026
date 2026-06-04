@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+2,"the majestic palm tree with a gnarled trunk on a large island in the calm, turquoise ocean water at sunset in a 4k digital painting",0.929068684577942,0.6989817023277283,58.60671350615269,run_15
+5,an extremely detailed hyper-realistic digital art piece of an arafed palm tree on a weathered rock amidst calm serene ocean waves set against a warm vibrant colorful sunset sky,0.9268099069595336,0.7641080617904663,59.70999706121718,run_8
+3,highly detailed digital rendering of a lone arafed palm tree standing proudly on an ocean rock formation bathed in warm golden light,0.9234700202941896,0.6947495937347412,52.4406108766154,run_10

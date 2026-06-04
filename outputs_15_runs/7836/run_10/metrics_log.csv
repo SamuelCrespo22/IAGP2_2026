@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing in the foreground on the rocky surface of a distant planet with a brilliant star shining in the background,0.8467015027999878,0.6500730514526367,34.74381216257544
+1,highly detailed astronaut standing at the edge of a large crater on an alien landscape with a bright celestial light radiating from behind,0.8825719356536865,0.5715227127075195,30.808807103603133
+1,"an astronaut in a futuristic suit standing on a barren, mountainous terrain with an intense beam of light illuminating the atmosphere above",0.8558133840560913,0.6229459047317505,53.059325863929146
+1,"astronaut descending from a spacecraft to set foot on a foreign world with a stunning, glowing nebula in the night sky",0.8080479502677917,0.47895485162734985,32.057939784170095
+1,"highly realistic detailed astronaut standing on the dusty surface of a mysterious planet in a vivid, star-filled galaxy with a bright, shining light illuminating the horizon",0.8422377705574036,0.5922343134880066,40.362204707021235
+2,highly detailed astronaut standing at the edge of a massive crater on an alien landscape with a brilliant celestial light radiating from behind,0.873237133026123,0.5623922348022461,31.777338450254515
+2,vibrant highly detailed astronaut standing at the edge of a colossal crater on an extraterrestrial landscape with a radiant celestial glow,0.8718407154083252,0.6266341209411621,40.06498376150976
+2,highly detailed astronaut standing at the edge of a colossal crater on a mysterious alien landscape with a luminous celestial light,0.8708540201187134,0.56797194480896,33.525513228457
+2,4k highly detailed astronaut standing in front of a colossal crater on an otherworldly alien landscape with a stunning celestial light,0.8973973393440247,0.6086732149124146,33.912753992488355
+2,highly detailed surreal digital painting of an astronaut standing at the edge of a colossal crater on a fantastical alien landscape with a mesmerizing celestial glow,0.8710561394691467,0.6516335606575012,46.36174241089409
+3,astronaut standing in front of a massive lunar-like crater on an extraterrestrial terrain surrounded by a vibrant starry sky with a breathtaking celestial glow,0.8137056231498718,0.5798145532608032,30.651942823413762
+3,astronaut hovering in front of an enormous impact crater on a distant planetary surface with a glowing aurora,0.8272054195404053,0.5110790133476257,30.998135746510865
+3,4k highly detailed astronaut standing at the edge of a colossal dark crater on a barren and rugged alien planet with a radiant sunburst effect,0.8468532562255859,0.5715965032577515,33.65672127651416
+3,a futuristic astronaut standing in the center of a titanic asteroid crater with a spectacular solar coronal loop backdrop,0.8915301561355591,0.45460838079452515,28.54308722086441
+3,astronaut standing on the rim of a gargantuan meteor crater on a desolate alien world with an otherworldly light emanating from within,0.8480936288833618,0.4431907534599304,25.63445802009007
+4,highly detailed astronaut standing on the rim of a colossal crater on an otherworldly alien landscape bathed in a surreal celestial light,0.826196551322937,0.7017697095870972,51.207526869424804
+4,astronaut standing in the center of an immense crater on an extraterrestrial surface illuminated by a vibrant celestial glow,0.8602179288864136,0.46576300263404846,27.068757063848764
+4,"4k, highly detailed, digital painting of an astronaut on the edge of a gargantuan crater on an alien world with a breathtaking celestial display",0.8736671209335327,0.47157806158065796,25.245435234261294
+4,"colossal crater on an alien landscape, with an astronaut standing heroically in the foreground, surrounded by a halo of soft, ethereal celestial light",0.8513507843017578,0.6131879091262817,36.14699075087422
+4,"4k stunning astronaut standing on the edge of a massive crater, with a stunning celestial light illuminating the dark expanse of an otherworldly alien landscape",0.8742525577545166,0.5387058258056641,29.830178272154477
+5,"highly detailed astronaut standing in front of a massive, deep, and enormous cosmic crater on a breathtaking alien landscape with a stunning celestial light",0.8637073636054993,0.48799389600753784,26.96082165629928
+5,a 4k photograph of an astronaut standing in front of a colossal impact crater on a distant extraterrestrial world with an ethereal glow,0.7662461400032043,0.49563831090927124,26.328254767975473
+5,"4k high definition astronaut in a futuristic spacesuit standing at the edge of a gigantic, gargantuan, and immense intergalactic crater on a mysterious alien terrain with a celestial aura",0.8232575058937073,0.552874743938446,34.578195164157236
+5,"a highly realistic digital painting of an astronaut exploring a colossal, enormous, and vast lunar-like crater on an alien world with a breathtaking celestial display",0.8810709714889526,0.4899190068244934,25.575232279025762
+5,"astronaut standing in awe at the edge of a colossal, stunning, and breathtaking, otherworldly, and unearthly crater on an alien landscape with a celestial light show",0.8666990399360657,0.5086746215820312,30.336054771850808

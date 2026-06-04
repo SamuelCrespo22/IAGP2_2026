@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,highly detailed realistic image of a small hedgehog sitting at the edge of a block of cake,0.6647292971611023,0.6354364156723022,49.143812476436416
+1,a small grey hedgehog perched precariously on top of a tiered cake,0.5692532062530518,0.7512851357460022,58.34954681322193
+1,ultra-high resolution detailed digital painting of a hedgehog comfortably sitting on a decorative cake pedestal,0.5424511432647705,0.7030196189880371,42.298622786161005
+1,realistic detailed image of a small hedgehog balancing on a single slice of multi-layered cake,0.5833678841590881,0.73972088098526,67.83197688298975
+1,highly realistic close-up of a small hedgehog resting its head on a block of fluffy whipped cream cake,0.6076000928878784,0.7688367962837219,72.68909429831297
+2,Highly detailed realistic digital painting of a small hedgehog sitting at the edge of a block of cake,0.6970188617706299,0.587375283241272,46.31387274747749
+2,"A highly realistic 4k image of a small, adorable hedgehog sitting at the corner of a moist vanilla cake",0.6444778442382812,0.6874895095825195,55.49986173900837
+2,"A small hedgehog sitting at the edge of a decadent chocolate cake, rendered in exquisite photorealistic detail",0.6074671149253845,0.6190149784088135,47.965322672171204
+2,Highly detailed realistic oil painting of a small hedgehog at the edge of a block of moist vanilla cake,0.6428592205047607,0.6525572538375854,48.19426639657138
+2,"Small cute hedgehog sitting at the edge of a beautiful round cake with fluffy soft icing, highly realistic and intricately detailed",0.6074824333190918,0.6946812868118286,53.53763226764003
+3,highly detailed vibrant realistic digital painting of a small prickly hedgehog with a sweet tooth sitting at the edge of a decadent block of moist chocolate cake,0.6236473917961121,0.5980868935585022,45.543848281544214
+3,highly realistic detailed oil on canvas style digital painting of a hedgehog cautiously approaching a block of rich vanilla cake,0.6226579546928406,0.6198824048042297,46.439429858620294
+3,highly detailed photorealistic digital artwork of a small hedgehog sitting proudly at the edge of a multi-tiered vanilla cake,0.5923302173614502,0.6922513842582703,51.28704330000368
+3,highly realistic detailed digital painting of a cute hedgehog enjoying a slice of moist fruit cake with a steaming cup of coffee,0.5730664730072021,0.6040847897529602,47.64338523966837
+3,highly detailed realistic impressionist style digital painting of a small hedgehog happily sitting at the edge of a block of creamy cheesecake,0.6314380764961243,0.6456848382949829,46.873189683406906
+4,Highly detailed photorealistic digital watercolor painting of a small hedgehog sitting at the edge of a block of moist decadent chocolate cake,0.6521285176277161,0.6353452801704407,40.87035390908637
+4,Highly realistic 4k digital illustration of a tiny hedgehog perched at the edge of a slice of creamy vanilla cake,0.48549985885620117,0.7586169838905334,72.0209220778034
+4,Extremely detailed oil painting of a small gray hedgehog resting at the edge of a rich chocolate layer cake,0.617848813533783,0.6394968032836914,42.16534612076363
+4,Highly detailed digital art of a small hedgehog sitting on the edge of a large round block of moist chocolate cake with frosting,0.6099563837051392,0.5659692287445068,45.81018840205867
+4,Highly detailed realistic digital drawing of a small hedgehog sitting at the edge of a tall block of creamy mocha-flavored ice cream cake,0.630386471748352,0.7195999622344971,64.0730979361606
+5,Highly detailed realistic oil painting of a small grey hedgehog sitting at the edge of a moist chocolate cake,0.60445237159729,0.6091309785842896,48.66161115797636
+5,Realistic digital artwork of a small spiky hedgehog peering over the side of a vanilla birthday cake,0.592661440372467,0.6374350786209106,52.80009260865213
+5,Photorealistic watercolor digital painting of a tiny hedgehog perched on a block of fluffy strawberry shortcake,0.6246122121810913,0.6974471211433411,69.41988955258415
+5,Highly detailed still life digital painting of a small hedgehog sitting next to a stack of colorful cupcakes,0.49553030729293823,0.5938758850097656,38.871138456885376
+5,Realistic digital portrait of a small hedgehog leaning in to take a bite of a moist red velvet cake.,0.6139281988143921,0.7115786671638489,49.14587302873615

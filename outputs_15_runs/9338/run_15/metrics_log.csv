@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329984068870544,46.72277649258247
+1,painting of a sleek mouse with a vibrant and colorful tail,0.7286232113838196,0.688202440738678,36.471632169618594
+1,"highly detailed digital painting of a mouse with a long, swishing tail and a tiny pink nose",0.7237536311149597,0.6998053193092346,37.67454503430703
+1,"a masterpiece of a mouse with a fluffy, multicolored tail, set against a soft, dreamy background",0.657546877861023,0.6881852746009827,41.00134934683463
+1,"detailed, 4k digital image of a mouse with a bright, rainbow-colored tail and delicate, intricate whiskers",0.7163862586021423,0.7132652997970581,42.60804915475667
+1,"an enchanted, highly realistic painting of a mouse with a glittering, gemstone-encrusted tail, posed in a serene, natural environment",0.7237812280654907,0.7081313133239746,37.61150758710556
+2,highly detailed painting of a mouse with a colorful tail and fluffy fur,0.802075982093811,0.609669029712677,47.25865586534618
+2,"vibrant, colorful painting of a mouse with a bright, shimmering tail and tiny ears",0.8312156200408936,0.6624845266342163,60.87325309482518
+2,"a realistic, whimsical digital painting of a mouse with an exceptionally long colorful tail and soft, cuddly fur",0.7800525426864624,0.6597081422805786,36.74989630621335
+2,"a highly realistic, oil-style painting of a mouse with bright, sparkling eyes and a long, flowing colorful tail",0.7647362947463989,0.6179775595664978,35.33029739964456
+2,"a highly detailed, 4k digital painting of a mouse with a long, fluffy, colorful tail and tiny, delicate paws",0.8157281279563904,0.6427361965179443,39.25657244937809
+3,"vibrant, colorful highly detailed digital painting of a mouse with a bright, shimmering tail and tiny ears",0.831524133682251,0.5786373615264893,42.05064446954196
+3,"vibrant, highly detailed painting of a mouse with a long, shimmering tail and delicate, pink ears",0.7434753179550171,0.6894703507423401,57.51140800005067
+3,"colorful, whimsical digital artwork of a mouse with a bright, glittering tail and tiny, pointy ears",0.77885901927948,0.6893032789230347,49.31887211932014
+3,"highly realistic 4k digital painting of a mouse with a long, fluffy tail and tiny, button ears",0.7431275844573975,0.6861267685890198,37.127571531611444
+3,"vibrant, highly detailed watercolor painting of a mouse with a bright, shimmering tail and delicate, folded ears",0.6973803043365479,0.7718653082847595,121.48477325588601
+4,"vibrant, highly detailed, 4k digital painting of a mouse with a bright, shimmering tail and delicate, tiny ears",0.7766026258468628,0.6352552175521851,38.02328074760654
+4,"realistic, colorful, highly detailed oil on canvas painting of a mouse with a glittering, iridescent tail and small, button ears",0.7488243579864502,0.6260307431221008,36.24703377271859
+4,"stylized, cartoonish mouse with a vibrant, rainbow-colored tail and oversized, expressive ears, painted in a highly detailed digital style",0.6747168302536011,0.6156087517738342,50.52022541112978
+4,"highly realistic, detailed illustration of a mouse with a soft, glowing tail and tiny, flapping ears, rendered in a vibrant, oil paint style",0.7447124123573303,0.6415180563926697,40.52660801568898
+4,"detailed, colorful, hand-drawn portrait of a mouse with a shimmering, metallic tail and small, perked-up ears, painted in a highly realistic, digital watercolor style",0.7047615051269531,0.7155685424804688,64.4929956033086
+5,"vibrant, dynamic, highly detailed digital painting of a mouse in mid-hop with a bright, shiny tail and delicate ears",0.7729082703590393,0.6666399240493774,37.74475163721037
+5,"realistic, colorful, 4k digital artwork of a mouse with a long, shimmering tail and large ears",0.7484385967254639,0.6728854179382324,37.866166680725954
+5,"detailed, whimsical highly textured digital painting of a mouse at sunset with a bright, sparkling tail and tiny, pink ears",0.7300370335578918,0.7245057225227356,51.302302202940126
+5,"highly realistic, detailed digital portrait of a mouse with a long, silky tail and small, pointed ears",0.6185928583145142,0.6841063499450684,38.84759298241687
+5,"colorful, highly detailed, oil-painting inspired digital artwork of a mouse with a bright, shimmering tail and delicate, pink ears",0.7660537362098694,0.636223316192627,50.31002949120005

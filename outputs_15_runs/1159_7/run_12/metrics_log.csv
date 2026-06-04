@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,"a small, adorable hedgehog sitting on top of a moist chocolate cake",0.60711669921875,0.6205511689186096,48.34841659041307
+1,"a tiny, cute hedgehog perches on a single, round block of creamy vanilla cake",0.6023001670837402,0.6993967294692993,66.40399068954146
+1,"highly detailed digital painting of a hedgehog sitting on top of a layered, multi-colored block of decadent cake",0.5609374642372131,0.604059636592865,45.25832748517627
+1,"small, soft focus photograph of a hedgehog sitting on top of a block of moist, chocolate fudge cake",0.5825662612915039,0.6310091614723206,47.39512034195473
+1,"beautiful, whimsical illustration of a tiny hedgehog sitting on top of a large, iced block of lemon-flavored cake for a birthday celebration",0.6146286129951477,0.7817811369895935,77.66633521842905
+2,"beautiful highly detailed digital painting of a tiny hedgehog sitting on top of a large, iced block of lemon-flavored cake for a birthday celebration",0.6485662460327148,0.7013378739356995,69.32356254085053
+2,"a whimsical 4k masterpiece of a tiny hedgehog perched on top of a gigantic, iced block of lemon cake at a joyful birthday party",0.5679832696914673,0.8154016137123108,76.86831725496032
+2,"a highly realistic illustration of a small hedgehog sitting proudly on top of a massive, lemon-flavored birthday cake with bright candles",0.6333580613136292,0.6582637429237366,63.1245476936276
+2,"a delicate, hand-painted depiction of a tiny hedgehog sitting atop a large, icy, lemon-flavored cake at a festive birthday gathering",0.5977168679237366,0.8079568147659302,77.37732191589994
+2,"a breathtakingly beautiful, digital work of art featuring a tiny, adorable hedgehog sitting on a towering, iced block of lemon-flavored birthday cake in a vibrant, colorful setting",0.6341343522071838,0.7662310600280762,69.2618826372524
+3,"beautiful highly detailed 4k digital painting of a tiny adorable hedgehog sitting on top of a large, iced block of creamy lemon-flavored cake for a joyful birthday celebration",0.6555885076522827,0.716945469379425,64.74396020537148
+3,"beautiful highly realistic 8k digital art of a tiny hedgehog curled up on top of a large, iced block of lemon-flavored cake with colorful sprinkles for a birthday",0.6398510932922363,0.7219505310058594,76.16956710208592
+3,"beautiful highly detailed digital painting of a tiny endangered hedgehog sitting atop a large, iced block of lemon-flavored cake with edible flowers for a birthday party",0.6340062618255615,0.7686032056808472,69.7284835712573
+3,"stunning highly detailed 4k oil painting of a tiny hedgehog perched on top of a towering, iced block of lemon-flavored cake for a festive birthday celebration",0.6335008144378662,0.6817576289176941,52.45054505492658
+3,"beautiful highly detailed hyperrealistic digital art of a tiny hedgehog sitting regally on top of a large, iced block of lemon-flavored cake with a birthday candle for a special occasion",0.6505956649780273,0.6947884559631348,60.181722455606945
+4,"vibrant highly detailed 8k digital artwork of a teeny adorable hedgehog sitting on top of a large, iced block of creamy lemon-flavored cake for a joyful birthday celebration",0.6467757225036621,0.6791163682937622,71.42264581610205
+4,"beautiful highly textured digital painting of a small cute hedgehog sitting on top of a giant, iced block of creamy lemon-flavored cake in a sunny colorful garden",0.6090540885925293,0.7907901406288147,72.75673324811446
+4,stunning highly realistic 4k digital drawing of a teeny adorable hedgehog savoring a large iced block of creamy lemon-flavored cake amidst joyful birthday decorations,0.6294397711753845,0.7422919273376465,75.88063436098192
+4,gorgeous highly detailed digital watercolor of a tiny cute hedgehog perched on top of a massive iced block of creamy lemon-flavored cake surrounded by colorful balloons,0.617114245891571,0.8156144022941589,92.55216262519173
+4,exquisite highly detailed digital oil painting of a teeny adorable hedgehog enjoying a slice of a large iced block of creamy lemon-flavored cake on a beautiful sunny birthday morning,0.6088401079177856,0.682853639125824,64.68935059790675
+5,"beautiful highly realistic 4k digital artwork of a small adorable hedgehog sitting on top of a large, iced block of creamy lemon-flavored cake for a joyful birthday celebration",0.6322427988052368,0.7203545570373535,70.67858880517618
+5,"highly detailed photorealistic digital painting of a tiny cute hedgehog perched on top of a gigantic, iced ice cream sundae shaped like a lemon for an exciting birthday party",0.6610506772994995,0.7293466925621033,70.08601974396615
+5,"beautiful highly realistic 8k digital masterpiece of a little hedgehog sitting on the peak of a colossal, frosted lemon-flavored cake tower for a happy birthday celebration",0.5179983377456665,0.7126355767250061,51.55678975246692
+5,stunning highly detailed digital painting of a teeny-tiny hedgehog cuddled on top of a gigantic block of citrusy lemon ice cream for a cheerful birthday bash,0.6298233270645142,0.6306917667388916,61.55693654616369
+5,"lovely highly realistic 4k oil-like digital artwork of a tiny spiky hedgehog on top of an extra-large, icy lemon meringue pie for a delightful birthday treat",0.4582839608192444,0.7490350008010864,57.89691234557898

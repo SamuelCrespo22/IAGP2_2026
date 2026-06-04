@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,"astronaut standing on the surface of a distant, icy planet with a blazing star shining in the background",0.7743923664093018,0.5059338212013245,33.547434098387974
+1,"astronaut standing on a barren, rocky planet with a bright light emanating from behind",0.8822375535964966,0.5298298597335815,30.747596837494555
+1,highly detailed astronaut standing on the rugged surface of a foreign planet with a fiery explosion in the sky,0.7686873078346252,0.7774488925933838,54.73280236496082
+1,"4k digital painting of an astronaut standing on the outskirts of a mysterious, alien city with a glowing light hovering above",0.8113493919372559,0.7408832907676697,56.47056422458158
+1,"astronaut standing triumphantly on the surface of a desolate, distant world with a radiant beam of light illuminating their figure",0.8436602354049683,0.5156852006912231,37.1517824743572
+2,"astronaut standing on a barren, rocky terrain with a intense beam of light shining from the horizon",0.8147192597389221,0.6207021474838257,43.9369928660216
+2,"astronaut standing on a rugged, barren planet with a bright, golden light radiating from behind",0.8802112340927124,0.7490178346633911,55.879600745753784
+2,"highly detailed astronaut standing on a rocky, barren landscape with a bright, fiery light emanating from the distance",0.8048727512359619,0.7197482585906982,51.1430886748711
+2,"astronaut standing on a barren, rocky outcropping with a brilliant, blinding light illuminating the background",0.8498955368995667,0.6576253771781921,50.234542980169216
+2,"highly detailed astronaut in a 4k, realistic digital painting standing on a barren, rocky planet with a bright, shining light emanating from the rear",0.8071233034133911,0.6363527178764343,36.354594450446434
+3,"'astronaut standing on a barren, dusty, rocky planet with a bright, otherworldly light emanating from behind the mountains'",0.851409912109375,0.7239488959312439,59.80648246566964
+3,"'a highly detailed astronaut standing on a desolate, rugged, rocky planet with a vibrant, golden light shining from behind'",0.7369154691696167,0.7186934947967529,48.71819125679242
+3,"'realistic astronaut walking on a stark, barren, rocky terrain with an intense, electric blue light radiating from the distant horizon'",0.8395359516143799,0.701174259185791,46.75081177020116
+3,"'a highly realistic astronaut standing on a desolate, rocky planet with a warm, sun-kissed light illuminating their path through the barren landscape'",0.7917689681053162,0.7777471542358398,59.93946603382113
+3,"'digitally painted astronaut standing on a barren, rocky, alien world with a brilliant, white light emanating from the planet's distant, atmospheric clouds'",0.8624354600906372,0.5675830245018005,40.247921065300595
+4,"astronaut standing on a worn, desert-like surface of a barren, rocky planet with a bright light",0.815070629119873,0.7795172929763794,64.5207634142864
+4,"astronaut in a gleaming spacesuit standing on a barren, rocky planet with a brilliant light emanating from behind",0.8105466961860657,0.5223326683044434,36.086392659369494
+4,"astronaut in casual attire standing on a barren, rocky, and dusty terrain with a radiant light",0.7687568664550781,0.8000741600990295,68.56494065393693
+4,"astronaut in a futuristic suit standing on a barren, rocky, and desolate planet with a blazing light source",0.8246848583221436,0.6733220219612122,47.24989261723388
+4,"highly detailed astronaut standing on a barren, rocky, and eerie landscape with a bright, pulsing light",0.7875652313232422,0.7339127063751221,58.37121857315336
+5,"astronaut standing on a barren, rocky, red planet with a bright, blazing light emanating from behind in a highly detailed 4k digital painting",0.8404768705368042,0.6282460689544678,36.44670223851097
+5,"astronaut in spacesuit standing at the edge of a desolate, cratered, rocky terrain on a distant barren planet with a vivid, glowing light shining from the horizon",0.8216270208358765,0.660374641418457,42.67837362480684
+5,"highly detailed 4k astronaut standing at the base of a massive, ancient, stone structure on a barren, rocky, alien planet under a bright, clear sky",0.8068887591362,0.8175346255302429,67.90318274949956
+5,"astronaut in a spacesuit standing on a rocky, barren, alien landscape with a huge, blazing, orange-red sun setting in the background of a highly detailed, 4k digital painting",0.8385905623435974,0.8413456678390503,63.207831272139394
+5,"astronaut standing at the edge of a vast, barren, rocky, desert-like planet with a bright, intense, golden light emanating from a large, glowing, spherical object in the distance",0.8617720603942871,0.5902925133705139,31.11890126137847

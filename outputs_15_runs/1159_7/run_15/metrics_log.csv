@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,there is a tiny brown and fluffy hedgehog sitting on top of a moist white birthday cake,0.6132537722587585,0.7208852767944336,62.03847932993596
+1,small hedgehog on a single serving square of chocolate cake,0.5102230310440063,0.6463130712509155,55.22790180543659
+1,a highly detailed image of a tiny spiky ball sitting on top of a block of cream-filled sponge cake,0.4847574532032013,0.7138113379478455,61.26817394233979
+1,realistic depiction of a hedgehog sitting on a multi-tiered vanilla wedding cake,0.5466220378875732,0.6896926164627075,59.02542700460992
+1,tiny prickly hedgehog sitting on a tier of a colorful multi-story cake with pink flowers and greenery surrounding it,0.5746009945869446,0.7053309679031372,70.61144958356279
+2,there is a small brown and fluffy hedgehog sitting on top of a moist white 3-layer vanilla birthday cake,0.6109328866004944,0.697194516658783,58.53616866860256
+2,a tiny brown hedgehog with soft fur sits atop a pure white frosted birthday cake decorated with colorful sprinkles,0.6159473061561584,0.7769490480422974,79.43581278873603
+2,highly detailed image of a small brown fluffy hedgehog perched on a moist white 4-layer cake with a golden birthday candle,0.5931161046028137,0.6226993203163147,53.93124919878307
+2,"a delicate brown and white-spotted hedgehog sits on a large, freshly baked, moist white birthday cake with candles",0.5845924019813538,0.6881241202354431,57.67726495039151
+2,"a tiny brown and fluffy hedgehog is delicately placed on the top of a large, pure white, iced and decorated birthday cake with rainbow-colored candles",0.5038198828697205,0.7471483945846558,68.0857541398253
+3,a highly detailed image of a tiny brown hedgehog with velvety fur sits on top of a pristine white frosted birthday cake decorated with multicolored sprinkles,0.6022043228149414,0.7858214378356934,74.65654772356743
+3,a miniature brown hedgehog with exceptionally soft fur sits atop a spotless white frosted birthday cake adorned with an assortment of colorful sprinkles,0.5212788581848145,0.7648529410362244,75.73926775072646
+3,a cute tiny brown hedgehog with exceptionally fine fur sits atop a gleaming white frosted birthday cake covered in vibrant colorful sprinkles,0.6400048136711121,0.8053371906280518,72.97299045751622
+3,"a small, brown hedgehog with very plush fur sits on the peak of a pure white frosted birthday cake covered in an array of colorful sprinkles",0.5852960348129272,0.7514084577560425,67.5722233694715
+3,"a tiny, adorable brown hedgehog with luxurious soft fur sits on top of a dazzling white frosted birthday cake decorated with an abundance of colorful sprinkles",0.5516849160194397,0.7817962169647217,73.41125023373209
+4,"a tiny, adorable, brown hedgehog with incredibly fine, luscious fur sits atop a gleaming, snow-white frosted birthday cake covered in abundant, vibrant colorful sprinkles",0.5982823967933655,0.7803710699081421,68.71566153709301
+4,"a miniature, endearing, brown hedgehog with exceptionally fine fur perches upon a resplendent, pure white frosted birthday cake adorned with an explosion of colorful sprinkles",0.5874245166778564,0.7568773627281189,69.89783631695484
+4,"a cute, tiny brown hedgehog with exceptionally fine, velvety fur sits atop a gleaming, pristine white frosted birthday cake covered in a medley of vibrant colorful sprinkles",0.6072978973388672,0.7873554229736328,75.40604943276313
+4,"a delicate, charming brown hedgehog with exceptionally fine fur sits atop a gleaming, frosted white birthday cake that is lavishly covered in a rainbow of colorful sprinkles",0.5616222620010376,0.7346447706222534,70.21795986346994
+4,"a tiny, cute, brown hedgehog with exceptionally fine fur sits atop a gleaming, immaculate white frosted birthday cake surrounded by an abundance of vibrant colorful sprinkles",0.5662790536880493,0.7861832976341248,65.7570580778399
+5,a cute tiny soft brown hedgehog with exceptionally fine textured fur sits atop a gleaming pristine white frosted birthday cake covered in vibrant colorful delicate sprinkles,0.583437442779541,0.7760733962059021,81.35541197924967
+5,a tiny adorable brown hedgehog with exceptionally fine fur sits atop a gleaming white frosted birthday cake in a highly detailed realistic style covered in vibrant colorful sprinkles,0.6344373226165771,0.7603264451026917,65.49374226883229
+5,a tiny cute brown hedgehog with exceptionally fine shiny fur sits atop a gleaming white frosted birthday cake in a warm and cozy 4k digital painting covered in vibrant colorful sprinkles,0.6316126585006714,0.7416313290596008,60.53216365668151
+5,a sweet tiny brown hedgehog with exceptionally fine fur sits atop a gleaming white frosted birthday cake made with intricate edible decorations covered in vibrant colorful sprinkles in a delicate watercolor master,0.5943400859832764,0.7861936688423157,84.8452531775476
+5,a tiny adorable brown hedgehog with exceptionally fine fluffy fur sits atop a gleaming white frosted birthday cake in a realistic and detailed digital art style covered in vibrant colorful sprinkles under a bright warm sun,0.6100494861602783,0.7665441036224365,78.24946782377242

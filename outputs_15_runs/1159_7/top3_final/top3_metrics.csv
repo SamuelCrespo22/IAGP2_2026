@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Run
+5,highly detailed hyper-realistic highly textured 8k photorealistic masterpiece of a tiny spiky hedgehog with cute big round bright big eyes sitting atop a block of moist rich velvety moist milk chocolate cake,0.7291813492774963,0.5509093403816223,43.80865118172537,run_3
+5,highly detailed ultra textured photorealistic ultra high definition image of a small spiky hedgehog with big round expressive eyes perched on a block of moist decadent velvety milk chocolate cake,0.7251759171485901,0.5888093709945679,39.22671178590837,run_3
+5,highly detailed and photorealistic image of a tiny spiky blue hedgehog sitting on a single block of moist chocolate frosting,0.717714786529541,0.5559081435203552,48.58401649304494,run_6

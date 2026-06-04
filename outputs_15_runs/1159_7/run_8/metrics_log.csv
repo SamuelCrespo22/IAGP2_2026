@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,there is a tiny hedgehog sitting on top of a moist slice of cake,0.6354172825813293,0.6901417970657349,60.64528869945802
+1,"a small, cute hedgehog is sitting on a rich, velvety block of cake",0.6242523193359375,0.6653380393981934,48.79377222698533
+1,"a highly detailed, colorful hedgehog is sitting on a beautiful, intricately decorated cake",0.5979681015014648,0.7100014686584473,59.67216086591307
+1,"a delicate hedgehog is sitting on top of a multi-tiered, extravagant cake",0.46711403131484985,0.6924836039543152,57.07410734418033
+1,"a small, adorable hedgehog is perched on a towering, fluffy block of whipped cream cake",0.5963499546051025,0.7131350636482239,66.02282110937192
+2,there is a small white hedgehog sitting on top of a moist and decadent slice of chocolate cake,0.6711832284927368,0.6889661550521851,57.2616228733741
+2,a tiny hedgehog with a pink nose sits atop a slice of rich vanilla cake,0.5051698684692383,0.7202394008636475,77.3994856412906
+2,the hedgehog is sitting on a generous slice of cake on a dark and elegant tablecloth,0.5838475227355957,0.7464784979820251,50.12833566014289
+2,a highly detailed miniature hedgehog is delicately perched on a slice of moist and fluffy chocolate cake in front of a blurred background,0.6675305962562561,0.6823183298110962,51.99157288999015
+2,"in the center of a highly realistic 4k image, a tiny prickly hedgehog is delicately placed on top of a slice of moist lemon pound cake",0.5221560001373291,0.6822423934936523,59.26995240867701
+3,highly detailed digital painting of a small white hedgehog sitting on top of a rich and moist decadent slice of velvety chocolate cake,0.668974757194519,0.634850025177002,52.073464038889796
+3,there is a tiny white hedgehog perched on top of a dark and creamy slice of chocolate cake,0.6182605624198914,0.7047641277313232,49.828641105669064
+3,realistic highly detailed 4k image of a small white hedgehog sitting on a slice of chocolate cake with a single candle,0.6486867070198059,0.6873360872268677,54.1877830152834
+3,a small white hedgehog is sitting on top of a warm and gooey slice of chocolate cake in a cozy bakery,0.6556627154350281,0.7658604383468628,62.684330725573616
+3,small white hedgehog in a highly detailed photorealistic 4k digital painting sitting on top of a generous slice of chocolate cake with powdered sugar on top,0.6430599689483643,0.7810635566711426,56.77938535089612
+4,there is a tiny white hedgehog sitting on a rich decadent slice of double-layer chocolate cake,0.5899463891983032,0.6826035380363464,57.4914065563027
+4,a small white hedgehog is sitting on top of an enormous slice of moist and velvety chocolate cake,0.5513565540313721,0.6383982300758362,54.91548056407762
+4,in the middle of a plate is a small white hedgehog sitting on top of a deliciously moist slice of chocolate cake,0.6726621389389038,0.7906277179718018,65.4448606603427
+4,a miniature white hedgehog is perched on top of a highly detailed slice of creamy decadent chocolate cake,0.674424409866333,0.6838464140892029,56.07415036274162
+4,a small white hedgehog with a party hat is sitting on top of a moist and sumptuous slice of multi-layer chocolate cake,0.5766866207122803,0.7129791975021362,64.8868113291137
+5,a miniature white hedgehog is perched on top of a rich and velvety decadent chocolate cake,0.6510509252548218,0.6783434152603149,54.44588116849955
+5,a tiny and adorable white hedgehog is sitting atop a slice of exquisite creamy chocolate cake,0.6144648194313049,0.7503482103347778,67.36291997868852
+5,highly detailed miniature white hedgehog on top of a 4k slice of decadent dark chocolate cake masterpiece,0.6470472812652588,0.6575530171394348,51.96132054392699
+5,a delicate white hedgehog perches on a thick slice of creamy and smooth rich chocolate cake,0.6382107734680176,0.6986984014511108,61.581122395825936
+5,a small white hedgehog is posing atop a highly detailed and photorealistic slice of decadent chocolate cake,0.6385336518287659,0.6983129978179932,53.75381031445737

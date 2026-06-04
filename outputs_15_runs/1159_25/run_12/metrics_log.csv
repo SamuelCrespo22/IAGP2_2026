@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.5827991962432861,47.5498014298328
+1,highly detailed glass of freshly squeezed orange juice with a thick slice of orange on the side,0.9320836663246155,0.4416319727897644,39.04061250949638
+1,a crystal glass of orange juice sits next to a large round slice of orange on a simple table,0.84583580493927,0.6343101859092712,57.76022563933695
+1,there is a tall clear glass of orange juice on a wooden table next to a thick orange slice,0.9181421399116516,0.6412944793701172,58.38645956299222
+1,a glass of perfectly poured orange juice has a large orange slice resting on the side,0.9218508005142212,0.5635921359062195,45.005907149799505
+1,a golden hour scene featuring a glass of fresh orange juice and a slice of orange on a worn wooden table,0.7543255090713501,0.749160885810852,60.3417339249007
+2,highly detailed realistic glass of freshly squeezed orange juice with a thick slice of orange on a simple wooden table,0.9301822781562805,0.5303858518600464,39.45364447626239
+2,photorealistic 4k digital painting of a glass of orange juice with a thick slice of orange on the side,0.9255974292755127,0.5421020984649658,49.22800222368477
+2,a highly detailed close-up of freshly squeezed glass of orange juice with a slice of orange on a rustic wooden cutting board,0.9107968807220459,0.5608530044555664,45.097605754376794
+2,highly detailed glass of freshly squeezed orange juice with a thick slice of orange on the side under warm natural lighting,0.9363476634025574,0.42753976583480835,51.06017668220258
+2,realistic still-life digital art of a glass of orange juice with a thick slice of orange on a decorative vintage plate,0.7092395424842834,0.6735566854476929,55.240750752798604
+3,highly detailed glass of freshly squeezed orange juice with a thick slice on the side under a warm sunny natural light,0.9264495968818665,0.49491244554519653,51.13075465630339
+3,"a close-up of a highly detailed glass of freshly squeezed orange juice with a thick slice of orange on the side under warm natural lighting, 4k quality",0.9043794274330139,0.576852023601532,51.77495610012025
+3,"a highly detailed still life of freshly squeezed orange juice with a thick sliced orange garnish under warm, soft natural lighting",0.9402708411216736,0.6112581491470337,54.62318452698381
+3,"highly detailed, realistic glass of freshly squeezed orange juice with a thick slice of orange on the side, set against a minimalist, neutral background under warm natural light",0.9341104030609131,0.5362598896026611,54.17289309979446
+3,"an extremely detailed, photorealistic glass of freshly squeezed orange juice with a thick slice of orange, positioned on a rustic wooden table under warm, natural diffuse lighting",0.9224857687950134,0.5873101949691772,48.2826759439642
+4,"a highly detailed, photorealistic still life of freshly squeezed orange juice with a thick sliced orange garnish under warm soft golden natural light",0.9228977560997009,0.6168084144592285,49.91570292232223
+4,a detailed 4k digital painting of a still life arrangement with freshly squeezed orange juice and a thick sliced orange garnish under soft warm natural light,0.7791656255722046,0.7240161895751953,56.15168718416474
+4,highly detailed still life of a glass filled with freshly squeezed orange juice garnished with a thick sliced orange under warm soft natural light,0.9335170984268188,0.5267475843429565,46.153010313647435
+4,a highly detailed oil painting style still life of freshly squeezed orange juice with a thick sliced orange garnish under soft warm natural light,0.7144688367843628,0.6557945013046265,53.147510905672426
+4,a highly detailed 4k digital still life of a glass of freshly squeezed orange juice and a thick sliced orange garnish under softly illuminated warm natural light,0.9276569485664368,0.5014243125915527,44.42528973330702
+5,"highly detailed still life of freshly squeezed orange juice with a thick, sliced orange garnish under warm, soft natural lighting",0.9243062734603882,0.6238261461257935,54.17557858962016
+5,richly textured still life of freshly squeezed orange juice with an orange wedge garnish under diffused warm light,0.879788339138031,0.6690564155578613,57.94992377144185
+5,"a highly realistic still life of freshly squeezed orange juice with a thick orange wheel garnish under soft, warm overhead lighting",0.6909366846084595,0.6813451647758484,64.06943680861767
+5,4k digital painting of a still life featuring freshly squeezed orange juice with an orange slice garnish under warm natural light,0.780379056930542,0.6902198791503906,57.84791709886561
+5,"vibrant, highly detailed still life of a glass filled with freshly squeezed orange juice and garnished with a thick orange slice",0.9382231831550598,0.4733530282974243,42.524948682701535

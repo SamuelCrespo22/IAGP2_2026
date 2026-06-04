@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308416128158569,49.72889730210695
+1,a small hedgehog is sitting on top of a colorful block of moist vanilla cake,0.6498286128044128,0.6781172752380371,70.58297100472058
+1,a hedgehog is perched delicately on a towering block of rich chocolate cake,0.6317192912101746,0.6306942701339722,53.22919931429405
+1,"there is a small, adorable hedgehog sitting atop a decadent block of creamy strawberry shortcake",0.5529320240020752,0.7058321833610535,59.062286985365674
+1,a tiny hedgehog is curled up on top of a majestic block of golden brown carrot cake,0.44858166575431824,0.6682395339012146,51.781479362566955
+1,"a delicate, intricate drawing of a hedgehog is sitting atop a block of fluffy, three-tiered wedding cake",0.6025669574737549,0.72590571641922,66.90802004785371
+2,'a small dark brown hedgehog with a pink face is sitting on top of a vibrant block of moist vanilla cake in a bright and airy kitchen',0.5970183610916138,0.7241106033325195,70.47236920310807
+2,'highly detailed 4k digital painting of a miniature hedgehog perched on a colorful block of moist vanilla cake',0.6302995085716248,0.5789608955383301,47.34810549997973
+2,"'a tiny, adorable, spiky hedgehog sits on a giant swirly moist vanilla cake in the middle of a colorful room'",0.5618300437927246,0.6674809455871582,65.48817249486308
+2,'an extremely realistic detailed image of a small hedgehog sitting on top of a large block of creamy moist vanilla cake in a stylized setting',0.5722888708114624,0.7473042607307434,55.37595965355439
+2,"'a cute, little, blue-eyed hedgehog is sitting on top of a beautifully decorated, moist vanilla cake in a whimsical, dreamlike atmosphere'",0.5637332797050476,0.7741907238960266,58.16166279282217
+3,'detailed realistic small hedgehog sits on top of a vibrant colorful moist vanilla cake',0.5750923752784729,0.7444314360618591,68.02135633313327
+3,'a small adorable hedgehog is sitting atop a large block of rich moist vanilla cake',0.6281427145004272,0.7652734518051147,64.3382201636431
+3,'highly detailed photorealistic hedgehog is sitting on a colorful moist vanilla cake with frosting',0.6057393550872803,0.7416151762008667,74.34674622198659
+3,'a small cartoonish style hedgehog sits on top of a moist vanilla colored cake with colorful sprinkles',0.6145386099815369,0.7523249387741089,75.19441058862672
+3,'a highly detailed realistic hedgehog is sitting on a large moist vanilla cake surrounded by colorful sprinkles',0.63872230052948,0.7653126120567322,82.63150794084596
+4,"a small, adorable, brown hedgehog is resting on top of a rich, moist vanilla cake",0.6129306554794312,0.5762993097305298,50.32610767701719
+4,"a hedgehog sits atop a vibrant, colorful block of classic, vanilla sponge cake",0.5632134675979614,0.7568587064743042,70.6310648216772
+4,"highly detailed, realistic hedgehog perched on a tall, decadent slice of fresh vanilla cake",0.6127007007598877,0.7085884213447571,62.72227761095633
+4,"a beautiful, small hedgehog is delicately placed on top of a layered, fluffy vanilla sponge cake",0.5314570665359497,0.6736164093017578,59.682246124791426
+4,"a tiny, fluffy hedgehog rests gently on a large, colorful chunk of creamy vanilla pound cake",0.47928500175476074,0.751441478729248,82.5625449716396
+5,highly detailed realistic small hedgehog is sitting atop a vibrant block of moist vanilla cake,0.6487529277801514,0.6887089014053345,59.70507057268807
+5,"a small hedgehog is sitting on top of a moist, vanilla-flavored block of colorful cake",0.667039155960083,0.7213765978813171,70.13004482732002
+5,"in the center of a kitchen table, a small hedgehog is perched on top of a large, moist block of vanilla cake",0.5991299152374268,0.7801616191864014,58.98367323135391
+5,"a small, adorable hedgehog is sitting calmly on a colorful block of moist vanilla cake in a warm, golden light",0.6027553081512451,0.6441194415092468,62.826660593432294
+5,"photorealistic small hedgehog is sitting proudly on top of a juicy, moist block of vanilla cake with colorful sprinkles",0.5949568748474121,0.7795112133026123,77.9762828231481

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230386257171631,32.16922106397991
+1,astronaut standing on the rugged surface of a distant alien planet with a bright blue light shining in the background,0.8703674077987671,0.6393604278564453,51.86252724506926
+1,astronaut standing on the edge of a cliff on a mysterious planet with a large bright light,0.8790650367736816,0.6222811341285706,47.23829723337917
+1,highly detailed astronaut standing on the surface of a gas giant's largest moon surrounded by a bright celestial light,0.8041744828224182,0.5041874647140503,36.05747707466886
+1,astronaut standing on a rocky outcropping on a barren planet with a massive star shining brightly behind,0.8282557725906372,0.6742074489593506,36.28786640438521
+1,highly realistic astronaut standing on the dusty surface of a distant desert planet with a radiant blue light illuminating the dark horizon,0.7889856696128845,0.7557194232940674,61.602243500589466
+2,astronaut standing on the edge of a cliff on a distant alien world with a vibrant large bright light,0.8831372261047363,0.5760517716407776,45.09675378023878
+2,a lone astronaut posing on a cliff overlooking a misty mysterious planet illuminated by a colossal light,0.8901426792144775,0.6206504106521606,49.0191429211678
+2,astronaut standing at the precipice of a rugged cliff on an extraterrestrial landscape with an intense bright light,0.8679701685905457,0.7644137144088745,59.19464855655156
+2,astronaut standing heroically on the edge of a cliff gazing out at a breathtaking alien world bathed in the glow of a massive bright light,0.8819830417633057,0.6142618060112,44.705087936402045
+2,a highly detailed astronaut standing at the edge of a rocky cliff overlooking a fantastical planet with a radiant bright light in the distance,0.8533177375793457,0.7034856081008911,51.590993920101184
+3,vibrant spacewalker standing confidently at the edge of a rocky plateau overlooking a mystical alien world bathed in the warm glow of a colossal distant light,0.831545352935791,0.7106095552444458,55.65101898023117
+3,"a lone astronaut standing at the top of a steep cliffside, looking out over a mysterious mist-shrouded planet illuminated by an otherworldly celestial light",0.8374159336090088,0.6876769661903381,61.36761832608188
+3,"a highly detailed image of a solo space explorer posed on a craggy outcropping, gazing out at a surreal, misty, and mysterious alien landscape bathed in the soft, ethereal light of a distant star",0.8661686182022095,0.7268779277801514,64.98613764214355
+3,"a detailed illustration of a lone astronaut standing at the edge of a cliff overlooking a mysterious, mist-shrouded alien world, illuminated by a colossal and ancient celestial body",0.868606448173523,0.6841831803321838,55.928204582413684
+3,"a close-up of a solitary space explorer posing at the edge of a rocky outcropping, looking out over a mist-shrouded, distant world in a state of deep, mystical alien slumber beneath a colossal radiant light",0.8239614963531494,0.7111757397651672,67.19790819350332
+4,a lone astronaut standing at the edge of a cliff overlooking a thickly foggy otherworldly planet under a brilliant celestial light,0.8994054794311523,0.6200989484786987,52.78853357484048
+4,a lone astronaut standing on a cliff overlooking a dense misty alien world illuminated by an enormous ethereal glow,0.8637558221817017,0.6324742436408997,51.47543717072559
+4,a lone astronaut poses at the precipice of a craggy cliff overlooking a mystical fog-shrouded extraterrestrial landscape bathed in soft luminous rays,0.7641163468360901,0.7994189262390137,92.98717405474395
+4,an astronaut on a rocky outcropping surveys a fog-drenched distant world bathed in a radiant warm light,0.8402769565582275,0.754562497138977,69.60481278095094
+4,a lone astronaut stands on a windswept cliff overlooking a mysterious alien realm shrouded in a heavy mist illuminated by a shimmering celestial light,0.8191442489624023,0.6993540525436401,59.857161197417966
+5,"'a lone astronaut standing at the edge of a vast, rugged cliff overlooking a thickly foggy, iridescent otherworldly planet under a resplendent celestial light highly detailed",0.8874770998954773,0.6898466348648071,62.41078593165395
+5,"a lone astronaut standing at the edge of a rocky outcropping, overlooking a dense, mist-shrouded alien world under a brilliant, star-studded sky",0.8590667247772217,0.6811375617980957,44.877959770590664
+5,"an astronaut alone on a windswept precipice gazing out over a thickly foggy, extraterrestrial landscape bathed in the soft, ethereal light of a distant celestial body",0.8866043090820312,0.686641275882721,66.66419891028607
+5,"a lone astronaut standing at the ledge of a towering cliff, staring out into the eerie, otherworldly gloom of a planet shrouded in a thick, impenetrable fog",0.8279690742492676,0.7244424223899841,65.923585468868
+5,"a lone space explorer standing at the edge of a sheer cliff, gazing out over the mysterious, thickly foggy expanse of an alien world under a sky ablaze with intense, colorful starlight'",0.8608684539794922,0.6721423268318176,47.88442862839838
