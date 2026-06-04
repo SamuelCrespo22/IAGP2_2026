@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,astronaut standing near the horizon of a distant planet with a bright warm light shining in the background,0.8336499333381653,0.5349693894386292,39.07077419602027,0.816934
+1,highly detailed astronaut standing at the edge of a massive crater on a rugged alien surface,0.7720125317573547,0.6422107219696045,39.25356259818089,0.405340
+1,vividly painted astronaut standing on a rocky outcropping as a blazing sun rises over a barren planet,0.847900927066803,0.785325288772583,59.01340506187156,0.463712
+1,highly realistic astronaut standing in the foreground with a stunning nebula in the distance,0.7550035119056702,0.540352463722229,32.50927952285786,0.480334
+1,detailed astronaut standing in a surreal landscape of twisted metallic trees under a glowing crimson light on a mysterious alien world,0.82179194688797,0.6745091080665588,51.427920420123996,0.509656
+2,astronaut standing on the surface of a distant planet with a bright solar flare shining in the background,0.830336332321167,0.49353134632110596,35.97878673328077,0.718759
+2,highly detailed image of an astronaut standing on the surface of a rocky exoplanet with a massive sun bursting through the clouds,0.870967447757721,0.6214602589607239,42.40297068992692,0.797830
+2,astronaut standing on Mars with the Olympus Mons volcano and a bright light of a dust storm shining in the background,0.8166457414627075,0.7560180425643921,58.427546420526994,0.207865
+2,a highly realistic 4k image of an astronaut exploring the surface of a barren alien world with a blazing star shining in the distance,0.7901380062103271,0.5262545347213745,33.682984848942006,0.456952
+2,highly detailed digital painting of an astronaut standing on the edge of a cliff on a planet with a massive stormy atmosphere and a bright star shining through the clouds,0.8670512437820435,0.7354743480682373,64.01941001130038,0.495341
+3,"highly detailed, photorealistic image of an astronaut standing on the surface of a rocky exoplanet with a massive sun bursting through the clouds",0.9045944213867188,0.6909914612770081,52.54152405749981,0.509624
+3,"highly realistic image of an astronaut exploring a barren, alien landscape with a massive, fiery sun overhead",0.8447598814964294,0.6968748569488525,51.641005670287214,0.068217
+3,"a stunning, highly detailed image of an astronaut on the surface of a barren exoplanet at sunrise with a massive sun rising behind",0.8373165726661682,0.5440500378608704,36.96047188736968,0.473181
+3,"astronaut standing on a dusty, rocky exoplanet with a burning sun in the sky and a dramatic, swirling cloud formation",0.863663911819458,0.5556905269622803,39.74584956330259,0.610051
+3,"highly detailed, photo-realistic image of an astronaut standing on the edge of a cliff, overlooking a vast, barren exoplanet with a massive sun hanging low in the sky",0.8815276026725769,0.568591296672821,35.08812573970498,0.788424
+4,"highly detailed, photorealistic 4k image of an astronaut in a spacesuit standing on the barren surface of a rugged exoplanet with a massive sun setting behind the clouds",0.8060817718505859,0.8618030548095703,65.97437683798825,0.111498
+4,"highly detailed, photorealistic image of an astronaut in a white spacesuit standing on the edge of a rocky cliff overlooking a vast alien landscape with a massive sun bursting through the clouds",0.8363336324691772,0.7711524367332458,76.86914953651747,0.256888
+4,photorealistic digital painting of an astronaut in a black spacesuit standing on the surface of a rocky exoplanet with a massive sun shining down amidst a hazy atmosphere,0.795485258102417,0.6915596723556519,47.54088879936194,0.300320
+4,"highly detailed, cinematic image of an astronaut in a silver spacesuit standing on the surface of a rocky exoplanet with a massive sun rising above the horizon",0.8523921966552734,0.5366448163986206,33.5936015217972,0.760780
+4,"highly detailed, photorealistic 8k image of an astronaut in a gray spacesuit standing on the surface of a barren, rocky exoplanet with a massive sun shining down amidst a vast, desolate landscape",0.8129821419715881,0.6973804831504822,48.57383566851056,0.370058
+5,"highly detailed, photorealistic image of an astronaut standing on the cracked surface of a barren exoplanet with a massive sun rising behind the horizon",0.8376591205596924,0.7298192381858826,48.318161558527265,0.374407
+5,astronaut on a rocky alien world set against a vibrant orange sunset sky,0.8536466360092163,0.725716769695282,54.258227407929176,0.366301
+5,realistic 4k image of an astronaut exploring the rugged terrain of a distant exoplanet bathed in warm sunlight,0.7955816984176636,0.7829370498657227,53.52020808956366,0.055473
+5,"highly detailed digital painting of an astronaut standing on a dark, barren exoplanet with a massive sun exploding in the background",0.8866591453552246,0.5233897566795349,39.9875067238798,0.917738
+5,"photorealistic image of an astronaut descending a rocky slope on a massive, remote exoplanet with a sun bursting through the clouds in the distance",0.8622453212738037,0.7744807004928589,57.379301209289295,0.313906

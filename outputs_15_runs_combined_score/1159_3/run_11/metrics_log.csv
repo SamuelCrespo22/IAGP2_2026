@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime character,0.7369968891143799,0.6128849983215332,53.18739429806542,0.219523
+1,anime warrior with sword and flames in hand holding a katana,0.7642231583595276,0.601405680179596,51.54028951685706,0.504507
+1,highly detailed anime character with a majestic sword and burning fire,0.8295948505401611,0.6022294759750366,46.99504571870172,0.973875
+1,a highly realistic digital painting of an anime warrior wielding a fiery sword,0.8018032312393188,0.6321420669555664,53.158039308510816,0.413621
+1,a fantasy anime character with a massive powerful sword and a burning fireball in his hand,0.8040734529495239,0.6102805733680725,46.277716191009006,0.790007
+2,highly detailed anime warrior with a majestic dragon-headed sword and flames,0.7485798597335815,0.631398618221283,41.835715413083705,0.646890
+2,highly realistic anime character with a blazing sword and intense fire effects,0.8296955227851868,0.6595650911331177,52.470674928938855,0.712777
+2,anime masterpiece with a heroic warrior and a magnificent burning sword,0.7673619985580444,0.6160355806350708,47.69380874126203,0.660001
+2,highly detailed fantasy anime portrait with a mighty warrior and a blazing inferno,0.7696384191513062,0.6768622398376465,50.455530583166556,0.491133
+2,epic highly detailed anime scene with a legendary warrior and a dragon-sized sword surrounded by flames,0.6889235377311707,0.7144189476966858,58.50930173608224,0.000000
+3,highly realistic anime character with a blazing fiery sword and intense dynamic fire effects in a dark fantasy setting,0.8140107989311218,0.6197332143783569,50.164463782006855,0.761504
+3,highly detailed 4k anime artwork of a female warrior with a blazing sword amidst intense fire,0.7924418449401855,0.6996803283691406,57.50548739824758,0.325045
+3,highly photorealistic anime-style image of a swordsman amidst a blazing fireball with intense light effects,0.8238955736160278,0.6407594084739685,53.907823191449644,0.734932
+3,highly stylized anime character with vibrant colors wielding a blazing sword amidst fiery flames and intense smoke,0.8179647922515869,0.6830909848213196,64.7403000076957,0.455895
+3,highly detailed digital painting of an anime character wielding a blazing sword in a fantasy world with intense fire and smoke effects,0.7595818638801575,0.5948187708854675,44.801230728309584,0.500000
+4,highly realistic anime character with a fiery blazing sword and intense flames dancing around him,0.7425130605697632,0.7151873707771301,61.84526593510309,0.000000
+4,"anime master's highly detailed, realistic artwork of a hero wielding a blazing sword in the midst of fire effects",0.8013900518417358,0.6990412473678589,56.30830847223825,0.449013
+4,"a highly detailed, realistic 4k digital painting of a young anime protagonist standing proudly with a sword ablaze behind them",0.800542950630188,0.5635050535202026,45.50940606810882,0.832807
+4,"a cinematic masterpiece, highly realistic anime character with a blazing sword and fire effects, set amidst a dark and moody background",0.8129987716674805,0.6033259034156799,52.47496072329738,0.732011
+4,"highly realistic, digital artwork of a legendary anime hero brandishing a blazing sword as fire erupts around them in a swirling vortex of color and energy",0.7435615658760071,0.642461895942688,51.729501161293165,0.280687
+5,highly realistic highly detailed anime character with a blazing high-resolution sword in intense fire effects,0.8589761853218079,0.6105093955993652,48.388043923390704,0.945741
+5,"highly realistic anime character with a sword covered in flames, set against a dark smoky background",0.7919822335243225,0.6349838972091675,57.72673300157023,0.143752
+5,highly realistic anime character wielding a blazing 4k sword amidst intense fire effects,0.8568112850189209,0.7023890614509583,54.62710722153271,0.566752
+5,"anime character with an intense blazing sword in highly realistic fire effects, set amidst smoke and flames",0.8236954212188721,0.6546587944030762,53.46064539886698,0.452590
+5,highly realistic anime character with a blazing high-poly sword and detailed fire effects that fill the entire frame,0.8080101013183594,0.5851641893386841,48.38033892346664,0.619622

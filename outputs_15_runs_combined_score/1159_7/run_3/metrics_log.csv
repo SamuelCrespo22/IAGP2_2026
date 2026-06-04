@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,'small round hedgehog sitting on top of a single slice of vanilla cake',0.4771462082862854,0.7606472969055176,74.73004529323221,0.000000
+1,'there is a tiny hedgehog on a pedestal made of cake',0.5442420244216919,0.6261335611343384,43.10366733647558,0.686893
+1,'a realistic highly detailed hedgehog is sitting on top of a colorful block of cake',0.6313966512680054,0.6995793581008911,66.27214586720402,0.666465
+1,'a small cute hedgehog is perched on a towering layer of chocolate cake',0.6020172834396362,0.6073750257492065,48.88619341114539,0.859058
+1,"'in a whimsical scene, a small hedgehog sits on top of a stack of cupcakes'",0.5244438648223877,0.6980680227279663,47.5550618210432,0.470199
+2,"a realistic, highly detailed, photorealistic hedgehog is sitting on top of a colorful, multi-tiered block of cake",0.6177669763565063,0.661249041557312,55.7212441737729,0.630894
+2,"a highly detailed, 4k resolution hedgehog is sitting atop of a rich, decadent, colorful block of cake",0.5409460067749023,0.6517900824546814,46.113907292368246,0.338107
+2,"a realistic, oil painting style hedgehog is perched on a colorful, intricately designed block of cake",0.6162595748901367,0.5858397483825684,47.53862431537647,0.882917
+2,"a highly detailed, highly realistic, textured hedgehog is sitting on top of a colorful, moist, multi-layered block of cake",0.624032735824585,0.6275401711463928,47.34219113898211,0.836500
+2,"a highly detailed, digital painting style hedgehog is sitting on top of a colorful, towering, multi-tiered block of cake with candles",0.5589349865913391,0.6276432275772095,44.64921862292031,0.507557
+3,a highly realistic hedgehog is sitting on top of a multicolored moist vanilla cake,0.5845333933830261,0.6805502772331238,57.693451004074845,0.181754
+3,a photorealistic hedgehog perched on a vibrant chocolate cake,0.5994147062301636,0.6496452689170837,40.55167031918213,0.625621
+3,a detailed 4k digital painting of a hedgehog on a colorful layer cake,0.6140735745429993,0.6431461572647095,58.409803121827196,0.633357
+3,a highly detailed masterpiece of a hedgehog sitting on top of a multicolored sponge cake,0.605923593044281,0.7062102556228638,59.236387543991675,0.296606
+3,a realistic digital image of a hedgehog on a moist red velvet cake with colorful decorations,0.6051965355873108,0.6409972906112671,46.234181479042505,0.665229
+4,a photorealistic highly detailed hedgehog is sitting on top of a multi-tiered colorful block of decadent cake,0.6071848273277283,0.6893246173858643,55.8847690190416,0.456206
+4,"a highly realistic, intricately detailed hedgehog is perched on a vibrant multi-colored block of rich cake",0.6296938061714172,0.6540191769599915,55.041962328814684,0.740709
+4,"a highly detailed, ultra-realistic hedgehog is sitting on top of an enormous colorful block of moist and fluffy cake",0.6394656896591187,0.6551352739334106,64.9197676242686,0.682610
+4,"a highly realistic, photorealistic hedgehog is sitting on top of a massive colorful block of velvety chocolate cake",0.5789651870727539,0.6037144660949707,51.06784173970832,0.500000
+4,a highly detailed realistic hedgehog is posed majestically on top of a brightly colored block of creamy multi-layered cake,0.6210952401161194,0.7053232192993164,69.21069233519407,0.348179
+5,"a highly detailed, 4k ultra-realistic hedgehog is sitting atop a gigantic multicolored block of wet and rich cake",0.665931761264801,0.6345807909965515,48.88912428789591,0.817965
+5,a realistic hedgehog is perched on a colossal moist cake block surrounded by vibrant colors,0.6377450823783875,0.635624885559082,56.79790838367345,0.346340
+5,"highly realistic, detailed, and vibrant a hedgehog is sitting on top of an enormous cake block dripping with sweet sauce",0.6449146270751953,0.6058993339538574,49.10246218725901,0.691620
+5,"a highly detailed, vibrant, ultra-realistic hedgehog is sitting on the peak of a gigantic, colorful wet cake",0.662539005279541,0.6493800282478333,46.15711094596566,0.735777
+5,"a highly detailed, photorealistic, and 4k hedgehog is perched on an enormous, moist, and multicolored cake block",0.6268860101699829,0.6125388145446777,46.22794896701927,0.465344

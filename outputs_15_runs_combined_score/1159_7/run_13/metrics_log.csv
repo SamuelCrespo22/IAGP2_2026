@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,there is a small cute hedgehog sitting on top of a highly detailed block of golden cake,0.6648087501525879,0.6054610013961792,48.551653424169096,0.925949
+1,a hedgehog is sitting on a small block of rich delicious moist cake,0.6355038285255432,0.7150965929031372,54.27092325240138,0.383388
+1,in a highly realistic digital painting style a hedgehog is sitting on top of a small round block of fluffy white cake,0.6437838077545166,0.7053942680358887,55.93827918859887,0.449211
+1,a tiny adorable hedgehog is perched on top of a highly stylized block of colorful cake,0.6083856821060181,0.7096918821334839,63.65757137483486,0.038779
+1,a small hedgehog with a big personality is sitting on top of an enormous block of decadent chocolate cake,0.6180465817451477,0.5899876356124878,45.4021622543541,0.608799
+2,highly detailed realistic depiction of a small cute hedgehog sitting on top of a perfectly golden block of cake,0.6379649043083191,0.6116960644721985,54.09593906711705,0.357800
+2,there is a small cute hedgehog sitting on top of a highly detailed exquisite golden cake with soft lighting,0.5898433327674866,0.6370872259140015,48.340392989304,0.146536
+2,the image of a small cute hedgehog sitting on top of a highly detailed block of golden cake with a 4k resolution texture,0.6698148846626282,0.5255920886993408,44.27661022995962,1.000000
+2,highly detailed photo realistic image of a small cute hedgehog sitting on top of a golden block of cake with subtle shadows,0.6229024529457092,0.6069430708885193,53.11328369194486,0.299302
+2,there is a small adorable hedgehog sitting on top of a highly detailed block of golden frosted cake in an impressionist art style,0.6270413994789124,0.6328131556510925,51.38209609400429,0.311249
+3,the image of a small adorable hedgehog sitting on top of a highly detailed block of rich golden cake with a 4k resolution fine texture,0.644919753074646,0.5690198540687561,45.8418746110455,0.418670
+3,a tiny cute hedgehog sitting on a beautifully crafted block of golden cake with intricate 4k details,0.6506590843200684,0.6037802696228027,51.9464916585141,0.181497
+3,"the image of a microscopic cute hedgehog sitting on a stunning, highly detailed block of golden cake with a 4k resolution realistic texture",0.6356777548789978,0.587293803691864,49.89252856447984,0.163557
+3,"a tiny cute hedgehog sits on a highly detailed, golden masterpiece of cake with fine 4k details and realistic lighting",0.6951867938041687,0.626154363155365,49.80498759100769,0.569802
+3,"a miniature adorable hedgehog sits on a rich, golden digital painting of a block of cake with 4k details and a realistic, fine texture",0.6431321501731873,0.6125339269638062,47.93281601774193,0.227319
+4,"'a tiny, adorable hedgehog sits on a stunning, highly detailed, 4k digital painting of a golden masterpiece cake with realistic, high-key lighting and subtle texture'",0.5755742788314819,0.6391494870185852,48.29495688255935,0.252897
+4,"'a petite, cute hedgehog perches on a lavish, intricate, golden cake, captured in breathtaking, 4k detail with precise, photorealistic lighting'",0.5348951816558838,0.6502035856246948,45.06633559236425,0.164073
+4,"'a small, endearing hedgehog rests on a majestic, golden cake, rendered in exquisite, high-fidelity 4k with lifelike, natural lighting and rich texture'",0.5680258870124817,0.6241475939750671,42.363780962636795,0.505585
+4,"'a minuscule, furry hedgehog is positioned on a resplendent, highly detailed, golden cake, crafted in a realistic, 4k digital art style with soft, warm lighting'",0.5575312972068787,0.6074157953262329,43.00588105930011,0.550194
+4,"'a tiny, cuddly hedgehog sits atop a delectable, golden masterpiece cake, depicted in crisp, high-definition 4k with authentic, realistic lighting effects'",0.5573562979698181,0.637279212474823,50.226712570950326,0.145578
+5,"highly detailed, realistic golden cake masterpiece with fine 4k details and soft focused lighting",0.49036145210266113,0.6282494068145752,44.25217822712906,0.408019
+5,"a tiny adorable hedgehog sits atop a rich, velvety golden cake with intricate 4k details and realistic shadows",0.6223866939544678,0.6129384636878967,46.826941449559484,0.683671
+5,"a delicate hedgehog sits perched on a highly detailed, golden, award-winning masterpiece cake with fine realistic textures and ambient lighting",0.5809046030044556,0.67459636926651,49.89014619197793,0.254600
+5,"a miniature, cute hedgehog sits on a mouthwatering, highly detailed, golden, digital painting-style cake with fine 4k details and realistic highlights",0.6664835214614868,0.6012715697288513,46.9082484502825,0.827973
+5,"a teeny, tiny hedgehog sits on a gigantic, highly detailed, golden, realistic cake masterpiece with fine 8k details and soft, diffused lighting",0.6187665462493896,0.6398631930351257,50.764773118157,0.431873

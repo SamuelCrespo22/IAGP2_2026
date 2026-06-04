@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,small highly detailed hedgehog sitting proudly on top of a moist decadent block of vanilla cake,0.5933988094329834,0.7641890645027161,65.67502545957794,0.320233
+1,a small detailed hedgehog is sitting on a block of vanilla cake with white frosting,0.6186394691467285,0.7777059078216553,78.76408768489783,0.297256
+1,there is a small adorable hedgehog perched precariously on a block of multi-layered cake,0.5520848631858826,0.6474206447601318,51.87197711108549,0.453344
+1,highly realistic detailed 4k hedgehog sits atop a moist chocolate cake with colorful sprinkles,0.6640332937240601,0.7065905928611755,55.99075985924718,0.817150
+1,tiny highly detailed masterpiece hedgehog proudly rests on top of a large intricately decorated wedding cake,0.5689452290534973,0.6876845955848694,60.534450898238234,0.385517
+2,"highly realistic and intricate 8k hedgehog sits atop a rich, velvety chocolate cake with vibrant colorful sprinkles",0.6088697910308838,0.6536475419998169,53.48018987482814,0.460429
+2,highly detailed photorealistic hedgehog perches atop a decadent moist chocolate cake with bold sprinkles,0.6157978773117065,0.6772988438606262,55.205135341445455,0.401165
+2,a highly realistic close-up of a hedgehog sits atop a moist and creamy chocolate cake with a medley of colorful sprinkles,0.6216273307800293,0.7148968577384949,64.04886672045598,0.115634
+2,"a highly detailed, cinematic-quality hedgehog sits atop a dense, fudgy mocha cake adorned with colorful sprinkles",0.6613599061965942,0.6421297788619995,55.96503901217361,0.916990
+2,"a highly realistic, hyper-realistic hedgehog sits atop a luscious, sumptuous chocolate cake with delicate colorful sprinkles in the foreground",0.6189334392547607,0.6641687154769897,57.57318172474725,0.418680
+3,highly realistic detailed 8k hedgehog sits atop a moist decadent chocolate cake with colorful sprinkles and whipped cream,0.6294966340065002,0.6894707679748535,56.251486535543265,0.449645
+3,highly realistic 4k hedgehog posing elegantly atop a rich moist chocolate cake adorned with pastel sprinkles,0.5680699944496155,0.665800929069519,56.02964464308421,0.342245
+3,hyper-realistic 8k hedgehog sits atop a lavish chocolate cake with vibrant colorful sprinkles and delicate edible gold leaf,0.6146095991134644,0.652884840965271,52.39941006825306,0.636766
+3,highly detailed 4k hedgehog sits on top of a classic moist chocolate cake with vintage colorful sprinkles and a few fresh berries,0.6146636605262756,0.6655935049057007,47.14406011287257,0.736343
+3,highly realistic 8k hedgehog is seated delicately atop a decadent rich chocolate cake with multi-colored rainbow sprinkles and a fluffy dollop of whipped cream,0.508155107498169,0.6357607841491699,48.120033730851844,0.473209
+4,highly realistic detailed high-resolution image of a hedgehog sits atop a rich moist chocolate cake with colorful sprinkles,0.6456900238990784,0.7023993134498596,58.92581022354092,0.571987
+4,a stunning 4k photo-realistic image of a hedgehog perched atop a decadent chocolate cake with vibrant rainbow sprinkles,0.6140982508659363,0.6233124136924744,45.500097427605425,0.811978
+4,the highly detailed 4k digital art of a smiling hedgehog sits proudly atop a fluffy moist chocolate cake with colorful swirly sprinkles,0.6348559260368347,0.6521493196487427,51.8654209428654,0.744852
+4,"highly realistic and detailed image of a hedgehog enjoying a slice of a rich, moist chocolate cake with colorful sprinkles on a modern minimalist background",0.6396231651306152,0.6330729722976685,55.382350913708336,0.783179
+4,a high-resolution photo-realistic image of a cute hedgehog snuggled up beside a moist chocolate cake with colorful swirling sprinkles and creamy whipped cream on top,0.5312427878379822,0.7102710008621216,71.00973093034595,0.000000
+5,realistic hyper-detailed ultra-high-resolution hedgehog sits atop a decadent triple-layer chocolate cake with vibrant sprinkles,0.6440297365188599,0.6609296798706055,54.64955485932634,0.406694
+5,highly realistic 8k hedgehog perches on a rich moist chocolate cake decorated with colorful swirly sprinkles,0.6146665811538696,0.6593834757804871,49.20879170068552,0.214903
+5,highly realistic detailed 4k hedgehog sits atop a moist decadent chocolate cake with oversized colorful sprinkles,0.6286070346832275,0.6943608522415161,52.780220769368256,0.224322
+5,realistic digital painting of a 4k hedgehog sitting atop a wet chocolate cake with tiny colorful sprinkles,0.6532080769538879,0.5706363320350647,42.75470513255659,0.890359
+5,highly realistic photorealistic 4k hedgehog sits atop a glossy moist triple-layer chocolate cake with multicolored sprinkles,0.6208284497261047,0.683676540851593,54.7830228755417,0.127356

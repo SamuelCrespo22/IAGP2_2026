@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,"anime character with a high-resolution, highly detailed sword and fire in his hand",0.843907356262207,0.5495170950889587,45.51488032635596,1.000000
+1,"epic anime warrior standing with a sword and flame in his palm, surrounded by a fiery aura",0.7976818680763245,0.6557927131652832,60.65321382125575,0.298942
+1,an extremely detailed anime fantasy character grasping a gleaming sword and flames in a bold stance,0.8056983947753906,0.6162408590316772,49.69563073029481,0.583483
+1,"a vibrant, pixel-perfect anime character with a long sword and fiery flames leaping from his grasp",0.7651973366737366,0.7019837498664856,61.747031239588104,0.000000
+1,digitally painted anime character in a heroic pose with a glowing sword and a blazing inferno erupting in his hand,0.8288203477859497,0.6597995162010193,56.0516230036872,0.561048
+2,"anime character with a high-poly, highly realistic sword and flames engulfing his hand",0.8481575846672058,0.6167742013931274,54.651083991907456,0.667061
+2,"epic anime character wields a highly detailed, razor-sharp sword amidst blazing inferno",0.7882462739944458,0.5921173095703125,49.65933126148307,0.343806
+2,highly detailed 4k anime character surrounded by intense flames and grasping a finely crafted sword,0.8024799823760986,0.6824871301651001,59.129922724168196,0.109589
+2,"anime warrior poised with a magnificent, intricately designed sword as fire erupts around his hand",0.8531877398490906,0.6033452153205872,50.61367970180944,0.805172
+2,"heroic anime character with a highly detailed, fiery katana and a determined expression in his eyes",0.8027946949005127,0.6460856795310974,50.731079199194575,0.334671
+3,"highly detailed anime warrior poised with a magnificent, intricately designed katana as fire erupts around his hand",0.7856094837188721,0.6704736948013306,57.31314384468271,0.309962
+3,"anime warrior poised with an awe-inspiring, highly detailed sword as fierce flames engulf his outstretched hand",0.8446991443634033,0.6100201606750488,50.82930651003573,0.904931
+3,"masterfully rendered anime warrior standing heroically with a mighty, intricately designed sword as a blazing inferno surrounds his raised hand",0.8186581134796143,0.6895552277565002,54.39383367379684,0.510298
+3,"an intricately detailed anime warrior warrior stands resolute with a magnificent, highly ornate sword as intense flames dance around his outstretched palm",0.7407652735710144,0.7236620783805847,54.55396991159686,0.087898
+3,"an expertly crafted anime warrior proudly holds a magnificent, intricately designed sword as a dramatic, fiery explosion erupts around his upturned hand",0.7813555598258972,0.6247109174728394,49.46551447826338,0.636131
+4,anime warrior standing firm with an intricately crafted sword as flames engulf his hand,0.8378121256828308,0.6318024396896362,55.108969525459486,0.625321
+4,"a highly detailed anime warrior holding a magnificent, intricately designed sword amidst intense burning embers",0.8184253573417664,0.6803019046783447,53.20189923449953,0.460129
+4,warrior in anime style boldly holding his finely crafted sword amidst the fiery blast of a raging inferno,0.7729431390762329,0.7066079378128052,58.358126110925724,0.000000
+4,"anime masterpieces of a skilled warrior proudly grasping a 4k, highly detailed, intricately designed sword amidst a background of intense flames",0.8378829956054688,0.6698912382125854,53.9185326037331,0.583321
+4,"an extremely realistic anime warrior with a bold expression, holding his intricately designed, finely crafted sword as fire and smoke erupt from the surrounding air",0.8181464672088623,0.5739797353744507,48.219664488746695,0.781660
+5,"anime warrior poised heroically with a magnificent, intricately designed, ornate sword as flames engulf his hand",0.8316875100135803,0.6696951985359192,56.41749343003323,0.644524
+5,"anime warrior poised heroically amidst a backdrop of intense, fiery, crimson hues with a magnificent, intricately designed, ornate sword",0.7534563541412354,0.7679750323295593,61.15798218690946,0.000000
+5,"highly detailed, 4k-quality image of an anime warrior poised heroically, his hand engulfed in majestic, fiery, golden flames, wielding a magnificent, intricately designed, ornate sword",0.81007981300354,0.74102383852005,61.028268569703705,0.327627
+5,"an intricately detailed, anime-style warrior poised heroically, his hand ablaze with fiery, golden light, as he holds a magnificent, intricately designed, razor-sharp sword",0.7797349691390991,0.7132062911987305,51.84924774250944,0.417314
+5,"anime warrior in dramatic, highly detailed, 4k-quality pose, with a magnificent, intricately designed, ornate sword that shines in the flickering, fiery light",0.8010165691375732,0.6806413531303406,49.659881537959286,0.621063

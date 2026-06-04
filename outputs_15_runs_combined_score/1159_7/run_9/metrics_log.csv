@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,small and endearing hedgehog sitting on top of a beautiful rich moist decadent block of cake,0.6141671538352966,0.6356672048568726,50.39753983855013,0.833088
+1,there's a tiny adorable cute hedgehog perched on a large rectangular block of cake with fluffy icing,0.6333838701248169,0.7076869010925293,63.18613328247662,0.656786
+1,a highly detailed realistic cute hedgehog sits on top of a large tiered block of cake with fondant decorations,0.566083550453186,0.6888693571090698,59.087401529349385,0.262573
+1,"in a whimsical and fantastical scene, a small grey hedgehog sits on top of a block of cake with a birthday hat",0.6346209049224854,0.7146852612495422,55.323921301911746,0.804201
+1,a tiny cartoonish colorful hedgehog is sitting on top of a big block of extremely moist and delicious looking cake with a sprinkle of edible glitter,0.5802122950553894,0.8590084314346313,62.783409443693174,0.110555
+2,whimsical and dreamy scene with a small grey hedgehog sitting on top of a block of decadent cake and wearing a colorful birthday hat,0.5712405443191528,0.7522507309913635,56.1101983695918,0.508417
+2,"in a fantastical and vibrant setting, a tiny grey hedgehog balances on top of a towering block of chocolate cake with bright candles and a party hat",0.560579776763916,0.6476114988327026,47.866313326637474,0.767481
+2,"highly detailed, 4k digital painting of a whimsical scene with a small grey hedgehog perched on a cake shaped like a large birthday hat and surrounded by colorful balloons",0.6337964534759521,0.7345246076583862,56.39431748758227,0.730880
+2,a small grey hedgehog stands proudly on top of a towering block of multi-colored cake with a gigantic birthday hat and a trail of confetti,0.4754057824611664,0.7953667640686035,62.63888138091763,0.043040
+2,"highly realistic and detailed scene of a small grey hedgehog sitting serenely on top of a large block of creamy vanilla cake with delicate, colorful flowers and a matching birthday hat",0.5054170489311218,0.7853785157203674,65.711004419677,0.111148
+3,"in a whimsical and vibrant scene, a small grey hedgehog sits on top of a block of vanilla cake with a glittering birthday hat",0.5925835371017456,0.7603311538696289,67.40894458137461,0.026030
+3,a small grey hedgehog sits on top of a block of decadent chocolate cake with a colorful birthday crown,0.6112654209136963,0.6818634867668152,53.81335176542143,0.522384
+3,"in a whimsical and highly detailed digital painting, a small grey hedgehog sits on top of a block of moist butter cake with a sparkling birthday hat",0.6375446319580078,0.7373811602592468,55.063367838312445,0.690424
+3,"on a beautiful sunny day, a small grey hedgehog sits on top of a block of layered sponge cake with a delicate birthday ribbon",0.6110606789588928,0.7659888863563538,68.93559423641784,0.205479
+3,"in a fantastical and realistic 4k scene, a small grey hedgehog sits on top of a block of rich red velvet cake with a shiny silver birthday hat",0.6282638311386108,0.6423490643501282,42.77719759416923,0.896791
+4,"in a highly detailed, dreamy, and hyper-realistic digital oil painting",0.44721391797065735,0.6195093393325806,38.75703008726153,0.500000
+4,a small grey hedgehog wearing a bright pink and blue striped birthday hat sits atop a fluffy block of moist vanilla butter cake,0.615733802318573,0.7332791090011597,75.67533553735593,0.451868
+4,a stylized cartoon style rendition of a grey hedgehog with a vibrant birthday hat perched on a slice of mocha butter cake,0.560136079788208,0.7282748818397522,60.79434442000734,0.417175
+4,"in a 4k, photorealistic digital painting, a grey hedgehog sits regally upon a delicate stack of moist cake with colorful candles",0.5638004541397095,0.6722150444984436,45.21263630395622,0.650987
+4,"a whimsical and highly detailed, hand-painted digital artwork of a grey hedgehog wearing a shiny new birthday hat sitting on a block of creamy buttermilk butter cake",0.5870057344436646,0.7376087307929993,58.345978214681814,0.484583
+5,"in a highly realistic and vivid digital painting, a small grey hedgehog sits on top of a block of moist butter cake with a sparkling birthday hat",0.6500516533851624,0.73143470287323,57.942462702350774,0.654747
+5,"in a whimsical and highly detailed digital artwork masterpiece with 4k resolution, a small grey hedgehog sits on top of a block of moist butter cake wearing a sparkling birthday hat",0.6225177049636841,0.7569782733917236,59.94454399967186,0.182908
+5,"in a highly realistic oil painting on canvas, a small grey hedgehog with a sweet expression sits on top of a delicious block of moist butter cake with a shiny birthday hat",0.6111631393432617,0.7028799653053284,47.01188693320907,0.500000
+5,"in a digital painting style reminiscent of a watercolor, a small grey hedgehog sits on top of a block of moist butter cake with a delicate sparkling birthday hat and a soft blurred background",0.6538114547729492,0.7326886057853699,63.160668179157206,0.612248
+5,"in a highly detailed and colorful 4k digital painting, a small grey hedgehog in a party hat sits triumphantly on a block of moist but not too crumbly butter cake with a few wisps of frosting in the background",0.6456274390220642,0.7493118643760681,56.06731510137655,0.549293

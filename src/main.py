@@ -139,7 +139,7 @@ def main():
                     base_img = current_best['Image']
 
                     if current_best['Image'] is not None:
-                        utils.safe_save_image(current_best['Image'], os.path.join(run_output_dir, "current_best.png"))
+                        utils.save_image(current_best['Image'], os.path.join(run_output_dir, "current_best.png"))
 
                 print(
                     f"    Best candidate this iteration: {best_prompt} "

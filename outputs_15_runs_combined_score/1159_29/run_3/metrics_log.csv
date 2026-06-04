@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafat palm tree on a rock in the ocean at golden hour,0.8593800663948059,0.6890081167221069,49.13344613460139,0.500000
+1,palm tree on a rugged rock formation in the ocean at sunset with vibrant colors,0.8809539079666138,0.8190834522247314,64.24987178558254,0.360593
+1,a single palm tree standing on a rocky outcrop in the ocean at the exact moment of sunset with highly detailed textures,0.8762638568878174,0.766335666179657,65.10137582559872,0.373148
+1,a palm tree perched on a weathered rock amidst calm ocean waters at sunset with soft warm light,0.8830006122589111,0.71797776222229,57.56809917985171,0.692472
+1,highly detailed palm tree on a rocky promontory in the ocean at sunset with dramatic colors and subtle shadows,0.8904428482055664,0.7435801029205322,58.09925706468284,0.754742
+2,highly detailed tropical palm tree on a rugged rocky promontory in the ocean at golden sunset,0.8428484201431274,0.714806854724884,53.37532913565787,0.483883
+2,palm tree on a rocky outcropping in the calm evening ocean with dramatic colors,0.8783005475997925,0.7094242572784424,55.70042178242053,0.797762
+2,a highly detailed image of a palm tree at sunset on a rocky cliffside in the tropical ocean,0.8580777645111084,0.7413026690483093,54.77549311937604,0.519568
+2,highly detailed photorealistic palm tree landscape on a rocky promontory at golden hour,0.8693380355834961,0.7929178476333618,61.15902381797461,0.278285
+2,a highly detailed and realistic image of a palm tree on a rocky cliffside in the warm sunset ocean light,0.8896462321281433,0.754228949546814,53.88806271438627,0.841007
+3,highly detailed palm tree on a rocky promontory in the ocean at golden hour with rich colors and soft shadows,0.8733010292053223,0.7275862693786621,52.42777794672701,0.427739
+3,highly realistic palm tree on a rugged coastline in the ocean at sunset with vibrant colors and subtle details,0.8803637027740479,0.7086849212646484,54.35048840528926,0.524180
+3,ultra-detailed palm tree in the foreground on a rocky point overlooking the vast ocean at dusk with dramatic colors and deep shadows,0.8766667246818542,0.6773755550384521,50.6122050906293,0.654700
+3,photorealistic palm tree on a windswept promontory in the ocean during a warm sunset with deep shadows and subtle lighting,0.9005533456802368,0.7132896780967712,48.93899687290325,0.899765
+3,"highly realistic, 4k-resolution palm tree on a rocky outcropping in the ocean at a golden sunset with subtle texture and rich colors",0.86137855052948,0.7669501304626465,59.28603821179185,0.000000
+4,photorealistic highly detailed palm tree on a rugged windswept promontory in the calm ocean during a warm serene sunset with deep shadows and subtle high dynamic range lighting,0.8878110647201538,0.6981536746025085,50.53005715885846,0.768230
+4,warmly lit palm tree on a windswept rocky promontory overlooking the vast ocean during a vibrant pink orange sunset with deep contrasting shadows and subtle realistic lighting,0.9126624464988708,0.7603341341018677,57.27029505406137,0.500000
+4,highly realistic highly detailed palm tree on a windswept cliffside in the ocean during a soft warm golden sunset with deep rich shadows and subtle cinematic lighting,0.8728418350219727,0.7410577535629272,51.75358239614703,0.505500
+4,photorealistic and highly detailed palm tree on a dramatic windswept promontory overlooking the vast blue ocean during a warm colorful sunset with deep dramatic shadows and subtle realistic atmosphere,0.8959356546401978,0.6847394704818726,51.00263806780388,0.844072
+4,serene and highly detailed photorealistic palm tree on a rocky windswept cliffside in the ocean during a warm soft sunset with deep rich shadows and subtle high-fidelity realistic lighting,0.8236939311027527,0.7479405403137207,53.5926230133032,0.151344
+5,warmly lit palm tree on a rugged rocky outcrop overlooking the vast ocean during a brilliant pink orange sunset with deep contrasting shadows and subtle realistic lighting,0.8844737410545349,0.7721795439720154,59.29416312213891,0.539169
+5,highly detailed warmly lit palm tree on a windswept rocky coastline overlooking the deep blue ocean during a vibrant pink orange sunset with deep contrasting shadows and subtle realistic lighting,0.9114260673522949,0.7247246503829956,53.872233269365466,0.989890
+5,palm trees swaying in the breeze under a brightly lit pink orange sunset on a rocky promontory overlooking the vast calm ocean with deep contrasting shadows and realistic textures,0.8932818174362183,0.7954896092414856,59.53886653887902,0.545220
+5,softly focused palm tree silhouetted against a warm pink orange sunset on a dramatic rocky headland overlooking the turbulent ocean with deep contrasting shadows and subtle realistic lighting,0.8985342383384705,0.8006054759025574,66.69381676005641,0.435229
+5,highly detailed and photorealistic palm tree on a windswept rocky promontory overlooking the vast rolling waves of the ocean during a brilliant pink orange sunset with deep contrasting shadows and realistic lighting effects,0.8515182733535767,0.8199377655982971,64.48464947439685,0.043075

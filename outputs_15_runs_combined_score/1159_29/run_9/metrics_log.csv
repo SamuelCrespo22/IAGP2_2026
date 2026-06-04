@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on a rocky outcropping in the ocean at golden hour,0.8624423742294312,0.7487867474555969,60.89381823731332,0.344074
+1,highly detailed arafed palm tree standing alone on a rock in the ocean at sunset,0.8732997179031372,0.751039445400238,59.13133164145098,0.431047
+1,a beautiful arafed palm tree on a rugged rock in the ocean with warm sunlight,0.7931414842605591,0.6404034495353699,49.582740684693086,0.500000
+1,stylized arafed palm tree on a solitary rock in the ocean at dusk with soft light,0.8510832786560059,0.7465652823448181,60.11012596001579,0.310853
+1,a detailed arafed palm tree on a rocky boulder in the ocean as the sun dips below the horizon,0.895359992980957,0.7466604113578796,59.21658310435007,0.546966
+2,a detailed realistic arafed palm tree on a rocky boulder in the serene ocean at sunset,0.8660643696784973,0.7645522356033325,62.406265127760705,0.286007
+2,a highly detailed arafed palm tree on a rugged rocky boulder in the calm blue ocean as the sun dips below the horizon,0.8732379674911499,0.7364243865013123,53.96360882238024,0.779959
+2,a realistic arafed palm tree on a weathered rocky boulder in the gently lapping ocean at golden hour,0.8269100189208984,0.7471922636032104,57.88781397710947,0.254250
+2,a 4k masterpiece digital painting of a majestic arafed palm tree on a craggy rocky boulder in the ocean at dusk,0.8837329149246216,0.7534443140029907,56.060872911530986,0.668912
+2,a highly detailed and realistic arafed palm tree on a towering rocky boulder in the ocean as the sun sets behind wispy clouds,0.8892389535903931,0.7324050664901733,52.933278042507894,0.955288
+3,detailed palm tree on a rocky outcropping in the ocean at sunset,0.864080548286438,0.7572371959686279,62.119118950900386,0.193570
+3,a highly detailed and realistic arafed palm tree on a boulder in the warm fading light of the setting sun,0.8829471468925476,0.685096263885498,51.21058982414045,0.873727
+3,a photorealistic close-up of a palm tree with thick arafed trunk on a rocky shoreline as the sun dips below the horizon,0.8961708545684814,0.7223840355873108,53.65822388533046,0.814687
+3,"a beautiful, highly detailed palm tree with thick arafed fronds growing out of a rocky boulder in the ocean at dusk",0.8438093066215515,0.7110686898231506,55.217642444325485,0.318161
+3,a highly detailed and realistic masterpiece of a palm tree with thick textured arafed trunk and fronds on a rocky outcropping in the calm ocean as the sun sets,0.8816599249839783,0.7099010944366455,52.988174766705065,0.734737
+4,highly detailed close-up photorealistic image of a palm tree with a thick rugged trunk on a rocky shoreline as the sun dips quietly below the horizon in a warm sunset atmosphere,0.8725519180297852,0.7348229885101318,55.65679824879244,0.150090
+4,a photorealistic close-up of a strong palm tree with a thick arafed trunk on a rugged rocky shoreline at the edge of the ocean as the sun dips slowly below the horizon in the west,0.8828970193862915,0.7075291872024536,52.31890897131123,0.515497
+4,highly polished digital painting of a palm tree with a thick gnarled trunk on a rocky shoreline at sunset,0.9005721807479858,0.7524762749671936,59.04028033442586,0.500000
+4,a detailed image of a palm tree with a robust arafed trunk on a rocky shoreline at the moment the sun disappears below the horizon in a serene calm atmosphere,0.8944017291069031,0.6770435571670532,49.804210016093506,0.889893
+4,highly realistic and detailed close-up of a palm tree with a thick rugged trunk on a rocky scenic shoreline as the sun dips low below the horizon in a soft diffused light,0.8982135057449341,0.7096943259239197,51.36250786228566,0.807520
+5,highly polished digital realistic painting of a palm tree with a thick sturdy trunk on a rugged rocky shoreline at sunset,0.8922038078308105,0.7197351455688477,55.94672389070865,0.805887
+5,extremely detailed 4k digital art of a tall palm tree with a gnarled trunk on a rocky shoreline at a warm golden hour,0.8712877035140991,0.7055982947349548,54.91151715635418,0.600772
+5,masterfully rendered digital painting of a palm tree with a robust trunk on a rocky shoreline at a vibrant colorful sunset,0.8702244758605957,0.7625080347061157,62.702123391516054,0.183522
+5,highly realistic digital art of a palm tree with a twisted trunk on a rocky shoreline at a serene orange horizon,0.8727701306343079,0.7538865804672241,62.858996033701565,0.249501
+5,highly detailed highly realistic digital painting of a majestic palm tree with a gnarled trunk on a rugged rocky shoreline at a warm vibrant sunset,0.863895833492279,0.767598032951355,66.1514981528928,0.000000

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime character with a katana and flames in his grip,0.8169191479682922,0.6140609979629517,55.23723409166243,0.741958
+1,a highly detailed anime character wields a sword with fire engulfing his hand,0.8292449116706848,0.6250364184379578,50.04886084997801,0.929085
+1,an anime warrior stands holding a mighty sword with fire dancing in the palm of his hand,0.7776775360107422,0.6286298036575317,60.64026438085548,0.225878
+1,an epic anime character brandishes a sharp sword with intense flames erupting from his fist,0.7706387042999268,0.6735708713531494,57.160515615248904,0.082136
+1,"an anime master swordsman confidently holds a fiery blade, its flames reflecting off his determined face",0.7928603291511536,0.6222267746925354,55.97819785421146,0.489080
+2,a highly detailed anime warrior with fire engulfing his hand during a dramatic battle,0.8283647298812866,0.6220045685768127,47.50908131186351,0.944578
+2,a highly detailed anime character wields a glowing red sword with flames engulfing his hand in a highly detailed fantasy setting,0.8220751881599426,0.6200215816497803,49.85060904909616,0.878280
+2,a highly detailed anime kendo master wields a burning katana with fire dancing around his hand in a highly realistic scene,0.7122406959533691,0.6189017295837402,60.552358902639334,0.206882
+2,an extremely detailed high-resolution anime character is engulfed in fire while wielding a gleaming fiery katana in a highly dramatic anime-style scene,0.7713150382041931,0.6940463781356812,59.115170577647895,0.279992
+2,an incredibly detailed anime swordsmaster is overcome by intense flames while wielding a fiery blazing katana with high levels of detail in a fantasy anime world,0.7550868988037109,0.6032400131225586,51.89204616775083,0.599089
+3,Highly detailed anime character in a fiery stance wields a flaming sword,0.801230788230896,0.638934850692749,52.25591840928743,0.467668
+3,Anime warrior with a dragon-infused blade in a blaze of fire,0.7610530853271484,0.6297674179077148,46.26903417651364,0.319355
+3,"Highly detailed, dynamic anime character battling enemies with a fiery sword in his hand",0.8122923970222473,0.5740972757339478,47.00436753826355,0.861387
+3,Anime character in a dramatic battle stance with flames engulfing his hand and a sword in the other,0.8139500021934509,0.6511408686637878,56.44496246327131,0.439783
+3,"Highly detailed anime warrior with a glowing, fiery sword, set against a dark and dynamic background",0.7839714288711548,0.6383696794509888,59.11280662730941,0.209485
+4,anime character holds a sword with intense flames engulfing his right hand in a highly detailed 4k masterpiece,0.7973897457122803,0.6833497285842896,57.88896466374497,0.202327
+4,highly detailed anime character wields a majestic burning sword in a digital painting style,0.8217718601226807,0.6151795387268066,45.43251104346962,0.911154
+4,a close-up of a skilled anime warrior with a flaming katana clenched in his right hand in a realistic digital art,0.8093117475509644,0.6235199570655823,55.34067745061491,0.567603
+4,a highly detailed anime character stands in a dramatic pose with a fiery sword raised high in a 4k digital painting,0.7757378816604614,0.6308820843696594,53.25136115361407,0.270856
+4,an epic anime warrior brandishes a burning sword with his left hand ablaze amidst a dark fantasy background in a highly detailed digital art piece,0.8193418383598328,0.6095679998397827,50.94605291876382,0.796804
+5,highly detailed anime warrior wields a blade with flames engulfing his hand,0.8449894785881042,0.6077795624732971,48.95343013225986,1.000000
+5,highly realistic anime character fighting with a sword surrounded by intense fire,0.8112636804580688,0.6809386014938354,53.62191842383892,0.370531
+5,4k anime sword fight scene featuring a fierce champion with flames consuming his hand,0.7958498001098633,0.6420029401779175,53.34867629186317,0.378921
+5,"a detailed, realistic anime protagonist holds a burning sword with his hand fully engulfed by the fire",0.8059382438659668,0.6996270418167114,55.02594490385778,0.224257
+5,highly detailed digital painting of an anime battle scene with a character wielding a sword that has flames engulfing his entire hand,0.7741785645484924,0.6227531433105469,49.874246026273646,0.421334

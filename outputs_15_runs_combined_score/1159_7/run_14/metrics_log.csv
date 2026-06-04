@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,"'small and cute hedgehog sitting on top of a single block of rich, colorful, moist chocolate cake'",0.582211971282959,0.6672316193580627,55.29023371965872,0.630954
+1,"'on a plain, white table, a small hedgehog sits perched on a single block of decadent cake'",0.5796986818313599,0.7781366109848022,51.533052363801104,0.507901
+1,"'highly detailed, realistic image of a small hedgehog sitting atop a single, intricately designed block of vanilla cake'",0.6266213059425354,0.7513682246208191,65.01570207091666,0.563151
+1,"'a tiny, adorable hedgehog delicately balances on top of a single block of golden, iced cake in a quiet, peaceful setting'",0.5264627933502197,0.7920992374420166,62.86970925940421,0.035096
+1,"'photorealistic, extremely detailed image of a small baby hedgehog sitting on top of a single block of creamy cheesecake in a warm, cozy atmosphere'",0.6099443435668945,0.6794531941413879,56.00302235959815,0.738790
+2,"highly realistic, highly detailed image of a small adorable hedgehog sitting atop a single intricately designed block of moist vanilla cake",0.590362548828125,0.7506942749023438,68.96926651226237,0.028066
+2,"highly detailed, photorealistic image of a tiny brown hedgehog perched on top of a vanilla cream-topped cake",0.6403427124023438,0.6372804641723633,52.060955831881216,0.927691
+2,"highly detailed, 4k image of a small cute hedgehog sitting on a large intricately designed block of fluffy vanilla sponge cake",0.615876317024231,0.7202945351600647,71.55939273273378,0.316926
+2,"a highly realistic, highly detailed, oil painting of a small hedgehog sitting atop a single intricately designed block of creamy vanilla cake",0.6211876273155212,0.6280391812324524,47.86320346876794,0.797727
+2,"highly detailed, photorealistic image of a small grey hedgehog sitting on top of a single, intricately carved, golden vanilla cake pedestal",0.6025246381759644,0.6254355311393738,47.332391451925055,0.621669
+3,"highly detailed, photorealistic, hyper-realistic image of a tiny brown hedgehog perched on top of a vanilla cream-topped moist cake",0.6211327314376831,0.5979428291320801,50.4495069752112,0.890588
+3,tiny brown hedgehog sitting delicately on top of a freshly baked vanilla cream-topped sponge cake,0.6133348345756531,0.7255799770355225,63.676911107392066,0.368403
+3,"realistic, highly detailed image of a small brown hedgehog posed delicately on a perfectly crafted vanilla cream-topped dessert",0.6168001890182495,0.6351363658905029,55.53220970113079,0.709348
+3,photorealistic 4k image of a tiny brown hedgehog perched delicately on the edge of a creamy vanilla topped butter cake,0.6595891118049622,0.7132858037948608,60.901235309449824,0.576541
+3,"highly detailed, oil painted masterpiece of a tiny brown hedgehog perched atop a golden-brown, cream-topped vanilla sponge cake with delicate sugar flowers on the side",0.4838472008705139,0.6627193689346313,51.8288244894243,0.347054
+4,'highly detailed 4k photorealistic image of a tiny light brown hedgehog perched delicately on the edge of a creamy vanilla topped butter cake with subtle sprinkles',0.6712682247161865,0.7290588021278381,69.76084443903694,0.501042
+4,'photorealistic hyper-realistic 4k image of a small brown spiny hedgehog sitting daintily on the edge of a tall creamy vanilla topped butter cake',0.6580923199653625,0.6294992566108704,52.87550672671257,0.852638
+4,'delicate photorealistic 4k image of a diminutive brown hedgehog perched on the edge of a fluffy creamy vanilla topped butter cake with a single cherry on top',0.6387795209884644,0.6687131524085999,49.49873841943957,0.758877
+4,'vibrant photorealistic 4k image of a tiny brown hedgehog nestled delicately among the fluffy creamy vanilla topping and crumbs of a butter cake',0.48814475536346436,0.7281420826911926,69.8544892378452,0.001838
+4,'highly detailed photorealistic 4k digital painting of a small brown hedgehog delicately sitting on the edge of a tall creamy vanilla topped butter cake with a delicate drizzle of chocolate',0.6381555795669556,0.6043633222579956,47.39652430290361,0.909589
+5,"highly detailed, photorealistic 8k image of a tiny, light brown, adorable hedgehog perched delicately on the edge of a creamy vanilla buttercake with subtle, colorful sprinkles",0.6292068958282471,0.690838634967804,66.65364666849129,0.544085
+5,"photorealistic, highly detailed 4k image of a tiny light brown hedgehog sitting on the edge of a large, creamy vanilla butter cake with subtle sprinkles and a few crumbs",0.5098388195037842,0.7167034149169922,58.58083856105188,0.215347
+5,"4k, highly detailed image of a small, cute light brown hedgehog perched on a delicate, vanilla butter cake with creamy frosting and colorful, intricate sprinkles",0.6567144989967346,0.7383869290351868,76.85772666132429,0.454922
+5,"highly detailed, photorealistic 4k masterpiece of a tiny light brown hedgehog delicately perched on the edge of a large, creamy vanilla, sweetly scented butter cake with beautiful, colorful sprinkles",0.6414817571640015,0.6691559553146362,66.26695652707943,0.619077
+5,"highly detailed, photorealistic 4k digital painting of a tiny light brown hedgehog sitting delicately on the edge of a creamy vanilla butter cake with beautiful, colorful sprinkles and a soft, warm background lighting",0.6131495237350464,0.5747078061103821,51.78346606667527,0.819987

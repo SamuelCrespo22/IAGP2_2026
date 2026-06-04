@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on a flat rock in the ocean at breathtaking sunset,0.8773314952850342,0.7362511157989502,59.369658610103016,0.431113
+1,arafed palm tree silhouetted against the vibrant colors of the setting ocean sun,0.884148359298706,0.7909706830978394,68.3190465077432,0.329924
+1,highly detailed arafed palm tree swaying gently in the ocean breeze on a rough rock at golden hour,0.8675985336303711,0.6667686104774475,50.69418151694385,0.500000
+1,stunning digital painting of a beautiful arafed palm tree growing out of a rock in the ocean at magical sunset,0.8679131269454956,0.7717774510383606,56.84970299029234,0.207592
+1,an extraordinary close-up of an arafed palm tree standing proudly on a large boulder in the crystal-clear ocean at golden hour,0.8926798105239868,0.7251250147819519,54.87278241145618,0.823266
+2,an extraordinary close-up of a slender palm tree standing proudly on a large granite boulder,0.7377218008041382,0.8111355304718018,54.34024685675649,0.152024
+2,a highly detailed close-up of an arafed palm tree standing on a craggy volcanic rock at golden hour,0.8822332620620728,0.8083627223968506,60.11034619088921,0.471666
+2,a stunning close-up of a robust palm tree perched proudly on a large granite boulder in crystal-clear tropical waters,0.8461588621139526,0.7208267450332642,59.88362881395601,0.530877
+2,a breathtaking close-up of an arafed palm tree with vibrant green foliage standing on a large boulder in the serene ocean at golden hour,0.8799824714660645,0.7126063704490662,50.62156097215418,0.899972
+2,a highly realistic close-up of an arafed palm tree standing on a massive granite outcropping with crystal-clear ocean waters in the background,0.8283601403236389,0.6821315288543701,55.297627011274,0.669261
+3,an extraordinary highly detailed photograph of an arafed palm tree standing proudly on a large boulder in the crystal-clear turquoise ocean at golden hour,0.8763386011123657,0.6824660301208496,51.8062507989553,0.727967
+3,an extraordinary close-up of a majestic arafed palm tree growing on a massive granite boulder in the crystal-clear ocean at sunset,0.8875711560249329,0.7291486263275146,56.059626377386074,0.563866
+3,an extraordinary 4k digital painting of an arafed palm tree standing heroically on a giant rock in the glassy turquoise ocean at golden hour,0.8847687244415283,0.7766504883766174,58.37885521408064,0.360589
+3,a highly realistic close-up of an arafed palm tree standing resolutely on a massive weathered boulder in the serene crystal-clear ocean at dusk,0.826533317565918,0.7207306623458862,53.83220477999515,0.265737
+3,an extraordinary highly detailed 4k photograph of an arafed palm tree growing on a colossal rock in the shimmering turquoise ocean at golden hour,0.90728360414505,0.7212579250335693,48.68910338772743,0.897032
+4,an exceptionally detailed 8k photograph of a robust arafed palm tree growing on a massive rock in the vibrant turquoise ocean at golden hour,0.881646990776062,0.691757321357727,49.398747500890714,0.763552
+4,a photorealistic highly detailed 4k image of an arafed palm tree clinging to the base of a colossal rock in the calm turquoise ocean at golden hour,0.869629442691803,0.7628483176231384,56.924279263156336,0.294039
+4,a stunning highly detailed 8k digital painting of an arafed palm tree standing tall on a colossal rock in the shimmering turquoise ocean at golden hour,0.8158726692199707,0.6614765524864197,50.08354948917176,0.457668
+4,an extraordinary highly detailed 4k photograph of a majestic arafed palm tree growing out of the top of a colossal rock in the serene turquoise ocean at golden hour,0.8893558979034424,0.7285604476928711,51.95291001439263,0.637417
+4,a breathtaking highly detailed 8k photograph of an arafed palm tree growing on a towering colossal rock in the deep turquoise ocean at golden hour,0.89608234167099,0.7313537001609802,53.41699703733971,0.622875
+5,an extraordinary highly detailed 8k photograph of a majestic arafed palm tree growing on a gigantic rock in the shimmering crystal ocean at sunrise,0.8840931057929993,0.7398103475570679,52.69651469604234,0.683260
+5,a majestic highly detailed 4k landscape photograph of a lone arafed palm tree growing on a colossal rock in the serene aquamarine ocean at golden hour,0.888384222984314,0.7356789112091064,53.02650034925424,0.719459
+5,a breathtaking highly detailed 4k digital painting of an arafed palm tree growing on a colossal rock in the shimmering sapphire ocean at sunset,0.84759521484375,0.7019069194793701,52.172149852121656,0.527553
+5,an extraordinary highly detailed 4k photograph of a group of arafed palm trees growing on a colossal rock in the tranquil turquoise ocean at golden hour,0.8618882894515991,0.7493094205856323,57.651358721929775,0.431844
+5,a highly detailed 4k photograph of an arafed palm tree growing on a colossal rock surrounded by a school of tropical fish in the crystal ocean at golden hour,0.8367728590965271,0.8009248971939087,66.39108817245362,0.000000

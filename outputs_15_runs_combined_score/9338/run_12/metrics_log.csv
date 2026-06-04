@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,realistic painting of a mouse with a vibrant colorful tail,0.7900426983833313,0.6115495562553406,38.80736469143663,0.894782
+1,highly detailed digital painting of a cute mouse with a bright colorful tail,0.773697555065155,0.6372215151786804,39.15756835594391,0.729351
+1,"oil painting of a mouse with a long colorful tail, framed in a golden border",0.7379892468452454,0.7035847902297974,34.19916682857175,0.448026
+1,"a mouse in a lush environment with a long colorful tail, rendered in a 4k resolution",0.7062841653823853,0.715988039970398,35.4641009136462,0.205934
+1,"highly realistic oil on canvas painting of a mouse with a long colorful tail, in the style of a 19th-century master painter",0.7308862209320068,0.6503108143806458,33.054937749765045,0.554078
+2,"realistic high-resolution digital painting of a mouse with a long, thin, vibrant colorful tail",0.6616407632827759,0.7118739485740662,36.42244000600247,0.229340
+2,mouse in a realistic highly detailed oil painting on a warm wooden table,0.6358553171157837,0.6864703893661499,35.38050267296946,0.252587
+2,detailed realistic portrait of a mouse with a colorful tail in a naturalistic environment,0.6515747308731079,0.707568883895874,38.07114581738459,0.138497
+2,"realistic 4k digital painting of a mouse with a bright, multicolored vibrant tail",0.6918778419494629,0.6877299547195435,39.90797219548367,0.241835
+2,a mouse in a realistic beautiful oil masterpiece with a highly detailed colorful tail,0.7230117321014404,0.6635425090789795,33.928224002989516,0.653069
+3,highly detailed oil painting of a realistic mouse with a long vibrant colorful tail,0.7541522979736328,0.6234219074249268,32.87342027662186,0.765385
+3,a realistic mouse with a bright colorful tail in a highly detailed photorealistic digital painting style,0.7000764608383179,0.6633288264274597,37.284268502190265,0.294794
+3,highly realistic and detailed painting of a mouse with a colorful long flowing tail,0.7703324556350708,0.6420763731002808,54.11655175344646,0.550081
+3,highly detailed photorealistic digital painting of a mouse with a small colorful vibrant tail,0.7074203491210938,0.6959925889968872,38.354836828227235,0.226307
+3,a realistic highly detailed digital painting of a mouse with a long and colorful tail in a whimsical fantasy setting,0.7360150814056396,0.670411229133606,42.31941689259216,0.414304
+4,realistic highly detailed oil painting of a mouse with a long vibrant colorful tail,0.7411970496177673,0.6455956101417542,32.60795765464384,0.495358
+4,vibrant and colorful digital art of a mouse with an extra long tail,0.8245258927345276,0.6264663338661194,46.2210129820133,0.791766
+4,a delicate realistic mouse with a colorful long curly tail in a beautiful environment,0.7267434000968933,0.7199090123176575,48.613520304727835,0.045632
+4,highly realistic detailed digital painting of a mouse with a bright colorful long fluffy tail,0.7800421714782715,0.6445660591125488,37.771540776425105,0.630432
+4,realistic impressionist painting of a mouse with a short but very colorful long flowing tail,0.7366408109664917,0.6792781949043274,52.18732237642864,0.144350
+5,vibrant and colorful highly detailed digital art of a mouse with an exceptionally long tail,0.7627904415130615,0.5988544225692749,33.56578357203705,0.698371
+5,bright and bold digital painting of a mouse with an extremely long tail in a fantasy world,0.7450954914093018,0.7400298118591309,50.93776237421953,0.111916
+5,colorful and whimsical 4k digital illustration of a mouse with a lengthy tail,0.8032978773117065,0.6621115207672119,47.79973457554762,0.579424
+5,exquisite and realistic digital artwork of a mouse with a dramatically long tail,0.7221892476081848,0.7066718935966492,39.914133499881125,0.217713
+5,highly colorful and detailed digital painting of a mouse with an impressively long tail standing on a mushroom,0.7302883863449097,0.6855397820472717,39.84179386254342,0.295747

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,A realistic 4k painting of a mouse with a colorful tail,0.8042012453079224,0.606212317943573,36.696602032054216,0.770170
+1,Vibrant highly detailed digital painting of a mouse with a bright colorful tail,0.8165271282196045,0.5892475843429565,39.82374755354451,0.865411
+1,Masterpiece realistic oil painting style of a mouse with a long colorful tail,0.7853200435638428,0.601134717464447,31.77825764054412,0.704551
+1,Highly realistic digital artwork of a mouse with a fluffy colorful tail,0.7577680349349976,0.6886464357376099,40.16900967719671,0.109635
+1,"A 4k digital painting of a tiny mouse with a long, bright, and colorful tail",0.7804940938949585,0.643231987953186,35.66971811965039,0.492508
+2,Vibrant highly detailed digital artwork of a mouse with a bright colorful vibrant tail,0.8129910826683044,0.593505859375,37.18877241971651,0.785508
+2,"Highly detailed, oil-painting inspired digital art piece of a mouse with an iridescent colorful tail",0.8447896838188171,0.5850589275360107,39.819974644657115,0.776869
+2,Digital painting in 4k resolution of a mouse with a sparkling colorful tail and intricate background details,0.8321261405944824,0.6222560405731201,40.92389731950183,0.564893
+2,"Realistic, hyper-realistic, ultra-detailed digital painting of a mouse with a bright colorful fluffy long tail",0.7385455369949341,0.6812511682510376,38.03196645560056,0.193563
+2,"Highly stylized, vibrant, colorful, and highly detailed digital painting of a mouse with a radiant shimmering rainbow colored tail",0.8368294835090637,0.5627769827842712,39.803712920364816,0.787515
+3,"Highly detailed, photorealistic, oil-painting inspired digital art piece of a mouse with a long, iridescent, shimmering colorful tail",0.8196765184402466,0.6552156805992126,40.259999186489885,0.494746
+3,"A highly detailed mouse in a realistic oil-painting style with a vibrant, shimmering tail",0.7450506687164307,0.6472756266593933,31.818404802107104,0.321939
+3,"A 4K masterpiece oil-painting inspired digital art piece of a mouse with an iridescent, glowing colorful tail",0.8396721482276917,0.6623495817184448,43.284681999951786,0.516345
+3,"Highly detailed, vivid, digital oil-painting art of a mouse with an elongated, iridescent colorful tail",0.8459887504577637,0.5368412733078003,35.713619094682365,0.915072
+3,"A realistic, highly textured digital oil-painting of a mouse with an iridescent, luminescent, colorful tail in a serene environment",0.7539365291595459,0.6918925642967224,37.36328352639584,0.173121
+4,"Highly detailed, realistic, vibrant 8k digital oil-painting art of a mouse with an elongated, iridescent shimmering tail",0.7745077013969421,0.63825523853302,35.75487576946122,0.577307
+4,"Masterpiece quality, high-resolution digital oil painting of a mouse with an elongated, mesmerizing colorful tail",0.7775996923446655,0.583562970161438,32.38818200112279,0.729086
+4,"Highly detailed, ultra-vivid, 4k digital oil-painting art of a mouse with an elongated, iridescent sparkling tail",0.7827312350273132,0.6446937322616577,37.85873128219218,0.554393
+4,"A hyper-realistic digital oil painting of a mouse with a long, shimmering iridescent coat and an extended colorful tail",0.8256236910820007,0.6794891357421875,46.55910985383421,0.473125
+4,"Extremely detailed, photorealistic digital oil painting of a mouse showcasing its elongated, vibrant, iridescent colorful tail in a sunlit studio setup",0.6747649312019348,0.7008752226829529,39.71539657980257,0.120735
+5,"Highly detailed, vibrant, 4K digital oil-painting art of a mouse with an iridescent, elongated, shimmering tail",0.8521698713302612,0.5793308615684509,35.71862655691989,0.948420
+5,"Highly realistic, detailed, digital painting of a mouse with a long, sparkling iridescent tail in the style of Van Gogh",0.7237316966056824,0.7635269165039062,35.45814259297636,0.379705
+5,"Digital oil-painting masterpiece of a mouse with a slender, rainbow-colored tail, rendered in vivid detail",0.7233525514602661,0.7150013446807861,43.12804972358557,0.293123
+5,"Highly detailed, photorealistic, 4K digital art of a mouse with an elongated, shimmering iridescent tail and warm surroundings",0.7041904926300049,0.7304688692092896,38.28211202998861,0.308645
+5,"Highly detailed, vivid, digital oil-painting art of a mouse with an elongated, iridescent colorful tail in the soft, golden light of dawn",0.6787430047988892,0.7249608039855957,49.25243880416945,0.042533

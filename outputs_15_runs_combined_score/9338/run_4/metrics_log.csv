@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,"painting of a mouse with a vibrant, long colorful tail",0.7406766414642334,0.6587589383125305,51.529465707630074,0.296126
+1,"vivid digital painting of a mouse with a colorful, fluffy tail",0.8188381791114807,0.6396242380142212,44.77256181836923,0.759783
+1,highly detailed 4k photo-realistic artwork of a mouse with a bright colorful tail,0.6943855285644531,0.7021231651306152,37.836751401619644,0.204742
+1,"beautiful, stylized painting of a mouse with a long, colorful flowing tail",0.7916631698608398,0.6036993861198425,50.35127348964732,0.658439
+1,"elaborate, fantasy artwork of a mouse with a shimmering, rainbow-colored tail",0.743086576461792,0.6239084005355835,34.81000694582568,0.644329
+2,"highly detailed digital painting of a small mouse with a bright, colorful, fluffy tail",0.7853884696960449,0.6317713260650635,39.68578761810071,0.673028
+2,"vibrant 4k digital artwork of a mouse with a long, colorful, fluffy tail",0.8331078290939331,0.5946820378303528,43.67125265615335,0.964485
+2,"a beautiful mouse with a large, vibrant, fluffy tail in a digital painting style",0.7430214881896973,0.6102660894393921,38.693456781553934,0.476874
+2,"detailed mouse illustration with a colorful, fluffy tail and a dreamy background",0.822994589805603,0.6993660926818848,68.8554987406801,0.573324
+2,realistic highly detailed digital painting of a mouse with a colorful long fluffy tail in a sunny meadow,0.7442258596420288,0.7631505131721497,73.73325285245133,0.006685
+3,"vibrant highly detailed 4k digital artwork of a mouse with a long, thick, fluffy tail and a bright, shining, green eye",0.7842427492141724,0.6972764134407043,33.402508280180875,0.503545
+3,"highly realistic 4k digital painting of a mouse with a long, colorful, fluffy tail and intricate, detailed fur texture",0.814119279384613,0.6248631477355957,42.06419798654812,0.592424
+3,"4k digital artwork of a majestic, adventurous mouse with a long, colorful, fluffy tail and a sense of movement",0.8185122013092041,0.5319365859031677,46.010023207552656,0.675595
+3,"vibrant, highly detailed 4k digital painting of a mouse with a long, colorful, fluffy tail in a beautiful, serene natural environment",0.73502516746521,0.6990453600883484,41.479469078941825,0.089838
+3,"4k digital artwork of a mouse with a long, thick, fluffy tail and intricate, detailed whiskers in a highly detailed, whimsical scene",0.7352891564369202,0.679298460483551,36.89302040873308,0.211673
+4,"vibrant 4k hyper-realistic digital artwork of a mouse with a long, vibrant, fluffy tail",0.7382217645645142,0.6782248616218567,41.60811424130626,0.361434
+4,"highly detailed, digitally painted 4k artwork of a mouse with a bright, colorful, bushy tail",0.7483687400817871,0.6577742099761963,38.9583305408751,0.494321
+4,"a colorful, 4k, highly detailed digital painting of a mouse with a long, fluffy, curly tail",0.7895594835281372,0.5858985781669617,34.014506276833764,0.865348
+4,"a beautiful, 4k, hyper-realistic digital artwork of a mouse with a long, soft, fuzzy tail",0.7252809405326843,0.6926921606063843,39.44268327342232,0.354198
+4,"4k, ultra-detailed, digital artwork of a mouse with a long, colorful, stripy tail and a sweet, gentle face",0.6714012026786804,0.741237998008728,43.59258969918921,0.002036
+5,"vibrant, highly detailed digital artwork of a mouse with a long, soft, fluffy tail",0.7706090211868286,0.6389114856719971,35.674432893363466,0.494236
+5,"highly realistic 4k digital painting of a mouse with a long, colorful, fuzzy tail",0.7772468328475952,0.6462036371231079,35.15014116325107,0.511267
+5,"4k digital artwork of a whimsical mouse with a long, colorful, majestic tail",0.7188568115234375,0.5878305435180664,39.47625309043726,0.349501
+5,"highly detailed digital masterpiece of a mouse with a long, fluffy, vibrant tail",0.7591694593429565,0.6594744920730591,34.04622962903712,0.419414
+5,"vibrant 4k digital painting of a mouse with a long, colorful, luxuriant tail.",0.8378338813781738,0.5850129723548889,41.665211203691946,0.802105

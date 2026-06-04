@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
+1,'a highly detailed glass of freshly squeezed orange juice with a vibrant slice of orange on the side',0.9333970546722412,0.480253666639328,41.46019385852656,1.000000
+1,'a 4k digital painting of a glass of orange juice with a slice of orange nearby',0.9126434326171875,0.6219834685325623,55.082534720126475,0.029229
+1,'a real photograph of a glass of orange juice with a slice of orange on the side',0.9215396642684937,0.5451464056968689,47.06348785794105,0.513731
+1,'there is a clear glass containing a glass of orange juice with a slice of orange beside it',0.9113548994064331,0.6085960268974304,52.683392981868536,0.067644
+1,"'a beautiful, highly realistic digital image of a glass of orange juice with a slice of orange on the side'",0.9273111820220947,0.5238896608352661,43.53447083510341,0.746911
+2,"highly detailed glass of freshly squeezed orange juice with a vibrant, perfectly sliced orange on a modern glass table",0.9198748469352722,0.5467857122421265,43.50411480003571,0.641082
+2,"a beautiful, crystal-clear glass of freshly squeezed orange juice with a colorful slice of orange on a rustic wooden table",0.9332773685455322,0.5172075033187866,39.14885402211354,0.935951
+2,"a stunning, 4k digital painting of a glass of freshly squeezed orange juice with a juicy slice of orange next to it",0.8994099497795105,0.5863462686538696,52.46043816099986,0.174946
+2,"highly detailed glass of freshly squeezed orange juice with a vibrant, organic slice of orange on a marble countertop",0.915469765663147,0.6285722851753235,61.90707748087991,0.236263
+2,"a masterpiece glass of freshly squeezed orange juice with a vibrant, succulent slice of orange on a sunny kitchen counter",0.9023792743682861,0.5851880311965942,44.88103251640988,0.303842
+3,a highly detailed and 4k rendered glass of freshly squeezed orange juice with a vibrant and photorealistic slice of orange on the side,0.9299787878990173,0.49279606342315674,43.73805699980179,0.761855
+3,"a beautiful, realistic, and highly detailed glass of freshly squeezed orange juice with a juicy slice of orange nearby",0.9137216806411743,0.5983402729034424,42.220681756901776,0.501297
+3,a highly detailed digital painting of a glass of freshly squeezed orange juice with a vibrant and realistic slice of orange on the side,0.9094623327255249,0.4333282709121704,45.369657244163434,0.571527
+3,"a perfectly lit glass of freshly squeezed orange juice with a crisp, thin slice of orange on the side in a minimalist kitchen setting",0.8978582620620728,0.6878317594528198,58.927404216285076,0.000000
+3,an ultra-realistic and highly detailed photorealistic image of a glass of freshly squeezed orange juice with a perfectly sliced orange on the side on a rustic wooden table,0.9433712363243103,0.5345266461372375,41.52227608177016,0.899704
+4,an ultra-realistic and highly detailed high-resolution digital painting of a glass of freshly squeezed orange juice with a perfectly sliced orange on the side on a rustic wooden table in a warm and inviting atmosphere,0.9006538391113281,0.5723762512207031,49.732299779857264,0.744389
+4,a photorealistic glass of freshly squeezed orange juice with a perfectly sliced orange on a rustic wooden table set in a beautifully styled and cozy dining space,0.6611515283584595,0.7417975068092346,56.807783084503974,0.000000
+4,a highly detailed 4k image of a glass of freshly squeezed orange juice with a perfectly sliced orange on the side in a rustic wooden table setting with a serene and natural background,0.9278301000595093,0.5617842674255371,46.80057108241745,0.853261
+4,an ultra-realistic glass of freshly squeezed orange juice with a perfectly sliced orange on a rustic wooden table against a soft and gentle gradient background,0.9186685085296631,0.5703291296958923,48.12958171075004,0.804987
+4,an extremely realistic and highly detailed image of a glass of freshly squeezed orange juice with a perfectly sliced orange on a rustic wooden table in a warm and inviting evening setting,0.8884874582290649,0.6176173090934753,52.26807632361856,0.626793
+5,an ultra-realistic and highly detailed 4k image of a glass of freshly squeezed orange juice with a perfectly sliced orange on the side on a rustic wooden table in an inviting and warm kitchen atmosphere,0.9103412628173828,0.5932551026344299,48.61641398446194,0.532055
+5,a crystal glass overflowing with freshly squeezed orange juice with a perfectly sliced orange on the side on a hand-hewn rustic wooden table,0.9244896769523621,0.5075517296791077,42.924347224178646,0.818981
+5,a perfectly styled glass of freshly squeezed orange juice with a beautifully sliced orange on the side sitting on a distressed rustic wooden table under warm gentle light,0.8801289796829224,0.7024408578872681,61.99984659611217,0.000000
+5,a highly detailed image of a glass of freshly squeezed orange juice with a perfectly sliced organic orange on the side set on a rustic wooden vintage table,0.9198514223098755,0.5327141284942627,40.150420713316414,0.781772
+5,an ultra-realistic and highly detailed photorealistic image of a glass of freshly squeezed orange juice with a perfectly sliced orange on the side set against a soft warm and inviting rustic wooden background,0.9393931031227112,0.5651570558547974,44.89164104984562,0.840405

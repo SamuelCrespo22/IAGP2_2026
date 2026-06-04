@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,4k digital rendering of a perfectly clear glass containing freshly squeezed orange juice with a single slice of orange,0.9444846510887146,0.3411273956298828,33.690776119644106,0.9781124337098495,run_5,0.9886775937103855,0.0,0.06490545258137301
+3,vibrant and highly detailed glass of orange juice with a perfectly centered slice of orange on a minimalist background,0.9437138438224792,0.3938306272029876,30.27708335647869,0.9642593739640657,run_7,0.9870305963634497,0.11702369687063653,0.0
+3,"a stunning, highly realistic 4k digital painting of a glass of freshly squeezed orange juice with a single slice of orange on the side",0.94363534450531,0.3713097870349884,33.91433036270298,0.9593879936186656,run_5,0.9868628655015631,0.06701780739427067,0.06915594913419333

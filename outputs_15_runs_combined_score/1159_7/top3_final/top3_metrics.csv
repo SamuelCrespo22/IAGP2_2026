@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+2,the image of a small cute hedgehog sitting on top of a highly detailed block of golden cake with a 4k resolution texture,0.6698148846626282,0.5255920886993408,44.27661022995962,0.8990501002852284,run_13,0.8445899119194962,0.0,0.09297942269807886
+4,a realistic digital painting of a hedgehog's face gazing lovingly at a beautifully decorated vanilla cake,0.6935432553291321,0.5945141911506653,48.92375558916497,0.8701714427761587,run_10,0.9278537795660552,0.20514475899521167,0.16987702903226395
+3,a stunning digital painting of a hedgehog's face looking down at a perfectly baked vanilla cake,0.6943892240524292,0.5691870450973511,54.23760630160772,0.8685196616386994,run_10,0.9308223200023007,0.12975919923500118,0.25780679421480285

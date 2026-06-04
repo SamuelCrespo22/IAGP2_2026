@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on a rocky coast at ocean sunset,0.8737941384315491,0.7439982295036316,58.83149644807638,0.260240
+1,arafed palm tree in the foreground of an oceanic landscape at sunset,0.899059534072876,0.653477668762207,44.069860811801654,1.000000
+1,beautiful detailed arafed palm tree on a rock in the ocean at golden hour,0.883594274520874,0.7353424429893494,57.09237520580682,0.426265
+1,arafed palm tree on a rock in the ocean surrounded by a warm golden light at sunset,0.8672528266906738,0.7456212639808655,57.1483622645134,0.205973
+1,a stunning highly detailed arafed palm tree on a rocky promontory overlooking the vast ocean at sunset,0.8579173684120178,0.7773358225822449,57.62408388674889,0.020448
+2,"arafed palm trees at sunset in a highly detailed, realistic 4k digital painting",0.8844574689865112,0.8669793009757996,68.14509390392217,0.000000
+2,a secluded arafed palm grove at sunset in the foreground of a tranquil oceanic landscape,0.8861585855484009,0.7753486037254333,58.52471054159828,0.231067
+2,"arafed palm trees in a serene 4k oceanic setting at sunset, highly detailed and realistic",0.9100537300109863,0.7624048590660095,55.075144477283146,0.617371
+2,"a beautiful arafed palm tree stands alone at sunset in a detailed, realistic 4k digital painting of the ocean",0.9140266180038452,0.770241916179657,57.14406415421448,0.642463
+2,"a stunning, highly detailed 4k digital painting of an arafed palm tree at sunset in a peaceful oceanic landscape",0.9200870394706726,0.7795858979225159,61.22733036492324,0.674168
+3,"stunning, photorealistic, 8k digital artwork of an arafed palm tree at dusk in a serene oceanic landscape",0.9174522757530212,0.6961920261383057,51.233289852880866,0.958374
+3,"a breathtakingly beautiful, highly detailed, 4k digital painting of an arafed palm tree at golden hour in a peaceful tropical paradise",0.8759843707084656,0.7963109612464905,57.90613869195082,0.139961
+3,"a majestic, high-resolution, digital landscape of an arafed palm tree at sunset in a quiet, moonlit oceanic environment",0.8975720405578613,0.77103191614151,66.39348962963852,0.304898
+3,"an exquisite, highly realistic, 4k digital artwork of an arafed palm tree at twilight in a tranquil, secluded oceanic setting",0.9188407063484192,0.6912519931793213,51.897672604525276,0.974914
+3,"a visually stunning, highly detailed, 8k digital masterpiece of an arafed palm tree at sunrise in a peaceful, sandy oceanic shore",0.9151110053062439,0.7430539727210999,54.42360965560611,0.767707
+4,'a serene digital painting of a majestic arafed palm tree at sunset in a vibrant oceanic landscape,0.9233512878417969,0.7805111408233643,60.259250932556704,0.650675
+4,a breathtakingly detailed 4k digital art of a solitary arafed palm tree at sunset in a tropical ocean landscape at golden hour,0.8982298374176025,0.7222192287445068,56.33896565166838,0.450636
+4,an exquisite highly detailed digital painting of an arafed palm tree set against a warm sunset in a peaceful ocean scene,0.9135146141052246,0.8000279664993286,63.32006829531273,0.304218
+4,a highly realistic 4k digital painting of a stunning arafed palm tree amidst a serene oceanic sunset,0.9145421981811523,0.756097137928009,57.14828817605362,0.643196
+4,a beautiful highly detailed 4k digital masterpiece of an arafed palm tree illuminated at sunset amidst a calm ocean landscape',0.9147557616233826,0.7270989418029785,54.62133097537555,0.813242
+5,"a breathtaking, highly detailed digital painting of a regal arafed palm tree at sunset in a serene oceanic landscape with vibrant hues",0.9218190312385559,0.7931650280952454,62.34864661188974,0.387496
+5,"a majestic, oil-painted arafed palm tree stands tall at sunset in a dreamy, 4k digital oceanic landscape",0.9369572401046753,0.7449417114257812,57.724477819128886,0.704198
+5,"a stunning, vibrant arafed palm tree basks in the warm glow of sunset in a dramatic, highly realistic digital oceanic scene",0.9187483787536621,0.7934393882751465,63.29446537319529,0.345217
+5,"a highly realistic, ultra-detailed digital painting of a serene arafed palm tree in a peaceful oceanic landscape at golden hour",0.8781367540359497,0.6858394742012024,48.078836431666836,0.500000
+5,"a breathtakingly beautiful, ultra-realistic digital masterpiece of a majestic arafed palm tree at sunset in a breathtaking, 4k oceanic landscape",0.9213896989822388,0.71089768409729,51.69117046913894,0.750096

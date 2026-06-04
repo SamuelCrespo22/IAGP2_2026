@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on a rugged rock in the calm ocean at golden hour,0.8498553037643433,0.7337716817855835,55.67948150846443,0.671085
+1,arafed palm tree on a rocky outcropping in the serene ocean at sunset,0.8611788749694824,0.761940062046051,61.396711075337066,0.432167
+1,highly detailed arafed palm tree on a weathered rock in the gentle ocean at dusk,0.8722608089447021,0.7255262732505798,55.26699777321692,0.776040
+1,a beautiful arafed palm tree with vibrant green leaves on a rocky cliff in the peaceful ocean at twilight,0.8149775266647339,0.7023700475692749,59.20876980778091,0.525451
+1,highly detailed masterpiece of a solitary arafed palm tree on a dramatic rock in the tranquil ocean at low tide,0.7201195955276489,0.6682021617889404,55.32010368388327,0.460962
+2,arafed palm tree on a rocky outcropping in the ocean waves at golden hour,0.873038649559021,0.7291668057441711,63.00460814723363,0.075994
+2,a delicate arafed palm tree on a large boulder in the calm ocean at sunset,0.8753771781921387,0.7531524300575256,59.936206709238476,0.104738
+2,a stunning highly detailed arafed palm tree perched on a jagged rock formation in the crystal-clear ocean at tropical sunset,0.8978241682052612,0.7170881032943726,49.08292004609705,0.863023
+2,an intricate arafed palm tree growing out of a rugged rock in the warm ocean at soft focus sunset,0.893304169178009,0.7539553642272949,56.380897721599986,0.527764
+2,a majestic 4k arafed palm tree standing proudly on a weathered rock in the serene ocean at warm golden light,0.8936529755592346,0.6724075078964233,50.07014168324249,0.898126
+3,a stunning highly detailed majestic palm tree perched on a rugged coral rock formation in the crystal-clear turquoise ocean at tropical golden hour,0.8938260078430176,0.7264202833175659,53.999169687342246,0.414309
+3,a breathtaking high-contrast highly detailed palm tree perched on a weathered granite rock outcropping in the crystal-clear ocean at tropical sunset,0.8894524574279785,0.7191932201385498,52.45487248110346,0.334149
+3,a highly detailed photorealistic palm tree silhouetted against a vibrant orange-pink tropical sunset on a jagged rocky shoreline in the crystal-clear ocean,0.8948954343795776,0.8060659170150757,69.74090678945822,0.135907
+3,a stunning detailed realistic palm tree swaying gently in the breeze atop a windswept rock formation in the crystal-clear calm ocean at tropical sunset,0.9094771146774292,0.6408959627151489,48.416845890719465,1.000000
+3,a highly detailed hyper-realistic palm tree perched on a dramatic twisted rock formation in the crystal-clear blue-green ocean at a breathtaking tropical golden hour,0.8925050497055054,0.7253154516220093,54.30603536191702,0.379400
+4,a highly detailed realistic palm tree gently swaying in the ocean breeze atop a rugged shoreline rock formation at tropical sunset,0.8550752401351929,0.7098640203475952,51.369143294251785,0.391979
+4,a stunning detailed realistic palm tree swaying in the ocean breeze atop a windswept rock formation in the calm clear ocean at golden hour,0.8796916007995605,0.7296886444091797,55.29121392735543,0.400063
+4,a realistic masterpiece palm tree standing atop a windswept rock formation in the crystal-clear calm ocean at tropical sunset,0.8970978260040283,0.7770102620124817,55.98464730139624,0.412881
+4,a detailed highly realistic palm tree swaying gently in the ocean breeze atop a rock formation in the clear ocean at tropical sunset,0.89191073179245,0.6762911677360535,48.368421500267644,0.811367
+4,a stunning detailed highly realistic digital painting of a palm tree swaying in the ocean breeze atop a windswept rock formation in the crystal-clear calm ocean at tropical sunset,0.8384286165237427,0.6875903606414795,51.418281110783106,0.314126
+5,a highly detailed realistic palm tree swaying gently in the light ocean breeze atop a rugged windswept rock formation in the crystal-clear calm ocean at tropical golden hour sunset,0.8877032995223999,0.7421656250953674,53.03237520678176,0.422748
+5,a stunning ultra-detailed realistic palm tree swaying in the gentle tropical ocean breeze atop a windswept rock formation in the serene crystal-clear waters at sunset,0.8668879270553589,0.693993091583252,48.69561445464224,0.444227
+5,highly realistic and detailed palm trees swaying gently in the ocean breeze atop a windswept rock formation surrounded by crystal-clear calm ocean waters at tropical beautiful sunset,0.8791327476501465,0.7017104625701904,53.211584045159306,0.426892
+5,a beautiful highly detailed realistic palm tree gently swaying in the ocean breeze atop a windswept rock formation on the edge of crystal-clear calm ocean waters at tropical stunning sunset,0.8743947744369507,0.7480687499046326,54.85031906834154,0.227498
+5,a highly realistic detailed 4k masterpiece of a palm tree swaying gently in the tropical ocean breeze atop a rugged windswept rock formation in the crystal-clear calm ocean at breathtaking tropical sunset,0.8593040704727173,0.745259165763855,57.71976536619562,0.006554

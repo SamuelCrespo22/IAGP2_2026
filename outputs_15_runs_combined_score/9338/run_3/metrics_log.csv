@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,painting of a detailed little mouse with a bright colorful flowing tail,0.7679237127304077,0.7047106027603149,64.99152115081654,0.362130
+1,a high resolution realistic image of a tiny mouse with a swirly colorful tail,0.718405544757843,0.6733971834182739,32.74463920085168,0.306015
+1,mouse in a beautiful digital painting with a vibrant flowing tail and soft background,0.7856166362762451,0.6924778819084167,57.11126185165151,0.574495
+1,highly detailed 4k digital artwork of a cute mouse with a colorful swirly tail,0.7867763042449951,0.5649570226669312,50.89914056129684,0.859254
+1,a realistic oil painting of a little mouse with a long delicate colorful tail and intricate details,0.7459563612937927,0.6454532742500305,33.24003385852637,0.553644
+2,highly detailed 4k realistic digital artwork of a cute grey mouse with a colorful swirly tail,0.7133411765098572,0.7411763668060303,42.317677564091376,0.232644
+2,highly detailed digital artwork of a tiny mouse in stunning 4k resolution with a vibrant swirling tail,0.7458716034889221,0.6162981390953064,35.884049138140284,0.585136
+2,"4k digital painting of a charming mouse with a colorful, intricate swirly tail",0.8460952043533325,0.5256421566009521,46.9159172845968,0.816320
+2,highly detailed digital portrait of a sweet mouse with a bright colorful swirly tail in 4k resolution,0.6842935681343079,0.5972900390625,50.86718442249788,0.167427
+2,"highly detailed, realistic 4k digital artwork of a small mouse with a large colorful swirly tail that's perfectly symmetrical",0.7326624393463135,0.6093425750732422,41.40737784949577,0.460422
+3,"vibrant 4k digital painting of a whimsical mouse with a delicate, intricate swirly tail",0.7774772047996521,0.6046814322471619,44.315362332992684,0.337214
+3,"high-resolution digital art of a charming mouse with a colorful, whimsical swirly tail",0.7613533139228821,0.5849842429161072,53.06713408685491,0.219487
+3,"4k ultra-high-definition digital painting of a sweet mouse with a lively, intricate swirly tail",0.7326018810272217,0.5586346387863159,29.467454159255446,0.404381
+3,"highly detailed realistic digital art of a mouse with a bright, swirly colorful tail",0.8164195418357849,0.6247143149375916,34.508354383569326,0.565862
+3,"4k digital masterpiece painting of a joyful mouse with a lively, intricate, colorful swirly tail",0.7414121627807617,0.5177070498466492,44.73215422878985,0.377110
+4,"4k highly detailed digital painting of a whiskered, grey mouse with a vibrant, intricate swirly tail",0.7177509665489197,0.7658554315567017,44.13507555480487,0.259532
+4,"charming mouse with a 4k resolution, highly detailed digital painting in a whimsical, fantastical setting",0.6667701005935669,0.7249558568000793,43.012347621209095,0.187918
+4,"a highly detailed, vibrant 4k digital painting of a mouse with an intricately swirled, colorful tail and an enchanting expression",0.7865023612976074,0.5738268494606018,41.81400923029122,0.708895
+4,"4k digital art of a cute mouse with an elaborate, ornate swirly tail in a lush, verdant meadow",0.7427079677581787,0.737848162651062,38.81113325001229,0.490881
+4,"a masterpiece 4k digital painting of a grey mouse with a delicate, intricately patterned swirly tail, surrounded by soft, golden light",0.7586485743522644,0.6919761896133423,48.8476583614239,0.333068
+5,"highly detailed 4k digital painting of a captivating mouse with a vibrant, intricately designed swirly tail",0.8006212711334229,0.5858972668647766,35.22179737764117,0.722396
+5,"highly detailed 4k digital painting of a whimsical mouse with a bright, swirling tail",0.7528196573257446,0.6137454509735107,33.182751272399514,0.550496
+5,"charming mouse 4k digital painting with delicate, intricate colorful patterns on its swirly tail",0.701632022857666,0.6427951455116272,56.85127784438309,0.095003
+5,"highly detailed 4k digital artwork of a cheerful mouse with a stunning, multicolored, intricately patterned swirly tail",0.6677443385124207,0.6230148673057556,45.183189132137,0.165455
+5,"4k digital masterpiece painting of a lovable mouse with an exquisitely designed, highly intricate, multicolored swirly tail",0.7739942073822021,0.5354111790657043,36.221095899091026,0.744928

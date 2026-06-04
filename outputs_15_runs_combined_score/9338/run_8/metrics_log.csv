@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,painting of a mouse with a long colorful tail,0.765507698059082,0.6248929500579834,46.99965118086374,0.942602
+1,"mouse in a highly detailed watercolor painting, surrounded by colorful flowers with a large colorful tail",0.6889925003051758,0.7791099548339844,93.99653377409795,0.000000
+1,"a close-up of a mouse with a vibrant, swirling tail and soft delicate fur",0.7161370515823364,0.6691362857818604,51.815632781532955,0.528522
+1,"realistic painting of a brown mouse with a long, fluffy, orange and blue striped tail in a garden",0.6921477913856506,0.6962361335754395,39.3619941559129,0.378867
+1,"highly realistic oil painting of a mouse with a slender colored tail and intricate, detailed facial expression",0.6920499801635742,0.6753489971160889,32.99379407282343,0.438186
+2,"painting of a mouse with a long, vibrant, multicolored tail",0.7090315818786621,0.7056233882904053,38.6377653142481,0.528555
+2,"highly detailed digital painting of a mouse with a long, wavy colorful tail",0.8046584725379944,0.6170264482498169,39.521593039090355,0.964329
+2,"a realistic, detailed mouse with a long, fluffy tail, against a bright background",0.6893771886825562,0.7124704122543335,37.2107854046797,0.475271
+2,"painting of a single mouse with a long, striped tail set against a warm, sunny landscape",0.6135154962539673,0.7313487529754639,62.864737616174715,0.000000
+2,"an exquisite, highly detailed digital portrait of a mouse with a long, curly, rainbow-colored tail",0.6770032644271851,0.6446879506111145,35.63651048139457,0.605584
+3,highly detailed realistic digital painting of a mouse with a long wavy colorful tail,0.7102405428886414,0.6738910675048828,38.41857291985958,0.421026
+3,highly detailed digital painting of a mouse with a long wavy rainbow colored tail,0.7847912311553955,0.6854602694511414,39.526491248028805,0.725909
+3,highly detailed 4k digital oil painting of a mouse with a long curly colorful tail,0.7779873013496399,0.6296851634979248,31.799938107476294,0.864610
+3,highly detailed realistic digital painting of a mouse with a long wavy multi-colored tail,0.7059149742126465,0.6986576318740845,37.821237909538475,0.377943
+3,highly detailed vibrant digital watercolor painting of a mouse with a long wavy colorful tail in a lush green environment,0.6929413676261902,0.8145677447319031,51.3973425176401,0.000000
+4,"highly detailed digital painting of a mouse with a slender, wavy, multicolored tail",0.6718744039535522,0.7111233472824097,36.23027757449312,0.241740
+4,"highly detailed digital art of a mouse with a long, wavy, rainbow-colored tail",0.7498489618301392,0.7094503045082092,41.11645102201899,0.365104
+4,"realistic digital painting of a large mouse with a long, flowy, multicolored tail",0.7497138381004333,0.650546669960022,37.6030980384238,0.619312
+4,"highly detailed 4k digital art of a mouse with a long, curly, colorful tail",0.7331509590148926,0.6788471937179565,35.99822072157173,0.551780
+4,"detailed, hand-painted digital painting of a mouse with a long, swirly, multicolored tail",0.7569045424461365,0.5975432991981506,43.021325257131295,0.570182
+5,"highly detailed photorealistic digital painting of a mouse with a long, silky colorful tail",0.7258192300796509,0.6687893271446228,37.16741580711826,0.184175
+5,"highly detailed high-resolution digital painting of a mouse with a long, wavy colorful tail",0.7685579061508179,0.6205445528030396,34.61102482142203,0.727636
+5,"highly detailed highly realistic digital portrait of a mouse with a long, wavy colorful tail",0.7490990161895752,0.6455367207527161,42.236751120165636,0.295958
+5,photorealistic 4K digital painting of a mouse with a long flowing colorful tail,0.716843843460083,0.6685463786125183,37.09313078004035,0.136195
+5,"highly detailed masterfully executed digital painting of a mouse with a long, wavy, multi-colored tail",0.7563573122024536,0.6492817401885986,32.71303325559585,0.569198

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime sword wielder with intense flames engulfing his hand,0.8162009119987488,0.6705122590065002,61.3547183916018,0.443018
+1,a highly detailed anime character holds a blazing sword,0.8324626684188843,0.6165128946304321,50.5651851290889,0.818029
+1,realistic anime warrior with a fiery aura surrounding his hand,0.8036518096923828,0.6417829394340515,51.38530555305984,0.562110
+1,a dramatic anime hero grasps a sword with flames dancing along its length,0.7578072547912598,0.6900719404220581,62.20913701902044,0.000000
+1,digital painting of an anime character with a blazing sword in his raised hand,0.7953264713287354,0.5662501454353333,45.036282045280544,0.751283
+2,"highly detailed anime warrior holds a blazingly bright, golden hilted sword",0.7750327587127686,0.6427505612373352,48.81465908067073,0.190346
+2,"a majestic highly detailed anime character poses in mid-swing with a fiery, blazing sword",0.8596006631851196,0.629384458065033,54.29853407445647,0.559440
+2,"a 4k, highly detailed anime masterpiece image of a female character wields a gleaming, blazingly hot sword",0.7816079258918762,0.5283628106117249,46.5406308363856,0.509733
+2,"an expertly crafted, highly detailed anime painting of a hero stands proudly with a magnificent, blazing sword in hand",0.8156214356422424,0.6184850931167603,45.516980689587506,0.569976
+2,"a stunningly beautiful, highly detailed anime digital artwork depicts a character grasping a fiery, blazingly radiant sword",0.7952867746353149,0.6608951091766357,53.45814317098063,0.143675
+3,a majestic highly detailed anime warrior poses in mid-swing with a blazing fiery sword,0.8050669431686401,0.6630135774612427,53.13131148468014,0.348358
+3,an anime character with a fiery blazing sword poses in mid-swing amidst a dramatic fiery explosion,0.7780569791793823,0.7086955308914185,60.06965113884187,0.000000
+3,a highly detailed anime master artist paints an anime warrior in mid-swing with a blazing sword,0.8534440994262695,0.5693247318267822,42.861129621192845,0.962250
+3,highly detailed anime character poses mid-swing with a fiery blazing 4k-resolution sword,0.8065357208251953,0.5918871760368347,47.0173545162347,0.573770
+3,a majestic anime character with a highly detailed blazing sword poses for the artist in mid-swing with perfect lighting,0.8308452367782593,0.5948554277420044,44.731146596618366,0.750717
+4,"majestic, highly detailed, anime character poses heroically in mid-swing with a bright, blazing, fiery sword",0.8057931661605835,0.6301031708717346,52.045460177473664,0.512673
+4,"a highly realistic, 4k, anime character swings a shining, magnificent sword in a dynamic, epic pose",0.7364383935928345,0.5909969806671143,44.27603951592904,0.362358
+4,"a highly detailed, vibrant, anime character stands heroically in mid-swing with a blazing, burning, fiery, orange-red sword",0.8097368478775024,0.7063682079315186,64.60300585762404,0.297569
+4,"an epic, highly detailed, action-packed animation of an anime character swings with a mighty, powerful, blazing sword",0.7499440908432007,0.5344341397285461,38.489662143946056,0.554829
+4,"a highly detailed, anime master, character swings with a bright, burning, blazing, fiery sword in a majestic, powerful, epic pose",0.8298983573913574,0.6613720059394836,58.52478907254108,0.503035
+5,majestic highly detailed anime character with a fiery blazing sword freezes mid-action,0.7807134985923767,0.5948361158370972,50.09724719618576,0.309284
+5,4k ultra-high-definition anime warrior with a blazing sword swings in mid-air,0.8189889192581177,0.5593433380126953,46.30845277160774,0.656309
+5,highly detailed digital painting of an anime character holding a burning fiery sword in mid-swing,0.8370556831359863,0.6773936748504639,61.06876552885835,0.362512
+5,an epic highly detailed anime character poses dramatically with a blazing sword raised high in mid-swing,0.8519331812858582,0.5464624166488647,40.40418200724285,0.953241
+5,highly detailed masterpiece of an anime warrior in vibrant colors with a flaming blazing sword in mid-air swing,0.7776117324829102,0.6558388471603394,52.086937510928756,0.149819

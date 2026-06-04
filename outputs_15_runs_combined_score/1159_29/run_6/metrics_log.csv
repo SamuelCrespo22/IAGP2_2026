@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on a rocky outcropping in the turquoise ocean at golden hour,0.8732284903526306,0.7168063521385193,53.708037611110484,0.605914
+1,majestic arafed palm tree on a stone pedestal in the serene ocean at sunset,0.8563129901885986,0.7204343676567078,54.24749393277345,0.352455
+1,highly detailed arafed palm tree on a natural rock formation in the crystal clear ocean at dusk,0.8959829807281494,0.7098365426063538,51.88138379739084,1.000000
+1,a stunning arafed palm tree perched on a solitary rock in the warm ocean at the moment of sunset,0.8583294153213501,0.7556149363517761,58.47811644086398,0.025415
+1,highly realistic arafed palm tree nestled among the rocks in the deep blue ocean at the time of sunset.,0.8871580362319946,0.7300347089767456,58.32356155655793,0.534324
+2,highly detailed realistic arafed palm tree on a natural rocky formation in the crystal clear ocean at golden hour sunset,0.8634668588638306,0.7858256101608276,59.34180823293764,0.104464
+2,highly detailed realistic arafed palm tree on a large natural rock in the calm crystal clear ocean at dusk,0.8855996131896973,0.7015275359153748,49.472535934086636,0.840335
+2,highly detailed realistic arafed palm tree with rich colors on a rocky outcropping in the crystal clear ocean at golden hour,0.8802778720855713,0.7297660708427429,54.48586042332837,0.591040
+2,highly detailed realistic image of a single large arafed palm tree on a natural rock formation in the ocean at dusk,0.8850396275520325,0.7490193843841553,54.248968627313815,0.624938
+2,highly detailed photorealistic arafed palm tree on a natural rock formation in the crystal clear ocean at golden hour with warm sunset colors,0.8891363739967346,0.8104885816574097,61.67958287328693,0.394720
+3,highly detailed realist arafed palm tree on a natural rock formation in the crystal clear ocean at golden hour,0.898809552192688,0.7384257912635803,56.51588790698501,0.365131
+3,arafed palm trees in stunning high contrast on natural rock formations in the crystal clear tropical ocean at dusk,0.8920680284500122,0.6599720120429993,52.79095603560256,0.607278
+3,highly detailed and realistic 4k digital painting of an arafed palm tree on a natural rock formation in the crystal clear ocean at sunset,0.8769064545631409,0.7713304758071899,58.39366192015986,0.000000
+3,serene and peaceful arafed palm tree silhouetted against the vibrant sky on a natural rock formation in the calm crystal clear ocean at twilight,0.8955897092819214,0.7239348888397217,58.34183064408817,0.298776
+3,highly realistic and detailed digital art of an arafed palm tree on a natural rock formation in the crystal clear ocean at the golden hour with warm soft light.,0.9259443879127502,0.7426549196243286,51.48315156280437,0.814377
+4,highly realistic and extremely detailed digital art of a majestic arafed palm tree on a rugged natural rock formation in the crystal clear turquoise ocean at the golden hour with warm soft sunlight,0.8798836469650269,0.6879852414131165,51.32236305142799,0.670343
+4,highly realistic and ultra detailed digital art of an arafed palm tree on a natural rock outcropping in the crystal clear calm ocean at the golden hour with warm soft gentle light,0.8932859897613525,0.7451575398445129,55.93329024193869,0.429896
+4,highly detailed and hyper-realistic digital painting of an arafed palm tree in the crystal clear ocean surrounded by natural rock formations at sunset,0.9151448011398315,0.7724277377128601,58.22066060043504,0.422707
+4,highly realistic and photorealistic 4k digital art of a majestic arafed palm tree on a rocky bluff overlooking the crystal clear ocean at the golden hour,0.8752037882804871,0.7561060786247253,55.44006143461853,0.285942
+4,highly realistic and exceptionally detailed oil painting style digital art of an arafed palm tree growing out of a natural rock formation in the crystal clear ocean at the golden hour,0.8560827374458313,0.7420198917388916,54.248105772784896,0.233994
+5,"highly realistic and detailed digital art of an arafed palm tree on a natural rock formation in the crystal clear and turquoise ocean at golden hour with warm soft, golden light",0.9120947122573853,0.6641724705696106,50.25455667456689,0.760212
+5,highly realistic and detailed digital painting of a majestic arafed palm tree on a rugged rock formation in a bright blue ocean at the golden hour with soft warm rays,0.7877334952354431,0.6019695997238159,43.60356905137275,0.500000
+5,a highly realistic digital art piece of an arafed palm tree perched on a natural rock formation in a calm and crystal clear ocean at sunset with warm golden soft light,0.8843653202056885,0.7866325378417969,59.36813309786235,0.349581
+5,highly detailed and realistic digital art of an arafed palm tree standing tall on a weathered natural rock formation in the serene crystal clear ocean at the golden hour with warm soft glow,0.9183977246284485,0.7495316863059998,54.05881559328251,0.607124
+5,highly realistic and detailed 4k digital art of a majestic arafed palm tree on a natural rock formation in the crystal clear ocean with a beautiful golden hour sky and warm soft gentle light,0.8967863321304321,0.6689993143081665,50.4680555227828,0.694911

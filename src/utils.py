@@ -336,7 +336,7 @@ def extract_top_3_for_report(filename, img_base_dir, generator, num_runs=15, top
     top3_dir = os.path.join(img_base_dir, "top3_final")
     os.makedirs(top3_dir, exist_ok=True)
 
-    if not save_dataframe_safe(top_df, os.path.join(top3_dir, "top3_metrics.csv")):
+    if not save_dataframe(top_df, os.path.join(top3_dir, "top3_metrics.csv")):
         print(f"[WARN] Failed to save Top-{top_n} CSV for {filename}.")
 
     if generator is None:
@@ -349,7 +349,7 @@ def extract_top_3_for_report(filename, img_base_dir, generator, num_runs=15, top
         score = getattr(row, 'Combined_Score', None)
         try:
             img = generator.generate(prompt=prompt, target_filename=filename)
-            safe_save_image(img, os.path.join(top3_dir, f"rank_{idx}_cand.png"))
+            save_image(img, os.path.join(top3_dir, f"rank_{idx}_cand.png"))
             print(f"    Saved Rank {idx} (combined={score:.6f}): '{prompt}'")
         except Exception as e:
             print(f"[WARN] Failed to render/save Top-{top_n} image rank {idx} for {filename}: {e}")

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime male character with intricately designed sword and flames erupting in his hand,0.8286307454109192,0.6434819102287292,57.5163556068204,0.703837
+1,detailed anime boy with sword and fire crackling in his right hand,0.8093369007110596,0.602556586265564,52.60176178625178,0.715392
+1,highly detailed anime character wielding a fiery sword with intense determination,0.8263059854507446,0.6142946481704712,51.51824927415191,0.864598
+1,digital painting of a young anime warrior with sword and fire blazing in his hands,0.8314480781555176,0.6060914397239685,48.391548362981325,0.990073
+1,4k resolution anime style image of a strong male character holding a sword engulfed in flames and standing heroically,0.7796759605407715,0.6915750503540039,63.20266920212742,0.000000
+2,highly detailed digital painting of a young anime warrior with a fiery aura and flames dancing in his outstretched hands,0.7969236373901367,0.7080556750297546,64.29956681240905,0.464075
+2,digital painting of a young anime warrior holding a glowing sword and surrounded by intense flames in the style of a 4k masterpiece,0.8288484215736389,0.6518786549568176,62.35006334318077,0.770798
+2,anime-inspired digital artwork featuring a young warrior with an enchanted sword and a fiery inferno blazing in the background,0.7702233791351318,0.6867872476577759,54.84591177020483,0.426592
+2,highly detailed digital portrait of a young anime warrior with a sword in hand and flames of determination in his eyes,0.7989262342453003,0.6456849575042725,52.52008796689908,0.693443
+2,highly realistic 4k digital painting of a young anime warrior standing triumphantly amidst a blaze of fire and light,0.7512626051902771,0.7658411860466003,73.08160396797969,0.000000
+3,digital painting of a young male anime warrior with sword and flame blazing in his hands in a 4k resolution,0.8213260173797607,0.5885053277015686,50.159755851777405,0.674837
+3,"highly detailed digital painting of an anime warrior with a fiery sword in his hands, set amidst a dark background",0.8031432032585144,0.6203594207763672,62.3288677109661,0.123206
+3,"stunning masterpiece of a young anime warrior holding a blazing sword, with intricate details in a digital painting style",0.816799521446228,0.6018081903457642,44.830789524598735,0.635543
+3,"young anime warrior with intense determination, wielding a sword with flames dancing around the blade in a highly realistic digital painting",0.8393678069114685,0.6513119339942932,56.96771380282591,0.576596
+3,"highly detailed digital painting of a fearless young anime warrior with a fiery sword, set against a dark and dramatic background with intense lighting effects",0.8303948044776917,0.6109344959259033,57.77253478462198,0.601967
+4,"digital painting of a young anime warrior with fiery determination, flames dancing intensely around a realistic, gleaming sword",0.8014425039291382,0.6887089014053345,58.76892575721559,0.000000
+4,"highly realistic, detailed anime warrior with a burning passion, wielding a sword with flames roaring around its blade",0.8221540451049805,0.6199140548706055,49.61984014568245,0.538345
+4,"young anime warrior with strong conviction, standing proudly with a highly realistic, blazing sword in hand",0.8500555753707886,0.5735877752304077,45.767437599346586,1.000000
+4,"realistic digital painting of an anime warrior with unyielding resolve, flames engulfing a powerful, shining sword",0.8095285892486572,0.6407269835472107,50.98189372310565,0.337100
+4,"young anime warrior with intense focus, holding a highly realistic, fiery blade with flames crackling around it",0.8263174295425415,0.6414579153060913,54.72663648500861,0.436185
+5,"highly detailed young anime warrior with unwavering conviction, standing proudly with a realistic, fiery sword in hand",0.8152965307235718,0.5947058200836182,48.34442040741328,0.625617
+5,"young anime warrior with unshakeable faith, standing heroically with a highly realistic, blazing sword in a misty medieval landscape",0.7563616037368774,0.6057717800140381,53.953256362480325,0.111245
+5,"anime warrior with unyielding conviction, standing triumphantly with a highly realistic, fiery sword in hand, amidst a serene, moonlit background",0.7615537643432617,0.6488643884658813,52.13911561956727,0.083113
+5,"highly detailed young anime warrior with strong conviction, standing proudly with a highly realistic, burning sword in a dramatic, cinematic pose",0.8075469732284546,0.6229512095451355,48.906577322409255,0.494176
+5,"young anime warrior with unwavering resolve, standing victoriously with a highly realistic, blazing sword in hand, rendered as a digital painting with delicate brushstrokes",0.826095461845398,0.5520224571228027,48.79038584398324,0.779814

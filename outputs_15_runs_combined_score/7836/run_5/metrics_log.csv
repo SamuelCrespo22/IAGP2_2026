@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,"astronaut standing on a distant, barren planet with a massive, burning star in the background and rays of light illuminating his spacesuit",0.792751669883728,0.49436065554618835,32.87100050567473,0.745575
+1,"astronaut in a highly detailed, realistic spacesuit standing on a barren, rocky planet with an intense, bright light shining behind him",0.7700728178024292,0.6532715559005737,42.70916650636534,0.345185
+1,"an astronaut in a sleek, metallic spacesuit stands on a distant, mysterious planet, silhouetted by a brilliant, glowing light",0.8127226829528809,0.5234935283660889,33.83695117668358,0.778722
+1,"astronaut, dressed in a pressurized spacesuit and helmet, stands on a rugged, alien landscape under a blazing, celestial sun",0.7274022698402405,0.729132890701294,49.43868720626993,0.000000
+1,"astronaut in a futuristic, high-tech spacesuit is standing on the barren, unforgiving surface of a desolate planet, framed by a vibrant, electrically charged light in the background",0.7449407577514648,0.6433321833610535,35.734125706758284,0.358393
+2,astronaut standing on the surface of a distant planet with a bright light shining in the background,0.8374931812286377,0.5312072038650513,33.21879346739757,0.873824
+2,astronaut in a space suit standing on the rugged surface of a distant world with a massive light source illuminating the surroundings,0.7736058831214905,0.6099497675895691,36.87867669252563,0.382854
+2,astronaut with suit and helmet standing at the edge of a vast alien landscape with a radiant light emanating from the horizon,0.8534069061279297,0.59787917137146,41.85600257578341,0.851884
+2,highly detailed astronaut standing on the cracked surface of a foreign planet surrounded by a blazing light and ominous storm clouds,0.7752992510795593,0.7822306156158447,70.79283663919428,0.010381
+2,astronaut in bright orange suit standing at the center of a barren alien world with a brilliant light shining in the dark atmosphere,0.8187361359596252,0.537505567073822,31.663447844449095,0.762703
+3,astronaut standing on the surface of a distant alien planet with a bright shining sun,0.8555413484573364,0.505991518497467,36.238782302138546,0.943561
+3,highly detailed astronaut standing on the surface of a planet with a vibrant light shining in the distance,0.803752601146698,0.5677183866500854,35.43642079078462,0.395916
+3,astronaut standing on a rocky alien surface illuminated by a bright warm light,0.8538014888763428,0.6391596794128418,50.19557153679198,0.485121
+3,astronaut in a futuristic spacesuit standing on a barren planet with a celestial body in the background,0.7970746159553528,0.5991683602333069,34.82536494096889,0.288240
+3,highly realistic astronaut standing on a foreign planet with a radiant beam of sunlight shining in the background,0.810012936592102,0.562414824962616,39.95999456388137,0.396675
+4,astronaut standing on the surface of a serene distant alien planet with a brilliant bright shining sun,0.8589916229248047,0.5292078852653503,35.81532548764397,0.902629
+4,astronaut standing in the foreground on a rugged alien surface with a massive bright sun in the background,0.7910718321800232,0.6894368529319763,47.80728017053243,0.095359
+4,highly detailed astronaut standing in the center of a vast desolate alien landscape with a bright shiny sun overhead,0.775065541267395,0.5730473399162292,31.53756314047039,0.408616
+4,astronaut standing on the barren surface of a remote alien world with a vibrant bright sun shining down,0.8254364728927612,0.5325488448143005,37.05892267391671,0.679058
+4,a highly detailed 4k masterpiece of an astronaut standing on the alien surface with a beautiful radiant bright shining sun in the sky,0.8317902088165283,0.545660138130188,37.4167857990667,0.693544
+5,astronaut standing on the serene and untouched surface of a distant alien planet bathed in warm sunlight,0.8149135112762451,0.6593004465103149,51.187004219786644,0.000000
+5,a majestic astronaut standing on the surface of a serene and mystical alien world with a vibrant blue sky,0.8318858742713928,0.5635712146759033,46.76155035591066,0.448464
+5,an astronaut standing on the rugged surface of a distant alien world under a brilliant shining sun with a vast horizon,0.8405282497406006,0.5580425262451172,42.95017631763325,0.619110
+5,a lone astronaut standing on the edge of a vast barren desert on a distant alien planet with a bright sun in the sky,0.8486565947532654,0.6242266893386841,45.635496455485644,0.540454
+5,a highly detailed astronaut standing on the edge of a vast alien landscape with a radiant shining sun and an infinite blue sky,0.819465696811676,0.5432644486427307,39.520492295736666,0.464365

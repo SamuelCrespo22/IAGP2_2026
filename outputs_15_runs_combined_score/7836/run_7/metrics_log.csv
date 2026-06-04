@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,"astronaut standing on a rocky surface of a distant planet with a bright, shining light in the background",0.8278787732124329,0.6111016869544983,44.699491810278445,0.450124
+1,"astronaut in a space suit standing at the edge of a vast, barren landscape with a stunning celestial body in the background",0.7925979495048523,0.5918578505516052,34.47699831994883,0.426390
+1,"highly detailed, 8k quality astronaut standing on the surface of a mysterious, gas giant planet with a warm, golden light",0.8539423942565918,0.49258553981781006,30.596294939863686,0.992282
+1,"astronaut standing on the dusty surface of a long-abandoned space station with a bright, shining light in the background, highly detailed and realistic",0.7802755832672119,0.711050271987915,45.12081252597715,0.029354
+1,"astronaut standing on the edge of a crater on the surface of a small, rocky planet with a bright star shining in the background, highly detailed and photorealistic",0.7756044864654541,0.5501537322998047,33.67019980579837,0.381213
+2,"astronaut standing on the surface of a distant, uncharted planet with a bright, ethereal light shining in the background",0.8444118499755859,0.5694820284843445,42.77633226162463,0.829032
+2,"astronaut standing in the foreground with a large, barren planet landscape and a dimly lit distant sun",0.8625659942626953,0.5541613698005676,31.738238692991413,0.975636
+2,"a highly detailed, realistic astronaut standing on the surface of a barren, rocky planet with a bright light shining in the background of the image",0.7745770215988159,0.625224769115448,34.9361934277279,0.479990
+2,"astronaut standing on the surface of a desolate, alien planet with a blazing, otherworldly sun shining behind them",0.8021737933158875,0.6577297449111938,45.31945992405646,0.544462
+2,"a highly detailed digital painting of an astronaut standing on the surface of a barren, rock-strewn planet with a soft, hazy light in the background",0.759414553642273,0.8423519134521484,90.94039177906082,0.000000
+3,"astronaut standing in the foreground with a rugged, barren planet landscape and a dimly lit distant sun",0.8685447573661804,0.6777231097221375,45.60655888091582,0.564725
+3,"astronaut standing in the foreground with a vast, arid alien world landscape and a soft, distant sun",0.8515896797180176,0.6251808404922485,41.82760957870502,0.606114
+3,"highly detailed astronaut standing in the foreground with a barren, rocky planet landscape and a dimly lit, crimson distant sun",0.8160722255706787,0.6644981503486633,39.31772659509527,0.354308
+3,"astronaut standing in the foreground with a desolate, barren alien landscape and a faint, golden distant sun",0.7905533313751221,0.7040413618087769,46.866811845125575,0.000000
+3,"highly realistic astronaut standing in the foreground with a barren, vast planet landscape and a dimly lit, distant, serene sun",0.7970319390296936,0.5941359996795654,33.67294185056655,0.442885
+4,"astronaut standing in the foreground with a ruggedly textured, barren and rocky planet landscape and a dimly lit distant sun",0.8514707684516907,0.6839220523834229,46.58872278011385,0.695185
+4,astronaut in the foreground of a desolate planet landscape with a bright dimly lit distant sun,0.8740155696868896,0.6149997115135193,39.69195996864737,0.964469
+4,highly detailed astronaut standing in the foreground of a barren wasteland with a darkened distant sun,0.7914213538169861,0.6770343780517578,43.072218831467545,0.403696
+4,"detailed astronaut standing against a backdrop of a rugged, rocky and barren planet landscape with a sun shrouded in haze",0.783420741558075,0.8145621418952942,64.66414926267313,0.000000
+4,astronaut standing at the edge of a barren and rocky planet landscape with a distant dimly lit sun and atmospheric effects,0.8413478136062622,0.6063884496688843,36.89386474672716,0.819704
+5,"astronaut standing alone in the foreground of a barren, rocky planet landscape with a faint, distant sun shining in the background",0.768181324005127,0.721347987651825,51.680300482685716,0.149434
+5,"highly detailed astronaut in the center of a desolate, rocky expanse with a bright, dimly lit sun on the horizon",0.8421717882156372,0.655320405960083,45.025068350737754,0.706009
+5,"astronaut exploring the foreground of a worn, dusty planet with a small, distant sun rising in the sky",0.8701218962669373,0.622219979763031,45.328955881537816,0.892694
+5,"highly realistic astronaut figure in the center of a desolate, rocky, barren wasteland with a bright, dimly lit sun shining in the background",0.7783755660057068,0.7558757066726685,58.21086613284234,0.048161
+5,"astronaut standing alone in the foreground of a vast, barren planet landscape with a distant, shining sun on the horizon with numerous, rugged rocks",0.865025520324707,0.6872214078903198,49.19024824304382,0.701138

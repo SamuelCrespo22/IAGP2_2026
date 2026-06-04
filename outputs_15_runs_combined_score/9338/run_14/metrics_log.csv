@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,"painting of a mouse with a bright, curly tail",0.7047131061553955,0.7070322036743164,43.22386872577645,0.140990
+1,"painting of a mouse with a vibrant, long, colorful tail and colorful fur",0.8286889791488647,0.6119397878646851,51.66053726864496,0.750000
+1,"highly detailed digital painting of a mouse with a curly, multicolored tail and realistic background",0.7363629341125488,0.6870334148406982,36.70083939257141,0.430222
+1,"4k digital art of a mouse with a fluffy, rainbow-colored tail and intricate details",0.7938106060028076,0.6710633635520935,41.75250901233639,0.619476
+1,"oil painting of a mouse with a slender, brightly colored tail and soft, warm lighting",0.7176290154457092,0.6671835780143738,38.88357934461094,0.370376
+2,"vibrant mouse with a long, multicolored tail and soft, fluffy fur",0.6945962905883789,0.6777507662773132,42.94971968500502,0.312666
+2,"highly detailed painting of a mouse with a long, colorful tail and intricate, textured fur",0.7396618723869324,0.6757876873016357,47.12443118057065,0.385852
+2,"digital painting of a mouse with a vibrant, long, colorful tail and soft, pastel-colored fur",0.7833756804466248,0.6622946262359619,56.05153701000205,0.441746
+2,"a mouse with a long, slender tail and bright, colorful fur set against a warm, sunny background",0.7179974317550659,0.6696764230728149,55.08352704702619,0.256675
+2,"a masterpiece of a mouse with a long, fluffy tail and a coat of rich, jewel-toned fur",0.6349897384643555,0.6757814884185791,35.42560386241746,0.257481
+3,"painting of a mouse with a bright, long, multicolored tail and colorful fur",0.7895126938819885,0.5691920518875122,41.98406724620231,0.630129
+3,"a highly detailed digital painting of a mouse with a vibrant, long, colorful tail and soft, fluffy fur",0.8192179203033447,0.5951047539710999,39.25207524843924,0.834117
+3,"oil painting of a mouse with a long, rainbow-colored tail and textured, vibrant fur",0.7802225351333618,0.6131956577301025,35.92788622541413,0.581821
+3,"realistic digital drawing of a mouse with a long, colorful tail and varied, colorful markings",0.7571040987968445,0.707298755645752,39.811761517088094,0.188283
+3,"stunning, highly detailed digital portrait of a mouse with a long, multicolor tail and rich, colorful fur",0.8180872201919556,0.6899988055229187,41.81871941284716,0.613658
+4,"painting of a mouse with a long, bright, multicolored tail and soft, fluffy fur",0.786099910736084,0.6076639294624329,41.5596056056497,0.654209
+4,"vibrant mouse with a long, colorful tail and colorful, intricate fur",0.7994358539581299,0.6091872453689575,35.38173402659838,0.798845
+4,"highly detailed, realistic digital painting of a mouse with a long, rainbow-colored tail and thick, plush fur",0.7559747695922852,0.696878969669342,38.27410691192911,0.306447
+4,"4k, photorealistic artwork of a mouse with a long, multicolored tail and delicate, fluffy fur",0.7336357831954956,0.7042136192321777,40.19911851283763,0.145508
+4,"detailed, oil painting of a mouse with a long, bright tail and soft, silky fur",0.7434933185577393,0.6645703911781311,31.968506318071643,0.404503
+5,"painting of a mouse with a long, thick, bright, multicolored tail and richly colored, intricate fur",0.7598458528518677,0.7547570466995239,39.81545359596049,0.498212
+5,"mouse in a beautiful, highly detailed painting with a long, fluffy, colorful tail and vibrant, textured fur",0.7670356035232544,0.641983151435852,52.62601131495392,0.522171
+5,"highly realistic 4k digital painting of a mouse with an extremely long, thin, multicolored tail and delicate, shimmering fur",0.7182005047798157,0.6922430396080017,39.61771488888342,0.460268
+5,"a stunning work of art featuring a mouse with a long, curly, rainbow-colored tail and soft, fluffy, colored fur",0.8086142539978027,0.6339251399040222,46.04085503616062,0.789001
+5,"a masterpiece drawing of a mouse with a vibrant, long, multicolored tail and beautiful, intricately patterned, colored fur and eyes that sparkle with curiosity",0.6902886033058167,0.6682853102684021,55.67713001972077,0.151368

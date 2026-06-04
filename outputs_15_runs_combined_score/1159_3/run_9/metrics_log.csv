@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime character wielding a gleaming sword in flames,0.8107877969741821,0.6690157055854797,57.23049127445035,0.348246
+1,a detailed digital painting of an anime character holding a sword engulfed in fire,0.8194035291671753,0.6433581113815308,55.27033890980216,0.600509
+1,highly detailed 4k anime character with a fiery blade,0.8220568895339966,0.6084951162338257,49.69950293850924,0.906717
+1,anime warrior with a majestic sword ablaze in his hand,0.784927487373352,0.587504506111145,48.71498713220471,0.500000
+1,a beautifully rendered anime character grasping a sword with burning blue flames in the palm of his hand,0.7857635021209717,0.6222563982009888,52.76189456839264,0.285862
+2,highly detailed 8k anime character with an intricately designed fiery blade,0.8142222762107849,0.6284276247024536,51.40358488712501,0.642622
+2,highly detailed 4k anime warrior with a blazing fiery sword,0.8276219367980957,0.6112514734268188,50.020205974197424,0.787821
+2,highly detailed 4k anime fantasy character with a fiery magical blade,0.7699195146560669,0.5805785059928894,44.37886528966812,0.720687
+2,highly detailed 4k anime samurai with a fiery katana,0.7243286371231079,0.616665244102478,55.91565807157438,0.144195
+2,highly detailed 4k anime heroine brandishing an elegant fiery katana,0.7602111101150513,0.6658455729484558,55.34607342025434,0.186035
+3,highly detailed 4k anime warrior wielding a blazing fiery katana,0.8149393796920776,0.6344943046569824,55.11309840779188,0.434758
+3,highly polished 8k fantasy anime warrior with a blazing fiery sword,0.8037266135215759,0.5846121311187744,42.99102595588548,0.683282
+3,highly realistic digital manga warrior holding a blazing fiery naginata,0.7747682929039001,0.6639785170555115,56.81341641273762,0.000000
+3,highly detailed 4k animated anime warrior with a burning fiery sword,0.7773584127426147,0.6191815137863159,50.857538227059145,0.238622
+3,highly rendered 8k watercolour anime warrior grasping a blazing fiery wakizashi,0.8352785110473633,0.5617008209228516,51.70946776383499,0.842313
+4,highly detailed 8k watercolour anime warrior grasping a vibrant blazing fiery wakizashi,0.7934878468513489,0.6813498735427856,96.51484747501944,0.351588
+4,highly rendered 8k digital painting anime warrior standing triumphantly holding a blazing fiery wakizashi,0.7906975746154785,0.6463246941566467,58.70722957861329,0.625817
+4,anime warrior standing on a misty mountain peak grasping a blazing fiery traditional japanese sword in a highly detailed 8k watercolour style,0.6944853067398071,0.6638398766517639,63.03811230962453,0.223376
+4,4k highly realistic anime warrior holding a blazing fiery wakizashi with intricate japanese armor in a highly rendered watercolour digital painting style,0.8193814754486084,0.5981845855712891,52.6566597113982,0.862029
+4,highly detailed 8k anime warrior grasping a blazing fiery wakizashi with intricate katana scabbard in a vibrant watercolour digital painting masterpiece style,0.807047963142395,0.6190679669380188,61.08868552677859,0.727546
+5,highly detailed 8k anime warrior grasping a blazing fiery wakizashi in a misty forest,0.7160029411315918,0.6683348417282104,55.41869929895366,0.000000
+5,4k highly rendered watercolour anime warrior with a fiery wakizashi grasping it intensely,0.8358616828918457,0.5728142261505127,51.71171152352541,0.834466
+5,highly textured 8k digital painting of an anime warrior holding a blazing wakizashi sword with flames,0.8352208733558655,0.6206658482551575,51.037480202948885,0.740240
+5,highly realistic 4k anime warrior from a fantasy realm grasping a fiery wakizashi with sharp detail,0.8119317889213562,0.5638869404792786,47.24384426390838,0.892773
+5,8k digital artwork of a highly detailed anime warrior holding a blazing fiery wakizashi with subtle smoke,0.8365474939346313,0.6045594811439514,53.50371911737796,0.708082

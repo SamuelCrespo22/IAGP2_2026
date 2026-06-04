@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
+1,there is a perfectly clear glass of freshly squeezed orange juice with a single slice of orange on the side,0.9470317959785461,0.5098530054092407,40.628919262624464,0.922752
+1,"the glass is half empty, with a frosty glass of orange juice and a slice of orange on the counter",0.8913633227348328,0.7523084878921509,53.78843277779835,0.429097
+1,"highly detailed digital recreation of a glass of cold orange juice with a slice of orange on the side, with natural lighting",0.9346307516098022,0.436194509267807,38.804857276114056,0.963273
+1,"a realistic glass of orange juice sits on a wooden table next to a single slice of orange, in a bright and cheerful kitchen",0.7782040238380432,0.7374408841133118,57.34970583990701,0.068637
+1,"a beautiful, hand-painted glass of orange juice with a slice on the side, resting on a vintage tablecloth in warm, sunny light",0.9181462526321411,0.6357651948928833,62.81160895912473,0.506621
+2,'a crystal clear glass of freshly squeezed orange juice with a single slice of orange on the side',0.9287769794464111,0.5243090391159058,41.626682339565605,0.718689
+2,'a perfectly transparent glass of fresh orange juice with a single orange slice on the side',0.9161955714225769,0.5999802350997925,51.680710096070385,0.172996
+2,"'highly detailed, realistic 4k image of a sparkling glass of orange juice with one slice of orange next to it'",0.9233142137527466,0.5422101020812988,45.536749041162864,0.530558
+2,'a glass of pure orange juice with a thin slice of orange and a few ice cubes on the side',0.909315824508667,0.5501781702041626,46.369841959114545,0.321975
+2,'a digital painting of a perfectly clear glass of freshly squeezed orange juice with a single majestic slice of orange on the side',0.906235933303833,0.6025956869125366,54.03341846892103,0.000000
+3,"the perfectly clear glass of freshly squeezed orange juice with a single, vibrant slice of orange on a simple white table",0.9174071550369263,0.5946338176727295,63.02354974614417,0.201098
+3,a highly detailed glass of freshly squeezed orange juice with a single slice of orange on the side in 4k resolution,0.9295908212661743,0.452066034078598,40.46197259426306,0.675146
+3,"a beautifully framed glass of freshly squeezed orange juice with a single slice of orange on the side, set against a soft focus background",0.9173221588134766,0.6038256883621216,51.89275999330334,0.285924
+3,there is a perfectly clear glass of freshly squeezed orange juice with a single perfectly sliced orange on a minimalist wooden table,0.8990620970726013,0.4778188467025757,38.09259269369694,0.349598
+3,"a stunning, highly realistic 4k digital painting of a glass of freshly squeezed orange juice with a single slice of orange on the side",0.9436353445053101,0.3713097870349884,33.91433036270298,0.964598
+4,highly detailed realistic glass of perfectly clear freshly squeezed high-quality orange juice with a single thin slice of orange on the side,0.8931753635406494,0.508225679397583,40.33954059066399,0.414018
+4,there is a perfectly clear 4k high-resolution glass of freshly squeezed premium high-grade orange juice with a single slice of perfectly ripe orange on the side,0.9357007741928101,0.4680686295032501,39.420516625625005,0.854985
+4,vibrant colorful perfectly clear glass of freshly squeezed real orange juice with a single slice of orange on a minimalist rustic wooden surface,0.9166598320007324,0.4796190857887268,35.64212298434739,0.707536
+4,highly detailed highly realistic masterpiece glass of clear freshly squeezed real orange juice with a single slice of real organic orange on a white marble surface,0.939542293548584,0.5192366242408752,56.76496374991107,0.661383
+4,there is a perfectly clear beautifully crafted glass of freshly squeezed premium high-grade orange juice with a single slice of perfectly ripe orange garnish on a modern kitchen counter,0.8999773859977722,0.7432786822319031,59.364579777679275,0.063150
+5,clear glass of ultra-freshly squeezed orange juice with a single slice of orange on the side,0.9376387000083923,0.5727105140686035,42.644489080995335,0.590939
+5,a perfect glass of freshly squeezed orange juice with a single perfectly sliced orange on the side,0.9207850694656372,0.5901048183441162,42.68768062608156,0.438323
+5,highly detailed digital painting of a crystal glass filled with freshly squeezed orange juice and a single slice of orange on the side,0.8847854137420654,0.5636124610900879,53.80980560072482,0.036385
+5,4k digital rendering of a perfectly clear glass containing freshly squeezed orange juice with a single slice of orange,0.9444846510887146,0.3411273956298828,33.690776119644106,0.979540
+5,"a beautiful crystal glass filled with a glass of freshly squeezed orange juice and a single slice of orange, highly detailed and realistic",0.8985346555709839,0.6015080213546753,53.30391205323693,0.116728

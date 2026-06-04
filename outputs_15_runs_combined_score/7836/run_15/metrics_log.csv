@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,highly detailed astronaut standing on the surface of a rugged alien planet with a bright celestial light shining in the background,0.8496612906455994,0.6223173141479492,38.10714923765162,0.729833
+1,astronaut standing alone on the barren surface of a distant rocky planet with a brilliant glowing orb of light,0.8003963232040405,0.5297710299491882,26.275571458530962,0.491833
+1,low-contrast digital painting of an astronaut standing on the dusty surface of a mysterious planet with a vibrant light in the sky,0.811044454574585,0.7289942502975464,56.042192574971644,0.097200
+1,astronaut in a futuristic spacesuit standing on the edge of a massive impact crater on a barren alien world with a bright light shining in the distance,0.8543663024902344,0.5396229028701782,36.26538211691808,0.888631
+1,"highly detailed, photorealistic astronaut standing on the surface of a unique extraterrestrial planet with a striking solar flare in the background",0.8288163542747498,0.5645202398300171,37.43146595851342,0.615386
+2,"Astronaut standing on the surface of a distant, barren planet with a bright blue light shining in the background highly detailed.",0.8330880403518677,0.5493029356002808,42.63144643460621,0.672739
+2,"Highly detailed astronaut standing on the surface of a rugged alien world with a warm, golden light emanating in the background.",0.8545244932174683,0.6815574169158936,45.63756812339857,0.526590
+2,"4k digital painting of an astronaut standing on the surface of a mysterious, rocky planet with a faint, purple light glowing in the distance.",0.8608977794647217,0.6053517460823059,47.26590064868352,0.654863
+2,"Astronaut standing at the edge of a vast, desolate landscape on a distant, airless world with a bright, fiery light illuminating the sky.",0.8301562070846558,0.5580523014068604,37.86662482824984,0.712498
+2,"Masterpiece digital artwork of an astronaut standing on the surface of a barren, moon-like planet with a soft, ethereal light shining in the background.",0.759121835231781,0.660946249961853,49.6970644898038,0.032507
+3,"highly detailed 4k digital painting of an astronaut standing on a rugged, barren planet with a faint, deep plum light glowing on the horizon",0.7843586206436157,0.7141532301902771,54.69326350767631,0.033315
+3,"a photorealistic 4k digital image of an astronaut standing on the rocky terrain of a mysterious alien world with a soft, purple hue in the distance",0.848515510559082,0.6784138083457947,58.57268374195083,0.472404
+3,"highly detailed and realistic 4k digital art of an astronaut standing at the edge of a vast, alien landscape with a distant, lavender glow",0.8226598501205444,0.6611349582672119,53.76358961799852,0.370563
+3,"4k digital painting of a lone astronaut standing on a barren, rocky planet with a soft, muted purple light casting long shadows in the distance",0.8213433027267456,0.7050321102142334,56.47665855360575,0.273207
+3,"a highly realistic 4k digital image of an astronaut standing on the surface of a mysterious, rocky alien world with a faint, plum-colored light emanating from the dark, alien sky",0.8187868595123291,0.5464973449707031,29.460617665101214,0.724906
+4,"4k highly detailed digital painting of a lone astronaut standing on a barren, rocky planet with a faint, purple glow in the distance",0.857813835144043,0.6442512273788452,41.893205592856916,0.822938
+4,the astronaut's spacesuit gleams in the low light of 4k digital painting,0.8090922832489014,0.6397404670715332,48.088048928854356,0.352921
+4,"mysterious, ancient, rocky planet with an astronaut in the foreground of a 4k digital painting",0.8715866804122925,0.6436882019042969,47.83737361679244,0.851393
+4,"4k digital masterpiece of a solo astronaut standing in the shadow of a towering, rocky cliff on a distant planet",0.8207300901412964,0.8025619387626648,58.650789308706564,0.093111
+4,"highly detailed digital painting of a single astronaut on a desolate, rocky planet under a deep purple sky.",0.851448118686676,0.6453889608383179,40.627455730063964,0.788123
+5,"ancient, abandoned, rocky planet with a solo astronaut in the foreground of a highly detailed 4k digital painting",0.7864629030227661,0.7103629112243652,62.95142042502092,0.134605
+5,"misty, ancient, rocky planet with a lone astronaut standing in the foreground of a 4k digital artwork",0.884350597858429,0.7269703149795532,74.3494348388177,0.439165
+5,"mysterious, worn, rocky planet with a space explorer in the foreground of a vibrant, 4k digital painting",0.897910475730896,0.6496576070785522,40.7278308993004,0.982081
+5,"rugged, ancient, rocky planet with an astronaut in the distance of a highly detailed, 4k digital landscape",0.8733954429626465,0.7228438854217529,59.92237769014632,0.509678
+5,"eerie, ancient, rocky planet with a lone astronaut standing in the foreground of a highly detailed, 4k digital oil painting",0.8726796507835388,0.6505669355392456,47.25536052744238,0.817618

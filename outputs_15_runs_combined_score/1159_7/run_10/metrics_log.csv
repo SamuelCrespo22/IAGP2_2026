@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
+1,highly detailed image of a small hedgehog sitting on top of a block of cake with frosting and sprinkles,0.6065688133239746,0.7634519934654236,81.50377266127855,0.318410
+1,highly detailed realistic image of a hedgehog sitting on a round cake with colorful decorations,0.644334614276886,0.5802204608917236,53.948301693144565,0.898588
+1,small hedgehog sitting on top of a large chocolate cake with cherries on top and a sprinkle of edible gold dust,0.5165523290634155,0.6035659313201904,46.4622162903534,0.468148
+1,a close-up highly detailed image of a hedgehog's face looking down at a beautiful block of vanilla cake,0.6579053997993469,0.7437983155250549,69.93727373340288,0.609335
+1,highly realistic digital painting of a small hedgehog sitting on a multi-tiered cake with candles lit,0.5682970881462097,0.6655429601669312,49.546522587855385,0.544616
+2,a close-up highly detailed photorealistic image of a hedgehog's face looking down at a beautiful block of vanilla cake,0.6213138103485107,0.7259359359741211,66.07071278253497,0.389228
+2,a highly detailed close-up face of a hedgehog admiring a delicious vanilla cake in a sunny afternoon,0.6080958843231201,0.7659752368927002,76.64768405633956,0.000000
+2,a 4k highly detailed image of a hedgehog's face with a joyful expression looking down at a vanilla bean-infused cake,0.6453583836555481,0.7103961706161499,59.27553204603751,0.768874
+2,a realistic highly detailed image of a hedgehog's face with a sweet tooth looking at a decadent block of vanilla cake,0.6493719220161438,0.7144675254821777,68.74870415182367,0.662227
+2,"a highly detailed close-up of a hedgehog's face with a cake craving, gazing lovingly at a moist vanilla cake",0.6234490871429443,0.6700327396392822,60.7189090558196,0.633348
+3,a highly detailed close-up image of a hedgehog's face looking down at a moist slice of vanilla cake,0.6859533786773682,0.7091358304023743,65.47222971314855,0.547523
+3,a highly realistic 4k close-up image of a hedgehog's face looking down at a beautifully decorated vanilla cake,0.6191720962524414,0.7100642919540405,64.77707336868686,0.110673
+3,a stunning digital painting of a hedgehog's face looking down at a perfectly baked vanilla cake,0.6943892240524292,0.5691870450973511,54.23760630160772,0.939770
+3,a hyper-realistic image of a hedgehog's face examining a delicious block of vanilla cake on a rustic wooden table,0.6412298679351807,0.6551303863525391,49.25476595643966,0.523578
+3,a detailed close-up of a hedgehog's face looking at a classic vanilla cake with a hint of golden brown crust,0.6713435649871826,0.7010511159896851,62.882261802489914,0.493287
+4,a highly detailed digital painting of a curious hedgehog's face looking down at a perfectly baked moist vanilla cake,0.688492476940155,0.5755035877227783,53.22304458000533,0.892961
+4,a digital masterpiece of a hedgehog peeking from behind a perfectly iced vanilla cake,0.6363980770111084,0.7440184950828552,65.49632119548505,0.182626
+4,a stunning 4k digital art of a hedgehog's gentle face smiling down at a golden brown vanilla cake,0.6659805178642273,0.627389669418335,57.703123183226054,0.628301
+4,a realistic digital painting of a hedgehog's face gazing lovingly at a beautifully decorated vanilla cake,0.6935432553291321,0.5945141911506653,48.92375558916497,0.957966
+4,a dreamy highly detailed digital art of a hedgehog observing a perfectly baked classic vanilla cake,0.603028416633606,0.7158844470977783,48.84468057876386,0.290230
+5,highly detailed digital painting,0.4291253387928009,0.6416382789611816,39.89098960660141,0.360065
+5,stunning 4k image of a hedgehog's face looking down at a perfectly baked vanilla cake,0.6267362833023071,0.6986239552497864,59.85502436769441,0.410708
+5,a highly realistic masterwork of a hedgehog's face peering down at a deliciously moist vanilla cake,0.6547993421554565,0.6527069807052612,63.4588898742677,0.514062
+5,the face of a happy hedgehog looking down at an exquisitely decorated vanilla cake in stunning high definition,0.6211473941802979,0.6518494486808777,59.79703128155114,0.491131
+5,a beautifully rendered digital oil painting of a hedgehog's curious face gazing down at a perfectly baked vanilla cake with subtle golden glaze,0.5982507467269897,0.594014048576355,52.066678538302774,0.641680

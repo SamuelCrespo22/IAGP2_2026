@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,painting of a mouse with a vibrant colorful tail,0.8004177808761597,0.6434992551803589,50.744970346986044,0.727647
+1,a whimsical mouse with a long flowing tail and a colorful hue,0.7256080508232117,0.691991925239563,50.370019467903845,0.396549
+1,a highly detailed mouse with a bright and colorful tail in a fantasy landscape,0.6859802603721619,0.7504728436470032,47.43076680206028,0.198883
+1,a close-up of a mouse with a delicate colorful tail in a studio setting,0.6408418416976929,0.7405816316604614,42.12497133714569,0.170474
+1,a realistic painting of a mouse with a slender colorful tail against a soft warm background,0.7087384462356567,0.7077610492706299,36.3230018431179,0.553634
+2,painting of a realistic mouse with a bright colorful tail,0.8040282726287842,0.6264185905456543,40.44227125689447,0.996063
+2,vibrant mouse with a long fluffy colorful tail,0.7601878046989441,0.6219519376754761,50.91772126310807,0.865426
+2,digital illustration of a mouse with a colorful tail in a warm sunny studio,0.6043953895568848,0.7419846653938293,55.57862151034806,0.358412
+2,highly detailed acrylic painting of a mouse with a colorful flowing tail,0.7616019248962402,0.6437966227531433,54.051259628864386,0.842304
+2,delicate watercolor artwork of a mouse with a soft colorful tail,0.6857711672782898,0.9055967330932617,146.16440358108167,0.203814
+3,"painting of a small, adorable mouse with an extremely bright colorful tail",0.7259057760238647,0.6742799282073975,46.46438145977001,0.195469
+3,"mouse in a highly detailed, colorful, 4k digital painting with a bright tail",0.8264567255973816,0.5108292102813721,37.40403864106557,0.941642
+3,"realistic mouse with a long, fluffy, and extremely bright colorful tail seen from directly above",0.6761841773986816,0.6603454351425171,48.69224818929164,0.021313
+3,"a beautiful, vibrant mouse with a super bright, long colorful tail in a highly realistic oil painting style",0.8463135361671448,0.5979304313659668,41.20199811576342,0.782664
+3,"highly detailed, realistic mouse with a bright, fluffy, and perfectly colorful long tail in a digital artwork",0.7639914751052856,0.667739987373352,43.49698457948086,0.383123
+4,"a beautiful, realistic mouse with a brightly colored, long and slender tail in a highly detailed oil painting style",0.7375297546386719,0.6705333590507507,34.771692528358635,0.338784
+4,"a vibrant, high-realism mouse with a super long, multi-hued, flowing tail in a 4k oil painting",0.7766757011413574,0.5885286331176758,30.479005982514373,0.750881
+4,"a stunning, photorealistic mouse with a bright, long, and wispy tail in a digital art style",0.706545352935791,0.6801963448524475,44.794194762968,0.029686
+4,"a gorgeous, highly realistic mouse with a colorful, delicate, long tail in a masterfully rendered oil painting",0.7336117029190063,0.6604850888252258,33.35431188164839,0.373671
+4,"a realistic, detailed mouse with a long, bright, and intricately patterned tail in a highly realistic, 4k digital painting",0.7201438546180725,0.6925478577613831,36.33715570002372,0.196340
+5,"highly realistic, hyper-detailed mouse with an absurdly long, super bright colorful tail in an oil painting style",0.8086332082748413,0.5749110579490662,32.75048654338844,0.688164
+5,"a stunning, vibrant mouse with a bright long colorful tail in a highly realistic, hyper-realistic oil painting style",0.8375355005264282,0.5748084783554077,34.53243597035643,0.783074
+5,"a beautiful, realistic mouse with a very bright, super long colorful tail in a highly elaborate oil painting",0.7534300684928894,0.598438560962677,36.93688576480386,0.214839
+5,"a highly realistic, photorealistic mouse with an extremely bright, long colorful tail in a highly detailed oil painting style",0.7681818008422852,0.6290739178657532,34.30156223737823,0.279313
+5,"a stunning, beautiful mouse with a very long, highly colorful bright tail in an extremely realistic oil painting style",0.8515208959579468,0.5427041053771973,33.382952257735354,0.981291

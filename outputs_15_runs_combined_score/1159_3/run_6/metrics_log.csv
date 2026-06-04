@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime character with a detailed sword and flames in his hand,0.8119971752166748,0.6223148703575134,53.008040750569606,0.834516
+1,highly detailed anime character with a sword and fire dancing in hand,0.7683313488960266,0.6810799837112427,56.65776359579739,0.180828
+1,anime character holding a mighty sword and engulfed in intense fiery flames,0.7695552706718445,0.704454243183136,60.11335864578877,0.010548
+1,a highly detailed 4k anime character wielding a sword and surrounded by burning embers,0.826346755027771,0.651111364364624,54.76471258469481,0.823392
+1,"an intricate, hand-drawn anime character with a fiery glow emanating from their sword",0.7970387935638428,0.6524742245674133,59.32099252344681,0.407038
+2,highly detailed 4k realistic anime character wielding a sword and standing in a circle of burning embers,0.7880217432975769,0.6450594663619995,55.45745314936081,0.508851
+2,a highly realistic and detailed 4k anime warrior character holding a sword and surrounded by flames,0.795107364654541,0.6381515264511108,51.136488357682985,0.663313
+2,a 4k anime character highly detailed standing in burning flames and holding a sharp long sword,0.8124223947525024,0.6839798092842102,63.346972628696975,0.400790
+2,highly detailed 4k anime warrior character with a burning ember background and a sword raised,0.7561705112457275,0.6529107093811035,56.187493004580595,0.240955
+2,highly detailed 4k realistic anime character with a dramatic fiery background scene and a raised sword in hand,0.8110911846160889,0.6125426292419434,49.81051395090548,0.891305
+3,a highly detailed 4k anime character wielding a sword and surrounded by intense blazing embers,0.8264991044998169,0.6117223501205444,53.13822134613092,0.879658
+3,an extremely detailed 8k anime character holding a sword and set ablaze in a circle of fiery coals,0.771892249584198,0.6460863351821899,61.27627909489553,0.328661
+3,a highly realistic 4k anime warrior wielding a sword and standing amidst a fiery vortex of burning debris,0.7289276719093323,0.6724324226379395,57.47772002849082,0.060520
+3,a highly detailed 4k anime character wielding a majestic sword and surrounded by a halo of fiery sparks and flames,0.8233182430267334,0.626196026802063,45.584946223581866,0.924098
+3,"a highly realistic 4k anime warrior standing triumphantly, holding a gleaming sword and set against a dark background with glowing embers and sparks",0.8241369724273682,0.6650938987731934,56.106055443419535,0.600489
+4,highly detailed 4k anime character with intense fiery aura wielding a sleek sword surrounded by blazing flames,0.7950012683868408,0.6761950254440308,59.5155135635391,0.387212
+4,intense 4k close-up of an anime warrior standing amidst blazing embers and fiery sparks,0.8221766352653503,0.7322524785995483,57.985401459981496,0.512969
+4,highly detailed 8k anime scene with a strong female warrior wielding a shining sword and engulfed in fiery sparks,0.7631134986877441,0.6334259510040283,46.761192561023236,0.454983
+4,a highly realistic 4k anime portrait of a sword-wielding heroine surrounded by intense blazing flames and golden ember,0.7927955985069275,0.7227881550788879,60.58858734813835,0.253770
+4,highly detailed digital painting of an anime heroine wielding a shining sword and standing amidst swirling intense blazing embers,0.7734298706054688,0.6537929773330688,56.631115027187555,0.315668
+5,highly detailed 4k anime character in a fierce warrior stance wielding a gleaming silver katana and surrounded by intense blazing embers,0.812192440032959,0.5636966228485107,48.4622282775492,0.883043
+5,highly detailed 4k anime character amidst a backdrop of swirling flames with a sharp sword at the ready,0.8212944269180298,0.6382772922515869,56.94113960083591,0.669398
+5,stunning 4k digital anime artwork of a skilled warrior with blazing embers dancing at their feet and a sword raised high,0.7653369903564453,0.694057822227478,61.50933604836692,0.030485
+5,a highly detailed 4k anime character amidst an explosion of fiery sparks and flames with a powerful sword in hand,0.8114035129547119,0.7121616005897522,50.564857987130196,0.586304
+5,highly detailed 4k anime character surrounded by a halo of light and heat from intense blazing embers as they hold a gleaming sharp sword,0.8149985074996948,0.6132314801216125,50.78633111487409,0.778038

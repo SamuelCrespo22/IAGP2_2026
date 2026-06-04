@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
+1,there is a fresh glass of orange juice with a perfectly sliced orange on the side,0.9260527491569519,0.5707688331604004,47.57789585202413,0.800129
+1,a still-life of a glass of orange juice with a slice of orange on the side in a highly detailed digital painting style,0.8128005862236023,0.6437237858772278,52.71015450301281,0.155558
+1,"a glass of freshly squeezed orange juice with a slice of citrus on the side in a beautiful, serene atmosphere",0.8565868139266968,0.7363530993461609,56.54056664882574,0.189607
+1,a simple glass of orange juice with a thin slice of orange on the edge of a kitchen table,0.8829231262207031,0.6577247381210327,54.518552934671064,0.417309
+1,a clear glass containing a glass of orange juice with a thin slice of orange placed delicately on the side,0.9282663464546204,0.5007064342498779,39.82464834790903,1.000000
+2,a clear glass contains a glass of freshly squeezed orange juice with a perfectly placed thin slice of orange,0.9233819246292114,0.5568733811378479,39.30133794136174,0.766480
+2,"in a highly detailed 4k digital painting style, a delicate glass of orange juice rests on a glass surface with a thin slice of orange",0.924538254737854,0.6412907838821411,55.72245054408455,0.398630
+2,a glass containing a glass of orange juice sits beside a perfectly placed thin slice of orange on a clear background,0.9314364194869995,0.5565837621688843,47.15132343869086,0.787378
+2,a realistic masterpiece depiction of a glass containing a glass of orange juice with a thin slice of orange delicately placed on the side,0.9013012051582336,0.633831262588501,56.62926063355469,0.013265
+2,"in a photorealistic style, a clear glass containing a glass of orange juice sits on a table with a thin slice of orange placed delicately on the side",0.9180184602737427,0.6036727428436279,49.20274253651611,0.451413
+3,a glass containing a glass of freshly squeezed orange juice sits beside a perfectly placed thin slice of orange on a crisp white background,0.9010448455810547,0.7052293419837952,81.61411956696459,0.030884
+3,a delicate glass holds a glass of orange juice as it sits beside a thin slice of orange on a clear glass table top,0.9038170576095581,0.6378474831581116,53.89015389407316,0.381809
+3,a perfectly clear glass containing a glass of orange juice sits beside a thinly sliced orange on a minimalist background,0.9247804880142212,0.5789343118667603,50.82886443514678,0.831797
+3,a glass of orange juice sits beside a perfectly cut slice of orange on a subtle gradient background with the glass and orange at eye level,0.9002037644386292,0.6144102811813354,56.64326862644468,0.340664
+3,a beautifully detailed glass containing a glass of freshly squeezed orange juice sits beside a slice of orange on a serene white background,0.9270934462547302,0.7163623571395874,77.23354407848687,0.462251
+4,a still life of a glass containing a glass of freshly squeezed orange juice sits beside a perfectly placed thin slice of orange on a minimalist background,0.9386199712753296,0.5519010424613953,47.81427282049228,0.989638
+4,a highly detailed 4k render of a delicate glass containing a glass of orange juice sits beside a perfectly placed thin slice of orange on a subtle gradient background,0.9121694564819336,0.6056631207466125,55.35594826832141,0.574691
+4,a masterpiece digital painting of a glass containing a glass of orange juice sits beside a perfectly placed thin slice of orange on a bright white background,0.8996343612670898,0.7338494062423706,63.145721765470874,0.171028
+4,"a glass containing a glass of orange juice sits beside a fresh slice of orange on a soft, warm background with a slight texture",0.9234762191772461,0.5650131702423096,47.82066733405978,0.843734
+4,"a beautiful, highly realistic digital art of a glass containing a glass of orange juice sits beside a perfectly placed thin slice of orange on a clear background with atmospheric perspective",0.8793662786483765,0.6797959208488464,61.01218653431807,0.107619
+5,'a delicate still life of a glass containing perfectly poured glasses of freshly squeezed orange juice sit beside two perfectly placed thin slices of orange on a minimalist background',0.9101157784461975,0.6342138051986694,52.266389798060345,0.087404
+5,'a highly detailed still life of a glass containing a glass of freshly squeezed orange juice sits beside a perfectly placed thin slice of orange on a subtle gradient background',0.936506986618042,0.5618667602539062,52.19760500871677,0.749174
+5,'a highly realistic digital painting of a glass containing a glass of freshly squeezed orange juice sits beside a sliced orange on a minimalist surface',0.9198632836341858,0.5420859456062317,49.003269222015675,0.627560
+5,'a photorealistic still life of a glass containing a glass of freshly squeezed orange juice sits alongside a perfectly arranged thin slice of orange on a plain surface',0.9102495312690735,0.631524920463562,50.69609159026179,0.154395
+5,"'a beautiful, highly detailed 4k digital art of a glass containing a glass of freshly squeezed orange juice sits beside a perfectly placed thin slice of orange on a minimalist marble background'",0.9231370687484741,0.5817162990570068,54.659621924547395,0.370868

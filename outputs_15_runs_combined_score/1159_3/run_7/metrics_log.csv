@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,highly detailed anime action hero wielding a sword and fire in his hand,0.826284646987915,0.5783126950263977,48.400695606157015,0.943164
+1,anime warrior with flames erupting from his sword hand in a dark fantasy setting,0.8069910407066345,0.583107590675354,55.90977451975515,0.601978
+1,an epic anime character with a blazing sword and fiery magic swirling around his outstretched hand,0.8342975974082947,0.6030706167221069,53.50072050682279,0.791991
+1,a highly realistic 4k digital painting of an anime protagonist holding a glowing sword surrounded by dancing flames,0.7638058662414551,0.6559599041938782,58.338716991189756,0.000000
+1,detailed digital anime fantasy artwork of a hero holding a sword and unleashing a fiery explosion from his hand,0.830733060836792,0.6279090046882629,51.089328510180735,0.747397
+2,an extremely detailed anime character with a blazing sword and fiery magic swirling around his outstretched hand in 4k,0.8195555210113525,0.6461446285247803,56.611294069869054,0.626170
+2,an epic anime warrior with a blazing katana and explosive magic surging around his hand,0.7746350765228271,0.6114929914474487,49.29616168061866,0.486269
+2,a highly detailed anime character standing in a fiery vortex with a glowing sword in his outstretched hand,0.7734741568565369,0.6935408711433411,62.98319429286507,0.000000
+2,a masterfully crafted anime character wielding a blazing sword and channeling fiery magic with his entire arm,0.800117015838623,0.6572062373161316,60.98002217694054,0.356012
+2,an incredibly realistic anime character with a blazing scimitar and swirling fiery tendrils of magic around his hand and arm,0.806439220905304,0.677675187587738,55.08473258935243,0.459101
+3,"an epic anime character with a blazing sword and fiery magic swirling around his outstretched hand, highly detailed in 4k",0.8378225564956665,0.653586745262146,56.56373141552205,0.614835
+3,"an epic anime character with a powerful blazing sword and fiery magic erupting from his outstretched hand, reminiscent of a masterpiece",0.7874459624290466,0.6100685596466064,54.0313278134598,0.372667
+3,"a majestic anime character with a blazing sword and fiery magic swirling around his hand, as if set aflame",0.8346387147903442,0.6764869093894958,59.00354094814248,0.473915
+3,"a legendary anime warrior with a blazing sword and fiery magic dancing around his hand, highly detailed in digital painting style",0.7767950892448425,0.6358517408370972,53.92535656343932,0.220730
+3,"an epic anime hero with a blazing sword and fiery magic bursting forth from his hand, highly realistic and detailed in a 4k digital painting",0.8130220174789429,0.5803871154785156,47.96586620872627,0.796808
+4,highly detailed anime character with a blazing sword and intense fiery magic swirling around his outstretched hand,0.8444679379463196,0.6634183526039124,57.75557110489294,0.500000
+4,a 4k digital painting of an epic anime warrior with a fiery blade and magical aura,0.7935007810592651,0.5777258276939392,47.12880238660065,0.511725
+4,an ultra-realistic anime character wielding a blazing sword and surrounded by swirling inferno magic,0.83173668384552,0.6267635226249695,52.40357102749351,0.602632
+4,a highly detailed 4k anime image of a swordsman with fiery magic and intense battle aura,0.8211022615432739,0.5712862014770508,46.76734682571735,0.781021
+4,"an epic high-resolution anime character with a blazing sword and intense magic effects in a dramatic, cinematic scene",0.7879089713096619,0.5761092901229858,46.19295702142923,0.486913
+5,highly detailed anime character with a blazing sword,0.8158899545669556,0.615303099155426,49.4803404580252,0.512393
+5,highly detailed anime character in a fiery battle stance with intense magic,0.822708249092102,0.6029437780380249,44.333955848039174,0.708430
+5,a realistic highly detailed anime character brandishing a glowing sword surrounded by flames,0.862176775932312,0.6355897188186646,52.19566217562601,0.717038
+5,an incredibly realistic and highly detailed anime scene with a character wielding a blazing sword and intense fiery magic,0.7960547208786011,0.6021082997322083,49.288889096115504,0.424944
+5,a highly detailed digital painting of a fierce anime warrior holding a blazing sword amidst swirling fiery magic,0.7936937808990479,0.6206856966018677,50.22187624074166,0.314576

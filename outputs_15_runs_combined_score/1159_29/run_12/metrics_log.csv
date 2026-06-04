@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,'a majestic arafed palm tree on a rugged rock in the calm ocean at golden hour',0.867935061454773,0.7021327018737793,53.978833957426914,0.766125
+1,'arafed palm tree silhouetted on a rocky outcrop at sunset with vibrant orange hues',0.8807677030563354,0.8298590183258057,75.54306699849784,0.487182
+1,'a realistic highly detailed arafed palm tree situated on a rocky shoreline at dusk',0.8725107908248901,0.6728468537330627,49.840525572733675,0.860003
+1,'a stunning digital painting of an arafed palm tree perched on a weathered rock in the ocean at sunset',0.8757486343383789,0.811008870601654,64.74640689515637,0.586713
+1,'a majestic arafed palm tree on a rocky peninsula in the serene ocean with soft pastel colors',0.783771276473999,0.5909378528594971,50.80346517617467,0.490634
+2,arafel palm tree on rocks in the ocean at sunset with highly detailed vibrant colors,0.8896042108535767,0.781926691532135,63.0515621689014,0.534232
+2,a single arafel palm tree standing alone on a rugged rock in the ocean at sunset,0.9089479446411133,0.7883058786392212,67.82756771544241,0.533715
+2,an arafed palm tree growing out of a volcanic rock in the ocean at golden hour with highly detailed realistic style,0.9001134037971497,0.7756659984588623,63.39627849818,0.602243
+2,a tall arafel palm tree situated on a small rocky outcropping in the ocean at sunset with highly detailed 4k resolution,0.8162767887115479,0.7312508225440979,54.09790735078872,0.443984
+2,an arafel palm tree leaning against a large granite rock in the ocean at sunset with dramatic warm colors,0.8929183483123779,0.8003082275390625,66.18816350878414,0.443365
+3,a solitary fiery palm tree standing on a dramatic rock in the ocean as sunset approaches,0.8749062418937683,0.8382009863853455,78.13577178344123,0.236556
+3,a majestic isolated palm tree standing alone on a rugged cliff overlooking the vast ocean at sunset,0.8670846819877625,0.8039329051971436,59.83584040233299,0.455623
+3,highly detailed digital painting of a single palm tree standing proudly on a rocky outcropping surrounded by the vast ocean at golden hour,0.8502000570297241,0.8233823180198669,62.79472189624684,0.252599
+3,a striking image of a single palm tree standing on a cliff's edge overlooking the deep ocean at sunset with vivid warm colors,0.8443389534950256,0.820879340171814,61.149539555746244,0.231249
+3,a masterfully composed 4k digital painting of a lone palm tree perched on a rocky shoreline as the sun sets over the calm ocean,0.8900310397148132,0.7101246118545532,56.627409442648585,0.853605
+4,a single solitary areca palm tree standing alone on a rugged rocky outcrop in the vast ocean at golden hour sunset,0.8327525854110718,0.7467288374900818,59.46205806255946,0.500000
+4,a majestic solitary areca palm stands isolated on a rocky sea cliff under a vibrant coral reef sunset sky,0.8796169757843018,0.7595432996749878,65.25132254056899,0.560721
+4,highly detailed 4k digital painting of a single areca palm tree standing alone on a rugged rock in the ocean at a breathtaking sunset moment,0.8829817771911621,0.7901402115821838,62.42535396976831,0.491051
+4,a solitary areca palm rises from the rocky ocean floor as the orange sun sets over the calm turquoise water,0.8675745725631714,0.761607825756073,66.59168515364848,0.429753
+4,a single majestic areca palm tree isolated on a rugged rocky outcrop in the ocean is set aflame by the warm golden hues of sunset,0.8742529153823853,0.7866215705871582,65.701831561267,0.356119
+5,a majestic solitary palm tree standing alone on a rocky outcropping in the ocean at golden hour,0.8499386310577393,0.7438998818397522,62.08791844719969,0.469361
+5,a single elegant arafel palm tree standing solo on a rugged granite boulder at sunset,0.8423658609390259,0.7568196058273315,58.99694925049075,0.427264
+5,a highly detailed arafel palm tree standing proudly on a weathered rock in the middle of the ocean at dusk,0.8878682851791382,0.7790989875793457,63.72434374688339,0.509700
+5,a single majestic arafel palm tree standing alone on a rocky promontory in the ocean at a warm sunset,0.8732733726501465,0.7705800533294678,64.00427811063976,0.440134
+5,a highly realistic solitary arafel palm tree standing on a rugged rocky cliffside in the ocean as the sun sets over the sea,0.8743975162506104,0.7584934234619141,59.83203600578285,0.634741

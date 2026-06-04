@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,an epic highly detailed anime character poses dramatically with a blazing sword raised high in mid-swing,0.8519331812858582,0.5464624166488647,40.40418200724285,0.9234420856420014,run_8,0.9593386350042776,0.16939380863278344,0.05551511880776677
+3,a highly detailed anime master artist paints an anime warrior in mid-swing with a blazing sword,0.8534440994262695,0.5693247318267822,42.861129621192845,0.8968693615405986,run_8,0.9653361384302057,0.2463230490185588,0.0968717816794583
+2,a highly detailed anime character with striking expression wielding a fiery sword and dynamic fire manipulation surrounded by dark clouds,0.8250166177749634,0.5190658569335938,40.54450568826453,0.8924763243477838,run_13,0.852494870571846,0.07720732132046426,0.057877122432092476

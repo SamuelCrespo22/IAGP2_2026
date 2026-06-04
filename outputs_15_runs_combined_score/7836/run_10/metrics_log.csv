@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,astronaut standing at the edge of a cliff on the surface of a distant planet with a vibrant light source shining in the background,0.917073667049408,0.5421652793884277,36.08248421891334,0.875528
+1,highly detailed astronaut standing on the edge of a rocky outcropping on a mysterious planet with a bright light shining above,0.770108699798584,0.6629726886749268,45.36446694671693,0.000000
+1,astronaut standing in the foreground on a barren alien planet surrounded by a bright light in the background,0.8144680261611938,0.5555613040924072,37.75271419286236,0.473777
+1,a highly realistic astronaut standing on the surface of a distant planet with a large sun shining in the background and a horizon stretching out in the distance,0.8345513343811035,0.545923113822937,37.333267514609794,0.566540
+1,artist's impression of an astronaut standing at the edge of a vast crater on a distant alien world under a bright light illuminating the dark sky,0.8979125022888184,0.533996045589447,30.833360011000448,0.915242
+2,astronaut standing at the edge of a rugged cliff on a distant alien world with a warm light source shining in the background highly detailed,0.8386300802230835,0.6867021322250366,52.61654537985655,0.505552
+2,astronaut standing on a rocky outcropping on a barren extraterrestrial surface with a vibrant aurora borealis in the sky highly detailed masterpiece,0.7733134627342224,0.6850627660751343,44.95238175082982,0.326771
+2,a lone astronaut posing at the edge of a steep cliff on a desolate distant planet with a bright star shining behind them highly detailed 8k,0.8464756011962891,0.6487606763839722,42.72419114047939,0.625083
+2,astronaut standing near the edge of a massive canyon on a distant barren planet with a beautiful sunrise shining in the background with soft warm light,0.8464087247848511,0.842869222164154,76.82482351093935,0.254226
+2,astronaut standing on the edge of a vast cliff overlooking a distant alien landscape with a bright crescent moon shining in the sky highly detailed digital painting,0.844590425491333,0.6758937835693359,42.46375413505632,0.597566
+3,astronaut standing at the edge of a rugged cliff on the surface of a barren distant planet with a vibrant light source shining in the background,0.8687632083892822,0.6199973821640015,45.608900755152526,0.590295
+3,astronaut standing proudly at the edge of a rocky outcropping on the desolate surface of a planet with a brilliant light source in the distance,0.7886028289794922,0.6790830492973328,43.488847533071905,0.207431
+3,highly detailed astronaut standing at the edge of a towering cliff overlooking a breathtaking landscape on a distant alien world with a radiant light source shining brightly,0.8641374707221985,0.6790534257888794,54.858159194699006,0.383037
+3,astronaut standing resolutely at the edge of a steep cliff on a distant planet with a warm golden light source glowing softly in the background,0.7947486042976379,0.701055109500885,50.22669352729506,0.126601
+3,highly realistic astronaut standing at the edge of a windswept cliff on a distant planet with a kaleidoscope of colors and a soft warm light source in the background,0.8691290020942688,0.6911193132400513,60.08529690916977,0.329036
+4,astronaut standing on the edge of a cliff at sunset on the surface of a distant planet with warm colors,0.8764817118644714,0.7465212345123291,60.638484883395726,0.276335
+4,astronaut at the precipice of a rocky outcropping on an extraterrestrial landscape with a bright celestial glow,0.8608767986297607,0.6864015460014343,48.14216732232692,0.391121
+4,astronaut standing on a cliff overlooking a breathtaking vista on a distant alien world with vibrant hues,0.896155834197998,0.6238731741905212,50.582260592497406,0.637164
+4,highly detailed astronaut standing at the edge of a cliff on the surface of a distant alien planet with a stunning aurora borealis in the background,0.826330840587616,0.6851865649223328,41.73692989946128,0.267467
+4,astronaut standing on a rocky cliff overlooking a fantastical alien landscape with a majestic starship in the distance,0.857541561126709,0.7073137164115906,59.984543380080694,0.226596
+5,astronaut standing at the edge of a cliff on the surface of a distant rugged planet with a bright warm sunset shining in the background,0.832441508769989,0.7444173097610474,58.291374331239574,0.220436
+5,astronaut standing at the edge of a cliff on a dusty alien world with a vibrant light source casting dramatic shadows,0.8421875834465027,0.6452571749687195,48.245947492502694,0.488279
+5,highly detailed astronaut standing at the edge of a steep cliff on the surface of a distant rocky planet with a bright blue sky and a shining star in the background,0.8100442886352539,0.6718421578407288,43.73167686452559,0.400055
+5,a 4k masterpiece of an astronaut standing at the edge of a cliff on the surface of a distant barren planet with a soft golden light source shining in the background,0.7657091617584229,0.6572526693344116,45.51261751749827,0.251590
+5,digitally painted astronaut standing at the edge of a massive cliff on a mysterious alien world with a colorful aurora borealis in the sky,0.8375024795532227,0.6685471534729004,44.599931330834686,0.485057

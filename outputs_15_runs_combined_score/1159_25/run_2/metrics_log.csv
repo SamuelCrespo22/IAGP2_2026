@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
+1,"'steady glass filled with freshly squeezed orange juice, accompanied by a vibrant slice of orange'",0.9216853380203247,0.5115051865577698,41.39708582691902,0.876202
+1,'exquisite digital painting of a glass with orange juice and an orange slice on the side',0.8438055515289307,0.648347795009613,61.39208667801832,0.151120
+1,'highly detailed photorealistic image of a clear glass holding 4k quality orange juice next to a juicy orange slice',0.9400115609169006,0.4754036068916321,45.453392499230766,0.956973
+1,"'realistic still life of a half empty glass with a glass rim, containing juice and a side of fresh orange, set in a cozy kitchen'",0.8933433294296265,0.7914911508560181,64.96558512833533,0.257457
+1,'vibrant highly realistic close-up of a glass with a generous pour of iced orange juice and an unpeeled orange on the side',0.9263975024223328,0.49279943108558655,42.67546167060822,0.901926
+2,highly detailed photorealistic ultra-high definition realistic image,0.48177602887153625,0.7813113927841187,59.0904186922209,0.000000
+2,highly detailed photorealistic 4k resolution high-quality image of orange juice,0.9293447732925415,0.5469144582748413,39.322473826493756,0.922403
+2,highly detailed 4k quality digital photorealistic image of a glass holding clear orange juice next to a fresh slice of juicy orange,0.9434095621109009,0.5940358638763428,45.74819079869108,0.817739
+2,highly realistic photorealistic 4k resolution digital painting of a clear glass holding orange juice next to a vibrant slice of orange,0.9471749067306519,0.5302472710609436,43.10049166325603,0.907400
+2,highly detailed realistic photorealistic 8k ultra-high definition masterpiece image of a glass holding 4k quality orange juice next to a slice of juicy orange,0.9384797811508179,0.5434278845787048,47.00999786838822,0.837844
+3,highly realistic highly detailed photorealistic digital painting of a clear glass holding fresh orange juice next to a juicy vibrant slice of orange,0.9252286553382874,0.5367673635482788,45.328440296170804,0.814552
+3,highly detailed photorealistic 4k resolution realistic oil painting of a clear glass holding freshly squeezed orange juice next to a vibrant orange slice,0.9367005825042725,0.4791477620601654,39.75431136753873,0.980464
+3,photorealistic highly detailed digital art of a clear glass of orange juice sitting next to a sliced orange on a rustic wooden table,0.8674530386924744,0.6276482343673706,47.14090710402422,0.584003
+3,highly realistic photorealistic digital painting of a 4k resolution glass containing a refreshing glass of orange juice next to a colorful slice of orange,0.9312371611595154,0.5558637976646423,43.7952376036005,0.828794
+3,highly detailed photorealistic digital painting in the style of Johannes Vermeer of a clear glass containing fresh orange juice sitting next to a vibrant slice of orange on a marble surface,0.6791019439697266,0.7170993685722351,56.34844135088364,0.000000
+4,highly realistic 4k resolution digital art of a clear glass holding orange juice next to a vibrant slice of orange and a few ice cubes,0.9252489805221558,0.5833691358566284,43.984443065730424,0.660394
+4,photorealistic 8k resolution oil painting of a clear glass holding freshly squeezed orange juice next to a juicy slice of orange,0.8686357736587524,0.5206915736198425,45.83106270145924,0.449846
+4,highly detailed realistic digital painting of a clear glass containing orange juice with a slice of orange and a sprig of fresh rosemary,0.8929440975189209,0.5555703639984131,38.556539468611966,0.641244
+4,photorealistic digital masterpiece of a 4k resolution glass of orange juice sitting next to an exotic slice of orange on a minimalist wooden table,0.8534542322158813,0.6462725400924683,52.42354932219836,0.000000
+4,highly realistic realistic digital art of a clear glass holding orange juice next to a bright yellow slice of orange and a few mint leaves,0.9115422964096069,0.6316966414451599,43.565617329041174,0.498611
+5,highly realistic photorealistic 4k resolution digital oil painting of a clear glass holding freshly squeezed orange juice next to a juicy vibrant slice of orange,0.9212340116500854,0.5448402166366577,47.003819688436984,0.602819
+5,highly detailed photorealistic 4k digital painting of a glass holding orange juice next to a slice of orange on a white table,0.9255337119102478,0.6812379360198975,58.24547403968238,0.256726
+5,vibrant photorealistic 4k resolution digital portrait of a glass filled with fresh orange juice alongside a colorful slice of orange,0.902695894241333,0.6344660520553589,53.8708710759698,0.143676
+5,photorealistic 4k digital artwork of a clear glass holding orange juice next to a bright slice of orange on a wooden counter,0.9174196720123291,0.5205634236335754,43.423496567416635,0.655742
+5,highly realistic and detailed 4k digital painting of a glass containing freshly squeezed orange juice next to a vibrant slice of orange on a rustic wooden table,0.9317687153816223,0.5653528571128845,42.82060037271381,0.757125

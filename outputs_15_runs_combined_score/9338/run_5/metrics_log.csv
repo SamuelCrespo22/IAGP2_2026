@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,"painting of a small mouse with a vibrant, colorful tail",0.7422447800636292,0.6848356127738953,49.8521729193867,0.485205
+1,"highly detailed 4k digital painting of a mouse with a bright, colorful tail",0.7600602507591248,0.6426253914833069,36.41606224600164,0.900157
+1,"a detailed, realistic mouse with a multicolored tail set against a subtle, gradient background",0.6617285013198853,0.7518532872200012,43.17609450175962,0.124219
+1,a digital painting of a cute mouse with a rainbow-colored tail,0.7786752581596375,0.6733404994010925,42.25043254750427,0.806582
+1,"a stunning, photorealistic portrait of a small mouse with a long, multicolored tail",0.7206323742866516,0.7120057940483093,38.24972656713714,0.551535
+2,a highly detailed digital painting of a sweet adorable mouse with a vibrant multicolored tail,0.7767304182052612,0.5952339768409729,39.24214909879104,0.849530
+2,a delicate and colorful mouse with a glittering rainbow-colored tail in a 4k digital art style,0.7739967703819275,0.6767755746841431,53.174529033393206,0.335795
+2,a cute cartoon mouse with a long fluffy rainbow-colored tail set against a soft warm gradient,0.7071651220321655,0.6237834095954895,53.06133272274762,0.164501
+2,a stylized and colorful illustration of a happy mouse with a shimmering rainbow-colored tail in a digital painting style,0.734376847743988,0.6333903670310974,47.76867222526898,0.366742
+2,a masterfully crafted digital painting of a tiny mouse with a soft pastel-colored rainbow tail in a whimsical and dreamy atmosphere,0.8066776990890503,0.6724114418029785,45.40182830719162,0.652852
+3,"a highly detailed, vibrant, and dreamy digital painting of a tiny mouse with a soft, delicate pastel-colored rainbow tail in a whimsical atmosphere",0.7728064060211182,0.6333807706832886,51.417371781108535,0.545288
+3,"a masterfully crafted, highly realistic, and colorful digital artwork of a small, curious mouse with a beautiful pastel-colored rainbow tail in a fantastical landscape",0.707811176776886,0.7272019386291504,55.09964463881615,0.000000
+3,"a stunning, highly detailed, and 4k digital painting of a minuscule mouse with a delicate, shimmering pastel-colored rainbow tail in a serene and dreamy environment",0.821416437625885,0.6923182606697083,53.2802414221179,0.535655
+3,"an exquisite, highly textured, and highly detailed digital artwork of a tiny mouse with a soft, pastel-colored rainbow tail in a whimsical and enchanting atmosphere",0.7701879143714905,0.7143259048461914,49.30897701994361,0.403124
+3,"a breathtaking, highly realistic, and highly polished digital painting of a small, adorable mouse with a vibrant, colorful pastel-colored rainbow tail in a magical and dreamy world",0.8469933271408081,0.6190495491027832,46.67536343873058,0.967170
+4,"a breathtaking, highly realistic, 4k digital painting of a small, adorable mouse with a vibrant, pastel-colored rainbow tail in a whimsical, fantastical dream world",0.8214937448501587,0.6264159679412842,51.20203011227634,0.850810
+4,"a highly polished digital painting of a tiny, fluffy mouse with a bright, colorful, pastel rainbow tail and soft, fluffy fur in a magical landscape",0.7800508737564087,0.6671881079673767,64.85812837802308,0.508027
+4,"a highly detailed, highly realistic 4k digital painting of a small mouse with a beautiful, vibrant pastel-colored rainbow tail and a serene, idyllic environment",0.7200148105621338,0.739600658416748,65.04834260307408,0.143510
+4,"a stunning masterpiece of a digital painting depicting a small, adorable mouse with a bright, colorful pastel rainbow tail in a whimsical, dreamy world under a bright, sunny sky",0.7399659156799316,0.6620641350746155,78.19672234399808,0.253354
+4,"a highly realistic, highly detailed 4k digital painting of a mouse with a beautiful pastel-colored rainbow tail, surrounded by lush, vibrant, colorful flowers in a warm, sunny meadow",0.7353466749191284,0.7620372772216797,68.99453899254439,0.133356
+5,"a breathtakingly beautiful, highly realistic, and ultra-detailed digital painting of a small, adorable mouse with a vibrant, multicolored pastel-colored rainbow tail in a magical and dreamlike world with soft focus",0.8422769904136658,0.6066039204597473,44.39018328045576,0.859322
+5,"a highly polished, stunningly realistic, and ultra-high-resolution digital painting of a tiny, cute mouse with a colorful, intricate pastel-colored rainbow tail in a whimsical and fantastical landscape",0.7853111028671265,0.6212631464004517,46.137121626168664,0.327469
+5,"an exquisite, highly detailed, and highly realistic digital painting of a small, charming mouse with a pastel-colored, rainbow-tailed, sparkling with glitter in a dreamy and ethereal atmosphere",0.7831302881240845,0.6979994177818298,49.974067411247916,0.000000
+5,"a highly realistic, ultra-high-resolution, and highly polished digital painting of a minuscule, adorable, and innocent mouse with a colorful, striped pastel-colored rainbow tail in a surreal and dreamlike world",0.7950223684310913,0.6723690032958984,40.428815234540664,0.413215
+5,"a breathtakingly beautiful, highly detailed, and highly realistic digital painting of a small, cute, and endearing mouse with a multicolored pastel-colored rainbow tail in a magical and mystical realm with golden light.",0.7963359951972961,0.6168302893638611,42.980663680086174,0.508582

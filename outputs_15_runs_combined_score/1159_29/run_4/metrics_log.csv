@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
+1,arafed palm tree on the rocky shore at sunset with warm light,0.8584790825843811,0.7024049162864685,56.18071402878553,0.454361
+1,a small arafed palm tree standing on a rock in the ocean at golden hour,0.8797773122787476,0.7693190574645996,65.06943762078166,0.348166
+1,an incredibly detailed arafed palm tree on a rock in the ocean at a breathtaking sunset,0.8833414316177368,0.7574604153633118,60.931897004883666,0.529284
+1,a colorful arafed palm tree standing alone on a rock out in the ocean at a vibrant sunset,0.8939696550369263,0.7852652072906494,61.67742434767107,0.577986
+1,highly detailed arafed palm tree on a rocky outcrop in the calm evening ocean at the golden hour,0.8778159618377686,0.7349591255187988,56.929015334697844,0.611359
+2,"a highly detailed palm tree standing alone on a rugged rock outcropping in the turquoise ocean at a vibrant, golden sunset",0.8550825119018555,0.7557514905929565,56.864804014046484,0.461428
+2,vibrant arafed palm tree standing alone on a weathered rock in the vast Pacific Ocean at a breathtaking sunset,0.8831527829170227,0.8022924065589905,65.4973452879136,0.394837
+2,"a beautiful, realistic palm tree stands alone on a rocky outcropping in the ocean, surrounded by calm sunset colors",0.8727417588233948,0.74571692943573,60.22786237824135,0.630204
+2,"a colorful, highly detailed palm tree stands on a rocky outcropping in the ocean, at a perfect, serene sunset moment",0.8812553286552429,0.8107544779777527,63.80144054381418,0.386753
+2,"a stunning palm tree stands alone on a rocky islet in the ocean, bathed in warm, gentle light of a beautiful sunset",0.8883008360862732,0.8063738346099854,65.54560677563572,0.443951
+3,a vibrant solitary palm tree stands on a rocky outcropping at a breathtaking sunset,0.8692804574966431,0.7621490359306335,61.8172440344975,0.357886
+3,a majestic colorful palm tree rises above the waves on a rugged rock formation during a warm orange-hued sunset,0.8942333459854126,0.8181967735290527,69.2153161803202,0.431808
+3,"a highly detailed, realistic palm tree stands alone on a granite rock in the middle of the ocean at a beautiful warm sunset",0.8754929304122925,0.830409824848175,66.85930030792629,0.161546
+3,"a realistic, 4k-resolution palm tree standing proudly on a rocky island at a picturesque sunset over the open ocean",0.8917524814605713,0.7448948621749878,56.57675690496975,0.830683
+3,"a stunning, colorful, digital painting-style palm tree standing isolated on a granite rock out in the ocean at a dramatic, orange and pink-hued sunset",0.9032586812973022,0.8114270567893982,70.86822845406327,0.555495
+4,"a digital painting-style palm tree standing isolated on a rugged granite rock at a vibrant, orange and pink-hued sunset with an ocean in the background",0.8920704126358032,0.8306448459625244,73.12986692707774,0.247922
+4,"a highly detailed, colorful digital painting of a palm tree isolated on a granite rock surrounded by calm ocean waters at a dramatic, orange and pink-hued sunset",0.921584963798523,0.7756284475326538,66.75362614246134,0.919668
+4,"a stunning, highly realistic digital painting of a single palm tree standing tall on a granite rock in the ocean during a picturesque, orange and pink-hued sunrise",0.8969253301620483,0.7876269817352295,68.74107992854665,0.601647
+4,"a masterpiece digital painting of a palm tree isolated on a rocky outcropping at a serene, orange and pink-hued sunset with soft ocean waves",0.863042414188385,0.8281301259994507,72.00232555417008,0.041430
+4,"a highly detailed, 4k digital painting of a palm tree growing on a large, weathered granite rock near the ocean at a dynamic, orange and pink-hued sunset",0.8954879641532898,0.7806097865104675,63.734672730584606,0.754475
+5,"highly detailed, vibrant digital painting of a tall palm tree standing alone on a rugged granite boulder surrounded by peaceful ocean waves at a breathtaking, fiery sunset",0.8823724985122681,0.7786857485771179,66.22082722593437,0.412057
+5,"a hyper-realistic, 4k digital artwork of a large palm tree isolated on a rocky outcropping surrounded by serene ocean waters at a stunning, orange and pink-hued sunset",0.8579175472259521,0.7618972659111023,60.008721252316754,0.466825
+5,"a photorealistic, 8k digital painting of a palm tree situated on a massive granite rock surrounded by gentle ocean currents at a dramatic, warm-colored sunset",0.9091982245445251,0.8250210285186768,68.21914760911045,0.402723
+5,"a highly detailed, oil-painted digital artwork of a majestic palm tree standing on a granite pedestal surrounded by calm ocean waves at a vibrant, pink and orange-hued sunset",0.8675975799560547,0.7962331771850586,66.91731566139099,0.214544
+5,"ultra-detailed, surreal digital painting of a giant palm tree perched on a granite rock jutting out into the calm ocean at a breathtaking, multicolored sunset",0.8983720541000366,0.7522390484809875,61.76810537100217,0.764130

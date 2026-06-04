@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
+1,anime character with a highly detailed sword and fire in his hand with a dramatic background,0.8288744688034058,0.5674061179161072,44.13449746600893,0.794514
+1,anime-style digital painting of a character wielding a sword with flames,0.860162615776062,0.6138490438461304,51.60640065342197,0.705460
+1,medieval-inspired anime character holding a fiery sword in a dark mystical forest,0.7403469681739807,0.6803315281867981,55.95860648354836,0.000000
+1,highly detailed 4k masterpiece anime image of a sword-wielding warrior with fire in hand,0.8384140729904175,0.5531939268112183,41.398897155444004,0.909242
+1,"an anime character with an ancient-looking sword and intense fire surrounded by a soft, warm light",0.8508073091506958,0.6275466680526733,47.85523058503415,0.703895
+2,anime-style highly detailed digital painting of a character wielding a fiery sword,0.8012628555297852,0.6202090978622437,51.964645381667616,0.218079
+2,highly realistic anime-style digital painting of a character in a dramatic pose with a sword on fire,0.846050500869751,0.6165498495101929,51.19735858139192,0.619759
+2,"a dramatic, highly detailed anime-style digital painting of a character holding a blazing sword",0.836577296257019,0.5616626143455505,46.33783432331543,0.803986
+2,a highly detailed digital portrait of an anime character with a sword emitting vibrant flames in a fantasy environment,0.803923487663269,0.6654332280158997,52.93800942719091,0.105054
+2,"a cinematic, highly detailed anime-style digital painting of a character in a heroic pose with a sword engulfed in intense flames",0.8000003695487976,0.6652116179466248,55.631236097228545,0.000534
+3,anime-style highly detailed digital painting of a fantasy character wielding a sword with intense flames and dramatic lighting,0.7797917127609253,0.6184073090553284,52.71559708325939,0.818927
+3,a highly vivid digital painting of an anime character holding a flame-imbued sword in the foreground against a dark mysterious background,0.8027603626251221,0.6429711580276489,59.37080394053942,0.747122
+3,anime-style 4k masterpieace digital art of a strong female warrior holding a sword engulfed in vibrant fiery flames,0.7641400098800659,0.6818017959594727,60.23295388002822,0.604937
+3,a dramatic anime-inspired digital painting of a skilled samurai wielding a powerful flaming sword with intricate designs,0.7715579867362976,0.6327438950538635,52.40725701176591,0.786352
+3,highly realistic anime-style digital painting of a hero battling a fierce dragon amidst a burning fiery landscape,0.6102522611618042,0.7933071851730347,71.52272378425859,0.000000
+4,anime-style highly detailed digital painting of a character wielding a fiery sword,0.8012628555297852,0.6202090978622437,51.964645381667616,0.186069
+4,highly realistic anime-style digital artwork of a warrior holding a sword engulfed in intense flames,0.8245179057121277,0.6395294666290283,53.54662643398177,0.319610
+4,anime-style digital masterpiece of a character holding a burning sword in mid-air,0.8171523213386536,0.6140914559364319,53.67184403786879,0.306077
+4,anime-style 4k digital painting of a fantasy character wielding a large sword surrounded by a halo of fire,0.821401059627533,0.5360235571861267,39.85433401402897,0.679476
+4,highly detailed anime-style digital artwork of a character in motion wielding a sword and surrounded by swirling orange flames,0.799696683883667,0.6656120419502258,58.262141815209475,0.000000
+5,anime-style highly detailed digital painting of a character wielding a sword with intense golden flames,0.8421691656112671,0.6861673593521118,60.847264373601384,0.589297
+5,anime-style 4k digital painting of a character holding a glowing red sword amidst a background of intense flames,0.8413326144218445,0.7209208607673645,69.05161265891873,0.401336
+5,"anime-style digital art of a fantasy character standing heroically, with a magnificent sword in hand and bright orange flames rising from the blade",0.7950438261032104,0.6378568410873413,55.41915437728263,0.522943
+5,highly realistic anime-style digital painting of a character with a powerful sword and fierce orange flames,0.8380647301673889,0.6516189575195312,55.71238321086936,0.712566
+5,"anime-inspired digital painting of a majestic warrior in a heroic pose, wielding a sword with vivid fiery flames and intricate details",0.7647374868392944,0.6734776496887207,49.027700810406536,0.360774

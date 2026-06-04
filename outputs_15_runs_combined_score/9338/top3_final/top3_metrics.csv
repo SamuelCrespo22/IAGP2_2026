@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,"highly detailed 8k digital oil painting of a mouse with a dynamic, colorful, swirly, fluffy tail",0.8523168563842773,0.5190035104751587,35.487652728259825,0.9614400853045285,run_9,0.9815915601016021,0.06583446756108641,0.05158831142400366
+5,"a stunning, beautiful mouse with a very long, highly colorful bright tail in an extremely realistic oil painting style",0.8515208959579468,0.5427041053771973,33.382952257735354,0.9503266218729799,run_13,0.9789819390145192,0.12310468742123433,0.03355270311588433
+4,"highly detailed 8k digital painting of a mouse with a dynamic, colorful, swirly, fluffy tail",0.8579316139221191,0.5377066135406494,39.98225873349648,0.9497169412327389,run_9,1.0,0.11102872656829506,0.0901035085007493

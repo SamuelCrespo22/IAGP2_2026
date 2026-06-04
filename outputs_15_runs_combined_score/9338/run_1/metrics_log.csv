@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
+1,painting of a mouse with a bright and colorful tail,0.7635206580162048,0.6601367592811584,52.02498114141837,0.693763
+1,highly detailed digital painting of a mouse with a vibrant tail,0.7315516471862793,0.6828736066818237,34.066611692181425,0.772133
+1,realistic and detailed mouse with a long colorful tail and eyes,0.7068541049957275,0.6696322560310364,38.73395218973984,0.654586
+1,a highly realistic and colorful close-up of a mouse's tail and a portion of its body,0.6165322661399841,0.7542427778244019,36.48417694524521,0.202440
+1,highly detailed and realistic oil painting of a mouse with a long colorful tail and whiskers,0.7429764270782471,0.6328235864639282,32.833074741883564,0.930116
+2,painting of a mouse with a bright orange and colorful tail,0.7256364822387695,0.671425998210907,43.98175703305189,0.288666
+2,highly detailed painting of a mouse with a bright and colorful tail,0.7506921887397766,0.6554070115089417,48.48507961396315,0.403488
+2,vibrant mouse with a long and fluffy bright blue tail in a highly detailed digital painting,0.8201130628585815,0.7430060505867004,62.477323310367964,0.500000
+2,detailed 4k digital painting of a mouse with a bright and colorful tail,0.7887789011001587,0.6430386304855347,36.250333930142475,0.741094
+2,a stunning digital artwork of a mouse with a bright and long colorful tail in the style of a modern masterpiece,0.817742645740509,0.5837458372116089,36.633636910551076,0.983801
+3,"vibrant mouse with a long, fluffy, and bright blue tail in a high-resolution 4k digital painting",0.7835088968276978,0.762638509273529,64.59289713608565,0.386408
+3,"highly detailed mouse with long, silky blue tail and bright whiskers in a digital painting masterpiece",0.7837299108505249,0.715897798538208,44.80413968951933,0.814472
+3,"a mouse with a long and fluffy, electric blue tail in a highly realistic, ultra-detailed digital artwork",0.7168587446212769,0.7794499397277832,54.775249829530146,0.124031
+3,"mouse in a whimsical, fantastical scene with a long, fluffy tail and bright blue fur in a 4k digital painting",0.7281073331832886,0.7719241380691528,56.9901496253077,0.179017
+3,"detailed, colorful mouse with long, fluffy tail and bright cobalt blue markings in a highly stylized, dreamlike digital artwork",0.7316000461578369,0.7134296894073486,60.00447272124724,0.379351
+4,"vibrant and realistic mouse with a long, fluffy, bright blue tail in a 4k digital masterpiece",0.7266401648521423,0.765248715877533,55.94520295247767,0.268811
+4,"mouse in a highly detailed and realistic scene with a long, fluffy, bright blue tail and vibrant fur",0.708859920501709,0.7850104570388794,47.40007663535212,0.250000
+4,"highly detailed digital painting of a mouse with a long, fluffy, glowing blue tail in a fantasy environment",0.7717357873916626,0.7815372943878174,58.564050796924214,0.361631
+4,"a highly detailed digital painting of a mouse with a long, bright blue tail and soft, fluffy fur in warm sunlight",0.7854150533676147,0.7237078547477722,56.459395249981505,0.693843
+4,"a long-tailed, bright blue mouse with soft, fluffy fur in a highly detailed and realistic digital painting style",0.7637172937393188,0.769066572189331,54.22211193288902,0.448446
+5,vibrant mouse with a long bright blue tail in a realistic photorealistic digital painting,0.7525452375411987,0.7581728100776672,54.62687682338375,0.317169
+5,mouse with an extremely long and fluffy bright blue tail in a highly detailed 4k digital art piece,0.7176936864852905,0.7788330912590027,55.760819583137625,0.077743
+5,a mouse with a long fluffy bright blue tail and bright shining eyes in a detailed oil painting style,0.7975152730941772,0.7212757468223572,46.01142083625999,0.725432
+5,highly detailed digital depiction of a mouse with a long bright blue tail and intricate whiskers,0.7392336130142212,0.7829262018203735,48.159052017023605,0.246350
+5,mouse with a long and brightly colored blue tail in a highly realistic 4k digital painting with lots of texture and details,0.7731579542160034,0.6940307021141052,37.12527416626078,0.770770

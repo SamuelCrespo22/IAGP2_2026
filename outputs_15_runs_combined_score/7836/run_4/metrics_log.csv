@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
+1,astronaut standing on the surface of a futuristic alien planet with a bright celestial light shining in the background,0.8606094121932983,0.5452547073364258,37.69005712172081,0.575483
+1,highly detailed astronaut standing on the surface of a distant planet with a vibrant star exploding in the background,0.8246069550514221,0.5043932795524597,30.587349840712573,0.411225
+1,astronaut standing in the foreground of a highly detailed 4k digital painting of a planet with a bright light shining in the background,0.8511475324630737,0.4659818410873413,28.686669618298744,0.755522
+1,a lone astronaut standing on the surface of a mysterious distant world with a radiant light illuminating the dark landscape,0.8492386937141418,0.5358969569206238,30.348259445222364,0.606672
+1,astronaut standing on a rocky outcropping on a desolate alien world illuminated by a brilliant light in the background,0.8765410780906677,0.637816309928894,43.133641653319955,0.500000
+2,astronaut standing on a rocky outcropping on a barren alien wasteland illuminated by a brilliant star,0.811506986618042,0.6688979864120483,39.80415443876245,0.400313
+2,astronaut standing on a rugged cliffside on a desolate distant world bathed in intense light,0.8623034954071045,0.7086408138275146,58.14462044164367,0.554976
+2,highly detailed astronaut standing on a rocky outcropping on a stunning alien landscape of rugged terrain and twisted metallic wreckage,0.8202527165412903,0.7594485282897949,65.28258203597842,0.067240
+2,astronaut standing on the edge of a craggy outcropping on a lifeless alien world with a dramatic crescent moon in the background,0.8643884062767029,0.639979362487793,35.545530672903496,0.902121
+2,"digitally painted astronaut standing in a lonely stance on a vast, rocky expanse of a desolate lunar-like alien world with a blazing sun setting in the distance",0.8466662168502808,0.7447620034217834,59.42251724560495,0.349766
+3,astronaut standing on a rocky outcropping on a barren alien world illuminated by a bright intense light in the background,0.8875948786735535,0.6202413439750671,39.426320502066964,1.000000
+3,astronaut standing at the edge of a rugged rocky outcropping on a desolate alien landscape under a vivid celestial light,0.8224700689315796,0.7246012687683105,51.78151452183617,0.431348
+3,highly detailed astronaut standing on a windswept rocky outcropping on a desolate alien planet surrounded by a stunningly bright background light,0.8362727165222168,0.7101854085922241,56.062568744207915,0.480809
+3,astronaut standing on a majestic rocky outcropping on a bleak alien world bathed in the warm glow of a distant light,0.8526568412780762,0.641010582447052,45.76750656336472,0.751213
+3,highly realistic astronaut standing on a weathered rocky outcropping on a barren alien landscape under a brilliant radiant light in the background,0.7801324129104614,0.7838457822799683,68.51913359006068,0.000000
+4,'astronaut standing on a rocky outcropping on a barren alien world illuminated by a vibrant intense light in the background highly detailed',0.8444576263427734,0.6585460901260376,42.97572591732058,0.669974
+4,'astronaut standing at the edge of a rocky outcropping on a desolate alien landscape bathed in the warm glow of a distant star',0.8462157845497131,0.6937829852104187,43.883068663471896,0.602633
+4,'highly detailed astronaut standing on a rugged alien outcropping under a bright intense light in the sky of a barren alien world',0.7875947952270508,0.6561221480369568,39.65883163021892,0.430996
+4,'astronaut standing near a rocky formation on a harsh alien terrain bathed in the radiance of a brilliant light in the background',0.8510165214538574,0.7428072690963745,59.01387528402155,0.349841
+4,'detailed astronaut standing proudly on a rocky outcropping on a barren alien world at sunset with a bright intense light illuminating the scene',0.8500728011131287,0.7558676600456238,59.716561197096716,0.312390
+5,"astronaut standing on a rocky outcropping on a barren, rugged alien world illuminated by a bright intense light in the sky",0.8562795519828796,0.6492869853973389,42.54946081099869,0.650156
+5,highly detailed astronaut standing on a rocky outcropping on a desolate alien world at sunset with vibrant color palette,0.8271676301956177,0.7357568740844727,57.5312172985949,0.029444
+5,a highly realistic astronaut standing on a rocky outcropping on a barren alien world with a dramatic sky and intense light,0.8622021079063416,0.6740284562110901,51.3192529564937,0.521633
+5,"astronaut standing at the edge of a rocky outcropping overlooking a vast, barren alien landscape at dusk",0.823386549949646,0.7037485241889954,52.227832900410476,0.142504
+5,"detailed astronaut in a 4k digital painting standing on a rocky outcropping on a barren alien world with an intense, bright light in the background",0.8656150698661804,0.6746514439582825,52.36486090272938,0.532424
