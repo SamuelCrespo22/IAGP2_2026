@@ -4,14 +4,16 @@ from transformers import CLIPImageProcessor, CLIPModel
 import numpy as np
 from skimage.metrics import mean_squared_error
 import torchvision.transforms as T
+import utils
 
 
 class ImageEvaluator:
     def __init__(self, device=None):
         if device is None:
-            device = "cuda" if torch.cuda.is_available() else "cpu"
+            device = utils.get_compute_device()
 
         self.device = device
+        utils.set_torch_deterministic()
         print("Evaluator using device:", self.device)
 
         self.lpips_metric = lpips.LPIPS(net="alex").to(self.device)
