@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,
+1,anime character with a vibrant flaming sword and mystical blue flames,0.7767429351806641,0.5674552917480469,44.51144177631474,0.673875
+1,highly detailed anime character wielding a blazing flame- engulfed sword,0.8310010433197021,0.6691275835037231,55.958309700952135,0.500000
+1,anime warrior holding a fiery sword with radiant blue flames dancing around,0.7381447553634644,0.5514714121818542,46.68590568692532,0.452510
+1,"majestic 4k rendered anime character brandishing a magical, burning weapon",0.8020498156547546,0.6414191722869873,47.92048780454934,0.578529
+1,digital painting of a heroic anime figure with intense flames and shimmering magical aura surrounding a glowing blue sword,0.8147706985473633,0.5823789834976196,52.09754110141704,0.681251
+2,highly detailed anime character wielding a vibrant blazing flame-engulfed sword,0.8487199544906616,0.7129340767860413,63.477223687795764,0.503552
+2,highly intricate anime character standing heroically with a blazing flame-engulfed sword in hand,0.7665389180183411,0.7080276608467102,63.69508978953971,0.012262
+2,"highly detailed anime warrior wielding a fiery, flame-covered sword amidst a dramatic background",0.7752107381820679,0.6129024028778076,48.36215991385604,0.552760
+2,"highly realistic anime character posed in a powerful stance holding a blazing, fire-torched sword",0.809498131275177,0.6664282083511353,56.631544994777876,0.492767
+2,"highly detailed, 4k resolution anime character masterfully wielding a burning, flame-drenched sword in a heroic stance",0.821471095085144,0.6623718738555908,57.433540850718494,0.562673
+3,highly detailed anime character wielding a radiant blazing flame-engulfed sword,0.829043984413147,0.6945499777793884,61.38883226180114,0.517833
+3,a highly detailed manga-inspired anime character holding a vibrant flaming katana,0.7900552749633789,0.6669794321060181,60.03390965566059,0.447778
+3,highly stylized 4k anime warrior proudly grasping a blazing flame-covered katana,0.7574796676635742,0.6499369144439697,57.4377066232984,0.402412
+3,a beautifully rendered digital painting of an anime character wielding a magnificent blazing flame-encased sword,0.7942945957183838,0.6630796790122986,56.375567994503044,0.578807
+3,the image of a fiery anime character gripping a blazing flame-knife in an epic scene from a fantasy anime series,0.8028680086135864,0.6821107864379883,53.570686410112664,0.621050
+4,highly detailed anime character wielding a vibrant blazing crimson flame-engulfed sword,0.8285737037658691,0.7270172834396362,63.19036723006007,0.388547
+4,"highly detailed anime character standing with a vibrant blazing flame-engulfed sword in hand, surrounded by mystical flames",0.8140757083892822,0.7059350609779358,63.069624273062516,0.370283
+4,"4k highly detailed digital painting anime character wielding a large, majestic vibrant blazing flame-engulfed sword",0.7947788238525391,0.6710689067840576,58.944307406009806,0.492618
+4,"anime character in a dramatic pose, with highly detailed attire and wielding an enormous blazing flame-engulfed sword",0.7913081645965576,0.6894068121910095,61.229069235549204,0.343126
+4,"vibrant highly detailed digital painting of an anime character in a heroic stance, wielding a majestic blazing flame-engulfed sword in the foreground of a dark, mystical environment",0.7651621103286743,0.645504891872406,55.5966687947468,0.500000
+5,highly detailed anime character with intense expression wielding a large blazing flame-engulfed sword,0.8326812982559204,0.6892907619476318,58.60329836359486,0.669765
+5,anime character in vibrant orange and blue hues wielding a large blazing flame-engulfed sword with highly detailed textures,0.7692615985870361,0.6723935604095459,59.278726535407706,0.516350
+5,highly detailed anime character from the streets of Japan wielding a large blazing flame-engulfed katana,0.7222774028778076,0.6711571216583252,49.86483087339439,0.517262
+5,an intricate highly detailed anime character standing on a cliff with a large blazing flame-engulfed sword shining brightly,0.7695778608322144,0.6863455772399902,60.75679941591593,0.406920
+5,highly detailed anime character with a fiery aura wielding a large blazing flame-engulfed black dragon sword with intricate designs,0.717755913734436,0.6986247301101685,62.601598655429676,0.101711

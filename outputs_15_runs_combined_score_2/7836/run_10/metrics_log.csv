@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a lone astronaut standing on a planet beneath a massive glowing planet in deep space, cinematic sci-fi scene",0.8776639699935913,0.4798451364040375,30.130152269796827,
+1,"'a lone astronaut standing on a barren, crimson-hued alien planet beneath a massive, luminous gas giant in deep, starry space, highly detailed cinematic sci-fi scene",0.8574533462524414,0.48895877599716187,28.619745203145733,0.750479
+1,"a lone astronaut standing on a desolate, rocky planet at the edge of a vast, glowing nebula, cinematic masterpiece",0.9025603532791138,0.5685863494873047,31.558046308309667,0.909057
+1,"a lone astronaut standing on a distant, icy world beneath a colossal, glowing celestial body, dramatic 4k digital painting",0.8991620540618896,0.5353288650512695,33.01404396854864,0.905135
+1,"a lone astronaut standing on a scarred, rust-red planet amidst the wreckage of an ancient civilization, highly detailed cinematic sci-fi universe",0.8078492283821106,0.8136444091796875,63.54319102864723,0.000000
+1,"an astronaut standing alone on a vast, empty plain beneath a breathtaking, luminous, glowing celestial wonder in the depths of space, highly detailed digital painting'",0.8474501371383667,0.4734579920768738,32.415293520904676,0.681891
+2,"a lone astronaut standing on a barren, granite planet at the edge of a vast, radiant nebula, cinematic 4k masterpiece",0.881706714630127,0.4781367778778076,29.28009226089824,0.900152
+2,"a lone astronaut standing on a desolate, rocky planet at the edge of a glowing, ethereal nebula, highly detailed",0.798133373260498,0.5434497594833374,32.62091209467188,0.357864
+2,"a lone astronaut standing on a rugged, craggy planet at the edge of a boundless, shimmering nebula, digital painting",0.8819578886032104,0.6727837920188904,43.61855581660345,0.401355
+2,"a lone astronaut standing on a barren, rocky outcropping amidst a stark, barren landscape at the edge of a luminous nebula, highly detailed",0.8668619990348816,0.6597657203674316,34.46328951869405,0.505423
+2,"a lone astronaut standing in silhouette against a radiant, glowing nebula backdrop with a desolate, rocky planet below, cinematic",0.8575077056884766,0.557956337928772,37.0008630966924,0.547152
+3,"'a lone astronaut standing on a barren, rugged planet at the edge of a colossal, vibrant nebula, high-resolution 4k cinematic masterpiece'",0.8632552623748779,0.5987473130226135,36.17678599246548,0.360292
+3,"'a lone astronaut standing on a desolate, rocky, alien landscape at the edge of a vast, glowing nebula, highly detailed digital painting'",0.8579136729240417,0.6632407903671265,38.49963188637608,0.139581
+3,"'an astronaut standing solitary on a remote, barren planet at the edge of a boundless, radiant nebula, cinematic experience'",0.8445883393287659,0.49322932958602905,32.51498226858721,0.493011
+3,"'a lone astronaut standing on a bleak, rocky outcropping at the edge of a massive, gleaming nebula, visually striking 8k digital artwork'",0.8669780492782593,0.6655398607254028,38.50449644898636,0.209957
+3,"'an astronaut standing alone on a forsaken, rocky world at the edge of a tremendous, pulsing nebula, dreamlike digital illustration'",0.8412206768989563,0.5740992426872253,36.17020084518656,0.216679
+4,"highly detailed cinematic masterpiece of a lone astronaut standing on a desolate, rugged, and barren rocky planet at the edge of a vast, glowing, and radiant nebula",0.8372615575790405,0.6584711670875549,37.3714530033829,0.314750
+4,"a highly realistic 4k image of a solitary astronaut standing on the dusty, rocky surface of a remote, desolate planet overlooking a breathtaking and colorful nebula",0.8272759318351746,0.6309623122215271,35.563504970190905,0.396907
+4,"a dramatic and cinematic depiction of a lone space explorer walking on the surface of a desolate, rocky, and barren alien world at the edge of a swirling, glowing, and ethereal nebula",0.8478717803955078,0.6157746315002441,40.13729518966299,0.406781
+4,"a highly detailed and realistic painting of a lone astronaut standing on the barren, rocky, and rugged surface of a remote, desolate planet gazing up at a stunning, glowing, and vibrant nebula",0.8319110870361328,0.6074644923210144,29.94591115529749,0.618031
+4,"an ultra-high-resolution, cinematic masterpiece of a solitary astronaut standing on the edge of a desolate, rocky, and barren planet at the edge of a vast, glowing, and radiant intergalactic nebula",0.7735610604286194,0.5978740453720093,32.448480427625476,0.357152
+5,"a lone astronaut standing on a barren, rocky planet at the edge of a vast, glowing nebula, highly detailed cinematic masterpiece",0.8342400193214417,0.49886173009872437,27.784220417142677,0.653714
+5,"a lone astronaut standing at the edge of a desolate, rocky planet, gazing up at a majestic, glowing nebula, 4k digital art",0.8318802714347839,0.5363661050796509,35.71855451134138,0.257281
+5,"an astronaut standing alone on a desolate, rocky planet at the edge of a glowing nebula, with a sense of isolation and mystery, cinematic",0.8786019086837769,0.5615074634552002,31.907368446812242,0.524032
+5,"a lone astronaut standing on a desolate, rocky planet, surrounded by the eerie silence of a vast, glowing nebula, highly detailed digital painting",0.8660598397254944,0.5401882529258728,31.468843367554996,0.550720
+5,"an astronaut standing at the edge of a desolate, rocky planet, gazing out into the depths of a glowing nebula, highly detailed, cinematic",0.8039129972457886,0.5650050640106201,35.207927425133896,0.028930

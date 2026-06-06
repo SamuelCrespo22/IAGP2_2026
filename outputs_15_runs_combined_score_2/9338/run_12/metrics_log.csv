@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,
+1,painting of a mouse with vibrant iridescent scales and a radiant multicolored background,0.696774423122406,0.8049382567405701,51.07802868021867,0.381920
+1,highly detailed painting of a mouse with iridescent scales and a glowing neon background,0.7761322855949402,0.7745248079299927,47.720709876799326,0.844982
+1,detailed digital painting of a mouse with shimmering scales and a colorful abstract background,0.7302096486091614,0.7263279557228088,59.68477048611584,0.523653
+1,colorful digital artwork of a mouse with iridescent scales and a stylized glowing background,0.7783408761024475,0.7399501800537109,43.61024870995079,0.961741
+1,realistic 4k painting of a mouse with shimmering turquoise scales and a soft colorful aurora background,0.7586595416069031,0.9085004329681396,50.59520874056779,0.537748
+2,highly detailed 4k digital painting of a mouse with iridescent scales and a stylized glowing night sky,0.7312674522399902,0.9373492002487183,55.527308061903106,0.348415
+2,realistic depiction of a stylized mouse in a vibrant digital art style with iridescent scales and a dreamy background,0.8030740022659302,0.743619441986084,55.410894622662006,0.739211
+2,colorfully rendered artwork of a stylized mouse with iridescent scales and a stunning high-resolution background,0.8132328987121582,0.6919837594032288,42.76156690410594,1.000000
+2,fantastical mouse with iridescent scales in a mystical digital art scene with a mesmerizing stylized background,0.625983476638794,0.8236433863639832,60.228022918110014,0.115854
+2,digital masterpiece of a highly detailed mouse with shimmering iridescent scales and a dynamic glowing aura in the background,0.7197803258895874,0.8137162327766418,50.92139637192066,0.509635
+3,vibrantly rendered 4k digital artwork of a stylized mouse with iridescent scales and a stunning high-resolution background,0.7855688333511353,0.6536371111869812,38.94199613843627,0.876348
+3,colorfully rendered highly detailed digital painting of a stylized mouse with shimmering iridescent scales and a 4k backdrop,0.770074725151062,0.6399763822555542,41.608212693614206,0.812307
+3,masterpiece digital artwork of a whimsical mouse with mesmerizing iridescent scales and a crystal clear background,0.6957974433898926,0.781586229801178,52.65721306813643,0.168559
+3,"highly realistic 4k rendered image of a stylized mouse with iridescent scales and a beautiful, detailed environment",0.7667509317398071,0.6963320970535278,37.65425548298397,0.769322
+3,"gorgeously rendered highly detailed artwork of a stylized mouse with iridescent scales and an exquisite, high-resolution landscape backdrop",0.6360738277435303,0.7446736693382263,45.432493044063264,0.185554
+4,"highly detailed, photorealistically rendered artwork of a stylized mouse with iridescent scales and a 4k resolution background",0.718433678150177,0.7431396245956421,40.565680488601785,0.688761
+4,"a vibrant, stylized mouse with shimmering iridescent scales, standing in front of a highly detailed, realistic high-resolution cityscape",0.5573956966400146,0.831543505191803,39.66965129319841,0.316640
+4,"colorfully rendered digital artwork of an elegant mouse with iridescent scales, set against a stunning and detailed background",0.7580208778381348,0.7474142909049988,41.407609665230794,0.706669
+4,"beautifully rendered, highly detailed artwork of a stylized mouse with iridescent scales and a realistic cityscape in the background",0.4945339262485504,0.7818924784660339,38.93278707936838,0.338942
+4,"a highly realistic, digitally painted mouse with iridescent scales, standing in front of a vibrant, 4k resolution landscape backdrop",0.7650200724601746,0.7400221824645996,44.69275400081144,0.588306
+5,colorful stylized mouse with iridescent scales in a highly detailed 4k digital artwork,0.8070939779281616,0.6286437511444092,37.446239208319916,0.978412
+5,"a mouse with iridescent scales in a stunning high-resolution, beautifully colored environment",0.7643247842788696,0.79273521900177,43.108284404235334,0.418625
+5,a highly realistic 4k mouse with iridescent scales in a colorful digital art piece,0.6710482835769653,0.8101354837417603,45.16629160795311,0.000000
+5,"stylized mouse with iridescent scales, depicted in a detailed, vibrant, and stunning digital painting",0.7878646850585938,0.6368191838264465,38.55234995282554,0.863710
+5,"a masterfully rendered mouse with iridescent scales in a 4k, high-resolution digital artwork of breathtaking beauty",0.6881790161132812,0.7788079380989075,42.470685495424725,0.190686

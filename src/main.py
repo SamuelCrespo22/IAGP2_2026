@@ -13,18 +13,18 @@ load_dotenv()
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 TARGETS_DIR = os.path.join(BASE_DIR, "data")
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs_15_runs_combined_score")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs_15_runs_combined_score_2")
 NUM_ITERATIONS = 5      # Optimization: how many times to try to improve the prompt
 VARIANTS_PER_ITER = 5   # Optimization: how many new prompts per iteration
 NUM_RUNS = 15           # Requirement: repetitions of the cycle per image (at least 5)
 
 INITIAL_PROMPTS = {
-    "1159_7.png": "there is a small hedgehog sitting on top of a block of cake",
-    "7836.png": "astronaut standing on the surface of a planet with a bright light shining in the background",
-    "1159_25.png": "there is a glass of orange juice with a slice of orange on the side",
-    "1159_29.png": "arafed palm tree on a rock in the ocean at sunset",
-    "1159_3.png": "anime character with a sword and fire in his hand",
-    "9338.png": "painting of a mouse with a colorful tail and tail"
+    # "1159_7.png": "a top spiked hedgehog laying down on top of a cube-shaped wafer cake, soft lighting, detailed digital art",
+    # "7836.png": "a lone astronaut standing on a planet beneath a massive glowing planet in deep space, cinematic sci-fi scene",
+    # "1159_25.png": "a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",
+    # "1159_29.png": "a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",
+    "1159_3.png": "anime character with a flaming sword and magical blue flames",
+    "9338.png": "painting of a mouse with colorful scales and a glowing colorful background"
 }
 
 client = utils.init_groq_client()

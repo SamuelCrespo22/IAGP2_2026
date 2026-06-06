@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,
+1,vibrant anime character with a blazing sword and mystical blue fire,0.7859020233154297,0.5512694716453552,47.23098246580085,0.554968
+1,anime warrior with a sword ablaze in magical blue flames,0.8089947700500488,0.5898695588111877,48.593216487149576,0.411524
+1,highly detailed anime girl wielding a flaming sword with bright blue magical flames,0.7571142911911011,0.5732845664024353,44.14840666258828,0.357416
+1,an epic anime character wielding a magical blue and black sword with flames,0.8172681331634521,0.5774725675582886,46.964636981979744,0.649041
+1,highly realistic anime portrait of a young girl with a bright blue magical sword and fiery flames dancing around her,0.7756410837173462,0.583029568195343,47.84723766949827,0.233216
+2,anime character wielding a blazing magical sword with intense blue flames,0.8099130392074585,0.6294244527816772,56.18431333284854,0.488778
+2,anime warrior girl standing amidst highly detailed magical flames,0.7852143049240112,0.6688147783279419,59.42879697658292,0.134279
+2,highly realistic anime character holding a fiery enchanted sword with bright blue magical sparks,0.8317205905914307,0.6215741038322449,43.19416530201383,0.882292
+2,anime heroess with flowing hair and glowing blue flames surrounding her and her fiery sword,0.7681390047073364,0.592780351638794,44.73346110169504,0.439221
+2,highly detailed digital painting of an anime protagonist with a flaming magical sword and vibrant blue sparks,0.7928402423858643,0.6153870224952698,46.05242587383053,0.549851
+3,highly realistic 4k anime character holding a fiery enchanted sword with bright blue magical sparks and mystical aura,0.8049365282058716,0.6178689002990723,41.000600546803796,0.738020
+3,realistic highly detailed digital painting of an anime character holding a fiery enchanted sword with bright blue magical sparks and intricate details,0.8294745683670044,0.60390704870224,43.964336899298786,0.920020
+3,highly realistic dark fantasy anime character holding a blazing enchanted sword with electric blue magical sparks and mysterious shadows,0.7471458911895752,0.6524924635887146,60.52151417322832,0.000000
+3,realistic photorealistic anime character holding a fiery crystal-enchanted sword with radiant bright blue magical sparks and subtle textures,0.7828718423843384,0.6030162572860718,38.48045316770495,0.711209
+3,vibrant highly detailed anime character holding a blazing magical sword with electrifying bright blue sparks and a background of ancient mystical ruins,0.7618646621704102,0.649082601070404,52.17404843537541,0.198927
+4,highly realistic highly detailed anime character holding a fiery enchanted sword with bright blue magical sparks,0.8089990615844727,0.6234946846961975,42.3495923822643,0.884900
+4,a highly realistic anime character standing confidently with a gleaming enchanted sword that is surrounded by a halo of bright blue magical sparks,0.7916189432144165,0.7246543765068054,58.97498944694359,0.305078
+4,highly realistic mystical anime character wielding a fiery enchanted sword that glows with bright blue magical energy,0.7288545966148376,0.6348832249641418,58.28245310075212,0.228135
+4,a highly realistic anime character holding a fiery enchanted sword with bright blue magical sparks in a serene mystical landscape,0.775113582611084,0.6612099409103394,44.66412549990617,0.593918
+4,highly detailed realistic anime character holding a fiery enchanted sword with vibrant bright blue magical sparks and intricate ornate armor,0.8113961219787598,0.6841171383857727,45.392700329958814,0.703764
+5,realistic anime character holding a fiery enchanted katana with bright blue magical sparks,0.795638382434845,0.6336250901222229,44.375540258136546,0.623977
+5,highly detailed anime character wielding a blazing magical sword with electric blue flames,0.8048449754714966,0.6298700571060181,58.82334539915736,0.481472
+5,highly realistic anime warrior holding a magical sword with intense bright blue sparks and a fiery glow,0.834327220916748,0.6582140922546387,55.6882766483632,0.650871
+5,a highly realistic 4k anime character holds a sword with a blazing magical blade and electric blue sparks,0.7715265154838562,0.6365652680397034,53.73624258166895,0.270296
+5,highly detailed anime character in a mystical landscape holding a fiery sword with intense bright blue magical sparks and an ethereal glow,0.7927539348602295,0.6829366087913513,55.01006286220948,0.230002

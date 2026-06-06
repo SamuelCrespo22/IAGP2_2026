@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+4,a highly detailed breathtaking palm tree surrounded by tranquil crystal clear ocean waters at golden hour on a weathered volcanic isle,0.925702691078186,0.6357483267784119,47.835157288007046,0.9287281958752068,run_11,0.984347734635221,0.17460094233630263,0.07918174343331182
+2,a breathtaking detailed palm tree surrounded by calm crystal clear ocean waters at sunset on a rocky isle,0.9028751850128174,0.6406680941581726,47.27155152286145,0.862297265580712,run_11,0.8518542350787318,0.19052389484600996,0.06399551298860554
+3,'a highly detailed breathtaking palm tree surrounded by calm crystal clear ocean waters at golden hour on a rugged rocky isle',0.9037609100341796,0.641635000705719,48.147056591561125,0.8581877649287342,run_11,0.856995086093686,0.19365331252970844,0.08758579994272675

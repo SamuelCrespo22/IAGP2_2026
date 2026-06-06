@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,
+1,painting of a mouse with iridescent scales and a vibrant glowing background,0.6994690895080566,0.7693729400634766,42.953936189309516,0.302064
+1,highly detailed digital painting of a mouse with colorful scales and a radiating glow,0.7790849804878235,0.6559320688247681,37.716477548609554,0.955249
+1,a whimsical mouse with shimmering scales in a colorful dreamlike environment,0.7454866170883179,0.6711544394493103,39.51846545726081,0.755049
+1,"detailed oil painting of a mouse with pastel-colored scales and a soft, ethereal background",0.7129823565483093,0.7032263875007629,57.6747880826164,0.325289
+1,"4k digital artwork of a mouse with glittering, jewel-toned scales and a kaleidoscopic, luminous atmosphere",0.7874611616134644,0.7717006206512451,37.01638109804158,0.750000
+2,"4k digital masterpiece of a mouse in a fantastical, jewel-toned environment with glittering scales and vibrant, ethereal light",0.7507976293563843,0.6951505541801453,38.0497308312463,0.549636
+2,"highly detailed digital artwork of a majestic mouse with kaleidoscopic, luminous scales in a shimmering, iridescent atmosphere",0.7508376836776733,0.8071304559707642,45.1102148968181,0.145276
+2,a highly realistic 4k digital painting of a mouse surrounded by a kaleidoscope of light and color with its jewel-toned scales shimmering,0.8177496790885925,0.7154265642166138,33.69081764448265,0.954733
+2,"the mouse from a children's storybook brought to life in 4k digital glory with glittering, jewel-toned scales and a kaleidoscopic, luminous aura",0.7835099101066589,0.7074412703514099,42.492495596893896,0.598352
+2,"stunning 4k digital artwork of a mystical mouse with glittering, jewel-toned scales and a vibrant, ethereal atmosphere that seems to shift and glow",0.7234340906143188,0.7528364658355713,41.62845216169171,0.197438
+3,a highly realistic 4k digital painting of a mouse with its jewel-toned scales shimmering set amidst an intricate kaleidoscope of vibrant colors and patterns,0.5902847051620483,0.906976580619812,30.279287825170925,0.345220
+3,"a highly detailed, 4k digital artwork of a mouse surrounded by a kaleidoscope of shimmering light and jewel-toned colors, with delicate textures and intricate details",0.7484719753265381,0.7130267024040222,32.79820137020166,0.775666
+3,"a breathtaking 4k digital masterpiece of a mouse with iridescent scales surrounded by a kaleidoscope of colors and light, with a sense of depth and dimensionality",0.7812365293502808,0.7520103454589844,38.35119981380483,0.639265
+3,"a highly stylized, highly detailed, 4k digital painting of a mouse with its jewel-toned scales shimmering amidst an ever-changing kaleidoscope of colors and patterns",0.7100527882575989,0.8766059279441833,29.834925092290526,0.625583
+3,"a highly realistic, 8k digital artwork of a mouse with its jewel-toned scales shining amidst a kaleidoscope of vibrant colors and intricate patterns, with a focus on accuracy and realism.",0.5655472874641418,0.9671834707260132,30.774509062025942,0.222418
+4,a highly realistic 8k ultra-high-definition digital painting of a mouse amidst swirling kaleidoscopic patterns and vibrant light effects with its iridescent scales glistening,0.7926470041275024,0.5820183157920837,36.34919097185091,0.845684
+4,a finely detailed 4k digital masterpiece of a mouse bathed in radiant auroral colors and kaleidoscopic shapes with its gleaming jewel-toned scales,0.7814915180206299,0.7714625000953674,47.682574672797806,0.529477
+4,"a breathtakingly beautiful 4k digital art piece of a mouse surrounded by a mesmerizing kaleidoscope of colors and light, with intricate details and textures",0.631382167339325,0.9168146252632141,28.846293805513717,0.343628
+4,a stunningly realistic 4k digital painting of a mouse embedded in a kaleidoscopic vortex of light and color with its luminous jewel-toned scales,0.5884431004524231,0.8101056814193726,29.54073931181993,0.320465
+4,"a resplendently detailed 8k digital painting of a mouse set amidst a kaleidoscope of swirling colors and light, with a sense of depth and luminosity",0.6896753311157227,0.8061872720718384,30.496653926259867,0.531440
+5,a highly realistic photorealistic 8k digital painting of a mouse surrounded by a kaleidoscope of vibrant natural light and color with its iridescent jewel-toned scales shimmering,0.6941568851470947,0.779392421245575,35.64804694737046,0.521950
+5,a finely detailed highly realistic 4k digital artwork of a mouse surrounded by a kaleidoscope of shimmering soft pastel light and color with its jewel-toned scales glistening,0.7563392519950867,0.6705368161201477,44.106162281804124,0.631303
+5,an exquisite highly detailed 4k digital painting of a mouse immersed in a kaleidoscope of light and color with its radiant jewel-toned scales shimmering,0.5590637922286987,0.8867864012718201,28.635626989376803,0.250000
+5,a highly realistic masterfully crafted 4k digital artwork of a mouse surrounded by a kaleidoscope of warm golden light and color with its jewel-toned scales glimmering,0.7599626183509827,0.7121127843856812,39.834862183582416,0.659265
+5,a highly realistic intricate highly detailed 4k digital masterpiece of a mouse surrounded by a kaleidoscope of radiant light and color with its jewel-toned scales shining,0.7572751045227051,0.7362997531890869,30.45157886205668,0.777740

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,
+1,painting of a mouse in a colorful ocean with iridescent scales and a vibrant background,0.7871851921081543,0.7867612838745117,76.55563085903283,0.604873
+1,highly detailed digital painting of a mouse with shimmering blue and green scales and an otherworldly glow,0.794914722442627,0.7277544736862183,45.41484442894226,0.955303
+1,4k resolution artwork of a mouse in a fantastical underwater world with glowing colorful background and delicate water textures,0.6992050409317017,0.8585347533226013,59.206953442611656,0.268485
+1,"mouse amidst a dreamlike landscape of swirling colors and misty waters, with intricate scales and delicate brushstrokes",0.6581922769546509,0.7651708722114563,61.092849963880106,0.278808
+1,"masterpiece of a whimsical mouse in a kaleidoscope of colors, surrounded by soft, ethereal light and vibrant, glowing hues",0.7534493803977966,0.7237638235092163,39.954752507365185,0.848359
+2,highly detailed digital painting of a mouse with mesmerizing iridescent scales and an ethereal glow,0.7144062519073486,0.7655104994773865,48.73654213363809,0.355324
+2,highly realistic 4k digital artwork of a mouse with radiant blue and green scales shimmering with an soft otherworldly aura,0.7745311856269836,0.7872289419174194,43.4423185144349,0.696685
+2,digital masterpiece of a mouse with a shimmering silver coat and vibrant green-blue glimmering scales,0.7061159610748291,0.7594048976898193,42.14813544266915,0.425273
+2,"highly detailed digital fine art of a mouse with luminous, crystalline scales glimmering an ethereal light",0.7028761506080627,0.8134559988975525,59.097878690371445,0.000000
+2,"photorealistic digital painting of a mouse with intricate, swirling patterns on its shimmering blue and green scales and an radiant, soft glow",0.7749708294868469,0.7903985381126404,46.59956697242482,0.643259
+3,highly detailed 4k digital painting of a mouse with iridescent blue and green scales and a soft ethereal glow,0.798149585723877,0.7161707878112793,41.22940507009958,0.972193
+3,highly detailed realistic digital illustration of a mouse with metallic blue and green scales and a warm otherworldly aura,0.8025585412979126,0.760413408279419,42.117054873483276,0.798469
+3,highly detailed hyper-realistic digital painting of a mouse with shimmering aquamarine and emerald scales and a vibrant mystical energy,0.7389819622039795,0.7545940279960632,54.26098892894067,0.188798
+3,masterfully rendered highly detailed digital portrait of a mouse with iridescent opaline and jade scales and a soft celestial light,0.723279595375061,0.7232062220573425,44.61275162985371,0.405754
+3,highly detailed photorealistic digital painting of a mouse with holographic blue and green scales and a dynamic extraterrestrial power,0.7283680438995361,0.7761192917823792,48.82087368031404,0.136456
+4,highly detailed realistic digital painting of a mouse with dark metallic blue and pale green scales,0.6651664972305298,0.7624823451042175,39.89484114114495,0.488243
+4,highly detailed photorealistic digital illustration of a mouse with iridescent metallic blue and green scales in a mystical ambiance,0.7634708881378174,0.7672305107116699,42.152770723485105,0.664272
+4,highly realistic 4k digital concept art of a mouse with metallic blue and green scaly armor,0.6199016571044922,0.7487043738365173,45.89338163520221,0.201445
+4,highly detailed digital art of a mouse with metallic blue and green scales in a warm ethereal glow,0.7612913846969604,0.7325160503387451,38.738613126428426,0.887036
+4,highly detailed realistic digital artwork of a mouse with a radiant metallic blue and green aura and intricate scales,0.7475339770317078,0.8107337355613708,45.98575016884862,0.349377
+5,highly detailed realistic digital masterpiece of a mouse with metallic teal and lime scales and a warm mystical aura,0.7338440418243408,0.7527939677238464,39.7706866795899,0.497680
+5,highly detailed realistic 4k digital illustration of a mouse with metallic blue and green iridescent scales and a warm otherworldly glow,0.7610470652580261,0.7936068177223206,46.853636751504204,0.362504
+5,realistic highly detailed digital painting of a mouse with metallic silver and emerald scales and a soft ethereal aura,0.7380244731903076,0.7432370185852051,38.26815428609503,0.572467
+5,highly detailed realistic digital art of a mouse with metallic cobalt and olive scales and a warm vibrant mystical aura,0.689472496509552,0.7068416476249695,35.752793209622645,0.500000
+5,highly detailed photorealistic digital illustration of a mouse with metallic turquoise and lime scales and a warm soft otherworldly glow,0.764356791973114,0.813194215297699,44.74245380572784,0.378640

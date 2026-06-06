@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,
+1,painting of a mouse surrounded by vibrant scales and a radiant background,0.7059966325759888,0.7172309160232544,49.71300917266363,0.467966
+1,"vibrant, highly detailed digital painting of a mouse with iridescent scales against a glowing sky",0.8012210130691528,0.7635476589202881,44.02123588044571,0.822583
+1,"masterpiece depicting a mouse with colorful, shimmering scales in a kaleidoscope of colors",0.679552435874939,0.8969041109085083,31.301954659359534,0.279154
+1,"colorful, surreal painting of a mouse with neon scales and an electric blue background",0.7173670530319214,0.7954174280166626,59.449180054714624,0.316703
+1,"dreamy, ethereal illustration of a mouse with glittering, rainbow-colored scales in a misty atmosphere",0.7430335283279419,0.7712797522544861,51.54202823277382,0.519846
+2,"vibrant, highly detailed, 4k digital painting of a realistic mouse with iridescent shimmering scales against a warm, glowing sunset sky",0.7158682346343994,0.7385926246643066,52.36099902252603,0.573893
+2,"captivating, highly realistic, hyper-realistic digital artwork of a majestic mouse with iridescent scales in mid-flight against a vibrant, glowing starry night sky",0.6889740228652954,1.030356526374817,54.75467626173906,0.197417
+2,"vibrant, highly detailed, photorealistic digital painting of a mouse with iridescent, holographic scales in a serene, glowing aurora borealis landscape",0.6897046566009521,0.9308043122291565,46.476298317944185,0.417051
+2,"vibrant, highly detailed, masterful digital painting of a tiny mouse with iridescent, ethereal scales perched on a delicate, glowing lotus flower",0.6536315083503723,0.752162516117096,59.59362394897475,0.235451
+2,"vibrant, highly detailed, dreamlike digital artwork of a majestic mouse with iridescent, shimmering scales standing in a soft, glowing misty morning meadow",0.7363442182540894,0.7349728345870972,47.67719446569864,0.721519
+3,"vibrant, highly detailed, photorealistic digital artwork of a mouse with shimmering iridescent scales against a brilliant starry night sky",0.6940386295318604,1.0439268350601196,50.436583083334526,0.350714
+3,"highly detailed, 4k, digital painting of a mouse with iridescent scales against a soft, warm sunset",0.6170696020126343,0.7128244638442993,44.54534575276644,0.491155
+3,"stunning, hyper-realistic digital image of a mouse showcasing iridescent scales against a serene, misty forest",0.7125349640846252,0.8058847188949585,45.39399019043437,0.665771
+3,"beautiful, highly detailed watercolor-inspired digital painting of a mouse with mesmerizing iridescent scales against a glowing aurora borealis",0.7615335583686829,0.9307476878166199,58.834724330578126,0.477699
+3,"highly realistic, digital masterpiece of a mouse with shimmering iridescent scales set amidst a breathtaking, glowing cosmic landscape",0.6935195326805115,0.9586493968963623,58.40827029005246,0.279160
+4,"highly detailed, ultra-realistic digital painting of a regal mouse with shimmering iridescent scales in a breathtaking, warm sunset sky",0.712430477142334,0.7398694753646851,49.96125537315081,0.265789
+4,"vibrant, intricate digital artwork of a majestic mouse with radiant, glowing scales against a vibrant, starry night sky",0.7213878631591797,1.0311784744262695,51.528079282159,0.050441
+4,"highly detailed, stunning 4k digital painting of a sleek, iridescent-scaled mouse in a mystical, ethereal glowing landscape",0.7243199944496155,0.7532135844230652,48.25024772994786,0.368824
+4,"highly realistic, oil-painting-style digital artwork of a refined mouse with iridescent scales amidst a serene, glowing aurora borealis",0.7147040963172913,0.908341646194458,42.29235797853666,0.356995
+4,"highly detailed, dreamlike digital painting of a tiny, delicate mouse with iridescent scales in a whimsical, glowing, fantastical world.",0.7699962258338928,0.7051495313644409,42.563742918809425,0.816820
+5,"vibrant digital illustration of a mouse with iridescent, shimmering scales against a soft, ethereal sky",0.7285884618759155,0.8458888530731201,64.07717599598138,0.436801
+5,"a highly detailed, photorealistic digital painting of a mouse with iridescent, glowing scales against a warm, sunset-colored sky",0.7072485685348511,0.726120114326477,44.345706624812784,0.704121
+5,"4k, high-definition, digital artwork of a mouse with iridescent, luminescent scales against a deep, starry night sky",0.6402177810668945,1.0677825212478638,57.60572207701871,0.080668
+5,"a masterpiece, highly realistic digital portrait of a mouse with iridescent, sparkling scales against a serene, misty morning sky",0.7249014377593994,0.731252908706665,46.103358894523524,0.733278
+5,"detailed, hyper-realistic digital painting of a mouse with iridescent, holographic scales against a dramatic, stormy, glowing atmosphere",0.7240497469902039,0.7700501084327698,49.353247354888786,0.661734

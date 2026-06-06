@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,
+1,'anime character with a highly detailed flaming sword and realistic magical blue flames',0.7922245860099792,0.5802133679389954,43.34562064830072,0.693134
+1,'manga style anime character wielding a flaming sword with intense magical blue flames',0.801524817943573,0.5777073502540588,48.52127367199021,0.673493
+1,'high fantasy anime character holding a blazing sword and surrounded by vibrant magical blue flames',0.7541408538818359,0.6354548335075378,58.087392335886854,0.000000
+1,'detailed digital painting of an anime character with a flaming sword and soft magical blue flames',0.8100504875183105,0.5788713097572327,45.66232019856966,0.771802
+1,'vibrant 4k anime artwork of an adventurer with a flaming sword and powerful magical blue flames in the background',0.8329753875732422,0.5669481158256531,47.64719576514683,0.927051
+2,vibrant 8k anime artwork of an armored adventurer holding a fiery sword and majestic blue magical flames in the background,0.8082311153411865,0.5889304876327515,48.670326989420246,0.729907
+2,highly detailed 4k fantasy artwork of an adventurer wielding a flaming sword and brilliant blue flames of magic,0.7379636764526367,0.5596014857292175,45.403177729410324,0.624148
+2,4k masterpiece digital painting of an epic fantasy adventurer with a blazing sword and ethereal blue magical aura in the background,0.6977649927139282,0.6525235772132874,55.22011831477193,0.000000
+2,detailed 4k anime art of an adventurer with a fiery sword and shimmering blue flames of magic surrounded by misty mountains,0.7358230948448181,0.6479101777076721,46.37933663847231,0.362777
+2,8k ultra-high-resolution fantasy artwork of a mighty adventurer with a flaming sword and radiant blue flames of powerful magic in the foreground,0.758395791053772,0.5566470623016357,44.695944855260066,0.724209
+3,vibrant and highly detailed 4k anime artwork of an adventurer wielding a blazing sword and intense magical blue flames erupting in the background,0.789460301399231,0.6084981560707092,50.16338789129148,0.573642
+3,anime masterpiece in 4k resolution featuring an adventurer with a flaming sword and dynamic magical blue flames dancing in the background,0.6849767565727234,0.5631595849990845,48.60335681696785,0.449065
+3,highly realistic anime artwork of an adventurer with a fiery sword and brilliant magical blue flames illuminating the dark background,0.8110402822494507,0.5945544242858887,52.3402345754544,0.575275
+3,detailed 4k anime artwork of a powerful adventurer battling a fierce dragon with a blazing sword and magical blue flames blazing in the background,0.694939911365509,0.6411639451980591,48.11808926136487,0.258575
+3,4k digital painting of a stunning anime scene with an adventurer holding a flaming sword and vibrant magical blue flames swirling in the background,0.82977294921875,0.5970212817192078,51.46944941594674,0.677043
+4,vibrant 8k highly detailed anime artwork of an adventurer with a flaming sword and powerful magical blue flames in the background,0.8297352194786072,0.5679378509521484,46.39025191831865,0.900935
+4,4k highly realistic digital painting of an adventurer with a flaming sword and realistic magical blue flames in the background,0.7061108350753784,0.584233283996582,47.32774121796697,0.279048
+4,anime artwork of an adventurer with a glowing bright yellow sword and intense magical purple flames in the background,0.7719373106956482,0.6046754121780396,49.845942557385115,0.303886
+4,highly detailed 4k digital painting of a lone adventurer facing an epic battle with a flaming sword and magical blue flames behind them,0.7385077476501465,0.6128339767456055,46.54773031145639,0.289074
+4,highly realistic 8k masterpiece anime artwork of an adventurer wielding a flaming sword and surrounded by powerful magical blue flames in a mystical realm,0.825088381767273,0.5753855109214783,44.736913559677994,0.922946
+5,vibrant 8k masterpiece anime artwork of a legendary adventurer with a flaming magical sword and intense blue flames engulfing the mystical background,0.7998344898223877,0.5885794162750244,49.532592119159325,0.747235
+5,highly detailed 4k anime artwork of a brave adventurer wielding a sword on fire and powerful magical blue flames in the distance,0.8320913910865784,0.5635921955108643,45.43138213600909,0.996787
+5,dynamic 4k anime artwork of an epic adventurer with a flaming magical sword and blazing blue flames illuminating a dark enchanted forest,0.6954178810119629,0.6971009969711304,57.42132465801401,0.000000
+5,highly realistic 8k digital painting of an adventurer with a flaming magical sword and intense magical blue flames in the background of a fantasy realm,0.709745466709137,0.5739889144897461,48.962558474921636,0.458982
+5,epic 4k anime artwork of an adventurer in a heroic pose with a flaming magical sword and dramatic blue flames burning fiercely behind him,0.7932280898094177,0.5765717625617981,47.882603765160304,0.780110

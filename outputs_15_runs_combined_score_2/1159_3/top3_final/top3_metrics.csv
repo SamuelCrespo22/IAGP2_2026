@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,"an incredibly detailed 4k anime image of a female warrior holding a magical flaming katana, illuminated by soft warm blue flames",0.841169536113739,0.5171089172363281,40.368202920708846,0.9631139435774921,run_15,0.9548018475147445,0.0,0.057147920719520316
+5,an exquisite highly detailed 4k anime character wielding a blazing flaming sword with bright intense magical electric blue flames,0.8479571342468262,0.5487850904464722,46.111126576207845,0.9216109782071299,run_8,0.9929296903119313,0.1006898867139778,0.19872558108136518
+2,"an expertly crafted 4k anime image of a female warrior with a magical flaming sword, surrounded by warm blue flames",0.8368916511535645,0.5638454556465149,43.71250951982589,0.893346823194152,run_15,0.9307717676443852,0.1485626665413659,0.13959357597079658

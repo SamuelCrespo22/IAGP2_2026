@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,
+1,"a solitary palm tree standing atop a rugged rocky outcropping in the ocean at golden hour, highly detailed realistic seascape",0.8164272308349609,0.7835085391998291,62.76298888588411,0.246978
+1,"a single palm tree growing on a rocky island in the serene ocean at sunset, photorealistic seascape",0.876951277256012,0.7560949921607971,63.526977317551264,0.647716
+1,"a lone palm tree situated on a rocky island in the calm ocean at warm sunset, realistic seascape with vivid colors",0.9046698808670044,0.7292972207069397,59.78052851143762,1.000000
+1,"a palm tree isolated on a rocky isle in the gentle ocean at sunset, highly detailed 4k seascape",0.8576311469078064,0.8095428943634033,68.0138797930948,0.236897
+1,"a majestic palm tree standing on a rugged rocky outcropping in the tranquil ocean at golden hour, realistic digital painting seascape",0.8152776956558228,0.8039504289627075,64.46421316659631,0.125206
+2,"a lone palm tree situated on a rocky coastline in the calm tropical ocean at warm golden hour, highly detailed seascape with vivid colors",0.8878253102302551,0.6891899704933167,52.37709529883266,0.877206
+2,"a realistic and serene lone palm tree stands on a rugged rocky island in the peaceful ocean at sunset, with warm and inviting colors",0.8360809683799744,0.771031379699707,60.39828089854008,0.017240
+2,"a majestic and isolated palm tree on a rocky outcropping in the gentle calm ocean at warm sunset, with soft and subtle color tones",0.8852263689041138,0.7409316301345825,58.62867838666074,0.518796
+2,"a lone palm tree growing on a rocky shore in a tranquil ocean at warm sunset, with a rich detailed and textured style",0.8604452013969421,0.725870668888092,59.89636249105777,0.347367
+2,"a solitary palm tree standing proudly on a rocky islet in the serene and glassy calm ocean at warm golden hour, with highly realistic and photorealistic colors",0.8567073345184326,0.7377169728279114,60.992383026226165,0.252127
+3,"a lone palm tree situated on a rocky island in the still, serene ocean at warm golden sunset, highly detailed realistic seascape with vivid colors",0.8845595717430115,0.7654236555099487,64.61625043627657,0.498413
+3,"a palm tree standing alone on a rugged outcrop in the tranquil ocean at a warm sunset hour, realistic seascape with rich textures",0.8513917922973633,0.8219671845436096,69.47358953157524,0.000000
+3,"a small island with a solitary palm tree, surrounded by the peaceful calm ocean at dusk, realistic seascape with soft colors",0.9036778211593628,0.6967052221298218,53.128256438269275,0.990690
+3,"a palm tree isolated on a craggy rocky shore in the quiet ocean as the sun sets over the water, highly detailed seascape with subtle shading",0.8774346113204956,0.7628315687179565,62.92555734274775,0.462580
+3,"a lone palm tree perched on a rocky promontory in the serene ocean at a tranquil warm sunset, realistic seascape with highly realistic colors",0.8612287044525146,0.7883015871047974,64.17510043999941,0.240547
+4,"a lone palm tree situated on a rocky island in the serene ocean at warm golden hour, highly detailed realistic seascape with vivid colors",0.8948847055435181,0.705724835395813,54.498756236363626,0.837933
+4,"a single palm tree stands atop a rugged island amidst the still ocean at sunset, photorealistic seascape with rich hues",0.9037606120109558,0.759997546672821,59.921050794255606,0.699976
+4,"a small palm tree grows on a windswept rocky outcrop in the tranquil ocean at a warm sunset, ultra-high-definition seascape with striking colors",0.8630220890045166,0.8363115191459656,65.3134681923284,0.358118
+4,"a lone palm tree rises above a rocky outcropping in the mirror-flat ocean at a soft warm light, highly detailed realistic digital painting seascape",0.7600837349891663,0.6683707237243652,50.01682795727008,0.500000
+4,"a solitary palm tree stands proudly on a granite island in the smooth calm ocean at a vibrant sunset, masterfully created realistic seascape with bold colors",0.9039766788482666,0.7699071764945984,65.44568320834259,0.596454
+5,"a solitary palm tree perched atop a rugged outcropping in the serene ocean at warm golden hour, highly detailed realistic seascape with vivid colors",0.8419265151023865,0.7893128991127014,59.58764370589737,0.276781
+5,"a single palm tree standing on a rocky islet in the tranquil ocean at soft sunset, 4k realistic seascape with warm tones",0.8167507648468018,0.7748857140541077,66.81630628355465,0.036841
+5,"a lone palm tree situated on a rocky island in the peaceful ocean at gentle dusk, detailed seascape with rich colors and soft lighting",0.9092820286750793,0.691412091255188,53.976060801595,1.000000
+5,"a majestic palm tree standing alone on a rocky outcropping in the calm ocean at warm orange hour, realistic seascape with deep colors and dramatic shadows",0.8326988220214844,0.7788009643554688,60.709716129489095,0.231915
+5,"an isolated palm tree situated on a rocky isle in the still ocean at soft warm light, highly realistic seascape with subtle colors and gentle ripples",0.8531632423400879,0.6991876363754272,59.005927171897675,0.578970

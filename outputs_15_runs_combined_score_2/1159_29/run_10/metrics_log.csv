@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,
+1,"a small palm tree growing on a rocky outcropping amidst calm ocean waters at sunset, highly detailed seascape",0.8764281272888184,0.7612537741661072,62.07313389868246,0.355451
+1,"a lone palm tree on a rugged, wind-swept island with a dramatic stormy sky at dusk",0.842161238193512,0.6526724100112915,53.97754581723175,0.500000
+1,"a single palm tree standing defiantly on a rocky island in the turbulent ocean waves at golden hour, highly realistic seascape",0.9056068062782288,0.7543106079101562,63.09116897060878,0.577147
+1,a small palm tree growing on a rocky island in the tranquil ocean at sunset with warm golden lighting,0.8558419346809387,0.7700201869010925,65.02053957123843,0.107814
+1,"a solitary palm tree growing on a rocky island in the crashing waves of the ocean at a vibrant sunset, detailed and realistic digital painting",0.8567771911621094,0.7410550713539124,61.32515224774196,0.260552
+2,"a single palm tree standing powerfully on a rugged island in the turbulent ocean waves at golden hour, highly realistic seascape",0.8941185474395752,0.7442420125007629,60.484881050613986,0.648420
+2,"a solitary palm tree stands against the turbulent ocean waves on a rocky island at the golden hour, highly detailed seascape",0.8551174998283386,0.7699730396270752,66.26750941466636,0.270720
+2,a lone palm tree grows on a rocky outcropping amidst turbulent waves in a realistic seascape at golden hour,0.8704210519790649,0.7674197554588318,62.03729822022647,0.443063
+2,"a majestic palm tree stands resiliently on a rocky island in the midst of turbulent ocean waves, highly detailed 4k seascape",0.7955025434494019,0.6773030161857605,55.24659207310032,0.500000
+2,"a single palm tree stands proudly on a rugged island in the crashing turbulent ocean waves at golden hour, oil painting style seascape",0.8468860387802124,0.7396836280822754,58.494655397591735,0.491374
+3,"a single palm tree standing resolutely on a rugged rocky outcropping in the turbulent ocean waves at warm golden hour, highly realistic 4k seascape",0.8105517625808716,0.7875325083732605,64.27307201067755,0.112167
+3,"a solo palm tree standing proudly on a rocky islet amidst crashing ocean waves at golden hour, highly detailed seascape",0.8879810571670532,0.7580735683441162,65.00147834248698,0.632093
+3,"a solitary palm tree standing steadfastly on a rocky promontory in the turbulent ocean waves at golden hour, highly realistic digital painting",0.8824599385261536,0.7649005055427551,63.10706098452534,0.800575
+3,"a single palm tree standing firmly rooted on a rocky islet in the turbulent ocean waves at golden hour, highly detailed seascape",0.9034046530723572,0.7653273344039917,63.337351375970066,0.873686
+3,"a lone palm tree standing defiantly on a rocky sea stack in the turbulent ocean waves at warm golden hour, highly realistic seascape",0.8072385191917419,0.7737352848052979,64.28655275267879,0.197388
+4,"a single palm tree standing defiantly on a rocky outcrop in turbulent ocean waves at golden hour, extremely realistic seascape",0.8925285339355469,0.7611535787582397,62.01613401549698,0.710328
+4,"a solitary palm tree standing strong against the waves on a rugged island at golden hour, highly detailed seascape",0.9128623008728027,0.7816063165664673,64.23985053134827,0.638982
+4,"a palm tree stands proudly on a rocky headland surrounded by foamy waves at golden hour, highly realistic digital painting",0.8513338565826416,0.773132860660553,59.22813638560421,0.327608
+4,"a single palm tree silhouetted against a turbulent ocean sky with golden hour sunlight on a rocky outcrop, ultra-realistic seascape",0.8515680432319641,0.7725248336791992,70.51394687313173,0.085080
+4,"a windswept palm tree stands resolute on a rocky promontory in the turbulent ocean at golden hour, incredibly realistic seascape with soft lighting",0.8524664640426636,0.7772272229194641,62.80457324298791,0.220088
+5,"a solitary palm tree stands firm against the turquoise waves on a rugged island at golden hour, highly detailed seascape",0.8875199556350708,0.7480628490447998,59.62635833546021,0.551548
+5,"a majestic solitary palm tree stands strong against the crashing waves on a rocky island at golden hour, 4k",0.8981754183769226,0.7096638679504395,55.917659158832045,0.882002
+5,a solitary palm tree withstands the turbulent waves on a windswept island at golden hour with dramatic sky,0.9114325046539307,0.7136967182159424,56.838529103802244,0.946835
+5,"a solitary palm tree stands resilient against the foamy waves on a cliffside island at golden hour, highly detailed seascape with vibrant colors",0.8506284952163696,0.7804300785064697,63.70774001083708,0.020072
+5,"a solitary palm tree towers above the waves crashing against the rocky shores of a remote island at golden hour, highly detailed digital seascape",0.8842895030975342,0.7723135352134705,60.56827702872495,0.413027

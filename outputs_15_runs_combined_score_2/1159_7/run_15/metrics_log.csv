@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a top spiked hedgehog laying down on top of a cube-shaped wafer cake, soft lighting, detailed digital art",0.7161694765090942,0.5482485890388489,31.465748908960755,
+1,highly detailed image of a top spiked hedgehog laying down on top of a cube-shaped wafer cake in a warm soft golden light,0.8329895734786987,0.4362783432006836,38.49706541531447,0.964974
+1,a top spiked hedgehog lying in a relaxed position on top of a cube-shaped cake with a delicate wafer crust,0.7714652419090271,0.6373106241226196,49.67451318919943,0.486515
+1,a close-up of a top spiked hedgehog resting on top of a cube-shaped wafer cake surrounded by subtle pastel colors,0.7375313639640808,0.7514735460281372,81.65258470776938,0.091431
+1,highly detailed digital painting of a top spiked hedgehog lounging on top of a cube-shaped wafer cake with intricate textures,0.7576884031295776,0.5666285753250122,42.49812982304832,0.519360
+1,a top spiked hedgehog peacefully laying on a cube-shaped wafer cake with delicate icing designs and a dreamy soft focus effect,0.7165393233299255,0.7427642941474915,68.88262241260334,0.072103
+2,highly detailed image of a western hedgehog laying down on top of a cube-shaped wafer cake in a soft warm golden light,0.711657702922821,0.49449387192726135,44.370025333635525,0.449936
+2,highly detailed realistic image of a spiky hedgehog laying down on top of a white cube-shaped wafer cake with soft warm golden light reflecting off of it,0.6930831670761108,0.5861129760742188,55.04997633863159,0.114363
+2,4k digital painting of a relaxed hedgehog on top of a cube-shaped wafer cake in a cozy warm golden ambiance,0.6874370574951172,0.5738048553466797,42.42449870204171,0.274799
+2,highly detailed image of a brown and white hedgehog curled up on top of a golden cube-shaped wafer cake in a warm soft golden light with delicate shadows,0.663939356803894,0.5647121071815491,52.30388172235837,0.103553
+2,highly detailed photorealistic image of a resting hedgehog on top of a cube-shaped wafer cake in soft warm golden light with intricate details and texture,0.6515930891036987,0.5307071805000305,34.74696637315587,0.342445
+3,highly detailed realistic image of a Prickly Pear hedgehog laying down on top of a cube-shaped wafer cake in a warm soft golden light,0.6747311949729919,0.5745669603347778,48.586729552945606,0.212553
+3,photorealistic masterpiece of a hedgehog atop a cube-shaped wafer cake in a soft warm golden tone,0.6973053216934204,0.4861828088760376,42.99511010806639,0.509488
+3,detailed image of a relaxed African pygmy hedgehog curled up on a single cube-shaped wafer cake in a warm golden soft focus,0.6725443601608276,0.5414270758628845,55.658400134353215,0.164051
+3,4k detailed image of a spiky hedgehog laying down on top of a stack of 3 cube-shaped wafer cakes in a warm soft golden ambient light,0.789307713508606,0.5689459443092346,44.119896484429816,0.570476
+3,highly detailed photorealistic image of a relaxed hedgehog laying on top of a large cube-shaped wafer cake in a cozy warm soft golden light and shadow.,0.6303353309631348,0.5431025624275208,41.98920186145335,0.256010
+4,highly detailed photorealistic image of a top spiked hedgehog laying down on top of a cube-shaped wafer cake in a warm soft golden natural light,0.754838228225708,0.544636070728302,38.81110517582661,0.523925
+4,realistic 4k digital painting of a spiky hedgehog resting on top of a cube-shaped wafer cake under warm golden illumination,0.6620198488235474,0.5561636686325073,41.945423863128916,0.168920
+4,detailed digital artwork of a top spiked hedgehog comfortably laid on a cube-shaped wafer cake in a cozy warm golden glow,0.5891246795654297,0.5522313117980957,36.77230647771068,0.260059
+4,highly realistic image of a top spiky hedgehog laying down peacefully on top of a cube-shaped wafer cake in a gentle warm soft golden light,0.7815297842025757,0.477342426776886,42.33574799119954,0.559517
+4,highly detailed photorealistic digital painting of a top spiky hedgehog relaxed on top of a cube-shaped wafer cake in a warm soft golden ambiance,0.7323745489120483,0.5570924282073975,40.28376623308724,0.385916
+5,highly detailed image of a top spiked African pygmy hedgehog laying down on top of a cube-shaped vanilla bean cake in a warm soft golden light,0.7143475413322449,0.5821142196655273,52.45116179670864,0.492699
+5,highly detailed image of a western European hedgehog laying down on top of a cube-shaped wafer cake on a golden pedestal in a warm soft golden light,0.6867890954017639,0.5482627153396606,44.29582879188216,0.554946
+5,highly detailed 4k digital painting of a top spiked hedgehog laying down on top of a cube-shaped wafer cake surrounded by tiny golden confetti in a warm soft golden light,0.7394766211509705,0.6168139576911926,41.32251732663217,0.594605
+5,image of a top spiked hedgehog laying down on top of a cube-shaped wafer cake surrounded by delicate sugar flowers in a warm soft golden light,0.5364328026771545,0.6639962196350098,64.17311322305137,0.000000
+5,highly detailed image of a top spiked hedgehog reclining on top of a cube-shaped wafer cake in a serene golden twilight soft golden light with subtle shadows,0.6909478306770325,0.5226573348045349,35.67685343251403,0.665684

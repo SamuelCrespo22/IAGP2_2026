@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,
+1,"painting of a mouse with shiny, multicolored scales and a vibrant, softly glowing colorful background highly detailed, 4k masterpiece",0.7206847667694092,0.6637599468231201,40.372551422879035,0.656403
+1,"mouse in a kaleidoscope of colors with iridescent scales and a bright, ethereal glow",0.7815409898757935,0.7871585488319397,35.09567030136725,0.874327
+1,"painting of a cute mouse with intricate, colorful scales and a warm, inviting background of swirling hues",0.7320516109466553,0.7314220070838928,55.153467039174735,0.455158
+1,"realistic, detailed portrait of a mouse with shimmering, colorful scales and a beautiful, starry night sky",0.6979106664657593,0.9092364311218262,40.72218232082779,0.298075
+1,"highly realistic, 4k digital painting of a mouse with dazzling, colorful scales and a stunning, gradient-colored background",0.7336822748184204,0.7089964747428894,39.816742538848956,0.676598
+2,"mouse in a kaleidoscope of vibrant colors with iridescent, shimmering scales and a brilliant, otherworldly glow",0.7505218982696533,0.8743422031402588,34.175513402532495,0.587346
+2,"mouse in a kaleidoscope of pastel colors with delicate, rainbow-colored scales and a soft, ethereal aura",0.6861881613731384,0.8182187080383301,53.285846693644785,0.087388
+2,"highly detailed, photorealistic mouse in a kaleidoscope of colors with iridescent, crystalline scales and a radiant, luminous glow",0.7341217994689941,0.7137834429740906,39.80581157631867,0.677694
+2,"4k digital painting of a mouse amidst a kaleidoscope of colors with iridescent, gemstone-like scales and a bright, shining aura",0.75472092628479,0.7748308181762695,35.912276603284305,0.741589
+2,"highly realistic, detailed mouse in a kaleidoscope of colors with iridescent, butterfly-like scales and a delicate, sparkling glow",0.7442760467529297,0.7248358130455017,39.77349521687141,0.714153
+3,"mouse amidst a vibrant kaleidoscope of colors with delicate, shimmering scales and a soft, radiant glow",0.5280858278274536,0.9715420603752136,36.51979173228027,0.000000
+3,"intricately patterned mouse within a kaleidoscope of iridescent hues with delicate, glistening scales",0.5408139228820801,0.9434869289398193,34.10307237447248,0.197464
+3,"a highly detailed, 4k mouse is suspended amidst a colorful, swirling kaleidoscope with vibrant, shimmering scales",0.5805878639221191,0.8133913278579712,34.932227059109884,0.406238
+3,"ethereal mouse in a kaleidoscope of rich, jewel-toned colors with delicate, pearlescent scales and an otherworldly glow",0.6502698659896851,0.8315720558166504,36.261090784340084,0.445196
+3,"an exquisite, digital painting of a mouse set amidst a kaleidoscope of colors with intricate, shimmering scales and a warm, ethereal light",0.6199986338615417,0.9022284746170044,32.021594664281935,0.525300
+4,"mouse with iridescent scales and ethereal glow in a highly detailed, 4K digital painting of a kaleidoscope of colors",0.5785552263259888,0.9501357078552246,34.30524906599833,0.234965
+4,"mouse amidst vibrant, swirling patterns and iridescent scales, radiating a soft, luminous glow",0.6360191106796265,0.8932971358299255,39.567629648938,0.424224
+4,"iridescent mouse in a dreamlike, ethereal environment filled with colorful, kaleidoscopic shapes and patterns",0.5975386500358582,0.8450918197631836,65.62797362572309,0.207893
+4,"a highly detailed, photorealistic image of a mouse with shining, iridescent scales, positioned in the center of a colorful, swirling kaleidoscope",0.7648253440856934,0.8179842233657837,32.30096162638092,0.911540
+4,"mouse surrounded by a kaleidoscope of bright, shimmering colors, with iridescent scales and a soft, radiant glow in a 4K digital painting style",0.7384811639785767,0.8075119853019714,33.72251228600202,0.852049
+5,"mouse in a kaleidoscope of bright, shimmering colours with iridescent, holographic scales and a radiant, ethereal glow",0.7553003430366516,0.8146424889564514,42.11142064508925,0.835374
+5,"mouse amidst a whirlwind of vibrant, swirling patterns with iridescent, crystalline scales and a soft, ethereal aura",0.6252198219299316,0.884187638759613,69.96950225907786,0.268831
+5,"highly detailed mouse in a kaleidoscope of iridescent scales with a mesmerizing, bright glow and intricate, swirling patterns",0.5468962788581848,0.9632611274719238,35.77254177134502,0.245148
+5,"mouse set amidst a kaleidoscope of kaleidoscopic colours with iridescent, glittering scales and a warm, soft ethereal light",0.5568441152572632,0.936400294303894,35.46267770405879,0.303193
+5,"an intricately detailed mouse with iridescent scales, set amidst an abstract background of swirling patterns and a subtle, ethereal glow, rendered in 4K digital painting",0.7066411375999451,0.7693262696266174,38.78530732232135,0.813947

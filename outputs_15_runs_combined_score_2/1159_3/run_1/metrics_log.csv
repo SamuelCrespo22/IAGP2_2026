@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,
+1,anime character with a highly detailed flaming sword and vibrant magical blue flames,0.8056654334068298,0.5698449611663818,44.40895656508594,0.462506
+1,highly stylized anime character wielding a flaming sword with dynamic magical blue flames,0.7873595952987671,0.5655723810195923,48.042009466925435,0.138644
+1,anime swordsmage with a majestic flaming sword and bright magical blue fire,0.8301626443862915,0.5720576047897339,47.867920549381466,0.581624
+1,highly detailed anime warrior with a fiery sword and majestic magical blue flames dancing around them,0.815444827079773,0.5543352365493774,43.18396065339468,0.781959
+1,highly detailed digital painting of an anime character with an epic flaming sword and mesmerizing magical blue flames surrounding them,0.8105255365371704,0.5685827136039734,42.08461297736683,0.629300
+2,anime swordsmage with a vibrant blazing sword and intense magical blue fire,0.765395998954773,0.6002328395843506,50.844333302065905,0.343452
+2,highly detailed 4k anime swordsmage with a majestic glowing sword and brilliant magical blue flames,0.789362370967865,0.6364537477493286,50.477559082474066,0.419555
+2,fantasy swordsmage with an epic flaming sword and resplendent blue magical aura,0.7378942966461182,0.5704536437988281,44.21526195207033,0.500000
+2,an anime masterpiece depicting a swordsmage with a radiant fiery sword and mesmerizing magical blue sparks,0.7407200336456299,0.7044024467468262,47.784562250691366,0.130705
+2,highly stylized digital painting of a swordsmage wielding an enormous majestic flaming sword and effulgent magical blue energy,0.7610353231430054,0.589148759841919,48.89880816853409,0.413879
+3,"anime swordsmage wielding a majestic, highly detailed, flaming sword and radiating bright magical blue fire",0.8069289326667786,0.5873163938522339,47.557538156586986,0.382957
+3,"majestic anime swordsmage with an elaborate, flaming sword and vibrant magical blue flames",0.7683929800987244,0.5760089755058289,42.55133471515889,0.397968
+3,"highly detailed digital painting of a wise, powerful swordsmage with a majestic, fiery magical sword",0.741931140422821,0.5495550632476807,40.04271603560098,0.500000
+3,"an anime swordsmage with a 4k masterpiece, highly detailed, flaming magical sword and brilliant blue fire effects",0.7869200110435486,0.5525485277175903,46.177090780487674,0.539521
+3,"swordsmage with a majestic, highly realistic, flaming magical sword and intense, bright blue fire illuminating an epic anime landscape",0.7490981221199036,0.5880406498908997,43.85840758826505,0.168711
+4,"anime swords-mage with a majestic, highly detailed, flaming sword and bright magical blue fire",0.81715327501297,0.5888606309890747,44.82313483998727,0.781727
+4,"anime swordsmage wielding a mighty, 4k, blazing sword with vibrant magical energy",0.7810213565826416,0.5802448987960815,47.00937346889532,0.496350
+4,"a majestic, digital painting style, swords-mage with a fiery, blue magical aura and a powerful, flaming sword",0.7457138299942017,0.567996084690094,44.74465602330778,0.424593
+4,"highly detailed, anime style swords-mage with a majestic, long sword and bright, magical blue flames",0.744249701499939,0.6626287698745728,48.45493157836985,0.000000
+4,"anime fantasy swords-mage with a beautifully crafted, masterful, majestic flaming sword and bright magical blue fire",0.7676364779472351,0.5953376293182373,42.86960511763111,0.563877
+5,anime swordsmage with a majestic highly detailed flaming sword and vibrant magical blue fire emanating from the hilt,0.7956046462059021,0.6028183698654175,48.88280674833967,0.311907
+5,anime swordsmage standing heroically with a mighty fiery blue blade and majestic blue magical flames dancing around them,0.8219239711761475,0.5669958591461182,44.76838715189308,0.855670
+5,highly detailed digital painting of an anime swordsmage wielding a majestic flaming sword with bright magical blue fire crackling and spewing from the blade,0.8168730139732361,0.5813074707984924,44.45057664104716,0.755076
+5,"anime swordsmage with an elegant and highly detailed flaming blue sword, surrounded by dynamic magical blue flames that seem to leap from the blade",0.7969129085540771,0.6734623312950134,56.5027027915265,0.018929
+5,majestic highly detailed anime swordsmage holding an enormous flaming blue sword with intense magical blue fire spewing from the blade in a fantastical digital painting,0.8053479790687561,0.5887834429740906,43.45710302870685,0.589810

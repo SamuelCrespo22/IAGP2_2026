@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a top spiked hedgehog laying down on top of a cube-shaped wafer cake, soft lighting, detailed digital art",0.7161694765090942,0.5482485890388489,31.465748908960755,
+1,"a top spiked hedgehog lying down on a cube-shaped wafer cake, soft natural lighting, highly detailed digital art",0.8285443186759949,0.4646173417568207,38.85015947020164,0.871888
+1,"a top spiked hedgehog resting on top of a cube-shaped wafer cake, warm ambient lighting, highly detailed digital painting",0.7452142834663391,0.5645706653594971,39.70371921448328,0.492490
+1,"a spiked top hedgehog reclining on a cube-shaped wafer cake, subtle gradient colors, detailed realistic digital art",0.7659783363342285,0.5994580984115601,45.875848891445905,0.388325
+1,"a hedgehog with a spiky top posing on a cube-shaped crispy wafer cake, golden sunlight, 4k highly detailed digital artwork",0.7146763801574707,0.5276018977165222,39.3999289133141,0.472384
+1,"a top spiky hedgehog lying down on a large cube-shaped wafer cake, soft diffused lighting, exquisite highly detailed digital painting",0.6370669603347778,0.6346150636672974,40.70832976548713,0.089651
+2,"a top spiked hedgehog posing with its front legs on a cube-shaped wafer cake, soft warm natural lighting, highly detailed 4k digital art",0.7768276929855347,0.4996502697467804,39.484543635548,0.789161
+2,"a resting top spiked hedgehog on a cube-shaped wafer cake, subtle shading, delicate soft natural lighting, fine digital art",0.7876791954040527,0.5634215474128723,45.92601421124394,0.725881
+2,"a top spiked hedgehog lying on a cube-shaped wafer cake with colorful sprinkles, delicate pastel colors, highly detailed digital painting, soft warm natural lighting",0.6856726408004761,0.7337030172348022,78.21535820298153,0.032332
+2,"a top spiked hedgehog curled up on a cube-shaped wafer cake, delicate texture, warm natural lighting, highly realistic digital art",0.725148618221283,0.45831626653671265,40.8961884253277,0.648556
+2,"a top spiked hedgehog sitting on the edge of a cube-shaped wafer cake with a cherry on top, vibrant colors, highly detailed digital masterpiece, soft warm natural lighting",0.6757954359054565,0.527157187461853,42.01276343709677,0.417420
+3,"'a top spiked hedgehog reclining on a cube-shaped wafer cake, high-key soft natural lighting, highly detailed 4k digital art'",0.7122387886047363,0.5611374378204346,38.96369235193148,0.648222
+3,"'a top spiked hedgehog lying down on a delicate cube-shaped wafer cake, warm soft natural lighting, highly detailed oil painting'",0.6821120977401733,0.6144043207168579,38.21808268681679,0.536280
+3,"'a top spiked hedgehog relaxing on a small cube-shaped vanilla wafer cake, soft pastel natural lighting, highly detailed digital illustration'",0.681731104850769,0.6860873103141785,59.39012024025895,0.204596
+3,"'a top spiked hedgehog curled up on a large cube-shaped wafer cake, soft golden natural lighting, highly detailed realistic art'",0.7403128147125244,0.48481860756874084,43.91990979400844,0.732338
+3,"'a top spiked hedgehog sleeping on a medium cube-shaped chocolate wafer cake, soft warm natural lighting, highly detailed fantasy digital art'",0.5800489187240601,0.5611563920974731,41.530715333828574,0.351909
+4,"a top spiked hedgehog lying on a perfectly baked, cube-shaped vanilla wafer cake, soft warm natural lighting, highly detailed realistic digital art",0.6074289679527283,0.5528267025947571,46.118236909336886,0.230644
+4,"a giant, top spiked hedgehog resting on a cube-shaped wafer cake, soft natural light, highly detailed digital painting in high definition",0.6113811731338501,0.621099591255188,41.53581738909219,0.250825
+4,"an adorable spiky hedgehog lying down in a delicate, cube-shaped wafer cake, high-key natural lighting, highly detailed and realistic digital art",0.7346847653388977,0.6085696816444397,47.107846586814375,0.401290
+4,"a majestic, top spiked hedgehog reclining on a beautifully crafted, cube-shaped, vanilla-flavored wafer cake, soft, natural lighting, 4k resolution, highly detailed masterpiece",0.6824024319648743,0.6594986915588379,48.507889445675225,0.197212
+4,"a cute spiky hedgehog snuggled up lying down in a delicate, cube-shaped cookie-flavored wafer cake, soft, natural, warm, and inviting lighting, highly detailed digital painting.",0.5872174501419067,0.5665577054023743,37.00287725432389,0.369228
+5,"highly detailed digital art of a top spiked hedgehog lying down on a cube-shaped wafer cake, soft natural morning lighting",0.8125619292259216,0.5764408707618713,42.11308325782591,0.757649
+5,"a top spiked hedgehog resting on a perfectly baked cube-shaped wafer cake, warm gentle morning light, highly detailed 4k digital art",0.6707596778869629,0.6051738858222961,44.176028876820354,0.241961
+5,"a close-up of a top spiked hedgehog gently lying on a cube-shaped wafer cake, soft and natural lighting, digital art",0.7377849817276001,0.5403451323509216,43.86798326190687,0.543413
+5,"a highly detailed digital painting of a top spiked hedgehog reclining on a cube-shaped wafer cake, soft and serene natural lighting",0.7155873775482178,0.6432974934577942,46.11596390850818,0.307118
+5,"a delicate top spiked hedgehog lying down on a perfectly baked and decorated cube-shaped wafer cake, highly detailed digital art, warm natural morning light",0.6875447034835815,0.6558276414871216,56.77833422649228,0.053190
