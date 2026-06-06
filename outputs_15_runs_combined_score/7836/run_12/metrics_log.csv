@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
-1,highly detailed astronaut standing on barren surface of a distant planet with a bright blue light shining in the background,0.8474191427230835,0.5760619044303894,36.923609799925984,0.692584
-1,astronaut standing on the rugged surface of a mysterious alien world with a vibrant light radiating from behind,0.8907855153083801,0.5875016450881958,42.3770620818954,0.769907
-1,digital painting of an astronaut standing on a desolate planet with a glowing light illuminating the horizon,0.8435797095298767,0.6343573927879333,43.951783705637226,0.500226
-1,detailed close-up of an astronaut standing on the surface of a distant planet with a brilliant light shining above,0.8047114610671997,0.542953372001648,36.07720198210151,0.583238
-1,highly detailed astronaut walking on the rocky surface of a foreign planet with a powerful light emanating from the sky,0.762384831905365,0.7062737941741943,50.122275645131424,0.000000
-2,astronaut standing on the rugged texture of an uncharted alien world with a vivid aurora shining from behind,0.8366037011146545,0.6817982792854309,46.10661509909883,0.271533
-2,astronaut on the rough terrain of a distant extraterrestrial landscape with radiant light emanating from the horizon,0.8522437810897827,0.6663874387741089,43.30469842312238,0.448765
-2,highly detailed astronaut stands atop the rocky surface of a mysterious alien terrain with a breathtaking sunrise illuminating the scene,0.8434629440307617,0.818570613861084,68.1665060533177,0.063298
-2,astronaut exploring the harsh environment of a mysterious alien planet with a warm glow emanating from the distant mountains,0.8562161922454834,0.7249714732170105,65.15522608885503,0.278680
-2,astronaut standing at the edge of a massive crater on a remote alien world with a brilliant solar flare radiating from behind the horizon,0.8850369453430176,0.5095935463905334,33.883871966891235,0.946951
-3,"'astronaut standing on the rugged terrain of a distant, alien moon with highly detailed, vibrant light radiating from behind'",0.8686324954032898,0.6433836817741394,41.05252779365356,0.794135
-3,"'astronaut standing on the unforgiving, rocky surface of a mysterious, extraterrestrial world with a bright, pulsing glow behind'",0.83762526512146,0.6134202480316162,36.94968992646233,0.772288
-3,"'highly detailed space explorer standing on the rugged, barren landscape of a far-off, alien planet with a soft, warm light shining from the distance'",0.7516177892684937,0.7639707922935486,58.723905869841374,0.000000
-3,"'a lone astronaut standing on the rough, rocky surface of a distant, uncharted world with a brilliant, radiant light emanating from the atmosphere'",0.8547212481498718,0.6522449851036072,44.032518893036844,0.697387
-3,"'heroic astronaut standing on the craggy, alien terrain with a vibrant, swirling light emanating from a distant, mystical portal'",0.8681055307388306,0.6606455445289612,52.55718291767073,0.635697
-4,"astronaut standing on the rugged, rocky surface of a mysterious alien world with a vibrant, pulsing light radiating from behind",0.8586422204971313,0.6153111457824707,43.642975739185864,0.299231
-4,"astronaut standing on the alien world's barren, dusty terrain with a bright, ethereal glow emanating from the horizon",0.8617199063301086,0.6068904995918274,47.922101937120026,0.271064
-4,"highly detailed astronaut standing on a mysterious, uncharted alien world's rugged surface with a radiant, otherworldly light shining from behind",0.8562426567077637,0.6439342498779297,41.7276402756797,0.256480
-4,"astronaut standing on the edge of a vast, barren expanse of an alien world's surface with a brilliant, glowing light source illuminating the surrounding terrain",0.8863515853881836,0.5057132244110107,35.37093539701143,0.924058
-4,"detailed, 4k astronaut portrait with the astronaut standing on the mysterious, alien world's rocky surface beneath a dramatic, starry sky with a vibrant, shining light radiating from behind",0.8416777849197388,0.6433659195899963,33.60755289823054,0.251028
-5,"astronaut standing on the rugged, rocky surface of a mysterious alien world with a vibrant, celestial light radiating from behind",0.8813046813011169,0.6602293252944946,49.332503589605864,0.594567
-5,"astronaut standing on the alien terrain's rugged terrain with an otherworldly, pulsing light behind them",0.8593587279319763,0.6634560227394104,50.94292273421759,0.359226
-5,"an astronaut on a distant, desolate alien world with a bright, electric blue light illuminating the harsh landscape",0.8389450311660767,0.5895482301712036,46.45353710922586,0.453634
-5,"highly detailed astronaut standing on a mysterious, extraterrestrial landscape with a stunning, warm light radiating from the distance",0.8350501656532288,0.6179637908935547,46.63828986725283,0.340699
-5,"astronaut standing at the edge of a mysterious alien world with a vivid, ethereal light emanating from behind a rugged, craggy outcropping",0.8744637966156006,0.6827874183654785,55.797692229670304,0.353578
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.818317
+1,astronaut standing on a rocky surface of a distant planet with a bright light shining in the background,0.817171037197113,0.6273707151412964,44.644176027351754,0.539499
+1,highly detailed astronaut standing at the edge of a crater on a mysterious planet with a vibrant light,0.7827394008636475,0.594211995601654,36.48018119403885,0.468047
+1,astronaut in a spacesuit standing on a barren alien landscape under a brilliant celestial light,0.8210508823394775,0.5718599557876587,34.08892744853218,0.643874
+1,astronaut standing on the surface of a planet with a massive fiery explosion as a bright background light,0.8072465062141418,0.5923978090286255,54.26901361949928,0.475425
+1,a highly realistic astronaut standing on the rugged terrain of a distant alien world at sunset with a dramatic celestial glow,0.8213440179824829,0.7541747689247131,55.06949266536099,0.420513
+2,astronaut standing on a distant alien planet with a bright celestial light shining in the background,0.7638927698135376,0.47312653064727783,34.30633871305975,0.484742
+2,an astronaut standing at the edge of a desolate extraterrestrial landscape with a brilliant cosmic light illuminating the scene,0.8817019462585449,0.5539796352386475,34.772706872397606,0.888353
+2,highly detailed astronaut standing on the rugged surface of a foreign planet with a vibrant light shining through the atmosphere,0.8470436334609985,0.6513857245445251,52.14988681836063,0.602477
+2,4k astronaut standing in a beautiful yet treacherous alien environment with a glowing light in the distance,0.823268711566925,0.6748679280281067,52.54245847205733,0.492555
+2,a finely crafted astronaut standing on the barren but breathtaking surface of a strange planet with a brilliant light emanating from the heavens,0.8341493606567383,0.5347977876663208,32.9667673402352,0.724757
+3,"an astronaut standing at the edge of a desolate, barren extraterrestrial landscape with a brilliant, vibrant cosmic light illuminating the scene",0.8684993386268616,0.5548750162124634,35.018268722012934,0.835115
+3,"an astronaut in a spacesuit standing at the edge of a vast, dark extraterrestrial desert under a brilliant cosmic light",0.8152088522911072,0.5120420455932617,32.174966403509245,0.669845
+3,"highly detailed astronaut standing at the edge of an alien, barren wasteland with a brilliant, pulsing cosmic light shining down",0.8064313530921936,0.5083109140396118,31.265281528355203,0.642664
+3,"astronaut silhouette against a cosmic, orange-hued extraterrestrial sunset with a brilliant, shimmering light",0.8241246938705444,0.593729555606842,45.92608477680075,0.582150
+3,"highly detailed astronaut standing on a rugged, rocky outcropping at the edge of an extraterrestrial, dusty canyon with a brilliant, radiant light in the distance",0.7673921585083008,0.8553940653800964,81.09099071623736,0.013629
+4,an astronaut standing at the edge of a barren extraterrestrial landscape with a bright celestial beam illuminating the scene,0.8838343024253845,0.5540962815284729,33.40139550944064,0.903462
+4,a lone spaceman standing on the precipice of an arid alien world with a radiant cosmic glow illuminating the foreground,0.8395555019378662,0.6089480519294739,39.521936912771096,0.664428
+4,"an astronaut standing at the edge of a desolate extraterrestrial landscape with a brilliant, high-res, 4k cosmic light illuminating the scene",0.8922731280326843,0.531832218170166,31.93430083138067,0.958250
+4,"an astronaut in a sleek spacesuit standing at the edge of a desolate, dystopian extraterrestrial landscape with a vibrant cosmic light illuminating the horizon",0.8039695024490356,0.6036645174026489,40.74724729220811,0.523139
+4,"an astronaut standing in contemplation at the edge of a vast, desolate extraterrestrial expanse with a brilliant, shimmering cosmic light illuminating the scene",0.8623003959655762,0.4955044686794281,33.432385779700304,0.857757
+5,"a highly detailed astronaut standing at the edge of a barren, unforgiving extraterrestrial terrain with a radiant, high-resolution 8k cosmic glow illuminating the scene",0.8048507571220398,0.5406779646873474,35.15289661379513,0.595834
+5,"a lone astronaut standing at the precipice of a desolate alien landscape bathed in an intense, ultra-high-definition 4k light",0.8476431965827942,0.6874786019325256,60.00502677393866,0.541795
+5,"a majestic astronaut towering above the desolate expanse of a distant planet with an astonishing, photorealistic, 4k cosmic light shining brightly",0.7966775298118591,0.5147147178649902,37.219164703456926,0.570614
+5,"an astronaut standing at the edge of a desolate, yet eerily beautiful, extraterrestrial environment with a brilliant, high-resolution, cinematic 4k light illuminating the scene",0.8350781798362732,0.6886196732521057,53.78289098225079,0.523331
+5,"a courageous astronaut standing at the threshold of a desolate, alien world with a stunning, ultra-realistic, high-dynamic-range 4k cosmic light bathing the landscape",0.8905671834945679,0.5517230033874512,36.542059422268004,0.915478

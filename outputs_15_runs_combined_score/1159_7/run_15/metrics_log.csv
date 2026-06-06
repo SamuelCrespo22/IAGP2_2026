@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,'a small hedgehog sits on top of a delicious moist cake',0.6199051141738892,0.6829600930213928,52.69754207615604,0.815872
-1,'a tiny spiky hedgehog perches on a block of vanilla birthday cake',0.6226309537887573,0.7426416277885437,59.54203272461476,0.559253
-1,'highly detailed photo of a small hedgehog sitting on a decadent chocolate cake',0.5961179733276367,0.6448426246643066,51.18191716341043,0.844231
-1,'a miniature hedgehog rests on a tiered cake stand with colorful flowers',0.48608875274658203,0.7335701584815979,58.40354899611509,0.106027
-1,'a tiny cute hedgehog sits on top of a classic multi-tiered wedding cake with fondant decorations',0.48488834500312805,0.6883696913719177,62.59035426260638,0.121373
-2,a highly detailed spiky hedgehog perches on a block of moist vanilla birthday cake,0.6468842029571533,0.7230653166770935,60.340813427755144,0.728070
-2,a cute tiny spiky hedgehog sits on a small block of vanilla birthday cake,0.6175740957260132,0.7092298865318298,67.03000156834325,0.524491
-2,a spiky hedgehog in a bright garden perches on a block of classic vanilla birthday cake,0.5467840433120728,0.7351002097129822,56.03852375959921,0.260440
-2,a spiky hedgehog surrounded by colorful balloons sits on a block of vanilla birthday cake,0.614970862865448,0.7815076112747192,73.09189272858535,0.340593
-2,a highly detailed spiky hedgehog in a 4k digital painting sits on a moist vanilla birthday cake,0.6441344618797302,0.6034454703330994,51.2603275965218,0.986265
-3,a highly detailed 3d spiky grey hedgehog perches on a block of moist vanilla birthday cake,0.6342912912368774,0.714040994644165,64.01074063721158,0.374303
-3,a highly detailed 4k rendered spiky hedgehog perches on a block of moist vanilla birthday cake in a bright sunlight,0.6519012451171875,0.701627254486084,63.77569498847378,0.579688
-3,a highly realistic spiky hedgehog with sharp quills perches on top of a moist vanilla birthday cake,0.6433397531509399,0.6506658792495728,53.631507497787894,0.923740
-3,a highly detailed 8-bit spiky hedgehog perches on a single tiered moist vanilla birthday cake with colorful frosting,0.5957679152488708,0.6638162732124329,59.60811032842913,0.310635
-3,a highly detailed photorealistic spiky hedgehog perches on a large block of moist vanilla birthday cake with a slight icing drizzle,0.6349939703941345,0.6732974052429199,59.91465403843742,0.619913
-4,highly detailed 8k rendered spiky hedgehog perches on a block of moist vanilla birthday cake in a warm golden sunlight,0.5719829797744751,0.6949865221977234,55.02981995621902,0.274456
-4,a highly detailed hyperrealistic spiky hedgehog sits atop a slice of moist vanilla birthday cake in a bright and airy studio,0.6030702590942383,0.7494977116584778,66.43676741671864,0.175584
-4,highly detailed 4k rendered spiky hedgehog standing on a moist vanilla birthday cake with a delicate ice cream cone melting behind it,0.6382280588150024,0.6628305315971375,48.48680967198445,0.746553
-4,a realistic 4k rendered image of a spiky hedgehog eating a slice of moist vanilla birthday cake in a quiet afternoon sunlight,0.5673679113388062,0.7360197305679321,56.39771395039088,0.148012
-4,highly detailed digital painting of a spiky hedgehog perched on a block of moist vanilla birthday cake in a serene and peaceful morning light,0.6690350770950317,0.6322530508041382,45.394654886060906,1.000000
-5,highly detailed digital painting of a vibrant spiky hedgehog perched on a moist and creamy vanilla birthday cake in a serene and peaceful golden morning light,0.6314337253570557,0.6132676601409912,52.38296533732398,0.331239
-5,highly detailed 4k digital painting of a spiky hedgehog perched on a block of rich and moist vanilla birthday cake in soft pastel morning hues,0.6875123381614685,0.63911372423172,45.97921303529393,0.846811
-5,masterpiece highly detailed digital painting of a spiky hedgehog sitting on a tall block of fluffy moist vanilla birthday cake in a warm peaceful morning,0.6205545663833618,0.6621161699295044,47.860548570460644,0.161785
-5,highly detailed oil on canvas style digital painting of a spiky hedgehog perched delicately on a block of moist creamy vanilla birthday cake in a serene and peaceful morning,0.6442919969558716,0.643968939781189,48.0527709879391,0.425040
-5,highly detailed realistic digital painting of a spiky hedgehog sitting comfortably on a block of moist and decadent vanilla birthday cake in a soft and serene peaceful morning light with subtle shadows,0.6507892608642578,0.6579841375350952,50.54499422269452,0.312673
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.581962
+1,there is a small cute hedgehog standing on top of a perfectly round block of cake,0.6272457838058472,0.5833150148391724,50.774299832654265,0.696031
+1,there is a tiny realistic hedgehog sitting on top of a beautifully decorated multi-tiered cake,0.5738861560821533,0.6843904256820679,57.247974594988136,0.360263
+1,highly detailed 4k image of a sweet little hedgehog perched on a fluffy block of vanilla cake,0.6097476482391357,0.7049556970596313,65.31407577612005,0.357030
+1,a small adorable hedgehog is sitting on a single tier block of chocolate cake with icing and sprinkles,0.6322097778320312,0.6660884022712708,60.239057185871715,0.514175
+1,a tiny realistic hedgehog is sitting on top of a moist looking block of carrot cake with cream cheese frosting,0.5376942753791809,0.6999728083610535,61.39015998886088,0.206074
+2,there is a small cute hedgehog standing on top of an intricately decorated round chocolate cake,0.5997206568717957,0.5436580777168274,41.55679432546299,0.757404
+2,the image is of a tiny hedgehog posing majestically on top of a perfectly round vanilla cake,0.6283289790153503,0.6955375671386719,63.903145807994505,0.431780
+2,highly detailed hedgehog stands proudly on a beautiful round block of moist chocolate cake,0.5737020969390869,0.5583959221839905,47.01957931502717,0.619842
+2,a tiny adorable hedgehog perches on top of a small round tiered sponge cake,0.5029898881912231,0.6591275334358215,48.66073965388705,0.280909
+2,the scene depicts a tiny hedgehog proudly standing on a small round pedestal made of perfectly stacked layers of cake,0.5381743907928467,0.6536195278167725,42.947458963882305,0.432718
+3,a small adorable hedgehog standing on top of a stunningly decorated round chocolate cake,0.6202206611633301,0.5550231337547302,45.08078079691273,0.765685
+3,a tiny cuddly hedgehog is perched on a gorgeous intricately designed round chocolate cake,0.6423000693321228,0.5714089274406433,46.23119194060694,0.792388
+3,"in a highly detailed 4k digital painting style, there is a small cute hedgehog standing on top of a beautifully decorated round chocolate cake",0.5996043682098389,0.5752490758895874,45.02723012522252,0.683883
+3,a small round chocolate cake with perfectly placed candles rests next to a tiny cute hedgehog sitting on its side,0.6279979944229126,0.6077613830566406,48.94592602946181,0.681263
+3,a beautifully crafted highly detailed digital painting of a small cute hedgehog standing proudly on top of an intricately decorated round chocolate cake,0.5962772965431213,0.519354522228241,43.80367578894464,0.761100
+4,beautifully crafted tiny hedgehog sits atop a majestic intricately designed round chocolate cake,0.57826828956604,0.5606357455253601,43.248443758452524,0.662329
+4,a miniature adorable hedgehog perches delicately on a stunning intricately drawn round chocolate cake,0.5599937438964844,0.5971430540084839,48.370156928381185,0.519128
+4,"tiny, cuddly, and endearing, this hedgehog rests on a sumptuously decorated round chocolate cake",0.6633084416389465,0.6256622672080994,51.411345088497676,0.729625
+4,"a small, charming, and sweet hedgehog is placed gently on a gorgeously designed round chocolate cake with delicate chocolate drizzle",0.47599348425865173,0.5891930460929871,49.754634798189265,0.293384
+4,"a delicate, tiny, and intricately patterned chocolate cake features a small adorable hedgehog sitting comfortably at its center.",0.6174148321151733,0.6151427030563354,37.01481851758651,0.748472
+5,a small adorable hedgehog perched on a decadent handcrafted circular velvet chocolate cake,0.5986754894256592,0.625651478767395,48.524999764044445,0.582613
+5,a teeny-tiny hedgehog sitting on a sumptuous intricately designed round multi-colored chocolate cake,0.5328835248947144,0.5808796286582947,48.609675244635824,0.466553
+5,a tiny little hedgehog is delicately standing on a richly ornate round cake made entirely of dark velvety smooth chocolate,0.5940834879875183,0.5838983654975891,46.79703288126269,0.641861
+5,an endearing little hedgehog perched on a beautiful highly detailed round cake covered with a variety of colorful edible flowers,0.6204885840415955,0.6682090759277344,58.00856029922345,0.499736
+5,a teeny hedgehog delicately balancing on a gorgeously elegant round chocolate cake with a subtle golden glaze and delicate sugar decorations,0.5111840963363647,0.6251459717750549,49.63883541146754,0.339913

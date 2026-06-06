@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
-1,highly detailed glass of freshly squeezed orange juice with a vibrant slice of orange on the side,0.9275035858154297,0.41501694917678833,37.9037466689897,0.782372
-1,there is a close-up of a cold glass of orange juice with a single slice of orange on the side,0.9226386547088623,0.48572826385498047,52.590159960997525,0.389622
-1,a 4k digital painting of a glass of orange juice with a perfect slice of orange on the side,0.9098349213600159,0.6183012127876282,54.00446053646963,0.000000
-1,a perfectly realistic glass of orange juice with a single slice of orange sitting on the counter,0.9303927421569824,0.5474945306777954,41.29940235169736,0.612899
-1,highly detailed still life of a glass of orange juice with a bright and juicy slice of orange on the side,0.9411210417747498,0.49617865681648254,39.69224357035335,0.872416
-2,highly detailed realistic still life of a glass of freshly squeezed orange juice with a vibrant and juicy slice of orange on the side,0.9228859543800354,0.5163116455078125,40.540043218887575,0.806763
-2,still life of a 4k glass of orange juice with a bright and succulent slice of orange on the side in soft warm lighting,0.9409844875335693,0.5224173069000244,45.196076875098484,0.828109
-2,a highly detailed close-up of a glass of orange juice on a rustic wooden table with a thick and juicy slice of orange on the side,0.9321874976158142,0.4082097113132477,34.867848519757764,0.970764
-2,highly detailed oil painting of a glass of orange juice with a bright and vibrant slice of orange on the side,0.7883400917053223,0.5742644667625427,47.66659592131943,0.266248
-2,a highly detailed still life of a glass of orange juice with a perfect and succulent slice of orange on the side on a minimalist white background,0.9224968552589417,0.6961256861686707,70.59241382448299,0.439049
-3,highly detailed realistic still life of a fresh glass of orange juice with a vibrant and juicy slice of orange on the side,0.9209356307983398,0.5275877118110657,47.51060441828112,0.763718
-3,a highly detailed and photorealistic still life of a glass of fresh orange juice with a bright and perfectly sliced orange on the side,0.9315406084060669,0.5354894399642944,41.763760002864004,0.877640
-3,ultra-detailed hyper-realistic still life of a glass of orange juice garnished with a juicy slice of orange on a minimalist background,0.9159362316131592,0.5782866477966309,54.32167518946984,0.592462
-3,a highly realistic 4k digital art of a still life setup featuring an orange juice glass and a fresh orange slice on a wooden table,0.8420277237892151,0.6979240775108337,60.15699782427342,0.000000
-3,a delicate and intricately detailed realistic still life of an orange juice glass and a cut slice of orange on a simple kitchen table background,0.8616834878921509,0.6526389122009277,51.99719133426708,0.254976
-4,highly detailed realistic still life of a glass of freshly squeezed orange juice with a bright and vibrant slice of orange on the side,0.9208862781524658,0.4611860513687134,37.37681802169352,0.844648
-4,highly detailed still life of a glass of orange juice with a perfectly sliced and juicy orange half on the side,0.9472317695617676,0.4714438319206238,38.92762492788201,0.964729
-4,highly detailed photorealistic still life of a glass of orange juice with a fresh and inviting slice of orange on the side,0.9358165264129639,0.5100339651107788,43.3186318980168,0.786222
-4,highly detailed digital still life of an orange glass filled with a glass of bright and juicy orange juice and a slice of orange on the side,0.9008928537368774,0.55390465259552,47.941994581009695,0.459365
-4,highly detailed 4k masterpiece of a still life featuring a glass of orange juice with a realistic and succulent slice of orange on the side,0.8624389171600342,0.6718471050262451,54.162464123580556,0.000000
-5,highly detailed realistic still life of a glass of orange juice with a freshly segmented and perfectly juicy orange half on the side,0.9188055992126465,0.5318854451179504,46.69146941934214,0.658592
-5,still life of a glass of orange juice with a beautifully sliced and succulent orange half on a minimalist table,0.8510646820068359,0.6539859771728516,50.884797712414326,0.098660
-5,highly detailed 4k digital painting of a glass of orange juice with a perfectly sliced and juicy hand-carved orange half on the side,0.8810726404190063,0.6205392479896545,54.59147610484318,0.234089
-5,photorealistic highly detailed still life of a glass of orange juice with a perfectly sliced and juicy organic orange half on a rustic wooden table,0.9332361221313477,0.5705101490020752,47.02403276111116,0.683772
-5,highly detailed realistic still life of a glass of freshly squeezed orange juice with a perfectly sliced and succulent orange half on a elegant silver platter,0.9138447046279907,0.6882399916648865,50.1501663013114,0.397296
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.715728
+1,a glass of freshly squeezed orange juice with a slice of orange on the side,0.9225618839263916,0.568913996219635,42.110670829446335,0.763016
+1,highly detailed 4k digital painting of a glass of orange juice with a slice of orange on the side,0.9206687808036804,0.5571475028991699,51.551442647259364,0.688864
+1,a perfectly realistic glass of orange juice with a slice of orange on a simple white tablecloth,0.9235520362854004,0.6597891449928284,68.95556515825993,0.452217
+1,a glass of vibrant orange juice with a juicy slice of orange sitting next to it,0.9079526662826538,0.5604901313781738,44.89128962057233,0.692712
+1,a 4k digital painting of a masterpiece glass of orange juice with a slice of orange and a subtle citrusy background,0.9127151966094971,0.5621547698974609,49.93479691790869,0.667106
+2,'realistic highly detailed image of a glass of freshly squeezed orange juice with a slice of orange on the side',0.9249231815338135,0.44619327783584595,38.968508389294506,0.920751
+2,'the perfect glass of orange juice with a vibrant slice of orange next to it',0.9208418130874634,0.556233823299408,42.87716429775303,0.762751
+2,'photorealistic 4k image of a glass of orange juice with a slice of orange placed carefully on the side',0.9360045194625854,0.4834580421447754,42.8801650056569,0.893047
+2,"'a beautiful, highly realistic digital painting of a glass of orange juice with a slice of orange on the side and soft focus background'",0.9048236012458801,0.6267565488815308,54.09402646424801,0.537913
+2,'a highly detailed and realistic photo of a glass of orange juice with a slice of orange sitting next to it on a wooden table',0.9334765076637268,0.5711250901222229,46.52805359918375,0.765470
+3,photorealistic highly detailed 4k digital painting of a glass of orange juice with a slice of orange carefully placed on the side,0.9304211139678955,0.49917280673980713,40.54088581061134,0.875631
+3,glass of freshly squeezed orange juice with a slice on the plate to the side in a warm and cozy kitchen,0.9173638224601746,0.6177401542663574,57.7142027562011,0.564407
+3,4k photorealistic still life of a glass of orange juice with a slice of orange resting elegantly on the countertop,0.9301680326461792,0.5991472601890564,47.41732129727268,0.717494
+3,a masterpiece of a glass of orange juice and a slice of orange placed delicately on the table in a bright and airy studio,0.8142385482788086,0.6965137720108032,64.3012779459092,0.038802
+3,highly realistic 4k image of a glass of orange juice with a slice on the side and a subtle reflection on the rim,0.9272266030311584,0.4920998215675354,41.747661471783424,0.860490
+4,enhanced photorealistic ultra-high-definition image of a clear glass of freshly squeezed orange juice with a slice of orange placed carefully on a nearby side plate,0.9209097623825073,0.6279811263084412,50.57264900245816,0.627197
+4,highly detailed 4k glass of orange juice with a slice of orange resting next to it on a minimalist table,0.9259468913078308,0.6089497804641724,50.031789018841344,0.669861
+4,photorealistic 4k glass of orange juice with a slice of orange delicately placed on the edge of a modern glass coffee table,0.928747832775116,0.5650485754013062,44.41096873233655,0.771214
+4,realistic 4k image of a glass of orange juice with a slice of orange placed precisely on the side of a stylish wooden countertop,0.9457706212997437,0.5182280540466309,39.81310323527353,0.921016
+4,photorealistic 4k image of a glass of orange juice with a slice of orange carefully set beside it on a rustic wooden table with a worn wooden spoon lying nearby,0.9191237092018127,0.5511975884437561,44.597825509234085,0.746905
+5,realistic 8k high definition image of a glass of orange juice with a slice of orange placed precisely on the side of a luxurious wooden countertop,0.9392898678779602,0.5391387343406677,41.59315396841519,0.860656
+5,highly detailed realistic 4k image of a glass of fresh squeezed orange juice placed beside a slice of orange on a rustic wooden surface,0.9261683821678162,0.5521997213363647,41.4255194273555,0.799130
+5,a photorealistic 4k digital painting of a glass of orange juice with a slice of orange placed on a stylish wooden countertop with a subtle warm glow,0.9338070154190063,0.6117373704910278,48.845455570263,0.706847
+5,realistic 4k image of a glass of orange juice with a slice of orange on the side of a modern minimalist wooden countertop with warm natural lighting,0.8980648517608643,0.5921520590782166,46.66339276652292,0.608730
+5,4k ultra realistic image of a glass of cold fresh orange juice with the rind of the slice on the side of a beautifully crafted wooden kitchen countertop,0.9013388752937317,0.5680072903633118,44.70170043649214,0.661644

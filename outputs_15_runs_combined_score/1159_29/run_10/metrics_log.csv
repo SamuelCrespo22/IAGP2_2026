@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
-1,arafed palm tree on a rock in a warm turquoise ocean at sunset with warm golden light,0.87000572681427,0.6921098828315735,51.99434856667677,0.596043
-1,a beautiful arafed palm tree on a rocky outcropping in the calm ocean at golden hour,0.8625913262367249,0.7367179989814758,58.50456065447262,0.127797
-1,highly detailed arafed palm tree standing proudly on a rugged rock overlooking a serene ocean at sunset with vibrant colors,0.8793916702270508,0.7761384844779968,55.63604794251071,0.333660
-1,a majestic arafed palm tree on a small rocky island in the vast ocean with soft pink hues of sunset,0.9011907577514648,0.6941174864768982,56.52101446124976,0.827508
-1,highly realistic digital painting of a arafed palm tree on a weathered rock in the gentle waves of the ocean at golden hour,0.8916703462600708,0.7731163501739502,58.79036996169772,0.385668
-2,a majestic mature arabian palm tree on a small rocky island in the vast blue ocean with soft warm pink hues of sunset,0.8958873748779297,0.6938995122909546,52.508607985544344,0.700664
-2,a highly detailed vibrant arafed palm tree on a secluded small rocky island in the calm vast ocean with soft pastel pink hues of early sunset,0.9027898907661438,0.6830119490623474,53.654027099354124,0.742763
-2,a majestic old arabian palm tree on a small rocky outcropping in the serene vast ocean with soft gentle pink hues of late afternoon,0.8964554071426392,0.6567099690437317,52.154222763955254,0.823642
-2,a beautiful highly detailed arabian palm tree on a small rock formation in the crystal clear vast ocean with soft subtle pink hues of golden hour,0.9144095778465271,0.7493538856506348,57.35287301320907,0.500000
-2,a serene stunning arabian palm tree in a peaceful atmosphere on a small rocky island in the deep vast ocean with soft delicate pink hues of sunset over calm waters.,0.8635070323944092,0.6841142773628235,55.16099683623594,0.281455
-3,a serene highly detailed arabian palm tree on a small rock formation in a tranquil crystal clear vast ocean at sunset with soft subtle pink hues,0.860223650932312,0.8082015514373779,62.91964069717002,0.032424
-3,a beautiful 4k highly detailed arabian palm tree on a granite small rock formation in the calm crystal clear vast ocean at golden hour,0.8564661741256714,0.7788108587265015,55.51207782224981,0.267174
-3,a stunning highly detailed arabian palm tree on a unique rock formation in the crystal clear vast ocean under warm soft golden hour light,0.8956641554832458,0.7196476459503174,52.86595132094445,0.838244
-3,an idyllic highly detailed arabian palm tree on a small rock formation in a tranquil crystal clear vast ocean at sunset with serene soft subtle pink hues,0.8947951793670654,0.7437347769737244,57.14369164579075,0.656371
-3,a gorgeous hyperrealistic highly detailed arabian palm tree on a weathered granite small rock formation in the calm crystal clear vast ocean at golden hour,0.8680360317230225,0.7652775645256042,55.419653688523475,0.407516
-4,a beautiful highly detailed arabian palm tree on a small volcanic rock formation in the crystal clear vast ocean with soft subtle warm pink hues of golden hour,0.9062858819961548,0.7659169435501099,58.048207643725334,0.475154
-4,a stunning highly realistic 4k arabian palm tree on a rugged rocky outcropping in the calm crystal clear ocean with soft pastel pink tones of golden hour,0.8552825450897217,0.7424562573432922,59.11708184652028,0.117115
-4,a majestic highly detailed arabian palm tree surrounded by a small rocky coastline in the serene crystal clear ocean with soft delicate pink hues of softbox lighting,0.8946609497070312,0.6479463577270508,51.15531437589868,0.820368
-4,a breathtaking highly realistic arabian palm tree on a tiny granite boulder in the tranquil crystal clear ocean with soft muted pink tones of warm ambient light,0.9120204448699951,0.6844054460525513,53.199092212857686,0.815376
-4,a gorgeous highly detailed arabian palm tree on a small limestone formation in the crystal clear vast ocean with soft subtle blush pink hues of overcast natural light,0.8448674082756042,0.62703537940979,58.04821177166491,0.283563
-5,a stunning highly realistic arabian palm tree on a small rocky outcropping in the crystal clear expansive ocean at golden hour with subtle warm pink undertones,0.8970133066177368,0.745188295841217,56.36243371783585,0.566494
-5,a beautiful highly detailed arabian palm tree perched on a tiny volcanic rock in the still calm waters of the vast ocean with soft delicate pink hues of the golden hour,0.9025652408599854,0.7554643750190735,62.543118363939065,0.445436
-5,a serene highly detailed arabian palm tree on a small granite outcrop in the crystal clear tranquil ocean at sunset with subtle gentle pink and orange hues,0.8471523523330688,0.7704083919525146,57.08560811728777,0.123004
-5,a breathtaking highly detailed arabian palm tree standing on a small basalt rock in the crystal clear sparkling ocean at golden hour with soft subtle pink and golden hues,0.894227147102356,0.7191759347915649,57.14751928505432,0.586379
-5,a majestic highly detailed arabian palm tree on a small limestone formation in the crystal clear serene ocean at dusk with soft delicate pink and purple hues,0.9017086029052734,0.6588489413261414,51.45098101231881,0.905579
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.666013
+1,arafed palm tree on a rocky outcrop in the ocean at golden hour,0.8503702878952026,0.7446461319923401,59.34150334756725,0.456523
+1,a single arafed palm tree stands on a solitary rock jutting out of the turquoise ocean waters at sunset,0.8904881477355957,0.7563562989234924,55.12734515179597,0.608641
+1,highly detailed arafed palm tree on a rugged boulder at the edge of the ocean with warm sunset hues,0.8869725465774536,0.763311505317688,57.292481202779804,0.559788
+1,a majestic arafed palm tree perched atop a massive rock formation in the ocean as the sun dips low on the horizon,0.9125673770904541,0.7697321176528931,54.44387167458479,0.660493
+1,digital painting of a solitary arafed palm tree on a rocky promontory surrounded by the soothing blue waters of the ocean at dusk,0.8121890425682068,0.6894263625144958,50.17892774854651,0.551416
+2,highly detailed arafed palm tree on a rock in the ocean at sunset,0.889819860458374,0.742586612701416,57.735136251708035,0.591810
+2,arafed palm tree on a rock in the serene ocean at golden hour,0.8892696499824524,0.678531289100647,52.05345244192522,0.758697
+2,stunningly beautiful arafed palm tree on a rugged rock in the calm ocean at sunset,0.880219578742981,0.7264525890350342,54.4176128383733,0.632463
+2,arafed palm tree on a rock overlooking the horizon in a 4k digital painting,0.8233211636543274,0.6545425653457642,46.37242400966616,0.683941
+2,vibrant arafed palm tree on a rocky outcropping at the edge of the ocean during a warm sunset,0.8753695487976074,0.7605684399604797,56.97763282994166,0.535353
+3,arafed palm tree standing tall on a rocky outcropping in a serene tropical ocean at sunset,0.8559195399284363,0.7235846519470215,56.19563939262438,0.544568
+3,arafed palm tree surrounded by ocean waves on a rocky coastline at golden hour with a warm glow,0.8956770896911621,0.7161428332328796,52.50655766190098,0.716322
+3,highly detailed arafed palm tree on a granite rock in a crystal-clear ocean at golden hour,0.9033447504043579,0.7461856603622437,55.7298453379788,0.651407
+3,"arafed palm tree isolated on a rugged rock in a calm ocean with a soft focus, 4k, digital painting",0.7346258163452148,0.6116290092468262,46.12534411251361,0.500000
+3,serene arafed palm tree growing on a weathered rock in a peaceful ocean at the peak of golden hour with masterful lighting,0.8827716112136841,0.7339874505996704,56.60937035783133,0.599466
+4,arafed palm on serene ocean rocks at golden hour sunset,0.838694155216217,0.7847113609313965,64.83670799191601,0.292423
+4,a stunning arafed palm on a rocky shore in a tranquil ocean at golden hour,0.8904212713241577,0.7231618165969849,57.68273119894617,0.622257
+4,highly detailed arafed palm in a serene ocean scene with dramatic golden hour sky,0.8899217247962952,0.6842139363288879,52.311389212642,0.748875
+4,an arafed palm on a rugged rock in the peaceful ocean at the perfect golden hour,0.8695886731147766,0.7402346134185791,59.52735048584642,0.514413
+4,a realistic 4k digital painting of an arafed palm in a majestic ocean setting with warm golden light,0.884207546710968,0.7216961979866028,55.09510690991897,0.641487
+5,arafed palm tree on a rugged rock in the tranquil ocean at golden hour,0.8476642370223999,0.734804630279541,56.2611251617247,0.504290
+5,serene arafed palm tree on a weathered rock in the calm ocean at sunrise,0.8676944971084595,0.7475540637969971,59.58151444368732,0.497795
+5,a highly detailed arafed palm tree standing on a rocky outcropping in the crystal clear ocean at golden hour,0.8661125302314758,0.7402398586273193,57.56767935854575,0.530821
+5,a stunning arafed palm tree on a granite rock in the glassy ocean at golden hour with soft shadows,0.8786628246307373,0.7411417365074158,58.76115501321782,0.548838
+5,a majestic arafed palm tree perched on a boulder in the peaceful ocean at dawn with warm colors.,0.8860914707183838,0.6944174766540527,54.1813849017051,0.698390

@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
-1,astronaut standing on the surface of a distant alien planet with a bright intense light shining in the background,0.8516687154769897,0.5301225185394287,35.7086492697826,0.912677
-1,highly detailed astronaut standing on the moon's rugged surface at sunset,0.797217607498169,0.6718624234199524,42.935125344618584,0.244167
-1,astronaut in a futuristic spacesuit standing on a barren alien landscape with a vibrant sunset,0.8391650915145874,0.7483270168304443,65.18559303798303,0.361910
-1,astronaut standing at the edge of a vast barren expanse on a mysterious distant world with a blazing star behind them,0.8398710489273071,0.5035969614982605,31.68704183842088,0.868000
-1,highly realistic astronaut standing on the surface of a stunningly beautiful extraterrestrial world with a brilliant light shining in the distance,0.8164565563201904,0.6034626960754395,40.394355514746294,0.498989
-2,highly detailed astronaut standing on the barren surface of a distant planet with a vibrant blue light shining in the background,0.8494584560394287,0.5929911732673645,39.66060382659724,0.627966
-2,"astronaut standing on the rocky surface of a planet with a bright, shining light in the distance",0.8639206886291504,0.603096604347229,42.37756171871274,0.656809
-2,realistic digital painting of an astronaut standing on the dusty surface of a distant world,0.789478600025177,0.7510311603546143,56.32347793696096,0.000000
-2,"astronaut standing on the edge of a cliff on a mysterious, alien planet with a bright star shining above",0.8886607885360718,0.5938843488693237,36.318862078544015,0.846020
-2,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky",0.8957489132881165,0.5664209127426147,37.70133786071058,0.895176
-3,"4k, highly detailed image of an astronaut standing on the barren surface of a desolate, distant alien world with a brilliant celestial light shining in the sky",0.8809937238693237,0.5144291520118713,31.08024101340982,0.788656
-3,"astronaut standing on a desolate, otherworldly landscape with a 4k resolution brilliant light in the sky",0.8529520034790039,0.6911976337432861,51.02225247166971,0.031890
-3,masterful 4k image of a lone astronaut on a distant planet with a stunning celestial display in the background,0.8663694858551025,0.5040605664253235,32.3718772723016,0.615432
-3,"4k, highly realistic image of an astronaut standing alone on a desolate, distant, barren planet with a brilliant, shimmering light in the atmosphere",0.8957380056381226,0.5346800088882446,28.678418729880384,0.964185
-3,"4k, highly detailed masterpiece of a lone astronaut standing on the dusty surface of a desolate, distant planet with a brilliant, glowing celestial light in the background",0.8557465076446533,0.718559205532074,46.93527835442501,0.078377
-4,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky, highly detailed",0.8965113162994385,0.5707067847251892,37.626186670849016,0.639839
-4,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky, high quality, sharp",0.8933571577072144,0.5570318698883057,38.0420804882719,0.641794
-4,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky, best lighting",0.8869619369506836,0.5550005435943604,36.197149389537486,0.665161
-4,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky, masterpiece",0.8682090044021606,0.5453692674636841,34.61716456276876,0.500000
-4,"4k, masterful image of an astronaut standing on the surface of a desolate, distant planet with a brilliant light shining in the sky, ultra realistic",0.8841639757156372,0.5853312015533447,38.347645351776265,0.281867
-5,"4k, incredibly realistic, high-resolution image of a lone astronaut standing on a barren, rocky surface of a distant, desolate planet with a brilliant, blazing light shining in the night sky",0.8177122473716736,0.6677641272544861,40.67744709394409,0.000000
-5,"4k, detailed, hyper-realistic image of an astronaut standing at the edge of a vast, empty space, with a shining, radiant light illuminating the dark, barren landscape",0.8921990394592285,0.4845684766769409,32.11243374691762,0.852242
-5,"4k, highly detailed digital painting of an astronaut standing on a distant, rugged planet with an intense, glowing light shining in the sky, capturing a sense of adventure in the stars",0.8537531495094299,0.5292972922325134,25.842768990695355,0.660519
-5,"4k, masterfully rendered image of a solo astronaut standing on the surface of a distant, barren world, with a brilliant, shining light blazing in the dark, star-filled sky",0.899047315120697,0.5017412304878235,29.420367446680533,0.916274
-5,"4k, photorealistic image of an astronaut standing alone, in wonder, on the surface of a desolate planet, with a bright, shimmering light glowing in the distant sky",0.8602665662765503,0.6365646719932556,38.38974080027611,0.342729
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.915370
+1,highly detailed astronaut standing on the rugged surface of a foreign planet with a distant yet vibrant star shining in the background,0.7729700207710266,0.6901588439941406,42.83044554479116,0.471041
+1,astronaut standing at the edge of a vast alien landscape with a brilliant light emanating from a massive structure in the background,0.8624862432479858,0.5658292174339294,42.32758505200831,0.853898
+1,4k digital painting of a lone astronaut standing on a barren desert planet with a glowing nebula visible in the night sky,0.7287165522575378,0.566351592540741,27.170528727623502,0.500964
+1,highly realistic astronaut standing on the surface of a mysterious planet with a dramatic light beam illuminating their features,0.8343644142150879,0.56902676820755,37.187539998616835,0.787871
+1,"astronaut standing amidst a sprawling alien cityscape with a bright, shimmering light emanating from the central tower in the background",0.8247182965278625,0.7723303437232971,53.58895955228847,0.521721
+2,astronaut standing on the surface of a futuristic alien planet with a brilliant celestial light shining in the background,0.8603874444961548,0.5442680716514587,39.54043001546435,0.877594
+2,highly detailed astronaut standing on the surface of a distant mysterious planet with a glowing radiant light,0.8119326829910278,0.5716387629508972,36.060004214736765,0.719321
+2,astronaut in a spacesuit standing on the barren surface of a rocky planet with a vibrant orange sunrise,0.819875180721283,0.7703680396080017,59.27206728663287,0.477177
+2,astronaut standing at the edge of a massive cave entrance on a desert planet under a majestic starry night sky,0.8698859214782715,0.6587096452713013,33.466750666904275,0.857683
+2,"4k, digital painting style astronaut standing at the top of a steep cliff on a rugged alien world with a breathtaking golden sunset",0.837113618850708,0.8432531356811523,74.09280429561137,0.401167
+3,"astronaut standing on the dusty surface of a distant planet with a bright, piercing light shining in the background",0.7928420305252075,0.6319518685340881,44.07074335824086,0.571038
+3,"a highly detailed astronaut standing on the rocky surface of a planet with a vibrant, pulsing light in the background",0.7981439828872681,0.664545476436615,42.79422444069627,0.571363
+3,astronaut in a 4k digital painting standing on the barren surface of a mysterious planet with a blazing light source,0.799604594707489,0.6379944682121277,44.6599396531758,0.585420
+3,"a lone astronaut standing on the icy surface of a cold, desolate planet with a harsh, celestial light",0.7846246957778931,0.7475091218948364,72.36526534476309,0.309819
+3,"astronaut in a surreal, dreamlike state standing on the atmospheric surface of a gas giant planet with an ethereal, luminescent glow",0.8224416971206665,0.5088053941726685,33.527540645552655,0.812447
+4,"highly detailed astronaut standing on the surface of a distant, barren planet with a bright and intense light shining in the background",0.8411054611206055,0.5650313496589661,34.95516380720531,0.824500
+4,astronaut standing on the dusty surface of a mysterious alien world with a powerful beam of light illuminating the landscape,0.862515926361084,0.6676169037818909,52.65398121687834,0.725118
+4,"a highly detailed, realistic astronaut standing in front of a massive, ominous planet with a brilliant light shining in the distance",0.8299520015716553,0.553884744644165,33.7233555069325,0.803022
+4,"astronaut standing alone on the rugged terrain of a desolate, otherworldly planet with a strong light source casting long shadows behind",0.7155283093452454,0.7100711464881897,54.5715534729005,0.207970
+4,"astronaut in a gleaming white spacesuit standing at the edge of a barren, futuristic planet with a brilliant, pulsing light shining in the background",0.812309741973877,0.6067067384719849,51.467441773054546,0.613007
+5,astronaut standing on the surface of a distant planet with a vibrant light shining in the background,0.8207134008407593,0.5230923295021057,33.00616680884064,0.799260
+5,highly detailed astronaut standing on the surface of a barren alien landscape with a bright spotlight,0.7686668038368225,0.6107281446456909,34.725851302319285,0.557918
+5,astronaut standing confidently on a rugged alien terrain with a majestic sun setting in the background,0.8039900660514832,0.8533467650413513,65.51082232851734,0.332273
+5,astronaut in a sleek white spacesuit standing on the edge of a massive crater with a gleaming light source,0.7801195979118347,0.6112001538276672,47.83398284648354,0.524834
+5,highly detailed digital painting of an astronaut standing on the surface of a mysterious planet with a beautiful aurora in the night sky,0.8118158578872681,0.6588971018791199,41.991793959450064,0.624024

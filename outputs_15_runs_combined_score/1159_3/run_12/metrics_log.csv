@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
-1,anime masterpiece of a fiery samurai wielding an ancient sword,0.7540308833122253,0.6155809760093689,58.12565251101506,0.322866
-1,highly detailed digital painting of an anime character with fire and a katana,0.8182252049446106,0.6053011417388916,49.90853387057701,0.897754
-1,a highly realistic anime character standing in a fiery landscape with a large sword in hand,0.7719117403030396,0.734144389629364,64.86434190188322,0.118246
-1,a detailed fantasy anime character with glowing fire in his hand and a long sword,0.7736524343490601,0.596165657043457,49.27182409729943,0.629757
-1,highly detailed 4k anime illustration of a powerful warrior with a sword and flames erupting in his hand,0.8296399116516113,0.647912859916687,51.049338112425716,0.877741
-2,highly detailed 8k anime illustration of an elite warrior with a majestic sword and intense flames in his hand,0.80033278465271,0.6188465356826782,53.36931007028733,0.694936
-2,highly detailed 4k anime digital painting of a strong warrior with a fiery sword and flames bursting in his palm,0.8064116835594177,0.6507760882377625,51.891447682610604,0.535199
-2,a highly stylized 4k anime depiction of a brave warrior holding a sword with an engulfing inferno,0.8207749128341675,0.6500195264816284,54.375717663728295,0.584448
-2,a detailed 4k anime style with vibrant flames erupting from the hand of a powerful samurai wielding a mighty sword,0.7621752023696899,0.6398636698722839,60.0756715312237,0.082787
-2,highly detailed 8k anime-inspired digital art of a fearless warrior holding a mighty sword with intense flames blazing around it,0.8045434951782227,0.6178226470947266,50.20800258866973,0.814003
-3,highly detailed 8k anime illustration of a powerful warrior standing in flames,0.6858271956443787,0.7474853992462158,64.63574566220746,0.013772
-3,4k anime artwork of a fierce warrior with a sword and fiery aura,0.7986506819725037,0.6359723806381226,52.656387672701314,0.668514
-3,highly detailed 4k digital painting of a brave warrior with flames erupting from his hand and a fierce expression,0.7251421213150024,0.6479204893112183,49.19016093904811,0.434503
-3,8k anime style digital art of a strong warrior wielding a sword amidst intense flames,0.7685996294021606,0.723928689956665,65.95238165083495,0.316757
-3,4k masterpiece illustration of a powerful anime warrior with a magical sword and blazing spirit,0.7383143901824951,0.544256865978241,42.052221526927134,0.682485
-4,highly detailed 8k anime-inspired digital painting of a strong warrior holding a sword with intense flames,0.7976710796356201,0.635269045829773,51.110754511229594,0.384821
-4,"vibrant, highly detailed 4k anime illustration of a powerful warrior with fire and smoke erupting from his hand",0.797055721282959,0.6293753981590271,50.51116326456155,0.422338
-4,"realistic, highly detailed 4k anime digital art of a brave warrior with a glowing sword and flames in his palm",0.8343181610107422,0.5776224732398987,47.59639269650113,1.000000
-4,highly realistic 4k anime-style digital painting of a mighty warrior wielding a fiery sword and surrounded by intense flames,0.7725475430488586,0.6607908010482788,53.644869361619584,0.000000
-4,"highly detailed, 4k anime masterpiece illustration of a powerful warrior with a sword and flames dancing in his hand",0.8250967264175415,0.6492767333984375,51.60090938974811,0.544451
-5,"realistic, highly detailed 8k anime digital art of a fearless warrior with a glowing sword and intense flames erupting from his palm",0.8314341902732849,0.6215442419052124,52.36646932252721,0.540829
-5,"highly realistic, photorealistic, detailed 4k anime digital art of a brave warrior with a sword and flames in his right hand, set against a dark background",0.7769561409950256,0.6071231365203857,51.09759608906717,0.198020
-5,"highly detailed, 4k, oil painting style anime digital art of a heroic warrior with a radiant sword and flames in his palms, in a dramatic pose",0.7988923192024231,0.6625561714172363,50.83256714735047,0.278610
-5,"anime digital art in the style of Hayao Miyazaki, highly detailed, 4k, with a brave warrior holding a glowing sword and flames in his hands, surrounded by smoke",0.7649067640304565,0.4961208999156952,41.020349878041436,0.500000
-5,"highly realistic, detailed, 4k anime digital art of a mighty warrior with a magical sword and flames in his palms, in a dynamic action scene",0.7962720990180969,0.5952996015548706,45.16537464979363,0.485632
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.651786
+1,highly detailed anime character in a fantasy setting with a sword and flames in his hand,0.8268547058105469,0.5873931646347046,47.336736064260364,0.815631
+1,vibrant digital painting of a sword-wielding anime character surrounded by blazing fire,0.7431159019470215,0.6973966360092163,57.00614367633993,0.400390
+1,a finely detailed 4k anime artwork featuring a hero with a fire-imbued sword,0.823464572429657,0.57501220703125,44.4044845953557,0.853979
+1,"epic anime scene in a dark forest, a hero with a sword and fire engulfing the night",0.6206183433532715,0.7661818861961365,61.74824647963408,0.000000
+1,"a highly realistic, oil-painted anime character grasping a sword with flames dancing at the tip",0.7628070712089539,0.652276873588562,52.56475548111858,0.543487
+2,a 4k highly detailed anime artwork featuring a heroic warrior with a majestic fire-imbued katana,0.7835137248039246,0.6241295337677002,47.86655151910607,0.672149
+2,an incredibly realistic 4k masterclass anime piece featuring a powerful hero wielding a fiery elemental sword,0.8276083469390869,0.5893008708953857,50.18356146902584,0.784386
+2,an extraordinary 4k digital art anime artwork showcasing a fearless hero brandishing a blazing fire sword,0.8062921166419983,0.6945481896400452,58.46645272676267,0.527346
+2,a breathtakingly realistic 4k anime art piece featuring a mighty hero wielding an inferno-imbued blade,0.7569504976272583,0.7009405493736267,57.88304828866883,0.417403
+2,an exquisite 4k highly stylized anime artwork of a heroic mage holding a fiery elemental blade and surrounded by flames,0.7884655594825745,0.6861989498138428,60.78259134302571,0.472568
+3,'a finely detailed 8k anime artwork featuring a hero wielding a fire-imbued sword',0.8178544044494629,0.5949285626411438,46.284846256157,0.798481
+3,'a highly detailed 4k anime art piece with a hero holding a blazing sword',0.7565255165100098,0.5779809951782227,41.14661765937801,0.737978
+3,"'a masterfully crafted anime artwork with 4k resolution, a hero brandishing a fire-tipped sword'",0.8062394261360168,0.5918500423431396,45.98485643943713,0.779608
+3,'a digital painting of a hero grasping a sword infused with intense flames in a fantasy anime setting',0.8471344709396362,0.6103081107139587,51.12764251133626,0.793227
+3,'a stunning 4k anime art featuring a hero fighting with a radiant fire sword',0.8330916166305542,0.5787098407745361,41.20345931826414,0.905537
+4,highly detailed 4k anime art featuring a hero battling with an incredibly radiant and fiery sword,0.79753577709198,0.5907610654830933,43.45680487872793,0.788926
+4,a breathtaking 4k anime art of a hero charging forward with a blazing fire sword in hand,0.8253012895584106,0.6009750366210938,48.884526244975994,0.779935
+4,"stunning 4k animation featuring a hero wielding a powerful, gleaming fire sword in an epic battle",0.7345698475837708,0.64085853099823,47.03577131391191,0.553910
+4,"a breathtaking, highly realistic anime art of a hero wielding a fiery, glowing sword while fighting",0.8214781880378723,0.6367955207824707,51.9695977076676,0.697157
+4,"an incredibly detailed 4k anime masterpiece featuring a hero battling with a radiant, fiery sword in a fantastical landscape",0.757150411605835,0.6233420372009277,47.37886856315279,0.620122
+5,'a 4k highly detailed anime art featuring a heroic warrior fighting with a radiant blazing fire sword amidst epic flames',0.804584264755249,0.7206407189369202,57.98848883935966,0.498836
+5,'a vibrant and highly stylized 4k anime art featuring a brave hero battling with a radiant fire sword shining',0.6835400462150574,0.6241613030433655,47.03083087654125,0.460455
+5,'an extraordinary 4k anime animation featuring a courageous hero wielding a radiant fire sword as it casts a golden glow',0.7745352983474731,0.6708112359046936,52.80594546348963,0.545535
+5,'a breathtaking highly detailed 4k anime art showcasing a valiant hero fighting with a radiant fire sword amidst an intense battle',0.8168347477912903,0.5480058193206787,38.58274934242953,0.933118
+5,'a magnificent highly detailed 4k anime digital painting featuring a heroic warrior wielding a blazing fire sword and surrounded by majestic flames',0.7797476053237915,0.6983557939529419,56.096435759638574,0.489967

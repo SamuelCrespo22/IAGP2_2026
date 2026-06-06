@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,
-1,glass of freshly squeezed orange juice with a slice of orange on the side,0.9128389954566956,0.5833622217178345,41.3244641335364,0.670455
-1,a highly detailed close-up of a clear glass containing orange juice with a slice of orange on the side,0.9001317620277405,0.5024794340133667,48.18769181601791,0.463166
-1,orange slice on the counter next to a glass of freshly poured orange juice,0.8947497010231018,0.5496957898139954,45.663183749277295,0.350676
-1,a 4k digital painting of a glass of orange juice with a slice of orange on the side,0.9218140244483948,0.6082748174667358,54.15401632627531,0.546559
-1,a beautiful still life of a glass of orange juice with a slice of orange positioned perfectly on the table,0.9017390012741089,0.6685525178909302,55.18677444976303,0.112904
-2,a glass of freshly squeezed orange juice with a slice of orange on the side,0.9225618839263916,0.568913996219635,42.110670829446335,0.754336
-2,"a glass of orange juice with a slice of orange on the side, rendered in a highly detailed digital painting style",0.8936947584152222,0.6229881048202515,53.9215781483724,0.032216
-2,"a glass and a slice of orange sit next to each other, with a glass of orange juice in the foreground",0.9340448975563049,0.6287959814071655,54.83764620139094,0.500000
-2,a highly realistic photorealistic image of a glass of orange juice with a slice of orange on the side,0.9332572221755981,0.5266974568367004,44.323449265532105,0.946773
-2,a 4k resolution close-up of a glass of freshly squeezed orange juice with a slice of orange on the side,0.9152722954750061,0.5331454873085022,43.31079750615141,0.728016
-3,"an extremely detailed glass and a slice of orange sit next to each other, with a crystal glass of 100% orange juice in the foreground",0.9034591913223267,0.68985515832901,60.75991369220519,0.632634
-3,"a delicate glass and a slice of juicy orange sit next to each other, with a frosted glass of orange juice in the foreground",0.9001428484916687,0.6796284914016724,60.8153344873557,0.647670
-3,"a vintage glass and a slice of freshly cut orange sit next to each other, with a ornate glass of orange juice in a cozy kitchen",0.6402012705802917,0.7442476749420166,54.73110532140468,0.226374
-3,"highly detailed glassware and a slice of orange sit next to each other, with a elegant glass of 100% fresh orange juice in a serene morning scene",0.851595401763916,0.7164750099182129,63.28882254127949,0.419844
-3,"a minimalist glass and a slice of orange sit next to each other, with a delicate glass of freshly squeezed orange juice in a soft focus photography style",0.9186549186706543,0.6496737003326416,53.83796078346221,0.928604
-4,"a glass and a slice of orange, perfectly sliced, sit next to each other, with a glass of fresh orange juice in the foreground, highly detailed",0.92514568567276,0.6288906335830688,52.10837032229293,0.965576
-4,"a still life of a glass and a slice of orange, with a glass of orange juice in the center, rendered in high definition",0.9114680290222168,0.636802613735199,54.28847453876661,0.811154
-4,"a realistic glass, half empty, sits next to a slice of vibrant orange, with a glass of iced orange in the foreground, in a 4k digital painting style",0.8780114650726318,0.6659263968467712,57.70777757532354,0.470544
-4,"a glass of orange juice and a slice of orange rest next to each other, with the glass of juice prominently displayed, in the style of a masterpiece oil painting",0.8036633729934692,0.6746988296508789,55.92430153331639,0.221071
-4,"a crystal glass and a slice of orange, garnished with a sprig of rosemary, sit next to each other, with a glass of orange juice in the foreground that is both icy and perfectly clear.",0.8452948927879333,0.7085736393928528,59.170571278663786,0.159653
-5,"highly detailed photograph of a glass and a slice of orange sit next to each other, with a glass of orange juice in the foreground",0.9222860932350159,0.633715033531189,57.27670292668534,0.894967
-5,"a glass and an orange slice sit side by side, with a glass of freshly squeezed orange juice in the center",0.9057025909423828,0.6655834913253784,55.98603837493703,0.776249
-5,"a glass and orange slice in a still life arrangement, with a glass of orange juice in the foreground set against a soft warm background",0.8730561137199402,0.6771457195281982,56.61852159914879,0.596295
-5,"detailed watercolor painting of a glass of orange juice and a slice of orange on a table, with a matching glass next to it",0.8631654381752014,0.7021079659461975,69.15678604821478,0.280439
-5,"a highly realistic depiction of a glass and an orange slice on a white tablecloth, with a glass of orange juice nearby, perfectly illuminated by natural light",0.8208832740783691,0.745995283126831,68.05595300398356,0.019220
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.620374
+1,a highly detailed realistic still life of a glass of freshly squeezed orange juice with a thin slice of orange on the side,0.9177389740943909,0.47014808654785156,38.91745220138489,0.712903
+1,there is a perfectly arranged glass of orange juice with a slice of orange sitting on a minimalistic white surface,0.9178312420845032,0.6356667280197144,76.0753155861891,0.367693
+1,a photorealistic image of a glass of orange juice with a single slice of orange garnish on the edge of a wooden table,0.9457570314407349,0.3934378921985626,34.72544285465114,0.961115
+1,"a 4k resolution depiction of a glass of orange juice with a slice of orange placed delicately on a soft, green grass",0.9218376874923706,0.6274139881134033,40.50580827030195,0.603355
+1,"a still life masterpiece of a glass containing a generous amount of orange juice accompanied by a large, circular slice of orange on a rustic, wooden platter",0.8782620429992676,0.6367966532707214,52.67155234294199,0.271504
+2,a photorealistic 4k image of a glass of freshly squeezed orange juice with a single slice of orange garnish on the edge of a wooden table in the morning sunlight,0.9328498244285583,0.5756034255027771,42.57030944664488,0.696549
+2,a highly detailed image of a glass of orange juice with a single slice of orange garnish on the edge of a rustic wooden table,0.9309908151626587,0.4867088794708252,34.69027993101737,0.801535
+2,"a photorealistic image of a glass of orange juice with a single slice of orange garnish on the edge of a wooden table, captured with a shallow depth of field",0.9215970635414124,0.4710536599159241,50.712966884172054,0.666440
+2,"a digital painting of a glass of orange juice with a single slice of orange garnish on the edge of a wooden table, set against a warm yellow background",0.9067773818969727,0.6151515245437622,53.8798921361419,0.447865
+2,a precise and realistic image of a glass of orange juice with a single slice of orange garnish on the edge of a beautifully crafted wooden table with a soft focus effect,0.9368987083435059,0.5134366750717163,41.93653670681348,0.772940
+3,a photorealistic highly detailed image of a glass of freshly squeezed orange juice with a single perfectly sliced orange wedge garnish on the edge of a beautifully polished wooden table,0.9351925253868103,0.4589026868343353,35.19674242628737,0.845072
+3,a 4k resolution photorealistic digital painting of a glass of orange juice with a single slice of orange garnish on the edge of a rustic wooden table,0.9281134605407715,0.5680474042892456,46.79726543014803,0.650451
+3,a highly realistic image of a glass of orange juice with a single slice of orange garnish on the edge of a vintage wooden table with a subtle warm glow,0.924878716468811,0.4939384460449219,43.102267300960754,0.711522
+3,a photorealistic 8k resolution masterpiece of a glass of orange juice with a single slice of orange garnish on the edge of a handcrafted wooden table,0.9426271915435791,0.5402163863182068,47.41129149601376,0.753506
+3,a detailed realistic image of a glass of freshly squeezed orange juice with a single slice of orange garnish on the edge of a beautifully weathered wooden table in a cozy breakfast nook,0.8968983888626099,0.6103441715240479,48.433847670228175,0.425574
+4,a hyper-realistic image of a glass of freshly squeezed orange juice with a single slice of orange garnish on the edge of a rustic wooden table,0.9299038648605347,0.5137818455696106,40.18651050882953,0.742010
+4,a photorealistic image of a glass of orange juice with a slice of orange and ice in a frosty glass on a wooden table,0.8832735419273376,0.3578603267669678,32.86290457109319,0.635710
+4,a highly detailed image of a glass of freshly squeezed orange juice with a single slice of orange garnish on a wooden table with a soft warm light,0.9225205183029175,0.45294052362442017,38.756360391353894,0.755308
+4,a photorealistic image of a glass of orange juice with a single slice of orange garnish on the edge of a weathered wooden table in a cozy kitchen,0.9060441255569458,0.6259731650352478,57.18643963125446,0.415910
+4,a perfectly realistic masterpiece of a glass of orange juice with a single slice of orange and a sprig of rosemary on a wooden table in the morning sunlight,0.8905863761901855,0.6016093492507935,42.46033291137215,0.430235
+5,highly detailed photorealistic image of a glass of orange juice with a single slice of orange garnish on the edge of a beautifully lit wooden table,0.9075961112976074,0.38299328088760376,38.208945122122614,0.726728
+5,a photorealistic glass of orange juice with a thin slice of orange on the rim of a wooden table under warm natural light,0.8885160684585571,0.5947900414466858,46.03456365187455,0.402874
+5,photorealistic 4k image of a glass of freshly squeezed orange juice with a single slice of orange garnish on a rustic wooden table,0.926334023475647,0.49411043524742126,35.43169710646517,0.764248
+5,detailed digital painting of a glass of orange juice with a slice of orange on the side of a wooden table in a cozy atmosphere,0.859996497631073,0.674277126789093,62.74838137217146,0.077101
+5,realistic masterpiece image of a glass of orange juice with a thin slice of orange garnish on a wooden table with a subtle background,0.9289770722389221,0.5568135976791382,47.45065059366957,0.660582

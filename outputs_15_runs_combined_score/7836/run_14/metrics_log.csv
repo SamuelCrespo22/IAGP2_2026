@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
-1,astronaut standing in front of a planet with a brilliant light shining in the background,0.8203065395355225,0.5125521421432495,30.064620519740227,0.721308
-1,highly detailed astronaut standing on the dusty surface of a rugged alien planet with a bright light behind them,0.7738434076309204,0.7303571701049805,53.30573920493897,0.000000
-1,"astronaut emerging from a spaceship on a barren, rocky planet with an intense yellow light illuminating the landscape",0.8774929046630859,0.6015353202819824,29.798701392241746,0.897864
-1,"highly detailed astronaut standing on the cratered surface of a mysterious, abandoned planet with a brilliant light in the distance",0.7923146486282349,0.6252390742301941,40.42122409989376,0.346789
-1,"astronaut standing on the edge of a cliff overlooking a vast, alien landscape with a brilliant light shining in the background",0.8676183223724365,0.6139629483222961,50.4905786682231,0.615904
-2,"astronaut emerging from a spaceship on a barren, rugged, rocky planet with a vibrant, intense golden light illuminating the landscape",0.79515540599823,0.7875379323959351,55.17829367845874,0.134276
-2,"astronaut standing tall on a barren, rocky planet after emerging from a spaceship, lit by a bright, sun-like yellow light",0.8195774555206299,0.6011210680007935,33.76029387213743,0.703730
-2,"astronaut steps out of a spaceship onto a desolate, barren, and rocky alien world, bathed in the warm, golden glow of an intense light",0.8034069538116455,0.7670727968215942,53.61655437834675,0.213757
-2,"astronaut exiting a spaceship on a rugged, barren, and rocky extraterrestrial landscape, radiating a brilliant, intense yellow light",0.8074973821640015,0.716241180896759,44.82410159071472,0.386704
-2,"astronaut slowly exiting a spaceship on a desolate, rocky, and barren alien world, surrounded by the warm, intense glow of a bright yellow light",0.7649250030517578,0.6461740732192993,36.269110105828936,0.375844
-3,"astronaut emerging from a spaceship on a barren, rocky planet under an intense yellow light with dramatic shadows",0.8038796186447144,0.7172985076904297,38.79314509660183,0.493308
-3,"astronaut stepping out of a spaceship on a desolate, rocky terrain bathed in a bright, golden glow",0.7557328343391418,0.8241693377494812,54.0949238232456,0.030003
-3,"highly detailed astronaut in a spacesuit standing near a futuristic spaceship on a barren, rocky landscape with a brilliant sun overhead",0.7480649352073669,0.7198026180267334,47.48619757105728,0.185601
-3,"astronaut in a reflective spacesuit emerging from a metallic spaceship on a harsh, alien terrain with a vivid yellow-orange light",0.7479601502418518,0.7235108613967896,48.60977596714016,0.169472
-3,"detailed astronaut exiting a sleek spaceship on a rugged, barren planet with a bright yellow light illuminating the dusty horizon",0.7732256650924683,0.6130967140197754,45.30900246170109,0.424947
-4,"astronaut emerging from a spaceship on a barren, rugged, rocky terrain with an intense yellow light illuminating the landscape",0.8247901201248169,0.7455003261566162,47.6790854305214,0.454859
-4,"astronaut standing in front of a spaceship on a desolate, rocky planet with an orange-yellow glow",0.7648391127586365,0.6437005400657654,37.36426665929891,0.394544
-4,"highly detailed astronaut walking away from a sleek spaceship on a barren, rocky, alien world with a bright yellow light",0.7870252132415771,0.670707643032074,33.41087565526388,0.479514
-4,"astronaut emerging from a futuristic spaceship on a rocky, barren expanse with a golden light",0.8233091831207275,0.7802368998527527,70.50200217159276,0.259512
-4,"astronaut standing in a spaceship's shadow on a desolate, rocky planet with a warm, intense yellow light",0.8499183654785156,0.612877368927002,33.45440838295252,0.839293
-5,"astronaut emerging from a sleek, metallic spaceship on a rugged, barren, rocky planet with an intense vibrant yellow light illuminating the landscape",0.7985982298851013,0.639006495475769,36.176603226753244,0.457411
-5,"astronaut standing outside a futuristic spaceship on a desolate, rocky planet under a brilliant warm yellow glow",0.7826886177062988,0.6601958870887756,40.33839344128495,0.268879
-5,"highly detailed astronaut emerging from a spaceship on a barren, rocky wasteland with an intense, otherworldly yellow light bathing the scene",0.7438852787017822,0.7467464804649353,39.00370126895821,0.031659
-5,"astronaut exiting a spaceship on a barren, rocky planet with a bright, golden yellow light casting long shadows across the terrain",0.7606678009033203,0.6039233207702637,32.870905834089086,0.444002
-5,"astronaut stepping out of a spaceship onto a barren, rocky planet with an intense, sunlit yellow glow radiating from the sky",0.7553983926773071,0.5717770457267761,32.70666985192923,0.474109
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.861752
+1,"astronaut standing on the surface of a distant, barren planet with a bright light from a nearby star shining in the background",0.8232511281967163,0.5054866075515747,31.340660555145316,0.801767
+1,"astronaut in a sleek white spacesuit standing on the edge of a vast, rocky cliff overlooking a breathtaking alien landscape",0.7205528020858765,0.8043503165245056,79.97646681131079,0.182159
+1,"highly detailed astronaut standing on the dusty, barren surface of a mysterious, unexplored planet with a stunning sunset in the background",0.7990932464599609,0.8547405004501343,68.35968842520741,0.384979
+1,"astronaut in casual spacesuit attire standing on the surface of an exotic, tropical planet with a vibrant, colorful atmosphere",0.6609325408935547,0.6324276924133301,48.67633700277667,0.279155
+1,"astronaut with a confident expression standing on the edge of a gigantic, crumbling alien city with a dramatic light beam shining through the ruins",0.8155789375305176,0.8248757123947144,83.5927571893655,0.373935
+2,"astronaut standing on the surface of a detailed, realistic alien planet with a vibrant sunset shining in the background",0.8776347637176514,0.6868827939033508,59.44875206635238,0.701130
+2,"astronaut standing under a bright, shining star in the dark space of a distant planet's surface",0.8589680790901184,0.49299708008766174,29.881263661522752,0.897677
+2,"highly detailed digital painting of a lone astronaut standing on a barren, moonlit alien landscape",0.7878963947296143,0.648944616317749,38.66096266698395,0.606158
+2,"astronaut exploring the rugged surface of a planet with a glowing, iridescent sky in the distance",0.8349145650863647,0.6326829195022583,41.38174907594607,0.712140
+2,"detailed illustration of a lone astronaut standing on the dusty, rocky surface of a mysterious, alien world at sunset",0.8698523044586182,0.7926653623580933,63.48879662195739,0.604988
+3,"astronaut standing under a radiant, gleaming star in the inky darkness of a desolate planet's surface",0.8371529579162598,0.5218405723571777,30.113117515592517,0.829804
+3,astronaut with a spacesuit standing under a bright star in the blackness of a distant alien world,0.8247978091239929,0.5184363722801208,35.81169560986106,0.778483
+3,highly detailed astronaut standing under a shining star in the profound darkness of a distant planetary landscape,0.8068169951438904,0.5597395896911621,34.90366532782332,0.717269
+3,astronaut in a futuristic spacesuit standing under a brilliant star in the emptiness of space,0.7912927865982056,0.5289921760559082,37.064291098968205,0.689683
+3,"astronaut with a reflection suit standing under a brilliant, shining star in the dark of a distant celestial body's surface",0.7893312573432922,0.5410788059234619,36.47235230842886,0.680803
+4,"astronaut standing under a massive, blazing star in the dark, endless space of a distant, rugged planet's surface",0.7587199211120605,0.5773926377296448,33.28241468025726,0.603222
+4,"highly detailed astronaut standing before a bright, shining star in the dimly lit, barren space of a far-off, alien world's surface",0.8063830137252808,0.5251379609107971,36.947227555487856,0.727219
+4,"astronaut standing in front of a colossal, radiant star in the blackness of a desolate, foreign planet's surface at dusk",0.8036686182022095,0.550833523273468,30.934320217774186,0.732359
+4,"highly realistic astronaut standing under a brilliant, glittering star in the inky blackness of a distant, unforgiving planet's surface",0.8330884575843811,0.5268352627754211,36.78461423747667,0.788571
+4,"astronaut standing before a huge, shining star in a vast, starry, cosmic expanse of a distant, mystical planet's surface",0.8285806179046631,0.5582373142242432,34.483631020444044,0.770171
+5,"astronaut standing under a vibrant, shining star in the dark vastness of a distant planet's surface",0.7809463739395142,0.4185490012168884,26.065280732419335,0.776910
+5,"astronaut in a highly detailed, 4k digital painting standing under a bright, shining star in the space of a distant planet's rugged terrain",0.8352944850921631,0.5193624496459961,26.639728630583683,0.842031
+5,"astronaut standing in the shadows of a massive, glowing star on a barren, rocky planet's surface",0.7826770544052124,0.5092015266418457,30.366324010284313,0.710255
+5,"astronaut standing in the dark, starry night sky of a distant planet with a vast, barren landscape",0.8509758114814758,0.600866973400116,32.66671379241658,0.805307
+5,"astronaut standing under a brilliant, shining star amidst a stunning, cosmic landscape of a distant planet's surface",0.8515393137931824,0.4729929566383362,29.324763789852714,0.894421

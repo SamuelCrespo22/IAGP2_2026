@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,highly detailed close-up of a small brown hedgehog sitting on a small block of yellow sponge cake,0.6080243587493896,0.6808289885520935,53.86383165362762,0.689622
-1,a highly realistic 4k image of a tiny hedgehog perched on top of a single serving of chocolate cake,0.5951336622238159,0.6738485097885132,53.164501777241995,0.674663
-1,a whimsical illustration of a small hedgehog wearing a party hat and sitting on a cube of white vanilla cake,0.6611456274986267,0.7387968301773071,81.55448007986111,0.500000
-1,a beautifully illuminated drawing of a tiny spiky hedgehog sitting on a pedestal of a large slice of red velvet cake,0.48360195755958557,0.6931610107421875,47.779985115653716,0.355694
-1,a small realistic hedgehog sitting on top of a decorative tier of multiple layers of colorful cake,0.6172891855239868,0.6861498951911926,56.676514481675696,0.682571
-2,"a highly detailed, whimsical illustration of a small hedgehog wearing a vibrant party hat and sitting on a cube of moist white vanilla cake",0.634590208530426,0.7318964600563049,82.17723536876592,0.517640
-2,"a fantastical, colorful depiction of a tiny hedgehog donning a party hat and perched on a pedestal of fluffy white vanilla cake",0.5539674758911133,0.7820391058921814,68.21282015007858,0.149921
-2,"a highly realistic, whimsical illustration of a small hedgehog wearing a party hat and delicately sitting on a cube of fluffy white vanilla cake in a serene garden",0.6382570266723633,0.8296968936920166,71.44750697228305,0.453276
-2,"a beautiful, dreamlike illustration of a miniature hedgehog wearing an oversized party hat and snuggled up on a cube of decadent white vanilla cake",0.6615788340568542,0.6983851194381714,73.45398524891269,0.742161
-2,"a highly detailed, fantastical digital painting of a small hedgehog wearing a party hat and sitting on a pedestal of rich, moist white vanilla cake in a warm, golden light",0.5725815296173096,0.6587628722190857,38.65759406949322,0.586487
-3,"a highly detailed, dreamlike illustration of a miniature hedgehog wearing an oversized party hat and snuggled up on a pristine cube of decadent white vanilla cake",0.6634063720703125,0.7109798789024353,68.5370231542205,0.759655
-3,"a vibrant, 4k digital painting of a miniature hedgehog cozily curled up on a luxurious cube of white vanilla cake, wearing a brightly colored party hat",0.6498345136642456,0.7694014310836792,85.1763651800731,0.349739
-3,"a miniature hedgehog wearing a bright red party hat and snuggled up on a giant cube of white vanilla cake, set in a warm and inviting sunset environment",0.598686933517456,0.6659438014030457,64.70994576015016,0.500000
-3,"a dreamlike illustration of a happy miniature hedgehog wearing an oversized party hat and snugly enveloped in a cloud of fluffy white whipped cream, resting on a cube of decadent vanilla cake",0.6785718202590942,0.7777097225189209,86.120309529021,0.500000
-3,"a highly realistic, dreamlike digital painting of a miniature hedgehog wearing an oversized party hat and snuggled up on a perfectly iced cube of white vanilla cake, surrounded by intricate, swirling patterns of sugar and frosting",0.6382970213890076,0.7370043396949768,76.79700914154692,0.447835
-4,"a dreamlike illustration of a joyful miniature hedgehog wearing an oversized glittering party hat and snugly enveloped in a fluffy white meringue, resting on a cube of rich velvety chocolate cake",0.555501401424408,0.7493854761123657,74.24171394859223,0.494549
-4,"a highly detailed miniature hedgehog surrounded by a fluffy white cloud of whipped cream and perched on a decadent vanilla cake, with delicate party lights and decorations",0.5041649341583252,0.751015305519104,62.59238301245627,0.449366
-4,"a whimsical miniature hedgehog in a fantastical world of cotton candy and whipped cream, resting on a cube of moist vanilla cake and wearing a colorful oversized party hat",0.5206960439682007,0.7778452038764954,91.16099911030518,0.154537
-4,a miniature hedgehog wearing an oversized festive party hat and nestled snugly in a fluffy cloud of white whipped cream and rich chocolate cake crumbs,0.4973375201225281,0.7304056286811829,65.30643412820568,0.476250
-4,"a dreamlike miniature hedgehog in a whimsical landscape of fluffy clouds, wearing an oversized sparkling party hat and resting on a cube of decadent velvety chocolate cake and surrounded by colorful party decorations",0.5093995928764343,0.8045737743377686,71.12980128215536,0.208568
-5,"a dreamlike illustration of a happy miniature hedgehog wearing an oversized party hat and snugly enveloped in a cloud of thick and creamy vanilla whipped cream, resting on a moist cube of decadent vanilla cake",0.5723044872283936,0.788200318813324,79.09397320488617,0.275471
-5,"a highly detailed dreamlike image of a happy miniature hedgehog wearing an oversized party hat and snugly enclosed in a fluffy cloud of sweet vanilla whipped cream, sitting on top of a decadent cube of moist vanilla cake",0.5909192562103271,0.7298179864883423,71.3332045683684,0.603995
-5,"a whimsical miniature hedgehog wearing an oversized party hat, snuggled up in a cloud of fluffy white whipped cream, delicately perched on a cube of rich vanilla cake in a dreamlike setting",0.5679007768630981,0.801364541053772,85.74217372118234,0.152328
-5,"a close-up of a happy miniature hedgehog wearing a brightly colored oversized party hat, warmly enveloped in a cloud of thick and creamy vanilla whipped cream, resting peacefully on a moist vanilla cake",0.6101869344711304,0.8166136741638184,96.77367974164737,0.191044
-5,"a highly realistic and dreamlike illustration of a happy miniature hedgehog wearing an oversized party hat and snugly wrapped in a cloud of fluffy white whipped cream, delicately placed on a rich and decadent cube of classic vanilla cake",0.5943077206611633,0.7710243463516235,79.80270227445816,0.417387
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.515421
+1,highly detailed rendering of a small adorable hedgehog sitting on a rich moist chocolate cake,0.6105343103408813,0.6772907376289368,53.98108847428814,0.434405
+1,a detailed realistic image of a tiny hedgehog perched on a block of vanilla cake,0.6543295383453369,0.6761713027954102,56.49278644835558,0.520549
+1,a small plump hedgehog sits delicately on the top of a decadent chocolate cake,0.603560209274292,0.6134549379348755,39.7485535982942,0.631359
+1,a sweet hedgehog sits on a large block of layered cake with creamy frosting,0.5615499019622803,0.7422121167182922,64.67090605028285,0.131114
+1,highly realistic still-life photograph of a tiny hedgehog sitting on a slice of moist red velvet cake,0.5677505731582642,0.636951744556427,44.72777314945297,0.465005
+2,"'a diminutive hedgehog sits gracefully on the peak of a rich, velvety chocolate cake'",0.6117541193962097,0.6023033857345581,44.354955042373575,0.618275
+2,"'a tiny plump hedgehog delicately balances on top of an intricately designed, 4k chocolate masterpiece'",0.6595550775527954,0.5755773782730103,48.66680123761992,0.725197
+2,"'a small hedgehog sits perched on the summit of a decadent, highly detailed, golden-brown chocolate cake'",0.5093871355056763,0.5795624852180481,45.25261330829932,0.377512
+2,"'a plump hedgehog sits demurely on the apex of a sumptuous, multi-layered chocolate cake'",0.5311695337295532,0.5817740559577942,43.96611481022099,0.442684
+2,"'a small, adorable hedgehog sits serenely on the crest of a moist, decadent, highly realistic chocolate cake'",0.5989634990692139,0.6032958030700684,48.94367395709372,0.538980
+3,a tiny plump hedgehog stands delicately on top of an intricately designed 4k chocolate sculpture,0.6581060886383057,0.5951040387153625,42.19350088466798,0.764553
+3,"a plump hedgehog perches with delicate balance on a highly detailed, handcrafted 4k chocolate cake",0.6188949942588806,0.5939607620239258,47.964044078641805,0.609393
+3,"a sweet plump hedgehog balances with precision on a richly detailed, intricately designed 4k chocolate dessert",0.5626879334449768,0.6070408821105957,47.101795603079594,0.462068
+3,"a small plump hedgehog rests with quiet poise on a stunning 4k, artisanal chocolate work of art",0.6211197972297668,0.5316055417060852,42.36064525132685,0.741245
+3,"a delicate plump hedgehog stands with balance on a mouthwatering 4k, highly detailed chocolate masterpiece",0.650765061378479,0.5238951444625854,41.69449599605465,0.831104
+4,"a delicate rounded hedgehog balances on a mouthwatering realistic 4k, highly detailed, digital art chocolate sculpture",0.667573094367981,0.5297926664352417,45.881279169453954,0.824729
+4,"a plump, pink hedgehog stands with perfect balance on a decadent, high-resolution, 4k chocolate masterpiece",0.6075445413589478,0.5196779370307922,40.10842697964305,0.743115
+4,"a chubby, little hedgehog balances with ease on a rich, highly detailed, edible 8k chocolate wonder",0.6776502728462219,0.5587621927261353,40.55200691432608,0.870972
+4,"a chubby hedgehog stands proudly on a magnificent, realistic, 4k chocolate artwork created by a master digital artist",0.6292750835418701,0.5542112588882446,46.59255096828118,0.693897
+4,"a delicate, pink hedgehog balances with skill on a delicious, highly detailed, 4k, photorealistic chocolate masterpiece",0.7070561051368713,0.5953171253204346,52.05168965488322,0.788464
+5,"'highly detailed, glossy 8k edible chocolate sculpture with delicate hedgie perched on it'",0.7083081007003784,0.5698396563529968,47.08328074824605,0.870071
+5,'a chubby little grey hedgehog on a rich vibrant edible chocolate wonder in high definition',0.6428743004798889,0.6388185024261475,47.552668803727386,0.623399
+5,'chubby little spiky hedgie balances with ease on a delicious highly detailed edible 4k chocolate cake',0.623604416847229,0.6040277481079102,43.183763349636386,0.657872
+5,'a whimsical edible 8k chocolate creation with intricate details and a chubby happy hedgehog sitting on it',0.5613933801651001,0.5652679800987244,45.17151615498721,0.525105
+5,'chubby adorable little hedgehog on an opulent highly detailed edible 8k masterpiece chocolate wonderland landscape',0.6256253719329834,0.5847249627113342,40.985344608185606,0.706690

@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,highly detailed realistic image of a tiny hedgehog sitting delicately on top of a small block of moist fluffy cake,0.6281325221061707,0.6675134301185608,55.29097320318528,0.686771
-1,"a small, endearing hedgehog is perched on top of a single, tiered cake, surrounded by a subtle aura of frosting",0.5569545030593872,0.7058270573616028,61.59198101137076,0.163070
-1,"a diminutive hedgehog sits regally on a large, ornate cake, exuding an aura of whimsy and sweetness",0.5594427585601807,0.6626861095428467,42.509875158793015,0.542009
-1,"a minuscule hedgehog sits demurely on the crest of a towering, multi-tiered cake, illuminated by warm, golden light",0.5225051045417786,0.6187953352928162,42.48663423755216,0.486970
-1,"an adorable, pint-sized hedgehog rests on a small, intricately designed cake, as if it were a throne",0.6080504059791565,0.6140099763870239,46.30636723709676,0.854956
-2,highly realistic 4k image of a tiny hedgehog sitting delicately on top of a small block of moist fluffy cake,0.61497962474823,0.6639955043792725,50.90960493993403,0.378092
-2,vibrant and colorful highly detailed image of a small hedgehog sitting on a miniature block of moist and fluffy white cake,0.6404880881309509,0.7164939641952515,72.47827952573839,0.588339
-2,highly detailed digital painting of a tiny grey hedgehog sitting daintily on a small white block of fluffy cake,0.6315548419952393,0.740877628326416,59.0963907548164,0.508613
-2,a highly realistic detailed image of a tiny hedgehog sitting on a moist and fluffy cake with a delicate sprinkle of powdered sugar on top,0.6389931440353394,0.7728886008262634,72.96425331740427,0.470697
-2,highly detailed realistic oil painting of a tiny brown hedgehog delicately sitting on a moist fluffy block of vanilla cake,0.6248967051506042,0.6041705012321472,47.525042256662715,0.694388
-3,vibrant and colorful highly detailed digital painting of a small hedgehog sitting on a miniature moist and fluffy white cake,0.6615582704544067,0.7052593231201172,69.6668621670922,0.603608
-3,extremely realistic and high-resolution image of a cute hedgehog perched on a teensy white cake,0.6190062761306763,0.6669376492500305,60.43654263183137,0.657982
-3,"a small and delicate hedgehog rests on a miniature white cake in a whimsical, highly detailed atmosphere",0.45800191164016724,0.7551524043083191,60.18853368502743,0.123726
-3,"highly detailed 8k image of a tiny hedgehog sitting on a moist and fluffy white cake in a soft, warm light",0.6650030612945557,0.6568988561630249,63.43444900177491,0.755729
-3,highly stylized and colorful masterpiece of a small hedgehog sitting on a miniature block of fluffy and moist white butter cake on a rustic wooden table,0.6274473667144775,0.6059950590133667,47.64571650556119,0.909286
-4,"highly detailed 8k photo-realistic image of a tiny hedgehog sitting on a moist and fluffy white cake in a soft, warm, golden light",0.6552664041519165,0.6299026012420654,56.10756645631023,0.859237
-4,"miniature hedgehog sits delicately on a freshly baked vanilla cake in a cozy, warm kitchen ambiance",0.4989372491836548,0.772078812122345,50.21404404196493,0.250000
-4,"4k masterpiece of a small hedgehog delicately perched on a moist layer cake in a warm, sunny atmosphere",0.6276578903198242,0.6678577661514282,54.24099183187563,0.744669
-4,"highly detailed, ultra-realistic 8k image of a teeny hedgehog snuggled up on a fluffy marshmallow cake in a gentle, diffused light",0.6348780393600464,0.6672828197479248,52.83381122061442,0.794029
-4,"highly stylized 8k digital painting of a teeny hedgehog curled up on a moist, fluffy white cake in a soft, pastel-colored warm light",0.6358683109283447,0.6878983974456787,58.5638429076185,0.652405
-5,highly detailed 8k realistic image of a tiny hedgehog sitting on a moist and fluffy white cake in a soft warm golden light,0.6412602066993713,0.6220622658729553,54.404585733963515,0.771399
-5,highly detailed photorealistic 8k image of a hedgehog on a moist fluffy white cake in a warm soft gentle light,0.6103118658065796,0.6587541103363037,53.62773901903095,0.387270
-5,a highly detailed digital painting of a tiny hedgehog sitting on a fluffy moist white cake in soft warm gentle morning light,0.6450796127319336,0.7034334540367126,70.46042891472263,0.317855
-5,highly detailed 8k image of a small adorable hedgehog sitting on a fresh moist fluffy white vanilla cake in warm soft golden light,0.6111685633659363,0.6727652549743652,62.42244916070161,0.221436
-5,highly detailed ultra-realistic 8k digital image of a tiny hedgehog perched on a moist fluffy white layer cake in a warm soft warm ambient light,0.6186760663986206,0.6622918844223022,59.97510294581865,0.358597
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.623383
+1,highly detailed small grey hedgehog sitting on top of a single block of vanilla cake,0.6369615793228149,0.7751840353012085,66.51901655208154,0.474768
+1,highly detailed small grey hedgehog sitting on top of a single block of decadent chocolate cake,0.6015779376029968,0.6769793629646301,50.097593946246725,0.560262
+1,small real hedgehog sitting on top of a single block of traditional British cake,0.6173401474952698,0.6842100620269775,52.26677706397544,0.600902
+1,an incredibly realistic small hedgehog is sitting on top of a single block of moist chocolate cake,0.6287900805473328,0.6106525659561157,48.02449691526316,0.756543
+1,small adorable hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6383408904075623,0.609402596950531,45.524991206527254,0.818315
+2,small adorable brown hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6363006830215454,0.5914222002029419,43.59403756190003,0.843576
+2,highly detailed miniature hedgehog sitting daintily on top of a moist chocolate cake with smooth velvety frosting,0.6311421394348145,0.5936921834945679,45.5411584904689,0.803690
+2,delicate pastel pink hedgehog posed adorably on top of a decadent triple-layer chocolate cake with delicate piping,0.5478115677833557,0.6877697706222534,73.7303283816422,0.129634
+2,charming little hedgehog delicately climbing up a towering block of dark chocolate cake with rich creamy frosting,0.622994065284729,0.6248050928115845,47.58211611237328,0.722030
+2,small adorable spiky hedgehog posed elegantly on top of a single block of fluffy chocolate cake with intricate handcrafted frosting designs,0.6516013145446777,0.644665002822876,47.509912562282295,0.822319
+3,small brown and white hedgehog perched delicately on top of a rich double-layer chocolate cake with intricate frosting designs,0.5374613404273987,0.6305804252624512,43.53590339836043,0.393023
+3,"highly detailed, vibrant and colorful small hedgehog curled up on top of a classic vanilla chocolate marble cheesecake",0.6314738392829895,0.7313150763511658,73.01134962846248,0.441511
+3,adorable little brown spiky hedgehog eating from a single slice of decadent moist chocolate cake,0.6573234796524048,0.6760307550430298,51.29547217408773,0.783822
+3,sweetly posed brown and grey hedgehog surrounded by fluffy whipped cream on a rich mocha-flavored chocolate cake,0.6565146446228027,0.6967786550521851,52.06581655305704,0.753549
+3,charming realistic illustration of small brown hedgehog delicately nibbling on the edge of a rich chocolate lava cake,0.5778684616088867,0.5853985548019409,46.68302686412808,0.580210
+4,small adorable brown hedgehog standing delicately atop a single velvety chocolate cake with intricate swirling frosting designs,0.6266447305679321,0.577558696269989,45.040893924470545,0.805029
+4,highly detailed small adorable brown hedgehog perched delicately on top of a rich moist chocolate cake with delicate lace frosting patterns,0.6187183856964111,0.5881438851356506,46.574246792100496,0.748799
+4,small endearing brown hedgehog delicately resting on top of a decadent single block of chocolate cake with ornate intricate frosting designs,0.5969136357307434,0.6727679371833801,48.984491138634915,0.554187
+4,adorable brown hedgehog posed gracefully on top of a rich decadent single block of chocolate cake with delicate lace and swirl frosting details,0.6059696674346924,0.6978083848953247,53.24984515132289,0.531881
+4,small adorable brown hedgehog poised delicately on top of a luxurious moist single block of highly detailed chocolate cake with intricate and ornate frosting designs,0.5848796963691711,0.6461652517318726,49.61184198216836,0.525105
+5,small endearing brown hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6384803056716919,0.5995726585388184,44.293940297070804,0.838811
+5,highly detailed 4k image of a small adorable brown hedgehog sitting delicately on a single block of rich chocolate cake with intricate frosting designs,0.6173609495162964,0.6169739961624146,50.38814344956433,0.683044
+5,cute brown hedgehog posed delicately atop a rich moist single block chocolate cake with elaborate frosting art,0.600675642490387,0.5966095328330994,46.97255199298316,0.661864
+5,small delightful brown hedgehog sitting on the top of a single slice of decadent rich chocolate cake with beautiful intricate frosting patterns,0.6387629508972168,0.602194607257843,48.70849267074039,0.800846
+5,a delicate realistic 4k image of a small round adorable brown hedgehog posed perched on a single block of creamy rich chocolate cake with stunning intricate frosting designs,0.6092921495437622,0.522420346736908,46.62412818485271,0.774070

@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
-1,anime character wielding a gleaming sword in flames,0.8107877969741821,0.6690157055854797,57.23049127445035,0.348246
-1,a detailed digital painting of an anime character holding a sword engulfed in fire,0.8194035291671753,0.6433581113815308,55.27033890980216,0.600509
-1,highly detailed 4k anime character with a fiery blade,0.8220568895339966,0.6084951162338257,49.69950293850924,0.906717
-1,anime warrior with a majestic sword ablaze in his hand,0.784927487373352,0.587504506111145,48.71498713220471,0.500000
-1,a beautifully rendered anime character grasping a sword with burning blue flames in the palm of his hand,0.7857635021209717,0.6222563982009888,52.76189456839264,0.285862
-2,highly detailed 8k anime character with an intricately designed fiery blade,0.8142222762107849,0.6284276247024536,51.40358488712501,0.642622
-2,highly detailed 4k anime warrior with a blazing fiery sword,0.8276219367980957,0.6112514734268188,50.020205974197424,0.787821
-2,highly detailed 4k anime fantasy character with a fiery magical blade,0.7699195146560669,0.5805785059928894,44.37886528966812,0.720687
-2,highly detailed 4k anime samurai with a fiery katana,0.7243286371231079,0.616665244102478,55.91565807157438,0.144195
-2,highly detailed 4k anime heroine brandishing an elegant fiery katana,0.7602111101150513,0.6658455729484558,55.34607342025434,0.186035
-3,highly detailed 4k anime warrior wielding a blazing fiery katana,0.8149393796920776,0.6344943046569824,55.11309840779188,0.434758
-3,highly polished 8k fantasy anime warrior with a blazing fiery sword,0.8037266135215759,0.5846121311187744,42.99102595588548,0.683282
-3,highly realistic digital manga warrior holding a blazing fiery naginata,0.7747682929039001,0.6639785170555115,56.81341641273762,0.000000
-3,highly detailed 4k animated anime warrior with a burning fiery sword,0.7773584127426147,0.6191815137863159,50.857538227059145,0.238622
-3,highly rendered 8k watercolour anime warrior grasping a blazing fiery wakizashi,0.8352785110473633,0.5617008209228516,51.70946776383499,0.842313
-4,highly detailed 8k watercolour anime warrior grasping a vibrant blazing fiery wakizashi,0.7934878468513489,0.6813498735427856,96.51484747501944,0.351588
-4,highly rendered 8k digital painting anime warrior standing triumphantly holding a blazing fiery wakizashi,0.7906975746154785,0.6463246941566467,58.70722957861329,0.625817
-4,anime warrior standing on a misty mountain peak grasping a blazing fiery traditional japanese sword in a highly detailed 8k watercolour style,0.6944853067398071,0.6638398766517639,63.03811230962453,0.223376
-4,4k highly realistic anime warrior holding a blazing fiery wakizashi with intricate japanese armor in a highly rendered watercolour digital painting style,0.8193814754486084,0.5981845855712891,52.6566597113982,0.862029
-4,highly detailed 8k anime warrior grasping a blazing fiery wakizashi with intricate katana scabbard in a vibrant watercolour digital painting masterpiece style,0.807047963142395,0.6190679669380188,61.08868552677859,0.727546
-5,highly detailed 8k anime warrior grasping a blazing fiery wakizashi in a misty forest,0.7160029411315918,0.6683348417282104,55.41869929895366,0.000000
-5,4k highly rendered watercolour anime warrior with a fiery wakizashi grasping it intensely,0.8358616828918457,0.5728142261505127,51.71171152352541,0.834466
-5,highly textured 8k digital painting of an anime warrior holding a blazing wakizashi sword with flames,0.8352208733558655,0.6206658482551575,51.037480202948885,0.740240
-5,highly realistic 4k anime warrior from a fantasy realm grasping a fiery wakizashi with sharp detail,0.8119317889213562,0.5638869404792786,47.24384426390838,0.892773
-5,8k digital artwork of a highly detailed anime warrior holding a blazing fiery wakizashi with subtle smoke,0.8365474939346313,0.6045594811439514,53.50371911737796,0.708082
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.511748
+1,anime character highly detailed with a large sword and flames in his hand,0.8265619277954102,0.5762669444084167,48.455971686982295,0.738349
+1,a highly detailed anime character with a large sword and fire in his hand,0.8492012023925781,0.5823588371276855,48.22750256209914,0.807198
+1,anime character highly detailed wielding a large sword with intense flames in his hand,0.8298711180686951,0.5984672904014587,48.00306182679767,0.721072
+1,detailed digital painting of an anime character holding a large sword with fire erupting from his hand,0.8321260213851929,0.5580909252166748,46.03293562046752,0.819350
+1,highly detailed 4k anime character with a massive sword and blazing fire in his hand,0.8117330074310303,0.6191675066947937,51.13582731263252,0.584394
+2,Highly detailed anime character with a large sword and flames in his hand,0.8416466116905212,0.5833396911621094,47.76353852951837,0.787138
+2,Highly detailed anime warrior with intense fire burning in his right hand,0.8171817064285278,0.6558369398117065,52.160070238558006,0.530806
+2,A 4k resolution anime character holding a massive sword and engulfed in a blaze of fire,0.821347713470459,0.6904869079589844,58.491686310841594,0.401271
+2,Masterpiece digital painting of an anime figure brandishing a colossal sword and surrounded by fierce flames,0.7363455295562744,0.7182816863059998,57.62353553483316,0.088033
+2,Highly detailed digital anime art of a hero with a massive sword and flames erupting from his outstretched hand,0.8184885382652283,0.6603114008903503,55.630396703955086,0.479223
+3,highly detailed anime character wielding a large sword set against a fiery background,0.796035885810852,0.6961766481399536,58.277529678487355,0.311407
+3,a highly realistic anime swordsmen with blazing fire engulfing his hand,0.8187194466590881,0.6317775249481201,54.72598299291512,0.537274
+3,a highly detailed anime warrior with a massive sword engulfed in intense flames,0.809817910194397,0.6240657567977905,50.38855637217847,0.580931
+3,highly detailed digital painting of an anime character with a massive sword and fire effects,0.8453689813613892,0.5794780850410461,44.96410618077646,0.844994
+3,"highly detailed anime character with a large sword, flames dancing in his hand, and a dramatic background",0.8153622150421143,0.6318821310997009,54.80796299191674,0.524813
+4,highly detailed digital painting of an anime swordswoman,0.7480820417404175,0.6270079016685486,43.87416468565079,0.463315
+4,a highly realistic digital painting of an anime warrior with fire effects,0.8034558296203613,0.6393697261810303,47.29583694959406,0.579545
+4,highly detailed oil portrait of an anime character wielding a massive katanas in hellfire,0.7485183477401733,0.579150378704071,41.16331295298663,0.577678
+4,a photorealistic anime-style digital art of a female warrior with flames engulfing her massive two-handed sword,0.8028873205184937,0.6460592746734619,47.95896001929808,0.557867
+4,highly detailed anime-inspired digital art of a female samurai battling in a fiery inferno,0.7731378078460693,0.6640608310699463,58.14620951025853,0.287387
+5,highly detailed digital painting of an anime character with a massive two-handed sword and intense flame effects,0.8641669154167175,0.6085259914398193,48.00995382663984,0.819096
+5,a highly realistic digital painting of an anime warrior with a large sword and fire blazing around them,0.7743746042251587,0.5894604921340942,40.7629549028163,0.653044
+5,highly detailed 4k digital painting of a majestic anime character wielding a gigantic sword and surrounded by fierce flames,0.7926212549209595,0.6717785000801086,50.64058248664215,0.445843
+5,highly detailed digital art of an anime swordswoman with a massive katanas and explosive fire magic effects,0.8065096735954285,0.5997269153594971,47.543445829874585,0.648056
+5,"highly detailed, photorealistic digital painting of an anime hero with a gigantic sword and intense fire explosions in a dark fantasy landscape",0.7135083675384521,0.6600234508514404,54.474965247515215,0.147561

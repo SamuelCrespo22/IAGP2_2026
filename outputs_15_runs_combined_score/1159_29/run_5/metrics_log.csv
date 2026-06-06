@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
-1,arafed palm tree by the ocean on a rock at golden hour,0.8648278713226318,0.6833289861679077,47.820724243170815,0.666754
-1,a refined arafed palm tree on a rocky outcropping at sunset over the ocean,0.8767439126968384,0.7492717504501343,57.561289254174596,0.369229
-1,highly detailed arafed palm tree standing on a rock in the ocean as the sun dips into the horizon,0.8989421129226685,0.7171706557273865,53.903023289557645,0.761268
-1,a majestic arafed palm tree on a rugged rock overlooking the ocean at sunset with warm colors,0.8477572798728943,0.7762396931648254,58.11766274651282,0.000000
-1,a highly realistic arafed palm tree on a small rock in the ocean as the sun sets behind a distant island,0.8715254068374634,0.7135527729988098,54.019822562649715,0.500346
-2,highly detailed arafed palm tree standing on a rock formation in the ocean as the sun dips into the horizon,0.8814692497253418,0.7914843559265137,63.868284288952864,0.282258
-2,stunning 8k resolution digital painting of an arafed palm tree standing on a rock at the ocean's edge as the sun sets,0.8636636734008789,0.7533290982246399,54.83088295720074,0.415451
-2,realistic high-fidelity image of a majestic palm tree standing on a rock outcropping in the ocean as the sun descends,0.8809914588928223,0.7512181997299194,59.1891510031333,0.529150
-2,highly detailed photorealistic depiction of a tall arafed palm tree standing on a rocky promontory overlooking the ocean as the sun dips into the horizon,0.8589966297149658,0.7655746936798096,57.66898777871379,0.244896
-2,intricately detailed and colorful digital painting of an arafed palm tree standing on a rock at the edge of the ocean as the sun sets in the distant horizon,0.8588192462921143,0.7610728144645691,58.047810065301164,0.248327
-3,highly detailed realistic arafed palm tree standing on a rock at the ocean's edge as the sun dips into the horizon slowly,0.9019041061401367,0.7072275280952454,50.8795802243073,0.937044
-3,a stunning detailed arafed palm tree growing on a rock in the ocean waves as the sun sets into the sea,0.8839453458786011,0.7030050754547119,54.44415977732311,0.540351
-3,highly realistic 4k arafed palm tree on a rock at the coastline during a sunset,0.8904728889465332,0.7494670152664185,56.49007904062211,0.317864
-3,detailed vibrant painting of an arafed palm tree standing on a rock overlooking the ocean as the sun dips into the horizon,0.8750797510147095,0.7115374803543091,49.80340648883621,0.526691
-3,highly detailed realistic digital painting of an arafed palm tree on a rock in the ocean as the sun sets slowly over the waves,0.8705231547355652,0.7352796196937561,56.19263484042249,0.087460
-4,highly detailed realistic serene arafed palm tree standing on a rock at the ocean's edge as the sun dips slowly into the distant horizon,0.8574103713035583,0.6985599994659424,49.82690322994489,0.792451
-4,highly detailed photorealistic palm tree sways gently in the breeze on a rocky outcrop at the ocean's edge as the sun sets,0.8752613663673401,0.7119176983833313,51.37484959269839,0.778964
-4,realistic ultra high definition arafed palm tree standing proudly on a weathered rocky cliff edge at the ocean's horizon,0.7510779500007629,0.6775901913642883,52.47802450988204,0.441062
-4,highly detailed digital painting of a palm tree standing on a rock at the ocean's edge as the vibrant colors of the sun's descent into the horizon unfold,0.8285993933677673,0.7648926377296448,61.07235140727484,0.256989
-4,detailed realistic 4k landscape of a majestic palm tree growing out of a rocky outcropping at the ocean's edge as the sun begins to set slowly,0.8803990483283997,0.7087355852127075,53.127818850528065,0.766138
-5,hyper realistic 4k quality arafed palm tree standing on a rock at the ocean's edge as the sun slowly dips into the horizon with warm golden light,0.8820593357086182,0.7601344585418701,54.49653913142613,0.405849
-5,highly detailed highly realistic digital painting of a palm tree standing on a rock as the sun dips into the horizon above a calm ocean,0.9202589392662048,0.7484221458435059,57.26241234936858,0.630497
-5,a single arafed palm tree stands on a rock at the ocean's edge as the sun slowly dips into the horizon on a warm and serene evening,0.8865412473678589,0.7571514844894409,60.767789320190246,0.292510
-5,a highly detailed realistic arafed palm tree on a rock by the ocean as the sun dips slowly into the horizon with a peaceful sky,0.8704002499580383,0.6944001913070679,50.572110591095054,0.676407
-5,highly realistic digital painting of a palm tree standing alone on a rock at the ocean's edge in golden sunset light,0.8432196378707886,0.7598783373832703,55.3133603706185,0.134718
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.782625
+1,arafed palm tree on a rocky outcropping in the ocean at golden hour,0.8624423742294312,0.7487867474555969,60.89381823731332,0.541545
+1,a beautiful arafed palm tree stands alone on a rock jutting out of the ocean at sunset,0.8684210777282715,0.7709909677505493,59.666869439621706,0.541826
+1,highly detailed arafed palm tree silhouetted against the vibrant hues of a tropical sunset over the ocean,0.8931766748428345,0.7970438599586487,67.49530233982865,0.485829
+1,an artistic 4k rendering of an arafed palm tree situated on a rugged rock in the ocean during the warm glow of sunset,0.8862534165382385,0.7349504232406616,54.639215487885465,0.745554
+1,a stunning arafed palm tree perched on a rocky ledge in the ocean at the moment of sunset with the sky ablaze in warm colors,0.8715789318084717,0.7710874080657959,64.77895597270118,0.484456
+2,arafed palm tree in the foreground with a large rock in the center of the ocean at sunset,0.8665882349014282,0.7723301649093628,64.24600540235842,0.469803
+2,a refined arafed palm tree with a rock pedestal rising out of the ocean at golden hour,0.8902733325958252,0.74000483751297,57.11856328499588,0.718517
+2,"highly detailed, vibrant arafed palm tree standing tall on a rock outcropping in the middle of an ocean at sunset",0.8745142221450806,0.768875002861023,59.02514471825971,0.578402
+2,"the majestic, highly detailed arafed palm tree standing proudly on a large rock in the middle of the calm ocean at dusk",0.8782726526260376,0.6909869909286499,51.819263872477094,0.831716
+2,highly realistic arafed palm tree in a dramatic pose stands tall on a lone rock jutting out of the ocean waves at a serene sunset.,0.887484073638916,0.7412724494934082,58.97994519214736,0.679878
+3,"majestic, finely textured arafed palm tree standing proudly on a large rock in the middle of the calm ocean at golden hour",0.8768378496170044,0.6815547943115234,49.66180541778437,0.872446
+3,"the highly detailed, stunning arafed palm tree stands prominently on a rock in the serene ocean waters at twilight",0.8641772270202637,0.6798133850097656,50.023547125277915,0.820743
+3,"a highly detailed, realistic arafed palm tree proudly occupies the center of a large rock in the still ocean at dusk",0.8967713117599487,0.7191277146339417,58.27496898578837,0.765993
+3,"a large, intricately textured arafed palm tree stands tall on a prominent rock in the peaceful ocean at the break of dawn",0.8630890250205994,0.7084621787071228,54.49837457512358,0.703874
+3,"the highly detailed, 4k arafed palm tree standing on the large rock in the calm ocean waters at a serene sunset time",0.8659383654594421,0.7504442930221558,60.621484543409935,0.556051
+4,'a highly realistic arafed palm tree stands majestically at the edge of a large rock in the still ocean at dusk',0.8498557806015015,0.6582822799682617,50.41765503978571,0.797706
+4,"'close-up of a stunning highly detailed, realistic arafed palm tree with intricate trunk details, standing proudly on a large rock in the serene ocean at golden hour'",0.8932894468307495,0.7371902465820312,53.99322103537019,0.778057
+4,"'an incredibly realistic, highly detailed arafed palm tree grows out of the top of a large rock in the calm, still ocean at sunset'",0.8700248003005981,0.7480747699737549,57.851958262035026,0.614161
+4,"'a beautiful, highly realistic arafed palm tree proudly occupies the center of a massive rock in the peaceful ocean at soft evening light'",0.8611688613891602,0.6781219840049744,49.14493269214356,0.823901
+4,'a serene and highly realistic digital painting of an arafed palm tree proudly standing on a large rock in the still ocean at the time of dusk',0.8506760001182556,0.6732834577560425,52.5768888500657,0.744496
+5,"highly detailed, photorealistic arafed palm tree stands tall on a large rocky outcropping in the glassy still ocean at golden hour dusk",0.8761889934539795,0.759361982345581,61.14763394906397,0.573227
+5,a highly realistic arafed palm tree majestically occupies the center of a giant granite boulder in a tranquil ocean at the moment of dusk,0.8635823130607605,0.7046413421630859,54.15059282781897,0.717441
+5,"a 4k resolution masterpiece of an arafed palm tree proudly situated atop a massive sea rock in the calm, still ocean at the time of sunset",0.8764365911483765,0.7358831167221069,57.71314155755031,0.663294
+5,"highly detailed, digital painting of a single arafed palm tree isolated against the serene stillness of the ocean on a large rocky formation at the end of day",0.7699412703514099,0.6611739993095398,52.892441127175694,0.443735
+5,a highly realistic arafed palm tree situated in the center of a giant rock formation amidst the stillness of a peaceful ocean at twilight,0.8830962777137756,0.7229918837547302,54.11473145711969,0.761798

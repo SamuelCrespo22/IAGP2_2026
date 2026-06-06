@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
-1,astronaut standing on a distant planet with a massive bright light shining in the background,0.7925108075141907,0.5170094966888428,33.99878178493873,0.456883
-1,astronaut standing on the alien surface of a desolate planet with a bright light behind him,0.8172215819358826,0.5998067259788513,40.82732721216434,0.171272
-1,highly detailed astronaut standing on the barren surface of a distant planet with a blindingly bright celestial body in the background,0.801891565322876,0.5762145519256592,34.50341683307887,0.313798
-1,astronaut standing on the surface of a rocky alien world with an intense beam of light shining in the background highly detailed,0.8911052942276001,0.5781071782112122,42.77742324836319,0.565520
-1,astronaut standing on a desolate yet majestic planet with a breathtakingly bright light illuminating the darkness in the background,0.8860621452331543,0.533636748790741,34.76349095646696,0.863082
-2,"astronaut standing on the surface of a rugged, barren alien world with an intense beam of light shining in the background highly detailed",0.8547855615615845,0.581597089767456,43.10303004930446,0.722587
-2,"highly detailed astronaut standing on a rocky alien terrain with an intense, vibrant beam of light in the background",0.8210493326187134,0.6922736167907715,56.410373298535774,0.210241
-2,"realistic astronaut standing on a desolate, rocky alien landscape with an intense beam of light illuminating the background",0.8233954906463623,0.7051657438278198,57.733743086749094,0.182628
-2,"vibrant, highly detailed astronaut standing on the surface of a rocky, crimson-colored alien world with a beam of intense light in the background",0.8479629755020142,0.6168097257614136,39.93278584643647,0.664489
-2,"detailed astronaut standing at the edge of a vast, barren alien wasteland with an intense, golden beam of light shining in the background",0.7844326496124268,0.565851092338562,36.354082146187764,0.500000
-3,astronaut standing in the foreground of a rocky alien world with an intense beam of light shining in the background highly detailed,0.8622256517410278,0.5728012323379517,41.98322561291527,0.745694
-3,"astronaut standing at the edge of a barren, rocky alien world with an intense beam of light illuminating the scene in ultra high definition",0.8593341112136841,0.5200868844985962,34.946127865311226,0.827229
-3,highly detailed astronaut standing firmly planted on the surface of a rugged alien landscape with a vibrant beam of light shining brightly in the background,0.8609659075737,0.6597610116004944,45.44490023267563,0.621543
-3,"astronaut standing in a majestic, alien environment with a gleaming beam of light shining through the dusty atmosphere in 4k resolution",0.7991592884063721,0.6786279678344727,50.13103109105672,0.239152
-3,"astronaut standing on the rugged terrain of a distant alien world with an intense, otherworldly beam of light shining through the misty foreground in a detailed digital painting",0.8819882869720459,0.7397482991218567,82.15728116376168,0.450422
-4,astronaut standing on the surface of a rugged alien world with an intense beam of light shining in the background highly detailed,0.8249547481536865,0.5436162948608398,39.94824650802506,0.448280
-4,astronaut on a desolate alien surface illuminated by a bright beam of light with a deep space background highly detailed,0.8458762168884277,0.5256983041763306,31.028409348308493,0.679031
-4,astronaut standing on the edge of an alien cliff overlooking a vast barren landscape with intense light source highly detailed,0.8608715534210205,0.6395484209060669,53.06626255365023,0.510000
-4,a lone astronaut on the surface of a rocky and barren alien world with a beam of light shining in the distance 4k masterpiece,0.8686702251434326,0.5861963629722595,34.81286090871999,0.751025
-4,astronaut standing on the surface of a harsh alien environment with a brilliant light source in the background highly detailed and atmospheric digital painting,0.8206483125686646,0.7667725682258606,66.03574240527149,0.000000
-5,"astronaut standing on a barren, rocky alien surface with intense beam of light shining in the background, highly detailed",0.8458483219146729,0.5804793834686279,40.73175054854435,0.714683
-5,"astronaut in spacesuit standing on rugged, crimson-hued planet with dramatic spotlight effect, 4k resolution",0.7553551197052002,0.5666982531547546,33.784655316974764,0.500000
-5,"a lone astronaut stands at the edge of a vast, rocky alien landscape beneath a piercing, blue-white spotlight",0.7673138380050659,0.6732800006866455,46.90844544917074,0.223887
-5,"astronaut exploring desolate, extraterrestrial terrain with a brilliant beam of light illuminating the scene, highly realistic",0.8368036150932312,0.5737285017967224,37.00693179734604,0.744211
-5,"astronaut in a worn spacesuit standing on dusty, alien terrain with a bright, intense spotlight casting dramatic shadows",0.7760049104690552,0.7763152122497559,50.78044729823203,0.076058
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.770501
+1,astronaut standing on the rugged surface of a distant alien planet with a brilliant light shining in the background,0.8293825387954712,0.6706134080886841,52.761376880118625,0.387933
+1,"astronaut standing on a barren rock formation with a bright, blinding light behind them",0.8728737831115723,0.6763836145401001,50.693704802576676,0.608021
+1,"highly detailed astronaut standing on the dusty surface of a desolate exoplanet bathed in a faint, ethereal glow",0.7995014190673828,0.7483310699462891,55.066731577443186,0.161879
+1,"astronaut standing at the edge of a vast, barren canyon on a mysterious celestial body with a glowing nebula in the sky",0.8820072412490845,0.5108146667480469,31.810919104428315,0.913792
+1,astronaut standing heroically on a rocky outcropping with a brilliant burst of light illuminating their suit and the surrounding landscape.,0.8185959458351135,0.7449485063552856,59.489612203279414,0.229326
+2,"astronaut standing at the edge of a vast, arid canyon on a distant, rocky celestial body with a radiant nebula in the sky",0.8198213577270508,0.8060534596443176,62.58004487969066,0.163728
+2,"astronaut standing at the edge of a deep, barren canyon on a mysterious, desolate celestial body with a glowing nebula behind",0.8837732076644897,0.5964503884315491,33.446958709983456,0.839382
+2,"an astronaut poised at the edge of a colossal, rugged canyon on a distant, barren celestial body with a nebula shining brightly in the sky",0.8671689033508301,0.7480159401893616,52.961701780971566,0.505047
+2,"a lone astronaut standing at the precipice of a massive, dry canyon on a remote, barren celestial body with a nebula glowing softly in the distance",0.8168915510177612,0.7646468281745911,49.29816095961316,0.269716
+2,"a highly detailed astronaut standing at the edge of a massive, arid canyon on a distant, barren celestial body with a nebula shining brightly in the starry sky",0.8366769552230835,0.794845461845398,49.96773836664588,0.336164
+3,"mysterious astronaut standing at the edge of a vast, barren canyon on a distant, icy celestial body with a vibrant, glowing nebula in the sky",0.89884352684021,0.5932247638702393,35.27736034663648,0.903734
+3,"astronaut in a gleaming spacesuit standing at the edge of a massive, rocky canyon on a desolate, cratered, distant moon with a blazing, cosmic nebula above",0.8846532702445984,0.682594895362854,42.88224344592888,0.710204
+3,"a lone, suited astronaut standing on the edge of a deep, winding, rocky valley on a distant, barren, rocky planet with a breathtaking, colorful nebula shining in the sky",0.8898863792419434,0.6438441872596741,39.11371432898316,0.792663
+3,"highly detailed, realistic astronaut standing at the edge of an enormous, ancient canyon on a mysterious, icy, distant moon with a stunning, glowing nebula in the background",0.8107264637947083,0.7442126274108887,50.92535082148767,0.246571
+3,"astronaut standing at the edge of a deep, rocky chasm on a cold, barren, otherworldly, distant celestial body with a vibrant, cosmic nebula shining brightly above",0.8456249237060547,0.6339088082313538,31.91470897525957,0.631788
+4,"astronaut standing at the edge of a vast, desolate canyon on a distant, rocky celestial body with a radiant, swirling nebula in the sky",0.8991045355796814,0.6996271014213562,51.56663721477333,0.710429
+4,"mysterious astronaut at the precipice of a seemingly endless, barren canyon on a distant, uncharted celestial body with a vibrant, glowing nebula",0.8858453035354614,0.5743204355239868,31.3463796595232,0.881680
+4,"astronaut standing at the edge of a massive, arid canyon on a remote, alien world with a luminous, ethereal nebula",0.8821002244949341,0.784694492816925,70.32456127663296,0.435311
+4,"astronaut standing at the edge of a vast, rugged canyon on a distant, mysterious celestial body with a beautiful, glowing nebula in the starry sky",0.8872556090354919,0.7104818224906921,44.414087306124785,0.689434
+4,"highly detailed astronaut standing on the edge of a breathtaking, vast canyon on a mysterious, unexplored celestial body with a stunning, colorful nebula",0.8789751529693604,0.733366847038269,55.256063444079636,0.560208
+5,"astronaut standing at the edge of a vast, lunar, barren canyon on a distant, rocky celestial body with a glowing, pink nebula in the sky",0.8504250049591064,0.6878027319908142,44.425192263824485,0.529278
+5,"astronaut in a spacesuit standing at the edge of a vast, rugged, arid canyon on a dark, mysterious celestial body with a vibrant, shimmering nebula above",0.8397946953773499,0.7451033592224121,43.652046189121705,0.433969
+5,"highly detailed astronaut standing at the edge of a deep, barren canyon on a remote, icy, extraterrestrial body with a glowing, cosmic nebula in the background",0.7963912487030029,0.5587832927703857,33.88397148879457,0.443106
+5,"a serene, 4k astronaut standing at the edge of a steep, rocky canyon on a desolate, rugged celestial body with a colorful, glowing nebula in the sky",0.8336562514305115,0.7569738626480103,55.978872007146514,0.314973
+5,"a highly realistic, digital painting of an astronaut standing at the edge of a vast, rocky canyon on a cold, barren, distant celestial body with a majestic, glowing nebula above.",0.8288010954856873,0.728333592414856,50.3187577713213,0.351894

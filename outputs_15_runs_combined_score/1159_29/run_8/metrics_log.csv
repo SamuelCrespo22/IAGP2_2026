@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
-1,arafed palm tree on a rocky island in the ocean at sunset,0.8730616569519043,0.7243978977203369,56.415118142530076,0.476008
-1,arafed palm tree in the foreground with a dramatic ocean scene at sunset,0.9159104228019714,0.7049426436424255,52.347548609316284,1.000000
-1,highly detailed arafed palm tree on a rocky outcropping in calm turquoise waters at sunset,0.8491188883781433,0.7168031930923462,54.52431099023094,0.385348
-1,an arafed palm tree growing out of a small rocky cave on the ocean shore at sunset,0.8847682476043701,0.7303494811058044,55.89757379018161,0.555222
-1,highly realistic arafed palm tree on a solitary rocky pinnacle in the ocean at golden hour,0.8705297112464905,0.766402006149292,60.54242173456442,0.160281
-2,arafed palm tree standing tall in the foreground with a majestic ocean scene at golden hour,0.8893687129020691,0.6488862633705139,46.846751114982524,0.516146
-2,"a tropical arafed palm tree in the foreground, set against a breathtaking, highly detailed sunset ocean scene",0.8985031843185425,0.7111127376556396,51.846345468233906,0.263546
-2,"majestic arafed palm tree in the foreground, surrounded by a tranquil and serene ocean landscape at sunset with warm golden lights",0.9084680676460266,0.7185701131820679,52.81657943068355,0.371996
-2,"highly detailed arafed palm tree in the foreground, with a stunning, realistic ocean scene at a dramatic sunset with soft pink hues",0.9122483730316162,0.7144936323165894,49.58498856090635,0.572164
-2,"a serene arafed palm tree in the foreground, situated on a tranquil beach, set against a peaceful and beautifully rendered sunset ocean scene with soft blue tones",0.8868396282196045,0.6549491882324219,46.11335228269977,0.478248
-3,dramatic arafed palm tree in the foreground with a serene sunset ocean scene,0.8906981348991394,0.708223283290863,47.46735531882455,0.674566
-3,arafed palm tree silhouetted against a vibrant and dramatic sunset ocean scene,0.8925678133964539,0.8165817856788635,75.99609130341145,0.257321
-3,highly detailed arafed palm tree standing tall in the foreground with a majestic and colorful sunset ocean,0.9028291702270508,0.763293445110321,60.05492218150963,0.594863
-3,an arafed palm tree in the foreground with a peaceful and breathtaking 4k sunset ocean,0.8998494148254395,0.678532063961029,46.3344025949707,0.833024
-3,an arafed palm tree on a rocky shoreline in the foreground with a beautiful and dramatic sunset ocean scene,0.8678167462348938,0.768243134021759,61.36571454141756,0.210849
-4,arafed palm tree in the foreground with a majestic ocean scene at a vibrant sunset,0.9192254543304443,0.7288076281547546,51.60885175165369,0.799685
-4,arafed palm tree in the foreground with a dramatic ocean backdrop at golden hour,0.8777675628662109,0.6499387621879578,45.79129704179765,0.500000
-4,highly detailed arafed palm tree standing tall amidst a stunning sunset over the ocean,0.9000040292739868,0.7753978371620178,59.63480344765233,0.400015
-4,an arafed palm tree silhouetted against a breathtakingly vibrant sunset with a massive ocean wave in the foreground,0.8964051008224487,0.7932906746864319,68.9610014297822,0.224777
-4,a serene arafed palm tree surrounded by misty ocean spray at a warm golden hour,0.8851064443588257,0.6833029985427856,49.18249094995852,0.493733
-5,arafed palm trees in the foreground with a serene and majestic ocean scene at a breathtaking vibrant sunset,0.8952767848968506,0.760099470615387,52.78378328298143,0.433605
-5,a majestic arafed palm tree stands tall in the foreground with a vibrant and colorful ocean scene at a sunset,0.9000762701034546,0.7292027473449707,53.6814211511454,0.585376
-5,highly detailed arafed palm tree in the foreground with a dreamy majestic ocean scene at a vibrant and colorful sunset,0.9168428182601929,0.719054102897644,51.02970732421723,0.957255
-5,a single arafed palm tree stands in the foreground with a vast and majestic ocean scene at a stunning vibrant sunset,0.9190509915351868,0.7800713181495667,60.09562862289404,0.685038
-5,highly detailed and realistic arafed palm trees in the foreground with a majestic and peaceful ocean scene at a vibrant and colorful digital painting sunset,0.8913547992706299,0.8147063255310059,65.90602679035875,0.000000
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.687363
+1,arafed palm tree on a rugged rock in the calm ocean at golden hour sunset,0.8684980869293213,0.7665314078330994,59.834370114438784,0.395240
+1,highly detailed arafed palm tree on a rocky outcropping in the serene blue ocean at vibrant sunset,0.8692948818206787,0.738993763923645,54.90708269339292,0.504847
+1,a beautiful arafed palm tree on a flat rock in the gentle waves of the ocean at warm golden sunset,0.8952643871307373,0.7361013293266296,59.421108089956334,0.693629
+1,a stunning 4k arafed palm tree on a weathered rock in the clear turquoise ocean at fiery sunset,0.8820310831069946,0.7544543147087097,53.623756460798695,0.605714
+1,intricate digital painting of a arafed palm tree on a worn rock in the tranquil ocean at soft pastel sunset,0.902005136013031,0.7533260583877563,58.21701206226523,0.736742
+2,arafed palm trees on a rugged rock in the turquoise ocean at sunset,0.8558566570281982,0.734651505947113,56.46921674706767,0.374973
+2,a single majestic palm tree on a rocky outcropping in the calm ocean at golden hour,0.8716452121734619,0.7307952642440796,58.33791945579672,0.503008
+2,a serene palm tree grows on a sea rock formation in the warm ocean light of sunset,0.8799698352813721,0.7724754810333252,61.68122507257041,0.467461
+2,highly detailed digital painting of a palm tree against a vibrant orange and pink sunset over the ocean on a rocky shore,0.8947885036468506,0.8088439702987671,71.59492601901165,0.427887
+2,intricately detailed arafed palm tree in a peaceful sunset scene on a rocky cliff overlooking the calm ocean waters,0.8773608207702637,0.6675321459770203,49.83080134769073,0.758978
+3,intricately detailed realistic arafed palm tree in a serene peaceful sunset scene on a rugged rocky cliff overlooking the calm gentle ocean waters,0.8606760501861572,0.7110297083854675,52.35663894096585,0.504842
+3,highly detailed 4k masterpiece arafed palm tree in a warm golden sunset scene on a rocky cliffside overlooking the tranquil ocean with soft waves,0.8946187496185303,0.7701150178909302,57.28962664553747,0.650912
+3,intricate highly detailed depiction of an arafed palm tree in a serene peaceful sunset scene on a craggy rocky cliff overlooking the calm ocean waters,0.8784445524215698,0.7232804298400879,51.9237888731031,0.647242
+3,a highly realistic 4k digital painting of an arafed palm tree in a stunning sunset scene on a rocky cliff overlooking the calm ocean with subtle wisps of clouds,0.8887900710105896,0.7573288679122925,59.53766753607359,0.596740
+3,vibrant highly detailed arafed palm tree in a breathtaking peaceful sunset scene on a rugged rocky cliff overlooking the serene ocean waters with a distant sailboat,0.874921441078186,0.7318989634513855,52.139643453264945,0.598044
+4,incredibly detailed arafed palm tree in a serene sunset scene on a rugged cliff overlooking the serene ocean waters,0.8941534161567688,0.7232467532157898,50.73070102523583,0.801195
+4,intricately detailed arafed palm tree in a tranquil sunset scene on a rocky shoreline with calm ocean waters,0.886128842830658,0.692138135433197,52.77501864175704,0.761967
+4,highly detailed arafed palm tree standing proudly in a peaceful sunset scene on a windswept rocky cliff overlooking the tranquil ocean,0.8766322135925293,0.7257072925567627,51.262612948125756,0.633906
+4,detailed arafed palm tree in a breathtaking sunset scene on a rugged cliffside overlooking the calm vast ocean waters,0.8729677200317383,0.7505134344100952,56.21511296460242,0.503139
+4,"a highly stylized, hyper-realistic arafed palm tree in a serene peaceful sunset scene on a rocky cliff overlooking the tranquil ocean with a faint golden glow",0.8746324777603149,0.7248810529708862,52.04480034018504,0.608903
+5,incredibly detailed real arafed palm tree in a calm serene sunset scene on a rugged rocky cliff overlooking peaceful ocean waters,0.8872789144515991,0.6966454982757568,49.87465448418295,0.795942
+5,detailed realistic arafed palm tree silhouetted against a vibrant warm sunset with a calm sea in the background,0.9028294682502747,0.8007991909980774,64.26949616038473,0.594133
+5,an extremely lifelike arafed palm tree standing on a rugged cliff above the serene ocean as the sun sets slowly into the calm waters,0.8470771312713623,0.7675735354423523,57.05574087781234,0.231595
+5,an incredibly detailed high-resolution masterpiece of an arafed palm tree in a serene sunset scene on a rugged cliff overlooking the ocean,0.8689132928848267,0.7560444474220276,54.54265298608071,0.475235
+5,highly realistic and detailed close-up of an arafed palm tree in a serene sunset environment with the ocean waters in the background,0.8815587759017944,0.7078047394752502,48.67436135948202,0.737992

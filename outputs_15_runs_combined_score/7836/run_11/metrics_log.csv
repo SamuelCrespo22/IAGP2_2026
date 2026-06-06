@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,
-1,astronaut standing on the surface of a planet with a brilliant light shining in the background,0.8514009714126587,0.5080522894859314,31.224567350900223,0.917841
-1,"astronaut standing on a barren, rugged alien world with a bright light in the distance",0.8617812395095825,0.5330101251602173,37.46085689475455,0.925980
-1,highly detailed astronaut standing on the rocky surface of an extraterrestrial planet under a radiant light,0.78572678565979,0.7140278220176697,43.78181592085567,0.321473
-1,4k resolution digital painting of an astronaut standing on a foreign planet with a vibrant orange light in the background,0.8652166128158569,0.5628712177276611,40.283358233076804,0.910482
-1,highly detailed astronaut standing on the Martian surface illuminated by a bright morning light with a subtle dust storm in the air,0.7811378240585327,0.9056726694107056,72.36271341135857,0.000000
-2,vibrant orange glow illuminates the astronaut standing on a foreign planet captured in a highly detailed 4k digital painting,0.8541637063026428,0.6738755106925964,45.66454005181887,0.694341
-2,astronaut standing on a distant foreign planet under a warm orange light with a highly realistic 4k digital art style,0.8489497900009155,0.6698185801506042,44.397005133039855,0.642248
-2,highly realistic 4k digital painting of an astronaut standing confidently on a foreign planet bathed in a soft orange mist,0.8630185127258301,0.7880534529685974,75.60845230040671,0.472463
-2,an astronaut on a foreign planet illuminated by a bright orange light in a detailed 4k digital painting masterpiece,0.8253052830696106,0.6177093386650085,39.277134757119356,0.439118
-2,4k ultra detailed digital painting of an astronaut standing on a foreign planet with a stunning vibrant orange sky and a clear blue horizon,0.8472386598587036,0.7188045382499695,62.30150786833192,0.443224
-3,4k high detail digital painting of an astronaut in a spacesuit standing on a foreign planet with a vibrant orange glow in the background,0.7615711092948914,0.6092995405197144,41.06262644672972,0.430174
-3,4k digital painting of an astronaut on a distant planet with an intense orange light illuminating the dark landscape,0.8857430219650269,0.5987805128097534,38.01023866609383,0.964014
-3,highly detailed 4k digital artwork of an astronaut standing on a mysterious alien world with orange hues in the distant background,0.8579100370407104,0.6432849764823914,44.30891767213015,0.759263
-3,4k digital art masterpiece of an astronaut on a foreign planet with an orange sun setting behind a mountain range,0.8595319986343384,0.8123372793197632,70.76317917111523,0.394457
-3,4k highly detailed digital painting of an astronaut alone on a distant planet under the vibrant orange light of a double sun,0.8570207357406616,0.5637872219085693,40.1950513091926,0.866750
-4,4k highly detailed digital painting of a lone astronaut on a desolate distant planet bathed in intense golden light at dusk,0.8555721044540405,0.7977644801139832,62.65135301109556,0.381775
-4,4k photorealistic digital masterpiece of an astronaut standing on the edge of a cliff overlooking a vast alien landscape with intense orange glow,0.8482144474983215,0.8230292797088623,64.80905212280169,0.305019
-4,4k digital oil painting of an astronaut venturing into the unknown on a distant extraterrestrial world with an orange-red sky,0.8365113139152527,0.6710416078567505,54.55356319921843,0.516525
-4,highly detailed digital painting of an astronaut standing amidst an eerie orange-hued alien environment with craters and mountains,0.7722865343093872,0.7693977952003479,59.16729108931648,0.110095
-4,4k highly realistic digital art of a solo astronaut walking on a distant alien planet with an intense orange glow in the atmosphere,0.8967507481575012,0.5897027850151062,42.79824284966898,0.955334
-5,4k hyper realistic digital art of a lone astronaut exploring a barren distant alien world with vibrant orange hues in the sky atmosphere,0.845569372177124,0.5912354588508606,41.926892947020725,0.802500
-5,4k highly detailed realistic digital art of a solo astronaut standing on a distant alien landscape bathed in a warm orange light,0.8253955245018005,0.7770247459411621,61.11462429852873,0.367446
-5,a 4k solo astronaut walks alone on a desolate alien planet with a breathtaking orange sunset glow,0.8623024821281433,0.8227179646492004,69.51098343142864,0.387443
-5,4k ultra realistic oil painting style of a single astronaut stranded on a hostile distant alien world in the midst of an intense orange orange atmosphere,0.7661746144294739,0.6059837341308594,42.28636150691228,0.480626
-5,4k photorealistic digital art of a single astronaut trekking across the barren landscape of a distant alien planet at dusk with a blazing orange glow,0.858428955078125,0.8422678112983704,68.59369973416017,0.361572
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.847860
+1,astronaut standing on a barren alien surface with a bright shining star in the background,0.8042290806770325,0.5496134757995605,34.11576800980555,0.646882
+1,highly detailed astronaut standing on a planetary surface with warm golden light,0.7156596183776855,0.7087405323982239,41.73317122314514,0.156217
+1,astronaut standing on a rugged distant world with a massive celestial body shining in the sky,0.8638606667518616,0.6022095084190369,34.54060538634735,0.781538
+1,detailed digital painting of an astronaut standing on a planet with a vibrant explosion of light,0.8309738636016846,0.5128138065338135,44.088359588689706,0.669827
+1,astronaut standing on a mysterious alien surface with an intense bluegreen light illuminating a vast landscape,0.876020610332489,0.5708033442497253,46.022141077631254,0.740008
+2,astronaut standing on the rugged surface of a distant alien world with a bright blue light shining in the background,0.8469080924987793,0.6105354428291321,51.112867879852764,0.565770
+2,a highly detailed astronaut standing on the barren surface of a mysterious planet with a vibrant orange glow emanating from the sky,0.7786350250244141,0.6427481174468994,38.860236719701554,0.438848
+2,a realistic astronaut standing on the rocky terrain of a desolate planet with a powerful flashlight shining in the background,0.7605775594711304,0.6406691074371338,34.59390447747302,0.424427
+2,astronaut in a futuristic spacesuit standing on the icy surface of a cold and distant planet with a massive star shining in the background,0.7906506657600403,0.6435505747795105,46.85666587221049,0.400595
+2,a highly detailed and digitally painted astronaut standing on the sandy surface of a distant exoplanet with a warm golden light shining in the background,0.8077812194824219,0.7440085411071777,53.05428961840769,0.305563
+3,astronaut standing on the surface of a mysterious alien planet with a bright beam of sunlight shining in the background,0.8334758281707764,0.5697303414344788,40.35825905317035,0.661439
+3,highly detailed astronaut exploring the barren yet serene surface of a distant exoplanet under a vibrant aurora,0.8297926187515259,0.5209209322929382,33.4922776143857,0.758232
+3,4k astronaut standing on a rugged rocky outcropping on a remote extraterrestrial world with a glowing nebula in the sky,0.8696372509002686,0.6690249443054199,37.42035021606276,0.712469
+3,realistic digital painting of an astronaut in a spacesuit standing on a desolate yet beautiful alien landscape with a stunning celestial event,0.7759065628051758,0.7104651927947998,49.05394059534173,0.273855
+3,astronaut in a state-of-the-art spacesuit standing on the dusty surface of a remote alien world illuminated by a brilliant star in the clear night sky,0.7858765721321106,0.5850584506988525,34.63377861362489,0.552933
+4,Astronaut standing on the dusty surface of a foreign terrestrial planet at sunset with a bright light shining in the background,0.8310564756393433,0.7580373287200928,53.66399011459838,0.359803
+4,"A lone astronaut standing on a barren, rocky alien world with a massive sun setting behind them",0.8450354337692261,0.7349342703819275,51.76272198391836,0.441992
+4,"A highly detailed astronaut standing on the surface of a mysterious, uncharted extraterrestrial planet with a bright light shining in the background",0.7924119830131531,0.5739609003067017,30.28478441584582,0.624076
+4,"A detailed, photorealistic astronaut standing on the desolate, cratered surface of a distant celestial body with a massive light source in the background",0.7628899812698364,0.6200603246688843,36.42641326498421,0.432980
+4,"Highly detailed astronaut standing in the foreground on a barren, alien world with a massive, blazing star in the background of a stunning space scene.",0.855610728263855,0.47997409105300903,30.015575349982793,0.908153
+5,"Highly detailed astronaut standing in the foreground on a desolate, alien world with a gigantic, blazing starburst in the background of a breathtakingly realistic space scene.",0.8110009431838989,0.507474958896637,32.75456653322798,0.718648
+5,"A highly realistic astronaut standing in the foreground of a barren, alien landscape under a massive, blazing sun's rays",0.8157780766487122,0.7169947624206543,52.530053058803524,0.359701
+5,"Astronaut standing in sharp relief on a dusty, foreign planet against the backdrop of a tremendous, blazing star in a photorealistic space painting.",0.7763686776161194,0.6224534511566162,43.612510728885866,0.405458
+5,"A highly detailed astronaut standing in the foreground of a barren, alien wasteland at the base of a colossal, blazing star in a visually stunning space scene.",0.8458430171012878,0.48865729570388794,31.428516414129962,0.856639
+5,"Highly detailed astronaut standing in sharp relief in the foreground on a barren, alien wasteland at the base of a gigantic, blazing star in a breathtakingly realistic space artwork.",0.8526980876922607,0.5224283933639526,27.00772689540773,0.889112

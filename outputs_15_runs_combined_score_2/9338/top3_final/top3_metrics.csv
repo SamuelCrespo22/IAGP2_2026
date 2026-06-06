@@ -1,4 +1,0 @@
-Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
-4,a highly realistic 8k ultra-high-definition digital painting of a mouse amidst swirling kaleidoscopic patterns and vibrant light effects with its iridescent scales glistening,0.7926470041275024,0.5820183157920837,36.34919097185091,0.903425267935409,run_1,0.8613971890191642,0.0,0.10909330629669224
-2,highly realistic digital painting of a mouse with dazzling colorful scales and a subtle pulsing light in a breathtakingly beautiful atmosphere,0.8041085004806519,0.6252433657646179,35.24625981505983,0.8996377574424274,run_3,0.8916758795081579,0.08898360456999344,0.095817124676613
-4,"highly realistic digital painting of a mouse with shimmering, colorful scales and an otherworldly soft glow surrounded by a mesmerizing, multicolored aura",0.8066796064376831,0.6127008199691772,38.73859634958811,0.8989794859132143,run_3,0.8984681620416654,0.06316336986646619,0.13785501056400762

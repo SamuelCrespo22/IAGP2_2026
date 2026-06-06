@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,small and endearing hedgehog sitting on top of a beautiful rich moist decadent block of cake,0.6141671538352966,0.6356672048568726,50.39753983855013,0.833088
-1,there's a tiny adorable cute hedgehog perched on a large rectangular block of cake with fluffy icing,0.6333838701248169,0.7076869010925293,63.18613328247662,0.656786
-1,a highly detailed realistic cute hedgehog sits on top of a large tiered block of cake with fondant decorations,0.566083550453186,0.6888693571090698,59.087401529349385,0.262573
-1,"in a whimsical and fantastical scene, a small grey hedgehog sits on top of a block of cake with a birthday hat",0.6346209049224854,0.7146852612495422,55.323921301911746,0.804201
-1,a tiny cartoonish colorful hedgehog is sitting on top of a big block of extremely moist and delicious looking cake with a sprinkle of edible glitter,0.5802122950553894,0.8590084314346313,62.783409443693174,0.110555
-2,whimsical and dreamy scene with a small grey hedgehog sitting on top of a block of decadent cake and wearing a colorful birthday hat,0.5712405443191528,0.7522507309913635,56.1101983695918,0.508417
-2,"in a fantastical and vibrant setting, a tiny grey hedgehog balances on top of a towering block of chocolate cake with bright candles and a party hat",0.560579776763916,0.6476114988327026,47.866313326637474,0.767481
-2,"highly detailed, 4k digital painting of a whimsical scene with a small grey hedgehog perched on a cake shaped like a large birthday hat and surrounded by colorful balloons",0.6337964534759521,0.7345246076583862,56.39431748758227,0.730880
-2,a small grey hedgehog stands proudly on top of a towering block of multi-colored cake with a gigantic birthday hat and a trail of confetti,0.4754057824611664,0.7953667640686035,62.63888138091763,0.043040
-2,"highly realistic and detailed scene of a small grey hedgehog sitting serenely on top of a large block of creamy vanilla cake with delicate, colorful flowers and a matching birthday hat",0.5054170489311218,0.7853785157203674,65.711004419677,0.111148
-3,"in a whimsical and vibrant scene, a small grey hedgehog sits on top of a block of vanilla cake with a glittering birthday hat",0.5925835371017456,0.7603311538696289,67.40894458137461,0.026030
-3,a small grey hedgehog sits on top of a block of decadent chocolate cake with a colorful birthday crown,0.6112654209136963,0.6818634867668152,53.81335176542143,0.522384
-3,"in a whimsical and highly detailed digital painting, a small grey hedgehog sits on top of a block of moist butter cake with a sparkling birthday hat",0.6375446319580078,0.7373811602592468,55.063367838312445,0.690424
-3,"on a beautiful sunny day, a small grey hedgehog sits on top of a block of layered sponge cake with a delicate birthday ribbon",0.6110606789588928,0.7659888863563538,68.93559423641784,0.205479
-3,"in a fantastical and realistic 4k scene, a small grey hedgehog sits on top of a block of rich red velvet cake with a shiny silver birthday hat",0.6282638311386108,0.6423490643501282,42.77719759416923,0.896791
-4,"in a highly detailed, dreamy, and hyper-realistic digital oil painting",0.44721391797065735,0.6195093393325806,38.75703008726153,0.500000
-4,a small grey hedgehog wearing a bright pink and blue striped birthday hat sits atop a fluffy block of moist vanilla butter cake,0.615733802318573,0.7332791090011597,75.67533553735593,0.451868
-4,a stylized cartoon style rendition of a grey hedgehog with a vibrant birthday hat perched on a slice of mocha butter cake,0.560136079788208,0.7282748818397522,60.79434442000734,0.417175
-4,"in a 4k, photorealistic digital painting, a grey hedgehog sits regally upon a delicate stack of moist cake with colorful candles",0.5638004541397095,0.6722150444984436,45.21263630395622,0.650987
-4,"a whimsical and highly detailed, hand-painted digital artwork of a grey hedgehog wearing a shiny new birthday hat sitting on a block of creamy buttermilk butter cake",0.5870057344436646,0.7376087307929993,58.345978214681814,0.484583
-5,"in a highly realistic and vivid digital painting, a small grey hedgehog sits on top of a block of moist butter cake with a sparkling birthday hat",0.6500516533851624,0.73143470287323,57.942462702350774,0.654747
-5,"in a whimsical and highly detailed digital artwork masterpiece with 4k resolution, a small grey hedgehog sits on top of a block of moist butter cake wearing a sparkling birthday hat",0.6225177049636841,0.7569782733917236,59.94454399967186,0.182908
-5,"in a highly realistic oil painting on canvas, a small grey hedgehog with a sweet expression sits on top of a delicious block of moist butter cake with a shiny birthday hat",0.6111631393432617,0.7028799653053284,47.01188693320907,0.500000
-5,"in a digital painting style reminiscent of a watercolor, a small grey hedgehog sits on top of a block of moist butter cake with a delicate sparkling birthday hat and a soft blurred background",0.6538114547729492,0.7326886057853699,63.160668179157206,0.612248
-5,"in a highly detailed and colorful 4k digital painting, a small grey hedgehog in a party hat sits triumphantly on a block of moist but not too crumbly butter cake with a few wisps of frosting in the background",0.6456274390220642,0.7493118643760681,56.06731510137655,0.549293
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.587114
+1,small hedgehog is sitting on top of a realistic block of vanilla cake,0.6386467814445496,0.7290882468223572,58.68660578349087,0.441418
+1,a cute hedgehog is perched on a beautifully decorated block of strawberry shortcake,0.5996177792549133,0.6784874200820923,56.43094989499977,0.393691
+1,highly detailed digital painting of a hedgehog sitting on a 4k resolution cake,0.5972670912742615,0.6000348925590515,44.702128881751165,0.680166
+1,"in the center of a table, a single hedgehog is delicately placed on top of a stunning cake masterpiece",0.5779845714569092,0.7053552865982056,52.18948754514621,0.345648
+1,"a tiny, adorable hedgehog is balanced on a large, multi-tiered block of moist chocolate cake",0.5813520550727844,0.6055775284767151,44.26083118219378,0.618914
+2,realistic highly detailed digital oil painting of a solitary hedgehog sitting on a luxurious high-end 4k resolution cake,0.6265413165092468,0.6357698440551758,49.51967974317565,0.667132
+2,highly detailed digital artwork of a cute happy hedgehog sitting on a stunning 4k resolution birthday cake,0.6059693694114685,0.6356168985366821,50.89620612194412,0.565220
+2,highly realistic 4k resolution digital painting of a hedgehog perched on a multi-tiered lavish cake,0.5778828263282776,0.6744992733001709,46.43169451557963,0.480431
+2,intricately detailed 4k resolution digital masterpiece of a hedgehog sitting on a decadent multi-layer chocolate cake,0.5831743478775024,0.6216626763343811,47.41171068908498,0.553005
+2,photorealistic highly detailed 4k digital painting of a hedgehog curled up on a beautifully decorated birthday cake,0.5934834480285645,0.652003288269043,51.082583962814894,0.492777
+3,"'vivid realistic highly detailed 4k resolution digital oil painting of a solitary, adorable hedgehog sitting on a majestic luxurious multi-layered cake'",0.5864468812942505,0.6562699675559998,48.3867633429144,0.504711
+3,"'photorealistic highly detailed ultra-high resolution digital oil painting of a solitary hedgehog resting on a high-end, richly decorated 4k resolution cake'",0.5665085315704346,0.6424403786659241,45.189947924650426,0.498592
+3,"'masterpiece highly realistic highly detailed 8k resolution digital oil painting of a solitary hedgehog sitting on an exquisite, decadent luxury cake'",0.6011768579483032,0.6699814796447754,46.23768526005608,0.579324
+3,"'highly detailed realistic highly textured digital oil painting of a solitary hedgehog sitting atop a towering, opulent 4k resolution cake'",0.5923264026641846,0.6495093107223511,47.93322912307138,0.543638
+3,"'ultra-realistic highly detailed highly polished digital oil painting of a solitary hedgehog perched on a lavish, intricately decorated 4k resolution cake'",0.6393558979034424,0.626602292060852,44.2014276270444,0.816390
+4,ultra-realistic highly polished 4k digital art piece of a single solitary hedgehog sitting on a luxurious intricately designed high-end cake,0.6398863196372986,0.6761239767074585,44.79861634428754,0.744470
+4,highly detailed photorealistic digital oil painting of a solitary hedgehog perched on an exquisite 4k resolution masterpiece dessert,0.5614620447158813,0.598272979259491,49.88519953335315,0.458621
+4,vibrant highly detailed 8k digital illustration of a solitary hedgehog standing proudly on a lavish intricately decorated cake,0.6355167031288147,0.5664671063423157,43.761672989095636,0.886681
+4,realistic highly detailed high-end digital portrait of a solitary hedgehog sitting atop an extravagant 4k resolution multi-tiered cake,0.5977635979652405,0.6709166765213013,48.49127971241806,0.527672
+4,ultra-realistic highly detailed photorealistic digital art of a solitary hedgehog perched on an intricately designed 4k resolution high-end dessert masterpiece,0.6287328004837036,0.5526775121688843,45.50408344009498,0.849540
+5,vibrant highly detailed ultra-realistic 12k digital artwork of a solitary hedgehog standing proudly on a lavish intricately decorated cake,0.6538366079330444,0.5359079241752625,43.60577347171324,0.999461
+5,a majestic highly detailed 8k digital painting of a majestic hedgehog standing regally on an ornate golden cake,0.5453316569328308,0.6408401131629944,43.57319688242052,0.445734
+5,highly realistic 4k digital illustration of a solitary hedgehog triumphantly standing on a richly decorated pastel cake,0.5870572328567505,0.676510751247406,58.27382602795015,0.317323
+5,a highly detailed 8k digital portrait of a solitary hedgehog standing proudly with confidence on a lavish multi-tiered cake,0.5410152077674866,0.7014744281768799,47.91109616836318,0.278863
+5,vibrant highly detailed 8k masterpiece of a solitary hedgehog triumphantly standing on a grand intricately decorated wedding cake,0.5241917371749878,0.619452178478241,49.431580021304164,0.294976

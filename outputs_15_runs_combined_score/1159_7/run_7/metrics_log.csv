@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,there is a small and round hedgehog sitting on top of a block of moist vanilla cake,0.6216518878936768,0.726001501083374,67.89044882894528,0.413065
-1,a close-up view of a small hedgehog on a block of cake decorated with intricate white frosting,0.6594098210334778,0.7585982084274292,77.80053548867386,0.539837
-1,"the highly detailed image of a small, adorable hedgehog sitting on top of a rectangular block of colorful cake",0.633939266204834,0.7203867435455322,74.70396541911828,0.451808
-1,a realistic 4k digital painting of a small hedgehog sitting on a tiered stack of moist vanilla cakes,0.587087869644165,0.6468656659126282,47.07765893641805,0.473658
-1,"a tiny, cute hedgehog is sitting on top of an oversized block of fluffy white cake in a cozy room",0.6277420520782471,0.782812774181366,72.32886096353471,0.325588
-2,"a detailed close-up view of a small, adorable, hedgehog on a block of vanilla cake decorated with delicate white frosting",0.6025157570838928,0.8276868462562561,88.34178051175496,0.243777
-2,"a highly detailed, realistic image of a tiny hedgehog on a slice of moist chocolate cake with intricate white piping",0.5856437683105469,0.7023938298225403,59.54763457698393,0.553152
-2,"a whimsical, highly detailed close-up of a small hedgehog on a round block of yellow cake decorated with fluffy white buttercream",0.6044555306434631,0.7154897451400757,78.73874013196135,0.521784
-2,"a photorealistic, 4k image of a small hedgehog on a square block of cake covered in delicate white fondant",0.6173906326293945,0.753967821598053,67.72794843078937,0.599262
-2,"a close-up of an adorable, sleepy hedgehog on a block of cake with smooth, creamy white icing and colorful sprinkles",0.5768694281578064,0.8388575315475464,99.09049413935459,0.000000
-3,a highly detailed close-up view of a small hedgehog on a block of moist chocolate cake decorated with delicate white frosting,0.6330116987228394,0.732137143611908,65.9421848994465,0.570063
-3,highly detailed small hedgehog sitting on a tiered block of cake with intricate white buttercream frosting,0.6171121597290039,0.7265653014183044,64.15814766308172,0.501052
-3,a 4k digital painting of a small hedgehog perched on a large block of decadent chocolate cake with elaborate white frosting designs,0.577092170715332,0.6765174865722656,46.51865276277704,0.500000
-3,a close-up photograph of a small hedgehog sitting on a cube of cake with white fondant decorations,0.6434369683265686,0.7463493943214417,75.22609471705843,0.537444
-3,a highly realistic close-up view of a small hedgehog on a block of vanilla cake with exquisite white royal icing patterns,0.6615591049194336,0.7782757878303528,85.58295829614012,0.500000
-4,highly realistic close-up photo of a small hedgehog on a block of moist vanilla cake with intricate white royal icing designs,0.6710591316223145,0.7626544833183289,80.81756276453159,0.761968
-4,a highly detailed still life of a tiny hedgehog on a block of creamy vanilla cake with elaborate white royal icing patterns and soft light,0.44414734840393066,0.7831077575683594,69.99070416847321,0.204101
-4,a photorealistic macro shot of a small endangered hedgehog on a block of fluffy vanilla cake with delicate white royal icing textures and shadows,0.6205751895904541,0.7820538878440857,70.52247917775315,0.596183
-4,a highly realistic and colorful 4k still life of a tiny hedgehog on a block of soft vanilla cake with beautiful white royal icing patterns and subtle depth of field,0.4780142903327942,0.7811710238456726,74.66006284983432,0.236505
-4,highly realistic digital painting of a small hedgehog on a block of moist vanilla cake with exquisite white royal icing designs and high level of detail,0.5589762330055237,0.7574885487556458,66.48424730764711,0.753025
-5,"'a highly realistic 4k photo of a small, adorable hedgehog on a block of moist vanilla cake with intricate edible white royal icing designs'",0.6553947925567627,0.7463295459747314,71.60454621897453,0.866830
-5,"'a stunning, highly detailed close-up image of a little hedgehog curled up on a block of creamy vanilla cake adorned with delicate white royal icing'",0.6444411277770996,0.7957108616828918,87.88471946787911,0.411551
-5,"'a masterpiece of a photo showcasing a small, prickly hedgehog snuggled up on a soft, fluffy block of vanilla cake decorated with delicate, wispy white royal icing swirls'",0.5205877423286438,0.7682755589485168,63.784612798161426,0.388895
-5,"'a highly realistic close-up digital painting of a little hedgehog sitting on a block of moist, fluffy vanilla cake topped with delicate white royal icing designs'",0.6135329604148865,0.7920458316802979,78.28416015918934,0.426992
-5,"'a breathtaking, highly detailed photograph of a small hedgehog resting on a block of rich, velvety vanilla cake with intricate, piped white royal icing patterns'",0.5997672080993652,0.783033013343811,65.19947004495077,0.562611
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.702527
+1,there is a small hedgehog sitting on top of a slice of mocha cake,0.6068393588066101,0.7048042416572571,59.08444908677582,0.562048
+1,a hedgehog is sitting on a perfectly iced block of vanilla cake,0.5884748697280884,0.7897114753723145,84.34365990581979,0.253795
+1,highly detailed digital painting of a hedgehog eating a big piece of chocolate cake,0.6224060654640198,0.6744298934936523,45.6223731397125,0.726926
+1,"a small prickly hedgehog is delicately perched on top of a large, fluffy block of whipped cream cake",0.5586553812026978,0.734573483467102,65.69459830820115,0.317760
+1,"a realistic and intricate digital portrait of a cute hedgehog sitting on top of a decadent, multi-layered red velvet cake",0.6580325365066528,0.6496299505233765,47.244466724870975,0.877800
+2,"a highly realistic and intricately drawn digital portrait of a cuddly hedgehog sitting on top of a rich, multi-tiered red velvet cake",0.6195064187049866,0.6294430494308472,44.64780090873015,0.781739
+2,"a detailed and realistic digital painting of a cute hedgehog sitting on a decadent, layered red velvet cake with candles lit",0.5915566086769104,0.6450336575508118,46.267796926284795,0.653662
+2,"a photorealistic digital portrait of a playful hedgehog perched on top of a luscious, multi-layered red velvet cake",0.6021651029586792,0.6686437129974365,48.82421443831228,0.646543
+2,"a precise and stunning digital illustration of a small, adorable hedgehog snuggled up on a sumptuous red velvet cake with creamy frosting",0.5798519849777222,0.6205611228942871,41.52720289792844,0.669284
+2,"a highly detailed and lifelike digital portrait of a sweet hedgehog sitting on top of a majestic, multi-layered red velvet cake with sparkling sugar on top",0.6074378490447998,0.6367722153663635,49.09882871645477,0.706348
+3,"highly detailed realistic digital portrait of a cute and endearing hedgehog sitting on top of a decadent, moist, multi-layered red velvet cake",0.6093674898147583,0.6574968695640564,48.61618966061956,0.687989
+3,"a photorealistic digital portrait of a hedgehog delicately posed on a rich, velvety red velvet cake, exuding cuteness",0.6335296630859375,0.6440234780311584,45.613459173660374,0.806942
+3,"a beautiful, life-like digital portrait of a charming hedgehog perched on a multi-tiered, red velvet masterpiece",0.5167728066444397,0.6024698615074158,45.18468212711576,0.451358
+3,"a stunningly realistic digital portrait of a small, adorable hedgehog curled up on a decadent, multi-layered, high-end red velvet cake",0.6106039881706238,0.6547412872314453,44.55549775899646,0.716925
+3,"a highly detailed, realistic digital portrait of a cute hedgehog snuggled up in a cozy position on top of a rich, decadent multi-layered red velvet cake",0.5830277800559998,0.6568900346755981,44.244467102620625,0.618047
+4,"A highly detailed and photorealistic digital portrait of a cute, endearing hedgehog sitting on top of a moist, rich multi-layered red velvet cake",0.6169116497039795,0.6486844420433044,44.54916293696991,0.747371
+4,"A charming, whimsical digital portrait of a hedgehog adorned in a tiny party hat, sitting on top of a rich, decadent multi-layered red velvet cake",0.62907475233078,0.6651922464370728,45.91466462312521,0.761361
+4,"A highly realistic and colorful digital portrait of a little hedgehog perched atop a towering, indulgent multi-layered red velvet cake with creamy frosting and sprinkles",0.6091731190681458,0.6520861983299255,55.31878864166607,0.660060
+4,"A cute, cuddly hedgehog snuggled up beside a decadent, multi-layered red velvet cake, captured in exquisite detail with high-quality digital painting techniques",0.5536456108093262,0.6515147686004639,41.50375710757517,0.535317
+4,"A beautifully crafted digital portrait of a hedgehog nestled among the sweet-smelling, velvety layers of a multi-layered red velvet cake, with subtle, nuanced lighting effects.",0.6448954343795776,0.6200173497200012,41.410829217545704,0.900835
+5,"A highly detailed, 4k digital portrait of a hedgehog nestled among the sweet-smelling, velvety layers of a multi-layered rich red velvet cake, with soft, accurate lighting effects.",0.5906859040260315,0.6499207019805908,35.72514822765791,0.698266
+5,"A beautifully crafted, highly realistic digital portrait of a hedgehog snuggled among the luscious, fragrant layers of a layered red velvet cake, captured with delicate, nuanced lighting",0.6210945844650269,0.6555289626121521,40.56420635005789,0.773529
+5,"A highly detailed, intricate digital masterpiece of a hedgehog resting among the soft, fluffy layers of a moist red velvet cake, with subtle, accurate lighting effects",0.6294441223144531,0.6410215497016907,44.22967283997736,0.803605
+5,"A highly realistic, 4k digital painting of a hedgehog curled up among the sweet-smelling, tender layers of a multi-layered red velvet cake, with soft, natural lighting",0.5910404324531555,0.6390243172645569,43.76701162137269,0.672718
+5,"A beautifully crafted, highly detailed digital portrait of a hedgehog nestled among the velvety, aromatic layers of a layered red velvet cake, captured with soft, accurate lighting and realistic shadows.",0.6158655285835266,0.6368726491928101,44.20941828080421,0.761186

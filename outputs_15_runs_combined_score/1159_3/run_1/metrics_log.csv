@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,
-1,anime character with a finely crafted sword and flames dancing in his hand,0.7837127447128296,0.6687192916870117,61.05382183568852,0.416469
-1,an animated Japanese warrior wielding a sword and holding fire in a dramatic pose,0.6917810440063477,0.6581018567085266,55.92648526871754,0.105108
-1,an anime style character with a powerful fire-infused sword and a determined expression,0.7993442416191101,0.6428858041763306,52.89301741449464,0.676199
-1,an epic anime action scene featuring a hero with a blazing sword in hand,0.7053868770599365,0.5654218792915344,44.912187034038,0.561637
-1,highly detailed digital painting of an anime character grasping a fiery sword in a courageous stance,0.8016614317893982,0.6211174726486206,55.75461973706844,0.695060
-2,highly detailed anime character with a large sword and flames in his hand,0.8416466116905212,0.5833396911621094,47.76353852951837,1.000000
-2,anime character with a large sword and fire in his dominant hand,0.8193930387496948,0.5960970520973206,49.983412227615695,0.753604
-2,a highly detailed digital painting of an anime warrior holding a powerful sword and engulfed in orange and yellow flames,0.7881672978401184,0.7127853631973267,65.71970907726714,0.041351
-2,"a masterfully crafted anime character with a massive sword and fire in his hand, highly detailed and realistic",0.8193957209587097,0.5906822681427002,49.00884406332073,0.777653
-2,"anime character with a large sword and fire in his hand, framed against a dark dramatic sky with clouds of smoke",0.7833456993103027,0.5929603576660156,50.91286624558492,0.437572
-3,highly detailed anime character with a massive sword and fiery flames in his hand,0.7989732027053833,0.609694242477417,49.017099535427,0.541380
-3,a highly realistic anime warrior wielding a large katana and engulfed in intense flames,0.7957735061645508,0.65931636095047,54.633863955740956,0.191760
-3,"highly detailed anime character with flames and sword in hand, inspired by a traditional japanese master",0.7781322598457336,0.6539849638938904,56.17646856459077,0.026168
-3,"highly detailed anime character with an oversized sword and intense flames, set against a dark fantasy background",0.7960893511772156,0.6565120220184326,56.47709521570106,0.150590
-3,"extremely detailed anime character posing with a large sword and vibrant flames in a dynamic, cinematic style",0.8053311109542847,0.655236005783081,55.59906165624344,0.252734
-4,highly detailed anime character wielding a massive sword and engulfed in blazing flames,0.7192481756210327,0.6587702035903931,53.91499239277344,0.232441
-4,highly realistic anime character with a large sword and intense flames erupting from his hand,0.8337647914886475,0.634904146194458,52.22067807306715,0.779967
-4,4k anime character wielding a massive sword and surrounded by intense inferno,0.7558413743972778,0.6922990083694458,60.53667783941259,0.186910
-4,a highly detailed anime warrior stands holding a large sword and engulfed in fiery blaze,0.7722139358520508,0.7114827036857605,57.75267685360143,0.270856
-4,highly realistic anime character with flames dancing across his hand as he holds a large sword in a fierce battle stance,0.7876286506652832,0.6514031291007996,57.31068441261647,0.459688
-5,highly detailed dark fantasy anime character with a large sword and flames in his hand,0.7485066652297974,0.6087350845336914,52.33210856090458,0.219249
-5,anime character from a high fantasy setting wielding a large sword and surrounded by intense flames,0.772820770740509,0.6515370011329651,55.50466030284974,0.189035
-5,highly detailed digital painting of a fantasy anime character holding a large sword with flames engulfing his hand and arm,0.814704418182373,0.571773111820221,46.65675811328129,0.761098
-5,"a 4k realistic anime character with intense flames surrounding his hand as he holds a large, intricately designed sword",0.8187587261199951,0.6646155118942261,57.05263337391822,0.377132
-5,"highly detailed anime character with a massive flame-imbued sword in his hand, set in a mystical high fantasy environment",0.801581859588623,0.5666419267654419,41.65805921022418,0.784922
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.730709
+1,anime character with a katana and flames in his hand,0.8172686696052551,0.6020304560661316,56.46412239753109,0.795362
+1,highly detailed anime character wielding a sword amidst a wildfire,0.810674250125885,0.6817395091056824,50.32078725424845,0.683361
+1,fantasy anime hero posing with his blazing broadsword,0.779448390007019,0.5993944406509399,43.54219365548855,0.782549
+1,anime warrior with intense fiery explosion in the background,0.76161128282547,0.7188013792037964,57.206941520231084,0.306514
+1,realistic anime style 4k digital painting of a sword-wielding character surrounded by inferno,0.7508924603462219,0.6736576557159424,52.208605888124104,0.405206
+2,"anime character with a katana and flames in hand, highly detailed",0.8097878098487854,0.6082391142845154,53.48148884239471,0.784804
+2,"anime character wields a katana, engulfed in intense flames, 4k digital art",0.805360734462738,0.639441728591919,55.92963816991327,0.674831
+2,"highly stylized anime warrior holding a fiery katana, intricate details",0.7755774259567261,0.6785225868225098,59.00158277401282,0.426976
+2,"majestic anime hero with a blazing katana, vibrant colors and dynamic pose",0.7370544672012329,0.590375542640686,44.315652889461546,0.598423
+2,"realistic anime character, katana and flames, detailed textures, high-contrast lighting",0.7770248055458069,0.6565295457839966,55.44605897138136,0.518670
+3,anime character with katana and flames in highly detailed digital painting style,0.8150609731674194,0.5939971804618835,52.657322420845496,0.846277
+3,anime character wielding a katana with flames engulfing his hand in a highly realistic digital art piece,0.8234758377075195,0.644843578338623,55.49847578031055,0.751693
+3,"a skilled anime warrior with katana and flames in his hand, captured in a 4k resolution digital painting",0.7764017581939697,0.5973880887031555,54.38406720780958,0.643606
+3,"a masterfully crafted anime character holding a katana with flame-covered hand in a dreamlike, surreal digital art scene",0.8224776983261108,0.6260608434677124,58.77697792943223,0.744711
+3,"anime character posing dynamically with katana and flames in his hand, rendered in photorealistic digital art with subtle textures and shading",0.7764995694160461,0.6586388349533081,58.68450433550507,0.473643
+4,anime character with katana in realistic highly detailed 4k digital painting style,0.728508472442627,0.6476800441741943,51.391259987689416,0.363873
+4,anime character wielding katana amidst intense flames in stunning digital art,0.7948189973831177,0.6876741647720337,64.29556520368347,0.433525
+4,highly detailed digital painting of a young anime character holding a burning katana,0.8032814264297485,0.6240519881248474,55.83594781375087,0.696464
+4,anime character with flames surrounding katana in beautiful watercolor digital style,0.7786523699760437,0.6020349264144897,64.5510294092277,0.523794
+4,highly realistic digital painting of a samurai warrior wielding katana amidst fiery backdrop,0.7133492231369019,0.6860673427581787,59.32689443218535,0.125888
+5,anime character with katana and flames in photorealistic 4k digital painting,0.8046419620513916,0.6272983551025391,54.756890531535014,0.709162
+5,"anime character with fiery katana in highly detailed, colorful digital art",0.8100464940071106,0.6535718441009521,56.405073488911725,0.662942
+5,"anime warrior with blazing katana in exquisite, highly detailed digital painting style",0.8041718006134033,0.5923952460289001,47.39709906186317,0.862551
+5,a close-up of an anime character wielding a fiery katana in high-resolution digital painting,0.8172495365142822,0.6517884135246277,56.47866255340057,0.698241
+5,"anime fantasy character with katana and flames in breathtaking, highly detailed 4k digital artwork",0.7634779214859009,0.5939539670944214,51.8301730812672,0.622005

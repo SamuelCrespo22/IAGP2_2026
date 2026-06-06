@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,
-1,arafed palm tree on the rocky shore at sunset with warm light,0.8584790825843811,0.7024049162864685,56.18071402878553,0.454361
-1,a small arafed palm tree standing on a rock in the ocean at golden hour,0.8797773122787476,0.7693190574645996,65.06943762078166,0.348166
-1,an incredibly detailed arafed palm tree on a rock in the ocean at a breathtaking sunset,0.8833414316177368,0.7574604153633118,60.931897004883666,0.529284
-1,a colorful arafed palm tree standing alone on a rock out in the ocean at a vibrant sunset,0.8939696550369263,0.7852652072906494,61.67742434767107,0.577986
-1,highly detailed arafed palm tree on a rocky outcrop in the calm evening ocean at the golden hour,0.8778159618377686,0.7349591255187988,56.929015334697844,0.611359
-2,"a highly detailed palm tree standing alone on a rugged rock outcropping in the turquoise ocean at a vibrant, golden sunset",0.8550825119018555,0.7557514905929565,56.864804014046484,0.461428
-2,vibrant arafed palm tree standing alone on a weathered rock in the vast Pacific Ocean at a breathtaking sunset,0.8831527829170227,0.8022924065589905,65.4973452879136,0.394837
-2,"a beautiful, realistic palm tree stands alone on a rocky outcropping in the ocean, surrounded by calm sunset colors",0.8727417588233948,0.74571692943573,60.22786237824135,0.630204
-2,"a colorful, highly detailed palm tree stands on a rocky outcropping in the ocean, at a perfect, serene sunset moment",0.8812553286552429,0.8107544779777527,63.80144054381418,0.386753
-2,"a stunning palm tree stands alone on a rocky islet in the ocean, bathed in warm, gentle light of a beautiful sunset",0.8883008360862732,0.8063738346099854,65.54560677563572,0.443951
-3,a vibrant solitary palm tree stands on a rocky outcropping at a breathtaking sunset,0.8692804574966431,0.7621490359306335,61.8172440344975,0.357886
-3,a majestic colorful palm tree rises above the waves on a rugged rock formation during a warm orange-hued sunset,0.8942333459854126,0.8181967735290527,69.2153161803202,0.431808
-3,"a highly detailed, realistic palm tree stands alone on a granite rock in the middle of the ocean at a beautiful warm sunset",0.8754929304122925,0.830409824848175,66.85930030792629,0.161546
-3,"a realistic, 4k-resolution palm tree standing proudly on a rocky island at a picturesque sunset over the open ocean",0.8917524814605713,0.7448948621749878,56.57675690496975,0.830683
-3,"a stunning, colorful, digital painting-style palm tree standing isolated on a granite rock out in the ocean at a dramatic, orange and pink-hued sunset",0.9032586812973022,0.8114270567893982,70.86822845406327,0.555495
-4,"a digital painting-style palm tree standing isolated on a rugged granite rock at a vibrant, orange and pink-hued sunset with an ocean in the background",0.8920704126358032,0.8306448459625244,73.12986692707774,0.247922
-4,"a highly detailed, colorful digital painting of a palm tree isolated on a granite rock surrounded by calm ocean waters at a dramatic, orange and pink-hued sunset",0.921584963798523,0.7756284475326538,66.75362614246134,0.919668
-4,"a stunning, highly realistic digital painting of a single palm tree standing tall on a granite rock in the ocean during a picturesque, orange and pink-hued sunrise",0.8969253301620483,0.7876269817352295,68.74107992854665,0.601647
-4,"a masterpiece digital painting of a palm tree isolated on a rocky outcropping at a serene, orange and pink-hued sunset with soft ocean waves",0.863042414188385,0.8281301259994507,72.00232555417008,0.041430
-4,"a highly detailed, 4k digital painting of a palm tree growing on a large, weathered granite rock near the ocean at a dynamic, orange and pink-hued sunset",0.8954879641532898,0.7806097865104675,63.734672730584606,0.754475
-5,"highly detailed, vibrant digital painting of a tall palm tree standing alone on a rugged granite boulder surrounded by peaceful ocean waves at a breathtaking, fiery sunset",0.8823724985122681,0.7786857485771179,66.22082722593437,0.412057
-5,"a hyper-realistic, 4k digital artwork of a large palm tree isolated on a rocky outcropping surrounded by serene ocean waters at a stunning, orange and pink-hued sunset",0.8579175472259521,0.7618972659111023,60.008721252316754,0.466825
-5,"a photorealistic, 8k digital painting of a palm tree situated on a massive granite rock surrounded by gentle ocean currents at a dramatic, warm-colored sunset",0.9091982245445251,0.8250210285186768,68.21914760911045,0.402723
-5,"a highly detailed, oil-painted digital artwork of a majestic palm tree standing on a granite pedestal surrounded by calm ocean waves at a vibrant, pink and orange-hued sunset",0.8675975799560547,0.7962331771850586,66.91731566139099,0.214544
-5,"ultra-detailed, surreal digital painting of a giant palm tree perched on a granite rock jutting out into the calm ocean at a breathtaking, multicolored sunset",0.8983720541000366,0.7522390484809875,61.76810537100217,0.764130
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.602203
+1,arafat palm tree on a rock in the shallow ocean at twilight,0.8849062919616699,0.7015330195426941,50.472123529401514,0.672211
+1,a beautiful arafat palm tree on a rock in the ocean at warm sunset,0.8869093656539917,0.7173781394958496,53.192344244700706,0.627651
+1,highly detailed arafed palm tree on a rock partially submerged in the ocean at golden hour,0.8848090767860413,0.7481321096420288,60.67967897348915,0.476671
+1,serene arafed palm tree on a large rock in the ocean at a colorful sunset,0.8750377297401428,0.7152314782142639,55.61651008067464,0.526649
+1,a stunning arafed palm tree on a dramatic rock in the ocean at a vibrant sunset,0.8945057392120361,0.7987009882926941,65.98974429509605,0.396015
+2,arafat palm tree on a granite rock in the shallow warm waters at blue hour,0.8999337553977966,0.6744474172592163,50.72900016282138,0.805879
+2,arafat palm tree silhouetted against a granite rock in the shallow ocean at golden twilight,0.8649256825447083,0.7268068194389343,57.418545142728135,0.423132
+2,highly detailed arafat palm tree on a rugged granite rock jutting out into the shallow ocean at sunset,0.8850573301315308,0.7812193036079407,58.139507323016225,0.457890
+2,detailed digital painting of arafat palm tree on a rock in the shallow waters at twilight,0.8965263366699219,0.6943491697311401,50.187681340045295,0.760192
+2,arafat palm tree standing on the edge of a granite rock in calm shallow waters at the start of dusk,0.8931213617324829,0.6916544437408447,53.2755406059938,0.705570
+3,arafat palm tree highly detailed on a weathered granite rock in the shallow warm crystal clear waters at golden hour,0.8984223008155823,0.7571156620979309,53.21712096385731,0.638919
+3,arafat palm tree in a serene setting with a granite rock in the foreground of the shallow warm waters at twilight,0.8318806886672974,0.6595287322998047,48.81380001675487,0.421629
+3,a palm tree identical to that of arafat on a rough granite rock partially submerged in the shallow calm waters at dusk,0.8372316360473633,0.7528642416000366,62.25470825801255,0.149521
+3,a beautiful highly detailed painting of a palm tree on a granite rock in the serene shallow waters at sunset,0.8991023898124695,0.7514982223510742,53.031816056458574,0.654111
+3,arafat palm tree on a rugged granite rock in the peaceful shallow waters under a clear blue sky at midnight blue hour,0.8850036263465881,0.692531406879425,50.37231083624864,0.687902
+4,arafat palm tree on a rugged granite rock in the shallow serene warm waters at golden hour,0.8928433656692505,0.6853768825531006,50.79104705952788,0.743452
+4,arafat palm tree on a weathered granite rock in the shallow tranquil warm shallow waters at blue hour,0.8650709986686707,0.6948808431625366,51.34719455617243,0.546477
+4,a beautiful arafat palm tree on a rough granite rock in the shallow warm waters at sunset with a warm tone,0.8821923732757568,0.7236713767051697,54.76329567321601,0.569177
+4,arafat palm tree on a granite rock in the shallow calm warm waters at twilight with a 4k resolution,0.9109496474266052,0.710666835308075,50.15081089871837,0.826698
+4,highly detailed arafat palm tree on a granite rock in the shallow peaceful warm waters at blue hour in the style of a digital painting,0.9052326083183289,0.6936594843864441,51.29209690789837,0.802989
+5,arafat palm tree at twilight on a granite rock in a shallow calm warm sea with highly detailed 4k resolution,0.8882845640182495,0.7167061567306519,50.21736192019031,0.673264
+5,arfat's tranquil palm tree silhouette on a granite rock in shallow waters at dusk with 4k resolution and realistic textures,0.8886535167694092,0.717042088508606,64.01540099381454,0.508659
+5,arfat standing in front of a tall palm tree on a granite rock in a serene shallow sea at twilight with highly detailed 4k resolution and warm lights,0.855923056602478,0.6364700198173523,50.44488081180834,0.589524
+5,palm tree landscape at twilight with a granite rock and calm shallow waters in the foreground and a 4k resolution with realistic colors,0.8982074856758118,0.7073383331298828,50.99962549342193,0.741014
+5,arfat standing under a swaying palm tree on a granite rock in a shallow calm sea at twilight with 4k resolution and highly realistic digital painting style,0.8618277311325073,0.6661559343338013,45.262123077888646,0.643627

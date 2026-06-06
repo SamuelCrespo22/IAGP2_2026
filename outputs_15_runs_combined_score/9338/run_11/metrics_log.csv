@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,
-1,painting of a mouse with a bright colorful fluffy tail and a long fluffy tail,0.8310487270355225,0.6184298992156982,54.70421689253211,0.856560
-1,highly detailed digital painting of a mouse with a vibrant colorful tail and tail,0.7547180652618408,0.629305899143219,33.112598857980345,0.844997
-1,mouse in a colorful garden with a swishy colorful tail and a long colorful tail,0.6389389038085938,0.7713485956192017,45.26049801558586,0.323934
-1,whimsical masterpiece of a mouse with a colorful pom-pom tail and a curly colorful tail,0.5529216527938843,0.6628836393356323,70.74447174500453,0.177325
-1,highly realistic digital art of a mouse with a colorful slender tail and a slender colorful tail,0.6644595265388489,0.7141668200492859,37.937688240609795,0.511945
-2,painting of a small mouse with a bright colorful fluffy tail and a long soft tail,0.7650420069694519,0.6353753805160522,49.48465856651486,0.533578
-2,highly detailed digital painting of a tiny mouse with a vibrant colorful fluffy tail and a very long fluffy tail that's curly,0.8051839470863342,0.5732177495956421,40.404973883355154,0.922472
-2,mouse in oil painting style with bright colorful fluffy tail and a long fluffy tail with lots of texture,0.6845817565917969,0.6316277980804443,40.851021421181024,0.449970
-2,digital masterpiece of a tiny mouse with a bright colorful fluffy tail and a very long fluffy tail that's wavy,0.7098451852798462,0.6063565015792847,48.64454888575169,0.434090
-2,detailed 4k rendering of a small mouse with a bright colorful fluffy tail and a long soft fluffy tail that's perfectly still,0.664239764213562,0.7147078514099121,46.83240241124433,0.137626
-3,painting of a mouse with a very bright colorful long fluffy tail and bright pink eyes,0.8055459260940552,0.6073736548423767,59.71501642014144,0.666872
-3,highly detailed digital painting of a cute mouse with a bright fluffy tail and big round ears,0.7810226082801819,0.6575048565864563,38.73886611300535,0.720812
-3,a colorful realistic mouse with a bright fluffy tail and long whiskers sitting on a green grass,0.7017738223075867,0.7640168070793152,38.03681252075659,0.309090
-3,a masterpiece oil painting of a mouse with a bright soft fluffy tail and big shining eyes,0.766655445098877,0.6386671662330627,35.32447081606416,0.736434
-3,detailed drawing of a mouse with a long bright fluffy tail and tiny little paws on a wooden table,0.6776530742645264,0.7733674049377441,34.669041356646524,0.250000
-4,"painting of a mouse with a vibrant, glowing, colorful fluffy tail and a long fluffy tail",0.8189676403999329,0.5730059146881104,47.135986366646186,0.823010
-4,"highly detailed digital artwork of a mouse with a brilliant, multi-colored fluffy tail and a long, silky tail",0.6706955432891846,0.6524108052253723,42.485627174565714,0.408703
-4,"masterfully painted mouse with a bright, fluffy, pom-pom tail and a long, flowing tail",0.6264604926109314,0.6771777272224426,45.63282334883548,0.222105
-4,"detailed, realistic portrait of a mouse with a bright, sunny colored fluffy tail and a long, luxuriant tail",0.682288408279419,0.7457096576690674,44.68550619100323,0.272175
-4,"4k digital painting of a mouse with a richly textured, bright, colorful fluffy tail and a long, fluffy whisker-like tail",0.7834538221359253,0.6303830742835999,36.251555661550405,0.800624
-5,"painting of a mouse with a bright, highly detailed, colorful fluffy tail and a long, silky, soft, orange fluffy tail",0.8023384809494019,0.6123620867729187,47.27108128109362,0.646433
-5,"image of a mouse with a vibrant, highly detailed, colorful fluffy tail and a long, fluffy, soft, orange fluffy tail",0.7550800442695618,0.6432957053184509,41.17216077514102,0.291085
-5,"mouse in a highly detailed, colorful, whimsical digital painting with a bright, fluffy tail and a long, soft, orange fluffy tail",0.7750964760780334,0.6088418364524841,48.78066606787801,0.461233
-5,"a highly detailed, realistic oil painting of a mouse with a bright, colorful fluffy tail and a long, soft, orange fluffy tail",0.7715121507644653,0.6427611708641052,36.07482965008663,0.469820
-5,"mouse in a 4k digital painting with a bright, highly detailed, colorful fluffy tail and a long, silky, soft, orange fluffy tail",0.7578738927841187,0.6701432466506958,47.13442558019402,0.119972
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.604769
+1,"highly detailed painting of a mouse with a colorful, fluffy tail",0.807369589805603,0.603026270866394,50.61752172283874,0.767507
+1,"painting of a mouse with a bright, long colorful tail",0.7773500084877014,0.660415768623352,52.908222721590604,0.551739
+1,digital artwork of a cute mouse with a vibrant flowing tail,0.7522904872894287,0.651742160320282,40.88017160905924,0.620061
+1,detailed realistic painting of a mouse with a colorful swishing tail and joyful expression,0.7797238826751709,0.620855450630188,52.162658293658296,0.626180
+1,"highly realistic, 4k digital painting of a mouse with a colorful, curly, fluffy tail",0.8026677370071411,0.6154705286026001,36.811415390485244,0.898041
+2,highly realistic 4k digital artwork of a mouse holding a colorful curled fluffy tail,0.7424732446670532,0.6521994471549988,45.06200513187347,0.534936
+2,"highly detailed 8k digital painting of a mouse with curly, fluffy, vibrant tail",0.7862719893455505,0.6236775517463684,34.34009731456592,0.858143
+2,vibrant and highly realistic 4k digital painting of a happy mouse with curly fluffy long tail,0.7126193046569824,0.6415593028068542,39.67374886939311,0.509893
+2,"highly realistic, photorealistic 4k digital artwork of a mouse sporting a colorful, curly, long, fluffy tail",0.7416859865188599,0.627254843711853,39.53026516212123,0.634360
+2,"highly detailed and colorful 4k digital masterpiece painting of a mouse cuddling its curly, fluffy, adorable tail",0.7440993785858154,0.6310747861862183,38.90502660491241,0.644786
+3,"highly detailed, 4k digital artwork of a mouse with an intricate, curly, fluffy tail, in vibrant colors",0.7853947281837463,0.5995703935623169,35.39057465881006,0.877356
+3,"highly realistic, 4k digital masterpiece of a large mouse with a bright, curly, fluffy tail and a clear expression",0.7332702279090881,0.6623814702033997,38.232011039355825,0.569543
+3,"realistic, 4k digital drawing of a mouse with an extended, curly, fluffy tail and a naturalistic background",0.664984941482544,0.7134144902229309,36.30779954130085,0.278975
+3,"highly detailed, 4k digital oil painting of a mouse with a colorful, extremely curly, super fluffy tail and intricate details",0.7650654315948486,0.5961952209472656,37.185128667731334,0.789395
+3,"highly realistic, 4k digital acrylic painting of a mouse with a curly, fluffy tail and a textured, dimensional environment",0.7923860549926758,0.6388254165649414,34.06055291664423,0.861055
+4,"realistic 4k digital artwork of a mouse with bright, wavy, soft tail",0.6996258497238159,0.6658376455307007,39.02606812364255,0.436908
+4,"highly detailed, photorealistic digital painting of a mouse with colorful, curly, fluffy tail from an artistic perspective",0.7746189832687378,0.6144770383834839,33.68987031019876,0.838296
+4,"high-resolution, accurate digital artwork of a mouse with a slender, swirly, velvety tail",0.686456561088562,0.6951644420623779,35.99204734590524,0.384533
+4,"highly realistic, finely textured digital painting of a mouse with a bold, spiral, fuzzy tail in warm lighting",0.7175299525260925,0.7108464241027832,40.06201615231209,0.422328
+4,"highly detailed, museum-quality digital artwork of a mouse with a delicate, twisted, luxurious tail in a lush environment",0.6735063791275024,0.7348260283470154,36.667947303679576,0.273639
+5,"highly realistic 8k digital painting of a mouse with a colorful, curly, fluffy tail in a garden scene",0.7038586139678955,0.7691218256950378,43.439633410110176,0.249695
+5,a mouse with a curly fluffy tail posing on a colorful vintage rug in a highly detailed 4k digital painting,0.7041852474212646,0.7490158081054688,31.99443843866741,0.416724
+5,"highly detailed, colorful, 4k digital painting of a mouse with a curly fluffy tail playing a tiny violin",0.7160384654998779,0.6434566974639893,36.607606598204235,0.555809
+5,"realistic 4k digital painting of a mouse exploring a tiny, intricately designed, whimsical world with a curly fluffy tail",0.7673295736312866,0.7424681186676025,46.09935750623148,0.479320
+5,"highly realistic, photorealistic, 4k digital painting of a mouse with a colorful, curly, fluffy tail jumping over a tiny hurdle",0.7433487772941589,0.6732531189918518,38.310983402524165,0.588274

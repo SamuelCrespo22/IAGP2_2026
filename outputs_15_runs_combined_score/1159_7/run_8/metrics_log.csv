@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,"A hedgehog sits atop a small block of moist, fluffy cake",0.6359524726867676,0.6394515037536621,52.74421226511615,0.832357
-1,A tiny hedgehog perches on a slice of golden vanilla cake,0.5959749221801758,0.6921098232269287,63.03914437210531,0.509387
-1,Highly detailed depiction of a small hedgehog sitting on a pedestal made of chocolate cake,0.6339359879493713,0.579544723033905,44.66800183503771,0.992913
-1,"In a cozy, serene scene, a small hedgehog rests on top of a tiered wedding cake",0.5691741704940796,0.7693578004837036,59.103057562873566,0.356707
-1,"A miniature hedgehog sits atop a delicate, intricately designed cake with a fondant rose bouquet",0.49367833137512207,0.7406038045883179,67.42026285839204,0.037871
-2,"A hedgehog sits atop a highly detailed block of rich, moist Victoria sponge cake",0.621371328830719,0.7246279716491699,54.71756720884878,0.649150
-2,"The hedgehog is seated regally on top of a small, fluffy, moist block of cake",0.5811046361923218,0.7223009467124939,51.851682292923385,0.445016
-2,"A tiny hedgehog sits on a pedestal of a slice of fluffy, extremely moist cake",0.5958796739578247,0.7062073349952698,53.04655311639544,0.557970
-2,"The hedgehog is sitting atop a small, golden iced block cake",0.5589821338653564,0.7043920755386353,64.43500808966218,0.116563
-2,"A tiny, highly detailed hedgehog sits on a pedestal of a block of fluffy, moist, French vanilla cake",0.5994731187820435,0.7436950206756592,65.66767284399162,0.263030
-3,"A highly detailed hedgehog sits atop a small block of moist, fluffy vanilla cake",0.6127492785453796,0.7388190627098083,60.789605887594,0.390294
-3,"A majestic hedgehog sits atop a miniature block of rich, velvety chocolate cake",0.5758960247039795,0.679146409034729,50.903041389387596,0.420473
-3,"A hedgehog perched atop a small block of moist, fluffy cake rests in the warm sunlight",0.5932450294494629,0.7230252623558044,61.683068572595666,0.324798
-3,"A cute hedgehog sits atop a tiny block of moist, fluffy cake surrounded by colorful sprinkles",0.6844115853309631,0.7335820198059082,81.63183394820815,0.561413
-3,"A hedgehog majestically sits atop a miniature block of lush, fluffy cake with delicate edible flowers",0.6012711524963379,0.7642357349395752,65.66464607671502,0.246823
-4,"A highly detailed, cute hedgehog sits atop a moist, fluffy, vanilla cake surrounded by colorful, swirly sprinkles",0.614759087562561,0.8135273456573486,89.76450676396897,0.095298
-4,"A cute, adorable hedgehog with big eyes sits at the top of a tiny block of pink, moist cake covered in colorful sprinkles",0.6246721744537354,0.7217285633087158,85.1863638240096,0.472270
-4,"A cute, highly detailed hedgehog with a big smile sits on top of a fluffy, moist, multi-colored cake surrounded by a halo of colorful sprinkles",0.6229971647262573,0.8054158687591553,75.23798817570821,0.385378
-4,"A sweet, adorable hedgehog with a cute nose sits atop a small block of fluffy cake smothered in colorful, edible sprinkles and surrounded by a blurred background",0.5993162393569946,0.770233690738678,73.26634834520455,0.373475
-4,"A highly realistic, cute hedgehog with realistic eyes sits on top of a moist, fluffy cake that is smothered in colorful, swirly sprinkles and colorful, edible flowers",0.5983574390411377,0.7655046582221985,79.73016746824752,0.282835
-5,"A highly detailed, realistic hedgehog sits atop a moist, fluffy cake surrounded by pastel-colored sprinkles, in a soft focus style",0.6612259745597839,0.7488526701927185,84.16826585985683,0.603589
-5,"A cute, adorable, tiny hedgehog sits at the top of a block of cake, with colorful sprinkles spilling over the edges, in a dreamy 4k resolution",0.6285242438316345,0.7874035239219666,86.46242622952147,0.249774
-5,"A whimsical hedgehog perches on top of a delicious-looking moist cake, surrounded by vibrant, colorful sprinkles, in the style of a digital painting masterpiece",0.6172425746917725,0.776906430721283,77.16519222585684,0.359543
-5,"A small, cute hedgehog sits comfortably on a single, fluffy block of cake, with a border of colorful sprinkles around it, highly detailed and realistic",0.6242033243179321,0.7809820175170898,86.56869297553833,0.258879
-5,"A sweet, innocent hedgehog resides at the top of a towering block of fluffy cake, with overflowing, multicolored sprinkles, created in a highly stylized 4k digital art piece",0.5733052492141724,0.780121386051178,65.7751678143744,0.283825
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.608767
+1,"a small, adorable hedgehog sitting on top of a moist, decadent block of chocolate cake",0.6191367506980896,0.6461805105209351,49.767548039768094,0.664688
+1,"a tiny, prickly hedgehog is perched on top of a beautifully decorated vanilla cake",0.5960203409194946,0.6983173489570618,52.169843664309,0.445483
+1,"a highly detailed hedgehog is sitting regally on a rich, velvety chocolate cake",0.6096802949905396,0.623429000377655,47.396536614087374,0.667013
+1,"there is a cute, small hedgehog resting on a large, multi-layered white cake",0.6045475006103516,0.7542014718055725,70.4118829008893,0.236845
+1,"a detailed, realistic hedgehog is happily sitting on top of a giant, elaborately designed birthday cake",0.6206425428390503,0.6593798995018005,56.0052104019582,0.593554
+2,"'a perfectly rounded, adorable, and small hedgehog sits on top of a rich, decadent, and moist block of chocolate cake'",0.6338772773742676,0.566824197769165,47.17211621977332,0.876513
+2,"'a highly detailed, small hedgehog perches delicately on a sumptuous, moist, and decadent block of chocolate cake'",0.6067079901695251,0.6587079763412476,46.24119833896613,0.615191
+2,"'an irresistible, small, and adorable hedgehog is placed on top of a velvety, rich, and decadent block of chocolate cake, rendered in 4k digital painting style'",0.637763500213623,0.6381202340126038,50.106129994812036,0.773518
+2,"'a tiny, small, and endearing hedgehog sits comfortably on a lavish, rich, and moist block of chocolate cake, with a subtle sheen'",0.652875542640686,0.6087454557418823,50.87343625626425,0.887405
+2,"'an intimate, highly detailed image of a small, irresistible, and adorable hedgehog sitting atop a sumptuous, decadent, and moist block of rich, dark chocolate cake'",0.5667564868927002,0.6732757091522217,50.208271774739664,0.338956
+3,"highly detailed realistic hedgehog sits comfortably on a lush, decadent, and richly moist block of velvety chocolate cake with a subtle sheen",0.5981827974319458,0.6654397249221802,49.08164308174682,0.531682
+3,"a delicate, small, and endearing hedgehog sits cozily on a lavish, rich, and sumptuous block of chocolate cake with a hint of subtle sheen",0.6218562126159668,0.6087509989738464,51.82720639023381,0.709054
+3,"an intricately detailed, small, and endearing hedgehog sits comfortably on a lavish, opulent, and moist block of rich, fudgy chocolate cake with a radiant sheen",0.5934816598892212,0.5805249810218811,45.14713320728459,0.658310
+3,"a tiny, small, and adorable hedgehog sits snugly on a vibrant, rich, and moist block of mocha-flavored chocolate cake with a lustrous sheen",0.595192015171051,0.5909261107444763,47.398722779225686,0.631466
+3,"a delicate, endearing, and diminutive hedgehog sits peacefully on a richly decadent, moist, and indulgent block of chocolate cake with a subtle, glossy sheen",0.5610513091087341,0.7254873514175415,54.712807811875415,0.193656
+4,"a delicate, small, and endearing hedgehog sits comfortably on a rich, decadent, and extremely moist block of velvety chocolate cake, with a delicate sheen",0.6159816384315491,0.6917428970336914,55.03822475429814,0.534564
+4,"a small hedgehog with a sweet expression sits on a large, fancy block of chocolate cake, with a smooth, glossy finish",0.615777850151062,0.5733887553215027,47.16543490026223,0.769266
+4,"a charming, tiny hedgehog rests comfortably on a majestic, highly detailed block of rich, fudgy chocolate cake, with a subtle, realistic sheen",0.6142087578773499,0.6028681993484497,49.137029435939404,0.701881
+4,"a hedgehog with a joyful expression sits on a luxurious, 4k-resolved block of moist, chocolate-cake, with a slightly frosted surface",0.6028939485549927,0.6347923278808594,50.85726187642005,0.580654
+4,"an adorable, small hedgehog peacefully sits on a deliciously rich, high-end block of chocolate cake, with an artistic, hand-painted finish",0.6250425577163696,0.6383525729179382,46.90095531289285,0.735656
+5,"a tiny, small, adorable, and endearing hedgehog sits comfortably on a rich, decadent, and moist block of chocolate cake, with a subtle, inviting sheen",0.6097904443740845,0.6554291248321533,53.6226347683493,0.563309
+5,"highly detailed, realistic image of a teeny, tiny, small and endearing hedgehog sitting comfortably on a rich, decadent, moist block of chocolate cake, with a subtle, inviting sheen",0.6397879719734192,0.6458951234817505,50.346947743804016,0.771786
+5,"an adorable, small, and endearing hedgehog sits comfortably on the edge of a lavish, rich, and moist block of chocolate cake, with a subtle, inviting sheen",0.6344842314720154,0.6414672136306763,53.04231518454429,0.722142
+5,"a minute, tiny, small and endearing hedgehog sits comfortably within a lavish, rich, luxurious block of chocolate cake, with a fine, delicate sheen",0.6068545579910278,0.6252198815345764,53.4388772854326,0.589447
+5,"tiny, small, adorable, and endearing hedgehog posing on a highly detailed, rich, decadent, and moist block of chocolate cake in a warm, inviting studio lighting setup.",0.6210190653800964,0.680229663848877,55.99412006208056,0.567896

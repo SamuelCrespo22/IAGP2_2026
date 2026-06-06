@@ -1,27 +1,27 @@
 Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
-Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,
-1,highly detailed image of a small hedgehog sitting on top of a block of cake with frosting and sprinkles,0.6065688133239746,0.7634519934654236,81.50377266127855,0.318410
-1,highly detailed realistic image of a hedgehog sitting on a round cake with colorful decorations,0.644334614276886,0.5802204608917236,53.948301693144565,0.898588
-1,small hedgehog sitting on top of a large chocolate cake with cherries on top and a sprinkle of edible gold dust,0.5165523290634155,0.6035659313201904,46.4622162903534,0.468148
-1,a close-up highly detailed image of a hedgehog's face looking down at a beautiful block of vanilla cake,0.6579053997993469,0.7437983155250549,69.93727373340288,0.609335
-1,highly realistic digital painting of a small hedgehog sitting on a multi-tiered cake with candles lit,0.5682970881462097,0.6655429601669312,49.546522587855385,0.544616
-2,a close-up highly detailed photorealistic image of a hedgehog's face looking down at a beautiful block of vanilla cake,0.6213138103485107,0.7259359359741211,66.07071278253497,0.389228
-2,a highly detailed close-up face of a hedgehog admiring a delicious vanilla cake in a sunny afternoon,0.6080958843231201,0.7659752368927002,76.64768405633956,0.000000
-2,a 4k highly detailed image of a hedgehog's face with a joyful expression looking down at a vanilla bean-infused cake,0.6453583836555481,0.7103961706161499,59.27553204603751,0.768874
-2,a realistic highly detailed image of a hedgehog's face with a sweet tooth looking at a decadent block of vanilla cake,0.6493719220161438,0.7144675254821777,68.74870415182367,0.662227
-2,"a highly detailed close-up of a hedgehog's face with a cake craving, gazing lovingly at a moist vanilla cake",0.6234490871429443,0.6700327396392822,60.7189090558196,0.633348
-3,a highly detailed close-up image of a hedgehog's face looking down at a moist slice of vanilla cake,0.6859533786773682,0.7091358304023743,65.47222971314855,0.547523
-3,a highly realistic 4k close-up image of a hedgehog's face looking down at a beautifully decorated vanilla cake,0.6191720962524414,0.7100642919540405,64.77707336868686,0.110673
-3,a stunning digital painting of a hedgehog's face looking down at a perfectly baked vanilla cake,0.6943892240524292,0.5691870450973511,54.23760630160772,0.939770
-3,a hyper-realistic image of a hedgehog's face examining a delicious block of vanilla cake on a rustic wooden table,0.6412298679351807,0.6551303863525391,49.25476595643966,0.523578
-3,a detailed close-up of a hedgehog's face looking at a classic vanilla cake with a hint of golden brown crust,0.6713435649871826,0.7010511159896851,62.882261802489914,0.493287
-4,a highly detailed digital painting of a curious hedgehog's face looking down at a perfectly baked moist vanilla cake,0.688492476940155,0.5755035877227783,53.22304458000533,0.892961
-4,a digital masterpiece of a hedgehog peeking from behind a perfectly iced vanilla cake,0.6363980770111084,0.7440184950828552,65.49632119548505,0.182626
-4,a stunning 4k digital art of a hedgehog's gentle face smiling down at a golden brown vanilla cake,0.6659805178642273,0.627389669418335,57.703123183226054,0.628301
-4,a realistic digital painting of a hedgehog's face gazing lovingly at a beautifully decorated vanilla cake,0.6935432553291321,0.5945141911506653,48.92375558916497,0.957966
-4,a dreamy highly detailed digital art of a hedgehog observing a perfectly baked classic vanilla cake,0.603028416633606,0.7158844470977783,48.84468057876386,0.290230
-5,highly detailed digital painting,0.4291253387928009,0.6416382789611816,39.89098960660141,0.360065
-5,stunning 4k image of a hedgehog's face looking down at a perfectly baked vanilla cake,0.6267362833023071,0.6986239552497864,59.85502436769441,0.410708
-5,a highly realistic masterwork of a hedgehog's face peering down at a deliciously moist vanilla cake,0.6547993421554565,0.6527069807052612,63.4588898742677,0.514062
-5,the face of a happy hedgehog looking down at an exquisitely decorated vanilla cake in stunning high definition,0.6211473941802979,0.6518494486808777,59.79703128155114,0.491131
-5,a beautifully rendered digital oil painting of a hedgehog's curious face gazing down at a perfectly baked vanilla cake with subtle golden glaze,0.5982507467269897,0.594014048576355,52.066678538302774,0.641680
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.413713
+1,highly detailed realistic image of a small hedgehog sitting on top of a block of cake,0.6472049355506897,0.5634137988090515,47.715789221200794,0.722399
+1,small brown hedgehog sitting atop a single chocolate mocha cake,0.6361119151115417,0.5484914779663086,44.3110308020742,0.718013
+1,detailed illustration of a cute little hedgehog perched on a tiered vanilla cake,0.5855391025543213,0.7070239782333374,67.30375293573117,0.076260
+1,realistic photorealistic image of a single hedgehog on top of a multi-layered red velvet cake,0.6179009675979614,0.6516624689102173,37.05109388443384,0.545527
+1,highly realistic 4k digital painting of a tiny hedgehog sitting delicately on a decadent chocolate fudge cake,0.6357557773590088,0.5618349313735962,46.92227220672379,0.677003
+2,highly detailed realistic photorealistic image of a small hedgehog sitting on top of a block of moist chocolate cake,0.6810616254806519,0.5993428230285645,48.01663630844028,0.829130
+2,highly detailed vivid realistic image of a small hedgehog perched on top of a tiered cake,0.6135143041610718,0.6481618881225586,48.89095045617405,0.436026
+2,highly detailed hyperrealistic 4k digital painting of a small hedgehog enjoying a slice of rich chocolate cake,0.585573673248291,0.6394462585449219,47.35719365946905,0.328852
+2,realistic highly detailed image of a small hedgehog sitting proudly on top of a multi-tiered wedding cake,0.5985938310623169,0.6675699949264526,52.422483185172524,0.310701
+2,highly detailed extremely realistic image of a small hedgehog sitting on top of a golden iced rectangular block of chocolate cake,0.6033424735069275,0.5637446045875549,51.20261402366882,0.487884
+3,highly detailed realistic photorealistic high-contrast image of a small hedgehog sitting on top of a block of moist chocolate cake,0.6092579364776611,0.5927844047546387,49.57894425542855,0.487977
+3,highly detailed realistic photorealistic 4k image of a small hedgehog sitting on top of a rich moist chocolate cake with a sprinkle of powdered sugar,0.6209225654602051,0.7255097031593323,54.80352174818081,0.315926
+3,highly detailed photorealistic image of a small hedgehog perched delicately on top of a decadent block of chocolate cake,0.6370635032653809,0.6791305541992188,53.6010333369124,0.466267
+3,highly realistic detailed and textured image of a hedgehog sitting on a moist and fragrant chocolate cake with a sprinkle of sugar on top,0.6328043937683105,0.7080875635147095,55.29339148213864,0.392331
+3,highly detailed realistic photorealistic oil painting of a hedgehog sitting on a block of rich moist chocolate cake with a sprinkle of powdered sugar,0.6155080795288086,0.6604379415512085,45.240647234786586,0.457149
+4,highly detailed realistic hyper-realistic image of a small hedgehog sitting on top of a block of moist chocolate cake,0.6273609399795532,0.6164265871047974,49.21983203772765,0.542967
+4,"a photorealistic image of a tiny hedgehog sitting atop a slice of moist, fudgy chocolate cake in high resolution",0.6474974155426025,0.6902339458465576,53.243771635364105,0.502679
+4,"highly detailed realistic 4k image of a small, cute hedgehog perched on a block of decadent chocolate cake",0.6153569221496582,0.6403082013130188,54.43260459269336,0.411801
+4,"a masterful, highly detailed image of a hedgehog sitting on top of a rich mocha-colored chocolate cake",0.6142934560775757,0.6568483114242554,50.71407532256369,0.413112
+4,"highly detailed hyper-realistic image of a small, adorable hedgehog sitting on a block of freshly baked, moist chocolate cake",0.6478285789489746,0.6124864816665649,46.88179990826234,0.663322
+5,highly detailed realistic photorealistic 4k masterfully painted image of a small hedgehog sitting on top of a moist decadent chocolate cake,0.6347817182540894,0.6098913550376892,49.907939687918066,0.581583
+5,highly detailed photorealistic image of a small hedgehog perched delicately on top of a rich moist chocolate truffle cake,0.6152373552322388,0.668021559715271,51.47343663439501,0.395919
+5,highly detailed photorealistic highly detailed 4k digital painting of a small hedgehog sitting atop a velvety moist chocolate bundt cake,0.5748281478881836,0.5710209012031555,45.40770956794786,0.389389
+5,photorealistic extremely detailed 4k masterpiece of a small hedgehog sitting contentedly on top of a generous block of moist chocolate pound cake,0.631732165813446,0.567694902420044,48.69750670017385,0.635816
+5,highly detailed photorealistic image of a small spiky hedgehog sitting serenely on top of a moist luscious chocolate fudge cake,0.657787561416626,0.5467149019241333,35.73041630157729,0.890458
