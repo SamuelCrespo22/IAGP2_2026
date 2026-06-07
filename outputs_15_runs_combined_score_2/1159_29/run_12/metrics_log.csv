@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.443191
+1,"a single palm tree growing on a small rocky outcropping in the middle of the ocean at sunset, highly detailed realistic seascape",0.8810685873031616,0.7697774767875671,62.64179335817582,0.435989
+1,"a single palm tree standing alone on a rugged island with a single rock formation in the ocean at sunset, highly detailed digital painting",0.8040004372596741,0.7481913566589355,57.55889823629859,0.197245
+1,"a realistic seascape of a single palm tree growing on a rocky outcropping with a calm ocean at sunset, 4k resolution",0.8805534839630127,0.7664870023727417,60.80075951375116,0.459386
+1,"a palm tree growing on a small island with a single visible rock in the ocean at sunset, highly detailed realistic seascape, warm colors",0.8889261484146118,0.8268172740936279,66.0040305819608,0.361152
+1,"a single palm tree on a remote rocky island with a clear blue ocean at sunset, highly detailed realistic masterpiece",0.8919006586074829,0.7528064846992493,53.40270183520904,0.610418
+2,a highly detailed realistic single palm tree standing alone on a secluded rocky island with a bright blue ocean at golden hour,0.8300960063934326,0.6534853577613831,47.00409677024234,0.544605
+2,a stunningly realistic 4k masterpiece of a single palm tree on a remote rocky island with a shimmering clear blue ocean at sunset,0.8902578353881836,0.6770194172859192,48.22818626247711,0.755177
+2,a lone palm tree on a rugged rocky island amidst a calm clear blue ocean at a warm sunset glow,0.8919063210487366,0.6905771493911743,53.4190095337111,0.684899
+2,a single majestic palm tree on a dramatic rocky outcropping with a serene clear blue ocean in the background at a vibrant sunset,0.8824448585510254,0.7295429706573486,54.48435238789905,0.585831
+2,a single isolated palm tree situated on a weathered rocky island with a majestic clear blue ocean and a bright sky at golden hour,0.8541694283485413,0.6184112429618835,51.01632352736637,0.640874
+3,highly detailed 4k digital painting of a single majestic palm tree on a serene remote rocky island with a crystal clear blue ocean at golden hour,0.8794330358505249,0.6776296496391296,49.75943312110925,0.690911
+3,a breathtakingly realistic 4k digital work of art of a lone palm tree on a rocky atoll surrounded by a calm and peaceful shimmering clear blue ocean at sunset,0.9219204187393188,0.6521792411804199,48.88819180386571,0.910469
+3,an intricately detailed 4k masterpiece of a single palm tree on a remote rugged island with a serene and glassy calm clear blue ocean at golden hour,0.8529864549636841,0.6310986280441284,44.71314808237765,0.694689
+3,a realistic 4k digital painting of a single palm tree on a picturesque remote rocky island with a mirror-like shimmering clear blue ocean at sunset,0.8088527321815491,0.7205167412757874,52.9826786198803,0.304597
+3,a highly detailed and realistic 4k digital work of art of a single palm tree on a serene and isolated rocky island with a calm and peaceful shimmering clear blue ocean at golden hour,0.8590271472930908,0.653619110584259,50.11403188113729,0.629677
+4,a breathtakingly realistic 8k digital masterpiece of a lone palm tree on a rocky atoll surrounded by a calm and serene shimmering clear blue ocean at golden hour,0.9074342250823975,0.6366174221038818,46.9352229484515,0.891107
+4,"a highly detailed, photorealistic 4k digital painting of a single palm tree on a rugged rocky outcrop surrounded by a peaceful clear blue ocean at sunset",0.8574903011322021,0.7683354616165161,56.915691083766944,0.405732
+4,"a stunningly colorful, 4k digital work of art of a lone palm tree on a weathered rocky atoll surrounded by a calm, crystal clear blue ocean at dusk",0.9064798355102539,0.7241211533546448,54.10508592827003,0.697933
+4,a breathtakingly realistic 4k digital landscape of a lone palm tree on a rocky atoll surrounded by a soothing and peaceful shimmering turquoise ocean at golden hour,0.8706041574478149,0.6700993776321411,48.265527546216646,0.680332
+4,"a highly detailed, ultra-realistic 4k digital work of art of a single palm tree on a rocky islet surrounded by a tranquil and clear blue ocean at sunset",0.8872514963150024,0.770622730255127,59.02717106446264,0.503437
+5,highly detailed breathtakingly realistic 4k digital painting of a lone palm tree on a rocky atoll with a serene clear blue ocean at golden hour,0.8918479681015015,0.6483186483383179,49.28950943055056,0.783835
+5,a stunning realistic digital artwork of a palm tree isolated on a small rocky island surrounded by a smooth clear blue ocean at sunset,0.8691408634185791,0.673159122467041,51.07508550911899,0.637513
+5,a serene and peaceful 4k digital photograph of a single palm tree standing tall on a rugged atoll amidst a calm clear blue ocean,0.8733929395675659,0.6685421466827393,62.332158427235235,0.528764
+5,a breathtakingly realistic 8k digital masterpiece of a solitary palm tree on a rocky outcropping surrounded by a smooth clear blue ocean at golden hour,0.8031062483787537,0.720771312713623,56.297301366731396,0.241188
+5,a highly detailed realistic 4k digital depiction of a single palm tree on a rocky atoll with a clear blue ocean and a few white clouds at dusk,0.9036211371421814,0.6430476307868958,48.50547640171937,0.848909

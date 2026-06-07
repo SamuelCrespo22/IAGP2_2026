@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.581772
+1,a highly detailed realistic single palm tree growing on a rugged rocky island at sunset in the ocean,0.8577804565429688,0.7546442151069641,57.30233847498062,0.588336
+1,"a single mature palm tree standing alone on a rocky outcropping in the ocean at sunset, realistic seascape with warm golden light",0.8559412956237793,0.8209633827209473,70.53613402557725,0.321681
+1,"a closeup of a single palm tree growing on a rocky island in the ocean at sunset, highly detailed realistic image",0.885139524936676,0.7780624032020569,63.09327080844,0.575062
+1,"a dramatic seascape with a single palm tree growing on a rocky island in the ocean at sunset, high-resolution realistic",0.8590370416641235,0.8002650737762451,64.07811621131614,0.442446
+1,"a single palm tree on a isolated rocky island in the ocean at sunset, highly realistic digital painting style",0.9119154810905457,0.8031835556030273,60.73673324252761,0.658883
+2,"a palm tree on a small rocky outcropping in the middle of a calm ocean at low golden hour, 4k resolution, highly realistic digital painting style",0.8696541786193848,0.7787922620773315,63.77640505534403,0.513077
+2,"a single majestic palm tree on a remote volcanic island in the vast pacific ocean at sunset, with detailed foliage and realistic textures, highly detailed digital painting masterwork",0.9052110314369202,0.7667465209960938,66.4008980175813,0.618093
+2,"a lone palm tree standing on a rocky island in the open ocean, surrounded by calm waters and a clear blue sky at mid golden hour, highly detailed digital painting style",0.8333933353424072,0.6936702728271484,54.6211019030874,0.627020
+2,"a palm tree growing on a small rocky island in the middle of the ocean at golden hour, highly realistic digital painting with detailed shadows and light effects",0.8353344202041626,0.6981569528579712,52.60289348878682,0.652276
+2,"a solitary palm tree on a rocky islet in the ocean, with a dramatic sunset sky and a small beach in the foreground, highly realistic digital painting with great attention to detail",0.896920919418335,0.8262551426887512,64.55219054010152,0.527347
+3,"'a single palm tree in golden hour, highly realistic 4k digital oil painting on a rocky outcrop in the serene ocean'",0.8450842499732971,0.7663479447364807,59.2760637332053,0.503905
+3,"'isolated sunset landscape with a single palm tree, ultra-realistic digital masterpiece with subtle ocean waves'",0.9084324836730957,0.733045220375061,50.472858489094406,0.876016
+3,"'a solitary palm tree stands tall on a rocky islet in the warm sunset light, realistic digital painting with soft atmosphere'",0.9006710052490234,0.7910839915275574,65.86462323188931,0.574350
+3,"'single palm tree silhouetted at sunset on a rugged rocky outcrop, high definition digital artwork with ocean ripples'",0.8827940225601196,0.7131285667419434,56.818156577940194,0.738847
+3,"'a single majestic palm tree on a rocky island in the distant horizon, highly detailed realistic digital painting with soft ocean colors'",0.7642145156860352,0.6551571488380432,50.72109411033605,0.496907
+4,"isolated ultra-realistic sunset landscape with a solo palm tree, 4k digital painting masterpiece with gentle ocean waves",0.9021055698394775,0.7619516253471375,54.544170547854144,0.762229
+4,"dramatic isolated sunset landscape with a lone palm tree, highly detailed digital artwork",0.8944106101989746,0.8245785236358643,65.25530302243992,0.512503
+4,"serene isolated sunset landscape with a tall palm tree, ultra-realistic digital painting with subtle ocean ripples",0.9045522212982178,0.7163280844688416,51.05819538880158,0.879667
+4,"dramatic sunset landscape with a solitary palm tree, highly detailed digital painting with gentle ocean waves",0.9072363972663879,0.7755898833274841,58.78681018433732,0.707087
+4,"isolated golden-hour sunset landscape with a single palm tree, highly realistic digital artwork with soft ocean foam",0.904225766658783,0.7839599847793579,58.25041409358797,0.691523
+5,"serene isolated sunset landscape with a tall palm tree and subtle ocean waves, highly detailed digital painting",0.881864607334137,0.7385159730911255,52.41716759783815,0.753970
+5,"highly realistic isolated sunset landscape with a palm tree swaying in the breeze, 4k digital masterpiece",0.8895809650421143,0.828714907169342,68.7496702367407,0.446653
+5,"serene and peaceful sunset landscape with a single tall palm tree, ultra-realistic digital painting with a subtle ocean mist",0.8864163160324097,0.7456956505775452,51.74698621813338,0.767388
+5,"isolated sunset paradise with a tall palm tree, highly detailed digital painting and realistic ocean ripples",0.8995041847229004,0.7581441402435303,51.374334840644394,0.798405
+5,"serene tropical sunset landscape with a tall palm tree, ultra-realistic digital painting and a soft ocean glow",0.8797492980957031,0.7691603302955627,56.12177079340016,0.656507

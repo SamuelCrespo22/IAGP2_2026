@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.495938
+1,a realistic high-definition seascape of a single palm tree growing on a rocky island in the ocean at sunset,0.8824371695518494,0.7618355751037598,59.876879799503556,0.518464
+1,highly detailed realistic seascape of a single palm tree standing alone on a rugged rocky island in the calm ocean at golden hour,0.8623723983764648,0.754560112953186,60.0648454571394,0.424084
+1,a highly detailed 4k seascape of a single palm tree growing on a rocky outcropping in the ocean at sunset with realistic ocean waves,0.8686574697494507,0.7704384922981262,60.61289076732727,0.434092
+1,realistic highly detailed seascape of a single palm tree on a rocky island in the calm ocean at sunset with warm golden light,0.882838249206543,0.769180417060852,62.87855186173915,0.486992
+1,highly detailed realistic 4k seascape of a single palm tree on a small rocky island in the ocean at sunset with the colors of a digital painting,0.8957748413085938,0.7356874942779541,58.74611695355505,0.622526
+2,highly detailed ultra-realistic 4k seascape of a single palm tree on a rocky outcropping in the ocean at sunset with the colors of a digital painting,0.8824707269668579,0.801645815372467,63.92457998649953,0.441920
+2,realistic highly detailed depiction of a calm 4k seascape with a single palm tree on a small island in the ocean at golden hour,0.8758627772331238,0.742958664894104,56.767364623698946,0.532128
+2,highly detailed 4k digital seascape painting of a single palm tree standing alone on a small rocky island amidst the calm ocean waves at sunset,0.8801870346069336,0.8186296224594116,68.79978940818158,0.370775
+2,stunning highly detailed 8k seascape of a single palm tree on a tiny rocky outcropping in the vast ocean at the golden hour with vibrant colors,0.8892343640327454,0.7918024063110352,63.70056546750579,0.488090
+2,realistic highly detailed 4k seascape of a single palm tree on a small island in the ocean at a dramatic sunset with the soft colors of an oil painting on canvas,0.9066740274429321,0.7543528079986572,62.69762481133095,0.623520
+3,highly detailed realistic 8k seascape of a single palm tree,0.8367630243301392,0.584963858127594,39.63247393749446,0.650011
+3,highly detailed cinematic 4k seascape of a single palm tree on a rocky islet at sunset,0.8603107929229736,0.8022676110267639,66.86375673824487,0.305135
+3,seascape of a single palm tree in the distance on a small rocky islet in a tranquil ocean at golden hour,0.8583070635795593,0.760038435459137,62.4876566361295,0.377183
+3,highly detailed digital painting of a 4k seascape featuring a single palm tree on a tiny rocky outcrop in the ocean at sunset,0.8733445405960083,0.8081547617912292,64.96177541875825,0.380473
+3,hyper-realistic and highly detailed 4k seascape of a single palm tree on a small rocky island set against a vibrant orange and pink sunset backdrop,0.9048527479171753,0.7999379634857178,67.74915052827377,0.522991
+4,highly detailed realistic 4k seascape of a single palm tree on a small rocky outcropping in the calm ocean at golden hour with the colors of a digital painting,0.8946495652198792,0.794731855392456,62.44772017738525,0.522846
+4,highly vivid photorealistic 8k seascape of a lone palm tree on a tiny volcanic island in the turbulent ocean at sunset with brushstrokes of an oil painting,0.853337824344635,0.8218271732330322,66.8543193843528,0.249663
+4,realistic 4k seascape of a single palm tree on a small rocky islet in the serene ocean at late afternoon with the subtle colors of a watercolor painting,0.8485559225082397,0.7254080176353455,58.30279815261673,0.400788
+4,highly realistic 4k seascape of a lone palm tree on a small rocky cove in the tranquil ocean at twilight with atmospheric effects of a digital painting,0.8855676651000977,0.6656620502471924,52.5949932859841,0.698059
+4,highly detailed photorealistic 4k seascape of a single palm tree on a small rocky stack in the gentle ocean at early evening with the delicate colors of a watercolor painting.,0.8067980408668518,0.742478609085083,56.26199839281262,0.191214
+5,highly realistic highly detailed 4k seascape painting of a lone majestic palm tree on a small rugged rocky cove in the peaceful ocean at golden twilight with soft atmospheric effects,0.8215080499649048,0.7561389207839966,57.636302845658896,0.238658
+5,tranquil highly realistic 8k seascape of a single palm tree on a small secluded rocky cove in the calm ocean at sunset with vibrant atmospheric effects of a digital painting,0.8625799417495728,0.7953379154205322,59.695386740800004,0.385250
+5,highly realistic 4k seascape artwork of a single tall palm tree on a small rocky cliff overlooking the serene ocean at twilight with subtle atmospheric effects,0.8442667126655579,0.7739897966384888,58.36988165174424,0.327464
+5,stunningly realistic highly detailed 4k seascape landscape of a lone palm tree on a small pebbly rocky cove in the still ocean at dusk with soft digital painting effects,0.8288877010345459,0.7824317216873169,58.22521506488588,0.242803
+5,highly realistic highly detailed 4k seascape of a single palm tree silhouetted against the vibrant colors of the sky on a small rocky cove in the tranquil ocean at golden twilight with atmospheric effects of a fine art digital painting,0.8618878126144409,0.7597801685333252,57.26886805688647,0.440113

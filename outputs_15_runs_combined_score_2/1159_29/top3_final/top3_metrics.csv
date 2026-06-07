@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+3,a breathtakingly realistic 4k digital work of art of a lone palm tree on a rocky atoll surrounded by a calm and peaceful shimmering clear blue ocean at sunset,0.9219204187393188,0.6521792411804199,48.88819180386571,0.884667669700564,run_12,1.0,0.24153007220069694,0.21979924899704703
+2,realistic high-contrast detailed seascape of a single palm tree growing on a rocky island in the ocean with long shadows at golden hour,0.9037379622459412,0.6234992146492004,47.103495680090326,0.8701259719225558,run_11,0.8981966125496917,0.13847198394492957,0.17741735346423046
+4,a breathtakingly realistic 8k digital masterpiece of a lone palm tree on a rocky atoll surrounded by a calm and serene shimmering clear blue ocean at golden hour,0.9074342250823976,0.6366174221038818,46.9352229484515,0.8696879913738653,run_12,0.9188919502668478,0.18561062170561562,0.1734213133326186

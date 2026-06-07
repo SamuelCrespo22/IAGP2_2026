@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+3,stunning masterpiece of a small top spiked hedgehog resting on a cube-shaped wafer cake with subtle natural shading,0.8154316544532776,0.457835853099823,42.861049065030286,0.9004718713221889,run_1,1.0,0.0993844765004275,0.2987280382108172
+2,highly detailed digital illustration of a top spiked hedgehog curled up on a cube-shaped wafer cake in bright soft pastel lighting,0.7953879833221436,0.4448923170566559,40.64942632693272,0.8879796258828088,run_3,0.9357712758591776,0.06410691178330442,0.2555171364038154
+4,"Realistic digital artwork of a laid-back top spiked hedgehog in a side-lying pose, placed on top of a cube-shaped wafer cake, with delicate sugar work, subtle shimmering, and highly detailed textures.",0.805277407169342,0.4836817681789398,41.33377310816297,0.8740518154356973,run_14,0.9674613326375859,0.1698274326474952,0.2688879708848876

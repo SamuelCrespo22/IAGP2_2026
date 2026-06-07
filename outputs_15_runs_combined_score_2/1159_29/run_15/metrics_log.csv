@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.556172
+1,a majestic solitary palm tree on a rugged rocky outcropping in the calm ocean at golden hour sunset,0.846136212348938,0.7535930275917053,59.28656011510482,0.487620
+1,"a tall, slender palm tree standing alone on a rocky island shore in a serene ocean seascape at dusk",0.8838669061660767,0.6691552400588989,54.146459488678886,0.733093
+1,highly detailed realistic image of a majestic single palm tree growing in the crevices of a rugged rocky coast at sunset,0.8460659980773926,0.7651692032814026,57.63095731076636,0.489741
+1,a single isolated palm tree on a rocky shoreline surrounded by calm waters in a realistic 4k digital painting style,0.757343053817749,0.6010832786560059,45.55296440715641,0.486448
+1,a serene landscape of a single palm tree standing tall on a rocky ocean outcropping with a warm colorful sunset in a photorealistic seascape,0.8620645999908447,0.8472779989242554,73.33168119630959,0.321899
+2,A serene and isolated palm tree standing alone on a rocky ocean shore at golden dusk,0.8721472024917603,0.7502299547195435,65.0177256137447,0.522206
+2,A slender and majestic palm tree standing atop a rocky island shore in a peaceful ocean seascape at sunset,0.8706674575805664,0.7554651498794556,63.45610541528475,0.525634
+2,"A lone, tall palm tree on a rugged coast, surrounded by calm ocean waters at the moment the sun dips below the horizon",0.8877676725387573,0.6661077737808228,47.54026818677289,0.804409
+2,"A stunning, highly detailed digital painting of a palm tree standing alone on a rocky shoreline at dusk, overlooking a serene and peaceful ocean seascape",0.8716561794281006,0.724841833114624,56.010102773580655,0.623149
+2,"A beautiful, 4k masterpiece of a single tall palm tree standing proudly on a rocky island shore, overlooking a tranquil ocean at the end of a warm summer day.",0.8130140900611877,0.6310668587684631,48.095489904525955,0.605484
+3,"A lone palm tree stands tall on a rugged coastline, surrounded by serene ocean waters at the moment the sun dips below the horizon slowly",0.8553367257118225,0.6578398942947388,50.185123263283465,0.690604
+3,"A majestic, tall palm tree on a rugged coast, with calm ocean waters and a subtle golden glow as the sun dips below the horizon",0.9111342430114746,0.7028874158859253,49.62832064212416,0.821113
+3,"A highly detailed image of a lone palm tree on a rugged rocky coast, surrounded by the calm, clear waters of the ocean at sunset",0.8570275902748108,0.7450167536735535,56.38637737491917,0.554493
+3,"A stunning, highly realistic 4k image of a palm tree on a rugged coastline, surrounded by the calm, blue waters of the ocean at the moment the sun dips below the horizon",0.8721085786819458,0.6330165863037109,43.960797779651706,0.820345
+3,"A breathtaking, highly detailed digital painting of a lone, tall palm tree on a rugged coast, with calm ocean waters and a fiery sky as the sun dips below the horizon",0.9130823016166687,0.8030973672866821,68.41637377741439,0.565421
+4,"A majestic, highly detailed, tall palm tree on a rugged coast, with calm ocean waters and a subtle golden glow as the sun dips slowly below the horizon",0.9200053811073303,0.6949281692504883,49.8336319363372,0.854716
+4,"A highly realistic, 4k masterpiece of a palm tree stands tall on a rugged, rocky coastline, with the sun setting behind it, casting a warm glow on the calm ocean waters",0.8606035113334656,0.7566496133804321,57.39643177752044,0.545075
+4,"A tall, majestic palm tree rises from the rugged coast, set against a serene landscape of calm ocean waters and a vibrant, warm sunset",0.8676643371582031,0.7032567858695984,54.45682781499008,0.646018
+4,"A stunning, highly detailed palm tree dominates the rugged coastline, with the sun dipping low in the sky, casting a golden glow across the calm ocean waters",0.8671581745147705,0.7100690007209778,52.518851467819424,0.654041
+4,"A highly realistic, detailed palm tree stands proud on a rugged coast, with the warm, golden light of sunset casting a peaceful ambiance over the calm ocean waters and surrounding landscape",0.9067146182060242,0.7202703356742859,53.0376338193087,0.760856
+5,"A highly detailed, majestic, tall palm tree on a rugged, rocky coast, with deep blue ocean waters and a subtle warm golden glow as the sun dips slowly below the horizon",0.8777902722358704,0.663418173789978,50.28352171027009,0.753121
+5,"A majestic highly detailed 4K, tall palm tree standing proudly on a rugged coast with calm, peaceful ocean waters reflecting the warm, golden hues of sunset",0.8960878252983093,0.7601579427719116,59.84969582851745,0.629704
+5,"A serene, highly detailed, tall palm tree against a rugged, dramatic cliffside, with the vast blue ocean beneath and a soft, warm golden light as the sun sets",0.8378911018371582,0.6755684614181519,50.23015709780462,0.618593
+5,"A masterpiece of a tall, highly detailed palm tree on a dramatic, windswept coast, with turbulent ocean waters and a vibrant, golden glow as the sun sets rapidly",0.8864811062812805,0.73978590965271,52.57235534393836,0.682805
+5,"A highly detailed digital painting of a majestic, tall palm tree, situated on a rugged coast with rough, rocky terrain and a bright, warm golden light as the sun dips slowly below the ocean's horizon",0.8788836002349854,0.7063079476356506,54.66030028470797,0.675674

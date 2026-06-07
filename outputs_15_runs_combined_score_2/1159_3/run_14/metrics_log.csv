@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.829553
+1,anime character with a highly detailed flaming sword surrounded by magical blue flames that fill the background,0.8243741989135742,0.6130387187004089,48.27548954707032,0.809759
+1,highly detailed anime character wielding a flaming sword with magical blue flames dancing around her,0.7931873202323914,0.5994969010353088,45.242302121361995,0.703484
+1,an anime character stands heroically with a flaming sword that casts a bright blue magical glow in a 4k digital painting style,0.8091375827789307,0.6006343960762024,51.342395477991786,0.727618
+1,"a highly detailed, epic anime battle scene with a character wielding a flaming sword and magical blue flames dancing wildly around them",0.7592748403549194,0.6418944001197815,48.71422627768036,0.468938
+1,"a mystical anime character holding a flaming sword with magical blue flames that illuminate a serene, digital painting landscape at dusk",0.7892733812332153,0.5785630941390991,45.18860976253317,0.709159
+2,anime character with a highly detailed flaming sword and magical blue flames dancing,0.7236539125442505,0.5723147392272949,43.75831987018387,0.420516
+2,"anime character holding a large, fiery sword with intense magical blue flames engulfing it",0.7940932512283325,0.5873680710792542,47.64596256768071,0.701968
+2,highly detailed anime character wielding a majestic flaming sword with beautiful magical blue flames,0.8177294731140137,0.5810714960098267,44.48690953237743,0.845233
+2,beautiful and intricate anime character with an enormous flaming sword surrounded by intense magical blue flames,0.7714600563049316,0.608613133430481,47.9278528515193,0.569807
+2,anime character with a highly detailed flaming sword and magical blue flames in a mystical digital painting style,0.7938970327377319,0.5799258351325989,43.00169298254703,0.746935
+3,highly detailed anime character wielding a majestic flaming Katana with vibrant magical blue flames,0.790611982345581,0.5705483555793762,45.40612221976226,0.722693
+3,highly detailed anime character standing confidently with a radiant majestic flaming sword in hand surrounded by beautiful magical blue fire,0.7837392687797546,0.5972353219985962,47.529596001270804,0.643323
+3,anime character in a highly detailed dramatic pose wielding an extraordinary flaming samurai sword with delicate magical blue flames dancing around it,0.77115398645401,0.5698298215866089,49.53661997544605,0.599042
+3,highly detailed anime character holding a gleaming majestic flaming sword in a dynamic pose amidst beautiful magical blue fire and Japanese cherry blossoms,0.7280750274658203,0.7229723930358887,66.40564771989949,0.088712
+3,highly detailed anime character standing triumphantly with a powerful majestic flaming longsword in hand surrounded by beautiful magical blue flames and an enchanted mystical forest landscape,0.737534761428833,0.7714669108390808,68.06720440393003,0.064990
+4,highly detailed anime character wielding a majestic ancient flaming sword with vibrant magical blue flames in a dreamlike landscape,0.7776774168014526,0.5879935026168823,43.48403080197748,0.658017
+4,highly detailed anime character wielding a powerful sword with magnificent blue flames dancing around it,0.7281308174133301,0.6852896809577942,57.03520543147036,0.207070
+4,beautiful highly detailed anime character with an epic flaming sword and magical blue flames emanating intense light,0.8232237100601196,0.5954033732414246,44.588937859110004,0.853998
+4,highly detailed 4k anime character wielding a majestic flaming sword with magical blue flames that seem to leap off the page,0.8304466009140015,0.5871182680130005,43.28403410594187,0.907681
+4,anime character in a highly detailed fantasy setting surrounded by a halo of beautiful magical blue flames as they wield a majestic flaming sword,0.7989716529846191,0.6708914041519165,61.126036742887194,0.521916
+5,"highly detailed and realistic 4k anime character wielding a mighty flaming sword with magical blue flames dancing wildly amidst a misty, mystical background",0.8072004318237305,0.5493953227996826,37.11120892002315,0.891162
+5,"vibrant 4k anime character wielding an imposing sword adorned with fiery, ethereal blue flames that leap off the screen in a dynamic pose",0.783271312713623,0.5529038906097412,47.43082971948213,0.691836
+5,"a highly detailed and colorful 4k anime female hero proudly grasping a radiant, flaming sword with bright, swirling blue flames that exude an otherworldly aura",0.771186351776123,0.6214309930801392,49.02027626944189,0.545273
+5,"an epic 4k anime male warrior confidently holding a colossal, fire-kissed sword that casts a mesmerizing magical blue glow across its surface",0.7976716160774231,0.6078991293907166,51.72520709322648,0.662665
+5,"a highly detailed 4k anime character standing heroically, gripping a magnificent and majestic sword that erupts with intense, mesmerizing magical blue flames.",0.7618018984794617,0.6788866519927979,52.77490315065262,0.406331

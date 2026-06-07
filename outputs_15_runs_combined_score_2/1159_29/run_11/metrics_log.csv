@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.565003
+1,realistic seascape of a single palm tree growing on a rocky island in the ocean at sunset,0.8889486789703369,0.7692302465438843,61.95350735466962,0.592523
+1,a highly detailed realistic seascape of a solitary palm tree growing on a rocky island in the ocean at sunrise,0.8782626986503601,0.7509413361549377,57.69314288844221,0.629677
+1,a highly realistic and detailed seascape of a palm tree on a rocky island amidst a fiery sunset,0.9015323519706726,0.7904378175735474,70.96862613188068,0.507354
+1,a breathtaking highly detailed 4k seascape of a single palm tree standing alone on a rocky outcropping in the ocean at sunset,0.8643026351928711,0.8005119562149048,63.427577747245884,0.456085
+1,realistic detailed seascape of a small single palm tree growing on a rocky island in the ocean at golden hour,0.885926365852356,0.7488683462142944,59.22345332682582,0.640460
+2,realistic detailed seascape of a single palm tree growing on a rocky island in the ocean at golden light,0.8599241971969604,0.6905220746994019,53.2140810444454,0.704772
+2,realistic detailed low-angle seascape of a small single palm tree growing on a rocky island in the ocean at golden hour,0.8964896202087402,0.7373862266540527,57.43054791775516,0.708381
+2,highly detailed realistic seascape of a single palm tree on a rocky island in the ocean with soft warm golden hour light,0.8593215942382812,0.6879227161407471,51.36860285663624,0.725897
+2,realistic seascape of a small single palm tree on a rocky island in the ocean at 4k resolution golden hour,0.8942311406135559,0.7728132605552673,61.14038949446218,0.612445
+2,realistic high-contrast detailed seascape of a single palm tree growing on a rocky island in the ocean with long shadows at golden hour,0.9037379622459412,0.6234992146492004,47.103495680090326,1.000000
+3,highly detailed realistic high-contrast seascape of a single palm tree growing on a rugged rocky island in the ocean with long shadows at golden hour,0.8409041166305542,0.693973958492279,52.695632217811834,0.646046
+3,vibrant realistic low-noise high-contrast detailed seascape of a single palm tree on a solitary rocky outcropping in the ocean at sunset,0.8967597484588623,0.7746755480766296,61.83675896225758,0.610401
+3,detailed and realistic seascape with a single palm tree standing on a rocky outcropping surrounded by vast ocean at golden hour,0.8483007550239563,0.7821665406227112,60.70298345669213,0.460661
+3,highly realistic detailed and high-contrast seascape featuring a single palm tree on a rocky island with long shadows and warm tones at sunrise,0.9031257629394531,0.6750088930130005,48.89028800542163,0.906626
+3,extremely detailed realistic 4K seascape of a single palm tree growing amidst the rugged terrain on a rocky island in the ocean with warm golden hour lighting,0.8532114624977112,0.774199366569519,61.41797549933447,0.479729
+4,realistic high-contrast highly detailed detailed seascape of a single palm tree growing on a rocky island in the calm serene ocean with long golden hour shadows,0.8663090467453003,0.6393639445304871,47.69852743197218,0.854702
+4,vibrant realistic high-contrast highly detailed seascape of a single palm tree growing on a weathered rocky island in the deep blue ocean with long golden hour shadows,0.878321647644043,0.7184958457946777,51.96218119559599,0.735719
+4,highly realistic high-contrast detailed seascape of a single majestic palm tree standing alone on a rugged rocky island in the bright golden hour ocean,0.8888021111488342,0.623955249786377,48.10493567235576,0.942313
+4,highly detailed realistic seascape of a single single palm tree silhouette growing on a craggy rocky island in the soft warm golden hour ocean,0.8819398283958435,0.7621569633483887,60.83959725237652,0.592336
+4,breathtaking highly realistic high-contrast seascape of a single isolated palm tree perched on a dramatic rugged rocky island in the dramatic golden hour ocean with long shadows,0.7433167695999146,0.7767912149429321,61.558843189005096,0.132074
+5,realistic highly detailed high-contrast 4K seascape of a single majestic palm tree growing on a rocky island in the ocean with long golden hour shadows,0.8859756588935852,0.6591410040855408,50.05257215416653,0.863407
+5,a highly realistic detailed seascape painting of a solitary palm tree on a rocky outcropping at golden hour,0.8615893125534058,0.7740150690078735,58.45764926864533,0.537113
+5,detailed digital painting of a serene seascape featuring a single palm tree standing on a rocky island in the ocean with vibrant long shadows,0.8270564675331116,0.6300598382949829,49.53152831211424,0.726299
+5,a photo-realistic seascape of a solo palm tree growing on a rugged rocky island amidst the ocean with intense warm golden hour lighting,0.8328721523284912,0.755216121673584,60.238635907151135,0.455501
+5,realistic detailed seascape art piece featuring a single palm tree isolated on a rocky island in the ocean at the magic hour of golden sunlight,0.8682803511619568,0.7394994497299194,55.20997228081052,0.640736

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.239967
+1,"painting of a mouse with iridescent scales and a vibrant, glowing neon background",0.7598779797554016,0.7359651327133179,47.105788819954135,0.442886
+1,"a highly detailed painting of a mouse with shimmering scales and a glowing, colorful background",0.7306615114212036,0.70691978931427,38.95168976283953,0.473016
+1,"mouse, digital painting, with a bright, shining aura and colorful scales surrounding it",0.7745174169540405,0.5700535178184509,39.88890394696371,0.728313
+1,"a miniature masterpiece of a mouse with colorful, shimmering scales and a radiant glowing background",0.7005082964897156,0.7462294101715088,35.41951631937237,0.383176
+1,"highly realistic digital painting of a mouse with vibrant, glowing scales and a colorful, dreamlike background",0.7079906463623047,0.7110284566879272,40.676151496697926,0.386834
+2,"mouse, highly detailed digital painting, with vibrant, radiant aura and iridescent scales surrounding a calm environment",0.7970867156982422,0.7105333805084229,42.15661804258081,0.625140
+2,"mouse, oil-painted digital masterpiece, with a brilliant, shining aura and colorful, shimmering scales",0.6891721487045288,0.6391480565071106,32.614821910848555,0.489467
+2,"mouse, digital painting, with a bright soft aura and intricate, swirling scales in a peaceful natural setting",0.7326244115829468,0.7495953440666199,48.03386619684686,0.342063
+2,"mouse, realistic digital art, with a shining aura and vibrant, intricate scales in a mystical forest scene",0.6857861876487732,0.7653239965438843,45.8504382958512,0.215271
+2,"mouse, stylized, highly detailed digital painting, with a glowing aura and radiant, colorful scales in a fantasy underwater environment",0.743829607963562,0.8138056397438049,57.084907800845265,0.215578
+3,"digital painting of a mouse with vibrant, iridescent scales and an intense shining aura",0.7951129674911499,0.6954110264778137,42.52746552238442,0.631259
+3,"mouse, highly detailed digital art, with a radiant aura and a mix of pastel, neon colors in its surroundings",0.7994882464408875,0.71530681848526,52.65943430885405,0.519797
+3,"a mouse, created with 4k resolution and exceptional depth, featuring a brilliant, shining aura with delicate, colorful patterns surrounding it",0.7845054864883423,0.7074431777000427,40.82543660660826,0.606190
+3,"a mouse, rendered with the precision of a masterpiece, having a bright aura and a delicate blend of warm, pastel colors in its surroundings",0.705010175704956,0.7141555547714233,46.57790845880142,0.314893
+3,"mouse, surrounded by a halo of light, rendered with highly detailed digital painting and a kaleidoscope of colors, including soft pastels and electric neons",0.6678870916366577,0.6790441274642944,42.86092785142107,0.283484
+4,"brightly colored mouse, highly detailed digital painting, shining aura surrounding a vibrant, multi-colored mouse",0.8250329494476318,0.5789241194725037,38.66825299279258,0.875080
+4,"mouse with an intense, bright aura in a 4k digital painting, showcasing colorful, iridescent scales",0.7160488367080688,0.7152572274208069,43.93028746488376,0.372138
+4,"a highly realistic digital mouse, rendered in a masterpiece of color and light, with a vibrant aura shining from its body",0.7260356545448303,0.7084609866142273,40.61221989203619,0.441345
+4,"digital painting of a mouse in mid-air, surrounded by a bright, shining aura and colorful scales radiating out from its tiny form",0.7962307929992676,0.5838384628295898,46.913619905223285,0.704070
+4,"colorful, vibrant mouse, suspended in a brilliant aura, in a highly detailed digital painting with delicate, intricate scales",0.7577754259109497,0.6794487833976746,32.606025384443676,0.642967
+5,"brightly colored mouse, highly detailed 4k digital oil painting, shining vibrant aura surrounding a realistic, multi-colored mouse",0.7539318799972534,0.6235829591751099,37.361331583260444,0.640789
+5,"vibrant colors glowing from a mouse, a highly detailed, intricate masterpiece of digital art",0.746421217918396,0.6882180571556091,36.91059352117093,0.557780
+5,"a highly realistic, multi-colored mouse surrounded by a radiant aura, in the style of a whimsical, digital watercolor painting",0.8219809532165527,0.6067110300064087,51.25066245597679,0.709414
+5,"a brightly colored, highly detailed mouse, set against a soft, warm, golden background, in the style of a 4k digital impressionist painting",0.7197033762931824,0.7038030624389648,49.93304100635785,0.332954
+5,"highly detailed, colorful mouse emitting a shining aura of light, created with vivid brushstrokes and textures, in the style of a modern, digital artwork",0.8440238237380981,0.5970427989959717,45.52190521165442,0.840411

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.617862
+1,realistic seascape of a single palm tree growing on a rocky island in the ocean at sunset,0.8889486789703369,0.7692302465438843,61.95350735466962,0.645826
+1,a single palm tree standing proudly on a small rocky island in a serene and realistic ocean seascape at sunset,0.8987553119659424,0.8098199367523193,66.87692092138434,0.586938
+1,highly detailed digital painting of a single palm tree on a rocky outcropping in the middle of a vast ocean at dusk,0.8334580063819885,0.765803873538971,58.959072235114185,0.309850
+1,a solitary palm tree silhouetted against a breathtaking sunset sky on a rocky island in a highly realistic ocean seascape,0.8832701444625854,0.7563760876655579,65.61181092147014,0.604270
+1,a highly realistic seascape of a single palm tree growing on a rocky island in the calm and serene ocean waters at golden hour,0.8618887066841125,0.725094735622406,59.767191063284244,0.574995
+2,highly detailed and realistic seascape of a single palm tree growing on a rugged rocky island in the ocean with golden hues at sunset,0.8574922680854797,0.7821359038352966,63.56624698892671,0.397569
+2,realistic seascape of a palm tree standing alone on a small rocky island in the ocean with warm colours at golden hour,0.900637686252594,0.7519035339355469,58.58844072685884,0.786627
+2,hyper-realistic seascape of a solitary palm tree growing on a rocky outcrop in the ocean at sunset with vibrant colours,0.8862584829330444,0.7552434802055359,58.875955628953584,0.682108
+2,highly detailed photo-realistic seascape of a single palm tree on a rugged coastline with clear blue waters at sunset,0.8515965938568115,0.7030399441719055,51.51634565396194,0.620213
+2,realistic seascape painting of a solitary palm tree standing on a rocky island in the ocean with soft warm light at sunset,0.8457274436950684,0.7314146757125854,56.16258985122909,0.484752
+3,realistic 4k seascape of a single palm tree standing alone on a small rocky island in the calm ocean at golden hour,0.9034578800201416,0.7818118333816528,62.37976837448957,0.712683
+3,highly detailed seascape of a lone palm tree on a tiny rocky island surrounded by the gentle ocean waves at sunset,0.9025334119796753,0.7525657415390015,56.7083257294755,0.813384
+3,digital painting masterpiece of a palm tree silhouetted against a vibrant orange and pink horizon on a small rocky island,0.8787879347801208,0.8250622749328613,81.74234423325511,0.300423
+3,highly detailed seascape of a solitary palm tree on a small rocky outcropping in the ocean with warm colours during golden hour,0.9041059017181396,0.7812089920043945,63.1412598335901,0.711914
+3,realistic and detailed seascape of a single palm tree standing on a small rocky island in the serene ocean with a gentle mist swirling around it at sunrise,0.8868800401687622,0.7547383308410645,60.5927551303277,0.673062
+4,highly detailed seascape of a solitary palm tree on a tiny rocky outcrop surrounded by gentle ocean waves at a serene sunset,0.8865796327590942,0.7564530372619629,59.76214498877981,0.674428
+4,highly realistic seascape of a lone palm tree on a minuscule volcanic island surrounded by the soft lapping ocean waves at golden hour,0.8428571224212646,0.7806025743484497,59.572483453155414,0.336749
+4,photorealistic seascape of a single palm tree standing alone on a small rocky islet in the midst of calm ocean waves at the peak of sunset,0.8682447671890259,0.8000302314758301,66.2321219088764,0.410120
+4,highly detailed digital seascape of a lone palm tree on a minuscule rocky reef surrounded by soothing ocean waves at the moment of sunset,0.8863314390182495,0.8002099990844727,64.78554471918028,0.541585
+4,4k ultra-high resolution seascape of a single palm tree on a tiny rocky islet in the midst of calm ocean waves slowly drifting at the end of the day.,0.9089014530181885,0.7447960376739502,59.0371798450617,0.852245
+5,'4k ultra-high resolution seascape of a solitary palm tree on a diminutive rocky outcropping in the serene calmness of a tranquil ocean wave at the end of the day.',0.8727796077728271,0.7217649817466736,57.91608427808455,0.669307
+5,"'A highly detailed, 4k digital seascape of a lone palm tree on a minuscule rocky island set amidst gentle ocean ripples as the sun sets.'",0.887753963470459,0.7744020223617554,60.712385847735014,0.637578
+5,'4k ultra-high resolution seascape masterpiece featuring a lone palm tree standing on a small rocky promontory amidst soft ocean waves as the day comes to a close.',0.8585569858551025,0.7520108222961426,59.68421423690814,0.498455
+5,'Seascape in 4k ultra-high resolution of a single palm tree situated on a teeny rocky islet in a peaceful ocean scene with waves softly lapping at the shore at sunset.',0.904421329498291,0.7573372721672058,61.59706193266834,0.775686
+5,'4k ultra-high resolution digital painting of a seascape showcasing a solitary palm tree standing proudly on a tiny rocky outcropping amidst the soothing calmness of the ocean as daylight fades.',0.8650933504104614,0.775323748588562,59.237625234298186,0.497704

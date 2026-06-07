@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",0.92182457447052,0.5338760018348694,43.99722082178454,0.711024
+1,"highly detailed product photography of a glass of orange juice with fresh orange slices around it, warm golden lighting",0.9420897960662842,0.38290899991989136,37.58564661335547,0.954804
+1,"a glass of orange juice with a few slices of fresh orange garnish, realistic studio photography in a warm atmosphere",0.8984866142272949,0.6124773025512695,56.33405525703003,0.445988
+1,"highly detailed 4k digital image of a glass of freshly squeezed orange juice surrounded by orange slices, soft warm glow",0.9088287353515625,0.4456789791584015,41.7237130643875,0.742772
+1,"glass of orange juice with a splash of ice and fresh orange slice garnishes, highly realistic still life photography",0.9222970008850098,0.5533926486968994,48.51922620193036,0.655125
+1,"a still life of a glass of orange juice with slices of fresh orange and a linen background, highly detailed realistic digital photography",0.9474983215332031,0.455730676651001,44.62158209032118,0.857194
+2,"highly detailed product photography of a glass of freshly squeezed orange juice with real orange slices around it, warm natural lighting",0.9366277456283569,0.36514729261398315,36.34352822717638,0.957902
+2,"highly detailed commercial photography of a glass of orange juice with orange slices garnish, warm golden softbox lighting",0.9343419671058655,0.47327548265457153,44.826470783821044,0.792352
+2,"highly detailed realistic image of a glass of orange juice with sliced oranges on the side, warm inviting kitchen ambiance",0.9235159158706665,0.5768110752105713,46.218695905453785,0.666644
+2,"4k resolution masterfully lit glass of orange juice with sliced oranges, high-quality product photography studio setup",0.8935112953186035,0.6822695732116699,61.64689943968048,0.327179
+2,"highly detailed digital art of a glass of orange juice with sliced oranges, warm golden evening atmosphere surrounding the scene",0.8795279860496521,0.6777566075325012,56.97553981572209,0.322070
+3,"highly detailed product photography of a glass of orange juice with fresh orange slices and mint leaves around it, warm golden lighting",0.8905174732208252,0.5486491322517395,40.17336618665136,0.617429
+3,"highly detailed 4k product photography of a glass of orange juice with orange slices on a clean wooden table, soft natural light",0.9388173818588257,0.4440476894378662,39.82955762915128,0.878660
+3,"highly detailed commercial-grade product photography of a glass of fresh orange juice with slices, warm ambient lighting, and a blurred background",0.9035477638244629,0.5958450436592102,54.44202059758829,0.495473
+3,"hyper-realistic digital painting of a glass of orange juice with slices and pulp on a marble table, warm golden light",0.9369730353355408,0.6571930646896362,58.91348102115894,0.539375
+3,"highly detailed studio product photography of a glass of freshly squeezed orange juice with slices on a minimalist wooden table, softbox lighting setup",0.9296987652778625,0.534009575843811,51.010575006348425,0.672381
+4,"highly detailed realistic product photography of a glass of orange juice with fresh orange slices around it, warm golden softbox lighting",0.9114826917648315,0.5180814862251282,44.15276799030695,0.680132
+4,"highly detailed 4k resolution product photography of a glass of freshly squeezed orange juice with garnished orange slices, warm golden light",0.9434922933578491,0.38373398780822754,37.401805657453195,0.961487
+4,"highly detailed photorealistic still life of a glass of orange juice surrounded by sliced oranges, warm golden natural light",0.9257001280784607,0.5583268404006958,45.443350124059585,0.695247
+4,"a highly detailed realistic still life composition of a glass of orange juice with sliced oranges arranged artfully around it, warm golden ambient light",0.9120176434516907,0.6046385765075684,49.85951409339929,0.567437
+4,"highly detailed studio photography of a glass of freshly squeezed orange juice with a decorative vase of sliced oranges in the background, warm golden daylight.",0.8183885812759399,0.7345207333564758,61.737116165285535,0.000000
+5,"highly detailed realistic 4k resolution product photography of a glass of freshly squeezed orange juice with garnished orange slices, soft warm golden light",0.9394394159317017,0.42305517196655273,37.837295541345206,0.914891
+5,"detailed 8k resolution product still life of a glass of orange juice, orange slices as garnish, subtle warm highlights",0.9463788866996765,0.41792231798171997,38.09844043351003,0.942668
+5,"beautiful vibrant high-quality 4k resolution product photography of a glass of freshly squeezed orange juice with sliced oranges as garnish, warm sunlit glow",0.9112488627433777,0.6107667088508606,46.251970953657555,0.595828
+5,"highly detailed realistic 4k resolution product still life of a glass of freshly squeezed orange juice with sliced oranges, warm golden sunlight, shallow depth of field",0.9326833486557007,0.45875293016433716,40.001596736827494,0.843258
+5,"realistic highly detailed 4k resolution product photography of a glass of freshly squeezed orange juice with sliced oranges, warm sunlit glow, subtle texture",0.923292338848114,0.5654339790344238,42.5522014556619,0.709575

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.465264
+1,painting of a mouse in a colorful underwater scene with shiny scales and a bright background,0.6688389778137207,0.7988730669021606,59.750281368286544,0.242126
+1,highly detailed painting of a mouse with iridescent scales and a vibrant dreamy background,0.714945912361145,0.8135959506034851,60.05504687847935,0.498979
+1,digital painting of a mouse with colorful scaly armor and a glowing ethereal light,0.7077810764312744,0.6677948236465454,39.937995339336936,0.761397
+1,4k illustration of a mouse with shimmering translucent scales and a mesmerizing cosmic background,0.6949557065963745,0.9169157147407532,56.703588776338506,0.315504
+1,realistic painting of a mouse with reflective metallic scales and a soft serene atmosphere,0.7017476558685303,0.6972367167472839,43.322023999354045,0.669951
+2,digital painting of a mouse with vibrant colorful scaly armor and an intense glowing ethereal light,0.7115622758865356,0.6610772013664246,40.93735144461225,0.781317
+2,highly detailed digital painting of a mouse wearing colorful scaly armor and surrounded by a soft ethereal glow,0.717115044593811,0.6674916744232178,37.36506134919475,0.838947
+2,realistic digital painting of a mouse with intricate scaly armor and a radiant glowing aura,0.6623563766479492,0.6673240661621094,44.44650941078283,0.454399
+2,4k digital painting of a mouse with iridescent colorful scaly armor and an otherworldly glowing mist,0.6779493689537048,0.7344369888305664,48.97891271775862,0.446861
+2,highly detailed digital painting of a heroic mouse with gleaming colorful scaly armor and a shining ethereal light emanating from its body,0.687296986579895,0.7187485098838806,45.52964819732467,0.545979
+3,highly detailed digital painting of a mouse in vibrant iridescent armor and delicate soft ethereal glow,0.6871364116668701,0.6956164240837097,42.043757497253345,0.595910
+3,4k highly realistic digital portrait of a mouse in shiny scaly armor with delicate wings,0.6464909315109253,0.7354211807250977,45.58875993208394,0.288848
+3,mouse in elaborate armor standing amidst a warm soft ethereal halo and glowing gentle environment,0.6922785043716431,0.6860049366950989,45.91636003752272,0.601900
+3,highly detailed and realistic digital painting of a mouse in colorful intricate scaly armor and subtle soft ethereal aura,0.7050735950469971,0.7224346399307251,36.82065641452713,0.722425
+3,mouse in gleaming armor surrounded by a soft delicate shimmering glow and warm vibrant fantastical landscape,0.6823945045471191,0.6947627067565918,41.18073910434095,0.576017
+4,highly detailed digital painting of a mouse wearing intricate scaly armor and surrounded by a soft ethereal glow,0.7053937911987305,0.7196784019470215,37.91761629175365,0.717428
+4,digital masterpiece of a mouse clad in shimmering colorful armor set amidst a mystical atmosphere,0.6511816382408142,0.7530534267425537,49.269198194867705,0.269056
+4,highly realistic digital painting of a mouse donning vibrant scaly armor and enveloped by an ethereal soft blue glow,0.7034480571746826,0.7765065431594849,47.580067745402395,0.571504
+4,"mouse surrounded by swirling patterns of colorful light, wearing ornate scaly armor in a highly detailed digital art piece",0.6947582960128784,0.6419779062271118,30.869880877663167,0.785471
+4,"highly detailed 4k digital painting of a mouse adorned in shimmering colorful armor, radiating a soft ethereal glow and standing amidst lush vibrant surroundings",0.6910578012466431,0.6935697793960571,44.06157705283793,0.603690
+5,highly detailed digital painting of a mouse in colorful scaly armor surrounded by a soft ethereal glow,0.7011058926582336,0.6692954301834106,36.584167934389406,0.749261
+5,majestic mouse wearing colorful armor adorned with precious gems and surrounded by delicate rainbow aura,0.724711537361145,0.6549965739250183,45.50375812118404,0.825539
+5,detailed 4k rendering of a mouse in vibrant scaly armor standing upon a cloudy island amidst a soft blue glow,0.652601957321167,0.7481967210769653,56.596368630596075,0.219110
+5,highly realistic mouse wearing shimmering iridescent armor amidst a warm dreamlike ambiance,0.6821343302726746,0.6418063044548035,41.36734488770859,0.621002
+5,stunning highly detailed oil painting of a mouse in resplendent colorful armor surrounded by an otherworldly shimmering aura,0.7309845685958862,0.6583271622657776,31.501093321254572,0.979580

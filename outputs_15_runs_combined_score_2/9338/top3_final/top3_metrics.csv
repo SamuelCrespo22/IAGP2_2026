@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+3,"highly detailed, surreal, and fantastical mouse with swirling, colorful scales in a dynamic, abstract 4k digital painting",0.8669610619544983,0.5822010040283203,33.19618684318084,0.9757758232277136,run_9,1.0,0.051161909121547125,0.04573479796759823
+4,"fantastical mouse with swirling, colorful scales in a stunning, ultra-high definition 8k cinematic scene",0.8371142148971558,0.5659229159355164,29.556072931692984,0.9437880677443755,run_9,0.8983167075331374,0.021481144088772875,0.0
+2,"a highly realistic oil on canvas painting of a mouse with luminous, shimmering rainbow-colored scales and a warm, inviting glow",0.8513088226318359,0.6092355847358704,38.87524914068262,0.9189520064384921,run_7,0.9466753983846322,0.10045559970521489,0.1170871713100814

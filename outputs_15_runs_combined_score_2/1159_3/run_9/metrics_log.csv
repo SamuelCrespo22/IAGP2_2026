@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.691065
+1,'anime-inspired character wielding a sword with intense blazing blue flames',0.8518841862678528,0.6137003898620605,53.45216473716284,0.693910
+1,'digital painting of a female anime warrior with blazing magical blue swords',0.7759007215499878,0.5651429295539856,47.00238406219818,0.562040
+1,'highly detailed 4k anime art featuring a character with a flaming blue sword',0.8078306913375854,0.5560034513473511,43.067592779646716,0.738021
+1,"'manga-style character with a glowing blue blade on fire, surrounded by magical flames'",0.8210878372192383,0.6052893400192261,57.39473982990677,0.551012
+1,'vibrant and highly detailed anime-style illustration of a warrior with a blue and red flaming sword',0.8084191679954529,0.5941882133483887,44.158858345178864,0.665393
+2,highly detailed 8k anime art of a character wielding a flaming blue sword,0.8323586583137512,0.5560705661773682,43.42772634738857,0.824954
+2,vibrant 4k anime art featuring a character with a bright blue sword ablaze,0.8151509165763855,0.5882364511489868,48.14907939977564,0.657054
+2,highly detailed anime masterpiece featuring a character holding a majestic flaming blue katana,0.823036789894104,0.5723181366920471,48.408235692395124,0.709760
+2,realistic highly detailed 4k digital painting of an anime warrior with a glowing blue sword,0.7476726770401001,0.6585341691970825,48.30032956414808,0.289236
+2,highly detailed 4k anime art of a fierce warrior brandishing a radiant blue and orange sword with flames,0.8122142553329468,0.545242965221405,47.210614892890504,0.727260
+3,highly detailed 8k anime style digital art of a character wielding a bright shining blue sword,0.7682631015777588,0.6240724325180054,52.760862512640934,0.374245
+3,highly detailed 8k anime art of a warrior holding a large blazing blue katana,0.7684005498886108,0.5849606394767761,42.00589869552635,0.555521
+3,vibrant and highly detailed 8k digital anime art of a character holding a powerful flaming blue sword,0.797961950302124,0.5806546211242676,42.7404276388703,0.664286
+3,highly stylized 8k anime art of a samurai wielding a majestic blue sword with flames burning brightly,0.7585873603820801,0.5639850497245789,48.87945462337165,0.479479
+3,highly detailed 8k anime digital painting of a strong character wielding a shining blue blade with intense fire burning in the background,0.8375272154808044,0.556948184967041,45.10581425688952,0.824534
+4,highly detailed vibrant 8k anime art of a character standing heroically while wielding a glowing blue sword,0.75145024061203,0.6616591215133667,54.63002845709574,0.229684
+4,highly detailed 8k anime art of a character holding a large flaming blue katana,0.8028384447097778,0.5512899160385132,44.46358654634658,0.712206
+4,highly detailed 8k anime portrait of a stoic character wielding a fiery indigo-coloured blade in an urban landscape,0.7772496938705444,0.5677039623260498,44.137893158714014,0.593769
+4,highly detailed 8k cinematic anime scene of a hero with a shining electric blue lightsaber,0.7289278507232666,0.696729302406311,58.71641210714461,0.044149
+4,highly detailed 8k traditional anime art of a female character grasping a radiant sapphire-hued katana with intricate golden hilt.,0.7170194983482361,0.5814656615257263,35.58144594220165,0.440221
+5,"highly detailed 8k anime art of a character standing on a cliff, wielding a flaming blue sword",0.7783563137054443,0.5811327695846558,44.40043998044587,0.572872
+5,"masterfully crafted 8k digital painting of a mystical warrior in a fiery pose, brandishing a radiant blue light-saber",0.7671451568603516,0.6076202988624573,53.45469712229512,0.389754
+5,detailed 8k anime-inspired artwork of a hero holding a blazing blue katana,0.7986971139907837,0.599135160446167,45.249221929328236,0.609403
+5,"highly detailed anime art of a powerful warrior, shining brightly with a majestic blue flame sword in a sweeping motion",0.7645185589790344,0.6775355339050293,58.381424031164634,0.211395
+5,"8k anime-style artwork of a magnificent heroic figure, gripping a radiant, fiery blue energy sword",0.8012288808822632,0.572109043598175,41.772627630300214,0.700959

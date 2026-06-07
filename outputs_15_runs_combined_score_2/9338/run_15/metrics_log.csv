@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.248323
+1,painting of a real mouse with colorful scales and a bright shimmering background,0.6482886075973511,0.7582086324691772,60.03308655502599,0.000000
+1,a highly detailed digital painting of a mouse with colorful patterns and a mesmerizing glowing background,0.6612834334373474,0.6592519283294678,34.62166498911312,0.397869
+1,a realistic oil painting of a mouse with iridescent scales and a soft colorful aura,0.8204165697097778,0.603363573551178,35.48700252905532,0.878652
+1,a mouse with colorful shimmering scales surrounded by a halo of vibrant colors in a beautiful painting,0.8108125925064087,0.6080891489982605,32.36528092034883,0.875532
+1,a highly realistic 4k digital artwork of a mouse with colorful glimmering scales and a captivating colorful atmosphere,0.7862979769706726,0.5831045508384705,33.11233533890288,0.839194
+2,a highly detailed realistic oil painting of a mouse with iridescent shimmering scales and a soft colorful warm aura,0.7412749528884888,0.6160112023353577,34.769815399444134,0.662734
+2,a photorealistic oil painting of a mouse with iridescent sheen scales and a gentle pastel color glow,0.7647461295127869,0.6629601120948792,39.76426937199416,0.614619
+2,a highly realistic oil-inspired digital painting of a mouse with iridescent glimmering scales and a soft pastel colored aura,0.8136659264564514,0.646710216999054,49.11546788709652,0.679061
+2,an ultra-realistic oil painting of a mouse with iridescent lustrous scales and a delicate soft colorful aura,0.8176736831665039,0.6090273857116699,37.48864493550409,0.845752
+2,a highly realistic and intricate 4k digital oil painting of a mouse with shimmering iridescent scales and a soft delicate colorful aura,0.7719423174858093,0.6730602979660034,41.045591180718915,0.607965
+3,a highly detailed oil painting of a mouse with iridescent scales and a soft colorful aura,0.7930590510368347,0.5743616819381714,36.334296171941546,0.839500
+3,a realistic and highly detailed oil painting of a mouse with shimmering iridescent scales and a vibrant colorful aura,0.803619384765625,0.5897315144538879,33.4890517547749,0.871690
+3,a photorealistic oil painting of a mouse with iridescent scales and a soft pastel aura,0.7431549429893494,0.6556597948074341,41.017881200345904,0.557237
+3,a stunning and highly detailed oil painting of a mouse with radiant iridescent scales and a colorful halo,0.7668788433074951,0.6559060215950012,34.22239561436091,0.679816
+3,a highly realistic and atmospheric oil painting of a mouse with iridescent scales and a warm golden aura,0.7543500661849976,0.6426877975463867,33.73529677710191,0.669707
+4,a realistic highly detailed 4k oil painting of a mouse with vibrant iridescent scales and a soft colorful ethereal aura,0.8292310833930969,0.6001368761062622,43.54190739307043,0.833112
+4,a photorealistic oil painting of a mouse with iridescent scales shining under a warm light with a gentle colorful glow,0.7409988641738892,0.6698185205459595,39.35071051271784,0.547457
+4,an intricate highly realistic digital painting of a mouse with iridescent scales and a soft colorful aura,0.7606759071350098,0.699662983417511,41.91413676601063,0.534730
+4,a stunning 4k masterpiece oil painting of a mouse with iridescent scales and a subtle colorful aura,0.8411290049552917,0.6214504241943359,35.155277016821366,0.910758
+4,a highly detailed realistic oil painting of a mouse with iridescent scales and a delicate colorful aura in a serene natural environment,0.6522543430328369,0.7153649926185608,39.6683040747539,0.252554
+5,a vibrant 4k digital painting of a sleek mouse with iridescent scales and a delicate colorful aura highly detailed,0.790407657623291,0.6454033255577087,47.93799099612475,0.631173
+5,a 4k oil painting masterpiece of a mouse with shimmering iridescent scales and a vibrant colorful aura,0.8411043286323547,0.584290623664856,37.70876677412127,0.938152
+5,a breathtaking 4k digital masterpiece of a mouse with subtle iridescent scales and a kaleidoscopic colorful aura,0.7562231421470642,0.719662606716156,39.0145544298121,0.522189
+5,a stunning 4k oil painting of a large mouse with iridescent scales and a soft colorful aura,0.7619560956954956,0.6657693982124329,43.70858142977531,0.567925
+5,a highly detailed 4k digital painting of a mouse with iridescent scales and a mesmerizing colorful aura,0.7631255388259888,0.7193465828895569,43.501673387322555,0.499971

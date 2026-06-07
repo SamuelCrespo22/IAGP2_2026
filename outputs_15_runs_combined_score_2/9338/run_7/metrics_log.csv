@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.353283
+1,"'a realistic painting of a mouse with iridescent scales and a vibrant, glowing background'",0.7722173929214478,0.6819735169410706,40.71836636549242,0.621557
+1,"'digital art of a mouse with shimmering scales and a highly detailed, rainbow-colored atmosphere'",0.7334299087524414,0.8022037744522095,42.57407849416448,0.406465
+1,"'a highly detailed, 4k digital painting of a mouse with colorful, scaly skin and a radiant, colorful background'",0.7437374591827393,0.6675954461097717,38.63560686784295,0.610353
+1,"'masterpiece of a mouse with shimmering, crystalline scales and a kaleidoscope of colors in the background'",0.5907335877418518,0.8673624992370605,47.523438594047754,0.000000
+1,"'an oil painting of a mouse with iridescent, rainbow-colored scales and a warm, golden glow in the background'",0.760551393032074,0.6507231593132019,33.87366829465412,0.726759
+2,"an intricate oil painting of a mouse with iridescent, shimmering rainbow-colored scales and a soft, warm golden glow in the background",0.7286843061447144,0.6884442567825317,30.0491445601929,0.684524
+2,"a detailed digital artwork of a mouse with iridescent, rainbow-colored scales and a gentle, warm golden light",0.7914456725120544,0.6928961277008057,40.21364269703109,0.655307
+2,"a highly realistic oil on canvas painting of a mouse with luminous, shimmering rainbow-colored scales and a warm, inviting glow",0.8513088226318359,0.6092355847358704,38.87524914068262,0.868728
+2,"an elaborate, highly detailed digital painting of a mouse with iridescent, rainbow-colored scales and a soft, warm golden illumination",0.792904257774353,0.6476292610168457,37.40033512581093,0.741320
+2,"a majestic, 4k resolution oil painting of a mouse with iridescent, shimmering rainbow-colored scales and a rich, warm glow in the background",0.801145613193512,0.6852562427520752,37.35032067513732,0.722135
+3,"a highly realistic 4k digital painting of a mouse with luminous, shimmering rainbow-colored scales and a warm, inviting glow",0.8474714756011963,0.6899356245994568,44.092552459777814,0.710126
+3,"a highly detailed oil on canvas masterpiece of a mouse with iridescent, shimmering rainbow-colored scales and a soft, comforting light",0.8075839281082153,0.6543220281600952,40.09904066125453,0.724525
+3,"a highly realistic, photorealistic oil on canvas painting of a mouse with luminous, glittering rainbow-colored scales and a warm, cozy ambiance",0.7690906524658203,0.628828227519989,35.1431459470887,0.745763
+3,"an ultra-realistic digital painting of a mouse with vibrant, shimmering rainbow-colored scales and a soft, inviting warm light",0.787482500076294,0.6917251348495483,40.95498129881966,0.638207
+3,"a highly realistic, highly detailed oil on canvas painting of a mouse with luminous, shining rainbow-colored scales and a soft, gentle glow.",0.802584171295166,0.619441032409668,37.38849013784924,0.786818
+4,"a highly realistic, hyper-detailed oil on canvas masterpiece of a mouse with luminous, shimmering, iridescent rainbow-colored scales and a warm, inviting gentle glow",0.8076746463775635,0.6875060200691223,38.753348213392876,0.712455
+4,"a photorealistic, 4k resolution digital painting of a mouse with radiant, shimmering, multi-colored scales that seem to shift and change in the light",0.7143046855926514,0.7150209546089172,40.074816600224516,0.488273
+4,"a highly realistic, highly textured oil on canvas painting of a mouse with luminous, shimmering, pastel rainbow-colored scales and a soft, warm, inviting glow",0.7942094206809998,0.6277130246162415,43.260885944245594,0.678882
+4,"a stunning, highly realistic oil on canvas painting of a mouse with luminous, shimmering, opalescent rainbow-colored scales and a warm, inviting soft light",0.7848588824272156,0.6039689183235168,40.545356341258895,0.722327
+4,"a photorealistic, highly detailed, large-scale digital painting of a mouse with luminous, shimmering, glittering rainbow-colored scales and a warm, inviting intense gentle glow",0.7962039113044739,0.6958879232406616,40.28260153696418,0.660611
+5,"highly realistic oil on canvas painting of a mouse with vibrant, shining rainbow-colored scales",0.7912080883979797,0.6218540668487549,38.47467486615704,0.747159
+5,realistic high-resolution oil on canvas painting of a mouse with luminous shimmering rainbow-colored scales,0.8225259780883789,0.6223851442337036,36.754593335059305,0.831358
+5,"highly detailed 4k digital painting of a mouse with iridescent, rainbow-colored scales and a warm inviting glow",0.7827677726745605,0.686261773109436,41.54498279820471,0.625905
+5,"a museum-quality oil on canvas painting of a mouse with radiant, shimmering rainbow-colored scales",0.7599353790283203,0.6476142406463623,32.67115271942382,0.745731
+5,"a highly realistic, photorealistic, oil on canvas painting of a mouse with luminous shimmering rainbow-colored scales and intricate details of texture and scale.",0.8282504081726074,0.618537962436676,36.027221968209986,0.856400

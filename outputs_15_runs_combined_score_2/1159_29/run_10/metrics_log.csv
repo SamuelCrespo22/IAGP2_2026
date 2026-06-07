@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.410653
+1,"a single palm tree standing alone on a rugged island in the ocean at sunset, highly detailed realistic seascape",0.9134268760681152,0.745387077331543,56.73055703183282,0.637092
+1,"a palm tree growing in isolation on a rocky outcropping in the ocean at golden hour, realistic seascape with soft atmosphere",0.8712531328201294,0.7429527640342712,61.344943956308576,0.443321
+1,"a solitary palm tree swaying on a windswept rocky island in the distance, realistic seascape at sunset with warm light",0.8718985915184021,0.737964391708374,55.67571416491121,0.528538
+1,"a majestic palm tree growing on a small rocky islet in the middle of the ocean, highly detailed 4k realistic seascape",0.7945334315299988,0.6372244954109192,53.2290383374085,0.503763
+1,"an isolated palm tree on a rocky island surrounded by calm turquoise ocean waters at sunset, highly realistic digital painting",0.8397831320762634,0.6547156572341919,46.967352203282616,0.699290
+2,"'an isolated palm tree stands tall on a rugged rocky island surrounded by glassy calm turquoise ocean waters at a warm vibrant sunset color palette, highly detailed digital art'",0.8833787441253662,0.6911748647689819,54.762807002667884,0.670340
+2,"'a single palm tree is situated on a weathered rocky island surrounded by serene tranquil turquoise ocean waters at sunset, highly realistic oil on canvas style'",0.8070255517959595,0.649688720703125,45.138104719083316,0.624917
+2,"'an iconic solitary palm tree is perched on the edge of a rocky outcropping overlooking calm crystal turquoise ocean waters at a dramatic golden hour, highly textured digital painting'",0.8535900712013245,0.71272212266922,52.74932841616204,0.555772
+2,"'a palm tree rises alone on a rocky island against the warmth of a golden orange sunset, serene tranquil turquoise ocean waters, highly detailed 4k digital art'",0.9031552076339722,0.7501091957092285,61.015548707020045,0.538576
+2,"'an isolated palm tree stands proudly on a rugged rocky island surrounded by soft calming turquoise ocean waters at dusk, highly realistic watercolor style'",0.7616531848907471,0.6432680487632751,49.28135887378912,0.434551
+3,"an isolated palm tree on a rugged rocky outcropping surrounded by calm turquoise ocean waters at golden hour, highly realistic 4k digital painting",0.7703881859779358,0.7243744134902954,55.47903144537589,0.223441
+3,"an isolated palm tree on a rocky headland surrounded by crystal clear turquoise ocean waters at sunset, highly detailed digital art",0.8863332271575928,0.734781801700592,54.16707419739355,0.601857
+3,"a tall palm tree on a weathered rocky island surrounded by serene turquoise ocean waters at dusk, highly realistic oil on canvas masterwork",0.7681583166122437,0.6742140054702759,45.702523539885334,0.441260
+3,"a lone palm tree perched on a rocky cliff surrounded by tranquil turquoise ocean waters at orange-tinted low tide, highly stylized digital painting",0.7707313299179077,0.690400242805481,53.24511001678981,0.320375
+3,"an isolated palm tree on a rocky sea stack surrounded by gentle turquoise ocean waters at warm sunrise, highly realistic digital oil painting",0.7911866903305054,0.7562992572784424,56.936527181076,0.210226
+4,"an isolated palm tree on a rugged rocky outcropping surrounded by calm turquoise ocean waters at golden-hour sunset, highly realistic digital painting",0.8227674961090088,0.7487371563911438,56.60340021886163,0.333469
+4,"an isolated palm tree stands alone on a rocky island, surrounded by serene turquoise ocean waters at sunset, highly detailed digital artwork",0.8648919463157654,0.7031835913658142,50.801613889007065,0.636967
+4,"the solitary palm tree rises from the rocky soil of a small island, surrounded by tranquil turquoise ocean waters at dusk, highly realistic oil painting",0.7926397323608398,0.670941174030304,46.99081261963229,0.511711
+4,"an isolated palm tree on a rocky headland, surrounded by peaceful turquoise ocean waters and vibrant coral reefs at sunset, highly detailed digital painting",0.7928879261016846,0.6841999888420105,51.423649667328604,0.429122
+4,"a lone palm tree on a rocky island, bathed in warm golden light, surrounded by calm turquoise ocean waters at sunset, highly realistic digital art",0.8982881307601929,0.706375777721405,54.66955450230276,0.690713
+5,"an isolated palm tree on a serene rocky island surrounded by crystal clear turquoise ocean waters at a golden sunset, highly realistic digital art",0.8413154482841492,0.6608326435089111,47.545836494355136,0.684810
+5,"an isolated tropical palm tree on a rugged rocky island surrounded by calm turquoise ocean waves at a warm sunset, photorealistic painting",0.7864440679550171,0.6772241592407227,50.39006219629003,0.434994
+5,"a single palm tree stands solitary on a rocky outcrop surrounded by peaceful turquoise ocean waters at dusk, highly detailed digital painting",0.7789689302444458,0.7111276984214783,51.629627966235915,0.327552
+5,"a lone palm tree on a rocky island surrounded by tranquil turquoise ocean waters with a warm orange glow of sunset, highly realistic oil painting",0.880608081817627,0.7211410999298096,57.04182251143516,0.572722
+5,"an isolated palm tree on a rocky island set amidst crystal clear turquoise waters with a vibrant sunset sky, highly detailed digital artwork",0.8769354820251465,0.7004486322402954,54.61337845421291,0.632773

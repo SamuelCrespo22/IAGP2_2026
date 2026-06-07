@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.522949
+1,"'single palm tree growing on a rugged rocky island in the serene ocean at golden hour, realistic highly detailed seascape'",0.8606910109519958,0.7610819935798645,58.48712124638288,0.497929
+1,"'isolated palm tree on a rocky island in the ocean, with vibrant sunset colors, realistic 4k seascape'",0.9013994932174683,0.8044156432151794,65.41708017962318,0.514009
+1,"'a solitary palm tree standing on a rocky outcropping in the calm ocean at sunset, highly detailed realistic seascape'",0.8741762638092041,0.8074393272399902,69.02475793562124,0.374705
+1,"'palm tree growing in the crevice of a large rocky island in the ocean at twilight, realistic seascape with high contrast'",0.8735417127609253,0.7134215235710144,58.51121920108691,0.606712
+1,"'single majestic palm tree on a rocky island in the blue ocean, with warm light at sunset, highly detailed realistic digital painting'",0.8521450161933899,0.6766743659973145,49.780328823372884,0.669977
+2,realistic isolated palm tree perched on a rugged rocky outcropping in the middle of an oceanic 4k seascape at golden hour,0.8385598659515381,0.7685290575027466,59.29211567631041,0.400358
+2,isolated palm tree standing tall on a craggy island in the deep blue ocean beneath a highly detailed vibrant sunset sky,0.8657999634742737,0.744408369064331,60.87802172457599,0.513249
+2,"4k seascape of an isolated palm tree on a rocky island in the distance, with soft warm sunlight and golden hues",0.8581941723823547,0.6975500583648682,52.04881419025639,0.640324
+2,"a solitary palm tree on a rocky island in the calm 4k ocean at sunset, realistic digital painting",0.8748728632926941,0.7476279735565186,59.1910330540598,0.559162
+2,"isolated palm tree on a rugged volcanic rock formation in the ocean, highly detailed 4k seascape with realistic sunset colors",0.8471585512161255,0.8187861442565918,68.57766063617275,0.267574
+3,"4k seascape of a majestic solitary palm tree on a rugged rocky island in the distance, highly detailed, under soft warm sunlight with rich golden hues",0.7847690582275391,0.702123761177063,52.57092663271065,0.365705
+3,"a serene 4k seascape of a single isolated palm tree on a craggy island, highly detailed, with gentle warm light and a golden glow",0.8132854104042053,0.7388030886650085,56.91503694409399,0.373952
+3,"4k digital painting of an isolated palm tree on a rocky shoreline in the distance, with soft warm natural sunlight and a warm golden atmosphere",0.8160669207572937,0.6619769930839539,45.48698081287608,0.605051
+3,"4k seascape of a single tall palm tree on a rocky outcrop, in the distance, highly detailed, under clear warm sunlight with a bright golden hue",0.8150951862335205,0.643648087978363,47.42428126665171,0.605517
+3,"a highly detailed 4k seascape of a single solitary palm tree on a rocky island, with warm sunlight and a soft golden glow, in a realistic digital painting style",0.8585450649261475,0.688893735408783,50.84350977692858,0.665636
+4,highly detailed 4k realistic seascape painting of a solitary palm tree on a rugged rocky island at sunset,0.8278371691703796,0.8179121613502502,66.42125465355109,0.222061
+4,a highly realistic 4k digital art piece of a single palm tree on a rocky island in the warm golden light of late afternoon,0.8808022737503052,0.6961712837219238,52.833807407288596,0.714945
+4,highly detailed 8k seascape of a solitary palm tree standing alone on a rocky outcropping bathed in a soft golden glow,0.8969878554344177,0.79764324426651,63.460903797784866,0.527623
+4,realistic 4k digital painting of a single palm tree on a rocky island in a seascape with warm sunlight and soft golden hues,0.831964910030365,0.6780905723571777,50.73581438139955,0.585793
+4,highly detailed 4k seascape oil painting of a solitary palm tree on a rugged rocky coastline with warm sunlight and a soft golden glow,0.7737938165664673,0.693498969078064,51.838175425817845,0.345443
+5,highly realistic 4k digital art piece of a single palm tree on a rocky outcropping in the warm golden light of late afternoon,0.8506980538368225,0.7146927714347839,53.74245952117898,0.573082
+5,a photorealistic 4k digital artwork of a palm tree standing alone on a rocky island in warm golden hour light,0.9133264422416687,0.7536183595657349,58.005296769786945,0.701449
+5,a stunning highly detailed digital art piece of a single palm tree on a rocky coastal area in the soft warm light of late afternoon,0.8466290235519409,0.6296163201332092,45.13696983183567,0.760997
+5,a highly realistic 4k digital painting of a solitary palm tree on a rocky headland in the golden late afternoon light,0.7979715466499329,0.6734693050384521,49.16161513303266,0.486563
+5,a breathtakingly detailed 4k digital artwork of a single palm tree standing on a rocky island at the edge of a tranquil ocean in warm golden light,0.8252428770065308,0.7588674426078796,58.79177968661467,0.370643

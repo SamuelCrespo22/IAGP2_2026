@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",0.92182457447052,0.5338760018348694,43.99722082178454,0.808411
+1,"highly realistic glass of fresh orange juice with sliced oranges scattered around, warm golden lighting, 4k, natural textures",0.9345343112945557,0.5614250898361206,42.92030143612716,0.826236
+1,"a close-up photograph of a glass of orange juice with orange slices garnish, realistic, high-definition, sunlight pouring in",0.9439693689346313,0.3738601803779602,37.86028772212741,0.984980
+1,"a beautifully styled glass of freshly squeezed orange juice surrounded by slices on a wooden table, high-quality product photography, soft focus",0.9342654943466187,0.5555578470230103,45.64745929901253,0.805369
+1,"a glass of orange juice with a few slices of orange floating on the surface, realistic still life, gentle morning light, detailed",0.9061708450317383,0.5740485191345215,50.538268062121944,0.702830
+1,"a highly detailed glass of orange juice with slices of fresh orange on a white background, realistic product photography, soft natural light, subtle shadows",0.9381380677223206,0.5169422626495361,54.131423893969654,0.759627
+2,"'a close-up photograph of a glass of freshly squeezed orange juice with orange slices garnish, hyper-realistic, 8k resolution, direct sunlight pouring in'",0.9326679110527039,0.4344581663608551,39.19985651550791,0.921308
+2,"'a crystal glass filled with ice and orange slices, containing freshly squeezed orange juice, realistic lighting with warm shadows, high-definition'",0.9215144515037537,0.5429967045783997,51.36716755892269,0.739701
+2,"'a glass of orange juice with a sprig of mint and sliced oranges, photographed in a bright and airy kitchen with plenty of sunlight streaming in, highly detailed'",0.7028393745422363,0.8515114784240723,65.185911471402,0.063963
+2,"'a beautiful glass of orange juice garnished with sliced oranges and a few sprigs of fresh mint, captured in stunning 4k resolution, warm and inviting sunlight illuminating the scene'",0.9149142503738403,0.6400725245475769,48.19005766785637,0.704277
+2,"'a glass of fresh orange juice with orange slices and a sprig of rosemary, set in a rustic kitchen with natural light spilling in, highly textured and realistic'",0.667467474937439,0.7644702792167664,54.41218300470885,0.138203
+3,"vibrant close-up photograph of a glass of orange juice with orange slices garnish, highly detailed, 4k, realistic, sunlight pouring in",0.9400949478149414,0.4082806706428528,39.36538693405058,0.947016
+3,"photorealistic photograph of a glass of orange juice with slices of orange, highly detailed, high-definition, warm sunlight pouring in",0.9313286542892456,0.5114818811416626,41.190341033139795,0.861456
+3,"realistic close-up image of a glass of freshly squeezed orange juice with orange slices as garnish, masterpiece, detailed, sunlight pouring in",0.9209922552108765,0.4673991799354553,42.31262912226549,0.856186
+3,"close-up shot of a glass of orange juice with slices of orange garnish, highly detailed, realistic, high-fidelity capture of sunlight pouring in",0.9178845882415771,0.47938016057014465,40.08648440143944,0.863439
+3,"an extremely realistic, high-definition close-up of a glass of orange juice with sliced orange as garnish, warm sunlight pouring in, highly detailed texture",0.929785430431366,0.5010417103767395,52.00332404377729,0.771146
+4,"a highly detailed close-up photograph of a glass of orange juice with a few orange slices garnish, realistic, 4k resolution, warm sunlight pouring in",0.916494607925415,0.45290714502334595,48.65444346289444,0.801103
+4,"a realistic close-up photograph of a glass of freshly squeezed orange juice with orange slices garnish, high-definition, soft sunlight, shallow depth of field",0.9258086085319519,0.42148059606552124,42.03891043675006,0.891283
+4,"a photograph of a glass of orange juice with thinly sliced oranges garnish, highly realistic, high-definition, sunlight coming through a large window",0.8959389925003052,0.7433595657348633,59.02868361233062,0.522700
+4,"a close-up shot of a glass of orange juice with orange slices garnish, highly detailed, high-definition, natural sunlight",0.9368857145309448,0.4134029448032379,40.58211838411268,0.928069
+4,"a realistic close-up high-definition 4k photograph of a glass of orange juice with sliced oranges garnish, sunlight shining through",0.9325389862060547,0.49754172563552856,40.84610681712599,0.873901
+5,"a close-up, high-quality image of a glass of freshly squeezed orange juice with a slice of orange garnish, realistic, high-definition",0.9200607538223267,0.4924556612968445,42.439075418880144,0.840300
+5,"a bright and airy photograph of a glass of orange juice with a garnish of sliced orange, highly detailed, 4k",0.9301968812942505,0.40190619230270386,41.434435192845,0.914661
+5,"a close-up shot of a glass of orange juice with a decorative orange slice garnish, realistic, high-resolution",0.9125040173530579,0.5162256956100464,48.34422266104692,0.763414
+5,"a beautiful, natural-light photograph of a glass of orange juice with sliced oranges artfully arranged on the rim, masterpiece quality",0.940007746219635,0.39767903089523315,36.11367923570837,0.980370
+5,"a detailed, realistic photograph of a glass of orange juice with a sprinkle of sugar and a slice of orange, highly detailed, sunlight pouring in through the window",0.9195500612258911,0.6802000999450684,57.35911195897652,0.612811

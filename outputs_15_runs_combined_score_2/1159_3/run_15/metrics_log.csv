@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.778418
+1,anime character with a 6-foot flaming sword and magical blue flames,0.8358514308929443,0.5828170776367188,41.73388689870413,0.910677
+1,highly detailed anime character wielding a dragon-embossed flaming sword and surrounded by swirling magical blue flames,0.7942529916763306,0.6733388900756836,52.406745498684856,0.495392
+1,"digital painting anime character with a long, fiery sword and magical blue fire dancing in the background",0.8015873432159424,0.5715950727462769,45.115387313522895,0.739088
+1,4k anime character standing in front of a burning castle with a powerful flaming sword and magical blue flames rising high,0.7215856313705444,0.6553928256034851,48.78069320072396,0.239895
+1,detailed digital artwork of a mythical anime character holding a mighty flaming sword and surrounded by intense magical blue flames,0.8161778450012207,0.595349133014679,46.990089357590946,0.751676
+2,anime character holding a 6-foot flaming sword with magical blue flames and intricate golden details,0.8289331197738647,0.6049458980560303,46.50000652038213,0.800193
+2,highly detailed anime warrior with a 6-foot sword covered in magical blue flames,0.7823854684829712,0.6764304637908936,52.941492160935375,0.433666
+2,anime character wielding a massive 6-foot flaming sword with vibrant blue flames and a fantasy landscape,0.7583625912666321,0.5892425179481506,44.2334863022056,0.536320
+2,anime character standing on a rocky outcropping with a 6-foot flaming sword emitting magical blue flames in the distance,0.7584934234619141,0.7250059247016907,62.61741266786328,0.161500
+2,"highly detailed, 4k digital painting of an anime character holding a 6-foot sword with magical blue flames and a mystical atmosphere",0.753077507019043,0.6605483293533325,55.63548258647558,0.297256
+3,"anime character wielding a highly detailed 6-foot flaming sword with vibrant magical blue flames and intense, fiery aura",0.8002931475639343,0.5711148977279663,44.87247088322495,0.736665
+3,"a highly detailed anime character standing in front of a fiery background, grasping a majestic 6-foot flaming sword with magical blue flames",0.8201537132263184,0.6062208414077759,50.233474176157806,0.719972
+3,"6-foot flaming sword anime character with magical blue flames and a dramatic, mystical landscape in the background, rendered in a highly detailed digital painting",0.7581241726875305,0.6760081648826599,56.79020451079731,0.286683
+3,"highly detailed anime warrior holding a 6-foot flaming sword with magical blue flames, set against a darkened, mystical cityscape",0.7959072589874268,0.5835128426551819,42.933380750336404,0.722085
+3,"highly detailed fantasy anime warrior standing triumphantly, clutching a 4k, highly detailed, flaming sword with intense magical blue flames and a victorious, heroic pose",0.773406982421875,0.6414580345153809,44.854670335385215,0.527103
+4,anime character with an extremely detailed 6-foot gleaming flaming sword and intense magical blue flames,0.8119502067565918,0.5859363675117493,44.161365809919,0.775911
+4,highly realistic anime character with a 6-foot burning flaming sword and vivid magical blue flames,0.8113853335380554,0.5578151941299438,40.992928940181855,0.844321
+4,stylized anime character wielding a 6-foot bright flaming sword and radiating magical blue flames,0.831862211227417,0.5718627572059631,45.72087718972683,0.864704
+4,magnificent highly detailed anime character with a 6-foot fiery flaming sword and brilliant magical blue flames,0.8215727806091309,0.5799884796142578,44.99740866275957,0.816817
+4,detailed anime character in a dynamic pose holding a 6-foot blazing flaming sword with brilliant magical blue flames,0.8121272325515747,0.5754857659339905,40.94324972571221,0.824964
+5,anime character with a 6-foot highly detailed flaming sword and vibrant blue flames,0.8049293160438538,0.559491753578186,43.63618055379074,0.785461
+5,anime character wielding a 6-foot magical sword with intense blue flames in a mystical landscape,0.8020017147064209,0.6774100661277771,59.16860335975659,0.451277
+5,anime warrior holding a 6-foot flaming blade with radiant blue flames in a fantasy setting,0.8058314919471741,0.534074068069458,39.36173550446967,0.868640
+5,highly detailed anime character standing with a 6-foot sword ablaze in bright blue flames,0.8134819269180298,0.5850853323936462,45.7312232533838,0.766851
+5,anime hero holding a majestic 6-foot sword with brilliant blue flames in a dramatic fantasy scene,0.7844577431678772,0.6910724639892578,60.81393952143559,0.338932

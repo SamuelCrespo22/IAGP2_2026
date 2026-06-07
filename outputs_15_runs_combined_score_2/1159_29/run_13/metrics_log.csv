@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.542168
+1,"'a single palm tree standing solitary on a rocky island in the ocean at golden hour, hyper-realistic seascape'",0.9167554378509521,0.7834749817848206,65.60161817272684,0.605271
+1,"'an isolated palm tree growing out of the rugged terrain of a small rocky island, calm ocean at sunset'",0.8322016000747681,0.7316691279411316,58.04797090979364,0.467320
+1,"'the majestic figure of a single palm tree emerging from the waves on a deserted rocky island, highly detailed seascape at dusk'",0.8831585049629211,0.6726160049438477,51.55858946967941,0.736604
+1,"'a lone palm tree rooted firmly on a rocky outcrop in the middle of the ocean, warm sunlight and soft clouds at sunset'",0.8958560824394226,0.6766523122787476,51.661643065009386,0.770091
+1,"'a single palm tree swaying gently in the breeze on a small rocky island, realistic 4k seascape at the moment of sunset'",0.9128307104110718,0.6904105544090271,52.2794886187602,0.802395
+2,"a serene single palm tree sways gently in the breeze on a small rocky island, 4k realistic seascape at the peak of sunset",0.9211928844451904,0.6760616302490234,52.36092201871089,0.841073
+2,"a solitary palm tree bending in the wind on a tiny rocky outcropping in the distance, highly detailed 4k seascape at golden hour",0.7557240724563599,0.8023545742034912,58.69479735573708,0.160937
+2,"a lone palm tree stands on a small rocky island amidst calm turquoise waters, realistic 4k seascape painting at the moment of sunset",0.7917987108230591,0.7022178173065186,54.758357983732644,0.403209
+2,"a single palm tree waves gently in the breeze on a small rocky island surrounded by clear blue waters, realistic 8k seascape at the golden hour",0.901496946811676,0.713601291179657,52.617262233064416,0.742340
+2,"a single palm tree stands on a small rocky island in the background, 4k realistic seascape at the moment of a serene sunset over calm waters",0.8951445817947388,0.6919434070587158,54.789728127962505,0.725330
+3,"A serene single palm tree stands tall in the breeze on a small rocky outcrop, highly detailed 4k realistic seascape at the peak of golden sunset.",0.89024817943573,0.7949087619781494,60.80517132035844,0.556170
+3,"A single palm tree gently sways in the ocean breeze on a small rocky island, highly detailed realistic masterpiece at sunset with vibrant warm colors.",0.8591106534004211,0.736701250076294,57.93496311179437,0.544673
+3,"A majestic single palm stands solitary on a rocky outcropping surrounded by turbulent sea foam, hyper realistic highly detailed 4k digital painting at sunset.",0.7983579635620117,0.7764197587966919,61.7079130277616,0.288754
+3,"A lone palm tree sways to the rhythm of the gentle waves on a small rocky islet, highly detailed realistic digital art at the peak of golden hour with soft warm light.",0.8887534141540527,0.7692857384681702,61.581502719456395,0.570041
+3,"A serene single palm tree silhouette against a vibrant warm sky on a small rocky isle, highly detailed 4k realistic seascape at sunset with gentle ocean waves.",0.9030994176864624,0.7148671746253967,55.33471785706511,0.721997
+4,"a single solitary palm tree stands tall in the gentle breeze on a small rocky island, highly detailed realistic seascape at the peak of golden sunset",0.8600980639457703,0.8063658475875854,62.927383590245995,0.435090
+4,"serene single palm tree sways gently in the fading light of a vibrant sunset on a small rocky island, realistic seascape masterpiece",0.9072539806365967,0.7166431546211243,56.52192570134235,0.722344
+4,"a delicate single palm tree dances in the soft breeze on a tiny rocky island, 4k realistic seascape at the highest point of the fiery sunset",0.9083282351493835,0.8389667868614197,69.75119596038614,0.488618
+4,"a lone single palm tree bends softly in the morning calm on a small rocky island, realistic seascape digitally painted 4k",0.769034743309021,0.585039496421814,44.49281009115293,0.540221
+4,"serene single palm tree stands calmly in the late afternoon breeze on a tiny rocky island, highly detailed realistic seascape at the peak of warm sunset",0.8897280097007751,0.7060530185699463,56.53115632845847,0.679731
+5,Highly detailed 4k realistic seascape of an isolated palm tree swaying gently in the breeze on a small rocky island at sunset,0.8915586471557617,0.691295862197876,52.717147327426396,0.733390
+5,serene and peaceful 4k digital painting of a single palm tree swaying in the evening sea breeze on a tiny volcanic island,0.8214075565338135,0.7262171506881714,54.53204544751907,0.471044
+5,a highly realistic 4k seascape of a palm tree on a rocky shore bathed in warm sunset colors as the sea gently laps at the base,0.897873044013977,0.7744154334068298,60.75844948837346,0.599798
+5,an isolated single palm tree stands resilient on a small rocky outcropping on a serene 4k seascape of the ocean at peak sunset,0.8746422529220581,0.7716324925422668,63.546310514148466,0.507782
+5,a highly detailed 4k seascape of a palm tree silhouetted against a vibrant orange and pink sunset sky over a small rocky island in the ocean,0.8825482130050659,0.8112431764602661,72.87195455310321,0.410522

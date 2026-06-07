@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.678229
+1,anime character with a highly detailed flaming sword and magical intense blue flames,0.8056670427322388,0.5892093777656555,45.4240799977047,0.660217
+1,anime girl with a glowing flaming sword in a fantasy landscape,0.7994764447212219,0.5312953591346741,38.57762827026336,0.862970
+1,vibrant 4k digital painting of an anime boy with a large flaming sword and swirling magical blue flames,0.7648125886917114,0.5618472099304199,49.360209850660006,0.513957
+1,"young anime warrior maid with a mighty flaming sword in hand, surrounded by dancing magical blue flames",0.7470139265060425,0.5548242330551147,47.40838266424763,0.504262
+1,intricate digital art of an anime knight with a radiant flaming sword and mesmerizing magical blue flames in the background,0.7952662706375122,0.6338071823120117,51.45028229544585,0.443537
+2,anime girl holding a glowing flaming sword in a mystical fantasy landscape,0.8028914928436279,0.568923830986023,40.89274586808963,0.765915
+2,fantasy anime girl with a fiery sword standing heroically in a misty mountainous realm,0.7350381016731262,0.6098126173019409,47.14164948096271,0.371769
+2,highly detailed digital painting of a stunning anime girl wielding a blazing sword amidst an eerie dark fantasy environment,0.7977210283279419,0.543526828289032,44.69484521530607,0.730419
+2,anime girl with a radiant flaming sword fighting in a serene and mystical landscape full of floating islands,0.7688067555427551,0.6108678579330444,45.06834444814116,0.511426
+2,majestic digital artwork of a fantasy anime girl holding a blazing sword in an epic battle scene amidst a beautiful misty landscape,0.6719686985015869,0.6087730526924133,49.94180708048456,0.127636
+3,anime girl with a highly detailed glowing flaming katana in a mystical fantasy landscape,0.7630110383033752,0.5361223220825195,37.00966418794174,0.766657
+3,anime princess with a magical glowing flaming sword in a surreal fantasy landscape,0.7545421719551086,0.5676113367080688,40.83142809931931,0.617562
+3,detailed anime girl wielding a radiant glowing flaming sword in a fantasy realm,0.8312441110610962,0.5439170598983765,42.194568005742894,0.877830
+3,fantasy anime girl with a vibrant glowing flaming dragon sword in a dreamlike landscape,0.7284297347068787,0.6344121098518372,45.89199135314142,0.327956
+3,highly detailed fantasy anime girl with a shining glowing flaming katana in a majestic fantasy world,0.7346228957176208,0.5620547533035278,40.53256084642977,0.570209
+4,highly detailed anime girl wielding a radiant and fiery glowing silver sword in a mystical Japanese fantasy realm,0.8057935237884521,0.5268294811248779,42.34609185009914,0.826248
+4,anime girl standing heroically with shining radiant flaming sword in a fantastical mystical landscape of ancient mountains and forests,0.7378082871437073,0.6650283932685852,50.730201666419894,0.219035
+4,a highly realistic and detailed anime girl with a magnificent and powerful glowing fiery sword in a mystical and magical fantasy world,0.7321099042892456,0.5498303771018982,36.87357143549222,0.647188
+4,a stunning 4k digital painting of a beautiful anime girl wielding a radiant powerful glowing sword with flames and sparks in an enchanted fantasy realm,0.777087926864624,0.5904226303100586,48.222621589878116,0.520309
+4,a masterpiece highly detailed and realistic anime girl character with a magnificent glowing sword wielding a magical and powerful flame with sparks in a fantasy realm of magic and wonder,0.7618869543075562,0.5560309886932373,37.428312645787955,0.719934
+5,highly detailed anime girl wielding a radiant glowing magical sword in a realistic fantasy realm,0.7272708415985107,0.5612801313400269,44.25698822900948,0.484654
+5,anime girl standing confidently with a mighty powerful glowing flaming sword in a fantasy landscape highly detailed,0.7769160270690918,0.5918710827827454,43.742208972703146,0.593991
+5,a beautiful highly detailed digital painting of a mystical anime girl holding a brilliant fiery sword in a breathtaking fantasy world,0.773759126663208,0.6329142451286316,47.53557867234232,0.444776
+5,a highly detailed 4k digital art of a cute anime girl fighting with a glowing magical sword in a richly detailed fantasy environment,0.7300665378570557,0.6139768362045288,49.88897849690622,0.301511
+5,highly detailed anime girl with fiery hair wielding an incredibly powerful glowing sword in a visually stunning fantasy realm with beautiful vibrant colors,0.7759066224098206,0.6085061430931091,47.83707746797166,0.490500
