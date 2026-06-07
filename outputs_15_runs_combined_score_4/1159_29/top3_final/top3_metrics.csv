@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+4,highly detailed realistic lone palm tree standing proudly in the shallow crystal clear aqua waters by a stunning golden orange sun,0.9358720779418944,0.5926006436347961,47.18080536522268,0.9442124395446695,run_7,1.0,0.04864711643929043,0.17450312538203153
+4,highly detailed realistic lone palm tree standing in crystal clear aqua tropical ocean waters at golden hour,0.915306031703949,0.578719437122345,45.71147117944798,0.9130823479318666,run_7,0.8904162101217987,0.0,0.1285030285161311
+2,"highly detailed, realistic lone palm tree standing in crystal clear aqua ocean, golden orange sun on the horizon, breathtaking tropical masterpiece",0.920679211616516,0.6332426071166992,47.96041615479254,0.8620262010885855,run_7,0.9190465755164912,0.19107813121110406,0.19891021546753612

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"lone palm tree standing in shallow turquoise ocean waves, golden sunset on horizon, distant mountains, serene tropical digital art",0.913166880607605,0.8275542259216309,65.38826043493086,0.423346
+1,"tropical palm tree isolated in shallow blue-green ocean waters, sun-kissed golden horizon, misty mountains",0.8729643821716309,0.6478118300437927,51.92817494307726,0.639220
+1,"serene sunset digital painting of single palm tree in shallow turquoise ocean, highly detailed 4k art",0.904638946056366,0.6615030765533447,49.53978141389534,0.762744
+1,"lone palm tree standing in shallow aqua ocean, vibrant orange sun on horizon, dramatic tropical landscape",0.9131335020065308,0.6772418022155762,50.28267676627564,0.766171
+1,"detailed digital art of a solitary palm tree in calm turquoise ocean waters, golden sun sinking low in sky",0.8978619575500488,0.6661533713340759,49.33504722527803,0.737794
+1,"a serene, highly detailed digital painting of a single palm tree standing in shallow blue ocean waves, golden light on misty mountains",0.7877695560455322,0.6929304003715515,54.376993887677585,0.275156
+2,"vibrant lone palm tree standing in crystal clear aqua ocean, golden orange sun on distant horizon, tropical paradise landscape with warm sunlight",0.9010611772537231,0.6437064409255981,46.42208959685204,0.808157
+2,"lone palm tree standing in serene aqua ocean, blazing orange sun on horizon, dramatic tropical island getaway",0.9057713747024536,0.6633590459823608,50.199352618114645,0.756323
+2,"highly detailed, realistic lone palm tree standing in shallow aqua ocean, vibrant orange sun on horizon, stunning tropical landscape",0.9156388640403748,0.673640251159668,48.65928422044072,0.798874
+2,"lone palm tree standing in shallow aqua ocean, bright orange sun on the horizon, warm and inviting tropical paradise",0.9053254723548889,0.6549997329711914,47.13953834155737,0.802092
+2,"highly detailed, realistic lone palm tree standing in crystal clear aqua ocean, golden orange sun on the horizon, breathtaking tropical masterpiece",0.9206792116165161,0.6332426071166992,47.96041615479254,0.865356
+3,"highly detailed, realistic, serene lone palm tree standing in crystal clear, aquamarine ocean, golden orange sun on the peaceful horizon, breathtaking tropical masterpiece",0.9105035066604614,0.6549460291862488,51.15706171874402,0.768583
+3,"highly realistic, highly detailed, 4k resolution, lone palm tree standing in an endless, crystal clear, aqua ocean, brilliant golden orange sun on the horizon, tropical art",0.9150389432907104,0.7012536525726318,52.141894958006084,0.724858
+3,"highly detailed, photorealistic, single, majestic palm tree standing in a vast, crystal clear, aqua blue ocean, warm, golden orange sun setting on the horizon, stunning, realistic art",0.8817330002784729,0.7103073596954346,53.676289118953186,0.583825
+3,"highly detailed, 4k resolution, realistic, lone, elegant palm tree standing in a tranquil, crystal clear, turquoise ocean, breathtaking golden orange, orange sunset on the horizon, tropical landscape",0.9101520776748657,0.7359351515769958,58.13054777504143,0.597428
+3,"highly realistic, highly detailed, 4k resolution, single, stunning palm tree standing in a calm, crystal clear, aquamarine ocean, vibrant, warm golden orange sun on the peaceful horizon, breathtaking tropical seascape",0.8993479013442993,0.7072867155075073,50.729018182382724,0.683774
+4,"highly detailed, realistic lone palm tree standing in serene crystal clear aqua ocean",0.8628710508346558,0.6248819231987,53.22500406816083,0.611705
+4,highly detailed realistic lone palm tree standing in crystal clear aqua tropical ocean waters at golden hour,0.915306031703949,0.578719437122345,45.71147117944798,0.930568
+4,highly detailed realistic 4k resolution lone palm tree standing in crystal clear aqua ocean at golden orange sunrise,0.9033186435699463,0.6343793272972107,46.074047254432145,0.829571
+4,serene and breathtakingly beautiful highly detailed realistic digital painting of lone palm tree in aqua ocean with golden orange sunset,0.8901557326316833,0.6998155117034912,53.05326750627739,0.630717
+4,highly detailed realistic lone palm tree standing proudly in the shallow crystal clear aqua waters by a stunning golden orange sun,0.9358720779418945,0.5926006436347961,47.180805365222675,0.967385
+5,highly detailed realistic palm tree standing prominently in the pristine crystal clear aqua waters by a vibrant golden orange sun,0.9232579469680786,0.6313331723213196,50.796146397288275,0.839952
+5,realistic highly detailed 4k image of a lone palm tree standing proudly in the shallow crystal clear waters at sunset,0.880181610584259,0.7653581500053406,58.27365805811897,0.464867
+5,beautifully styled digital painting of a serene palm tree surrounded by aqua waters and a warm golden orange glow,0.8804184198379517,0.6857250928878784,48.221290311778915,0.673391
+5,highly detailed realistic masterwork of a single palm tree standing tall in the shallow crystal clear aqua waters under a stunning orange sun,0.9320305585861206,0.6511513590812683,53.585395400212555,0.814219
+5,realistic highly detailed photorealistic image of a single palm tree standing in the shallow crystal clear aqua waters with a beautiful orange sunrise background,0.9261376857757568,0.7789303660392761,58.80219865909091,0.599666

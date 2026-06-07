@@ -23,27 +23,15 @@ NUM_RUNS = 15           # Requirement: repetitions of the cycle per image
 # ---------------------------------------------------------
 EXPERIMENTS = [
     {
-        "name": "Experiment 2: Descriptive Mid-tier Prompts",
-        "output_dir_name": "outputs_15_runs_combined_score_2",
+        "name": "Experiment 4",
+        "output_dir_name": "outputs_15_runs_combined_score_4",
         "prompts": {
-            "1159_7.png": "a top spiked hedgehog laying down on top of a cube-shaped wafer cake, soft lighting, detailed digital art",
-            "7836.png": "a lone astronaut standing on a planet beneath a massive glowing planet in deep space, cinematic sci-fi scene",
-            "1159_25.png": "a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",
-            "1159_29.png": "a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",
-            "1159_3.png": "anime character with a flaming sword and magical blue flames",
-            "9338.png": "painting of a mouse with colorful scales and a glowing colorful background"
-        }
-    },
-    {
-        "name": "Experiment 3: Highly Optimized Structural Prompts",
-        "output_dir_name": "outputs_15_runs_combined_score_3",
-        "prompts": {
-            "1159_7.png": "a spiky golden-brown hedgehog resting on a precise cube of stacked wafer blocks, soft studio lighting, high-detail digital rendering",
-            "7836.png": "lone astronaut viewed from behind standing on a planet surface under a colossal ringed planet, cinematic deep space view",
-            "1159_25.png": "opaque orange cocktail garnished with citrus peel in a clear glass, scattered fruit cubes on brown surface, studio product lighting",
-            "1159_29.png": "lone palm tree growing out of a tiny pile of rocks in the middle of deep ocean water, no beach, surrounding turquoise waves, sunset",
-            "1159_3.png": "fierce blond warrior in high-tech armor wielding a bright fire whip with swirling blue-green and orange spirits",
-            "9338.png": "fantasy painting of a mouse with intricate rainbow scales and horns within a vibrant, glowing abstract flame background"
+            "1159_7.png": "photorealistic hedgehog with golden spiky fur curled on top of a geometric stacked cube, soft beige studio lighting, surreal 3D render",
+            "7836.png": "lone astronaut in white spacesuit on alien planet surface, massive ringed planet looming overhead, blue nebula and stars, cinematic sci-fi scene",
+            "1159_25.png": "glass of fresh orange juice with orange slice garnish and ice, sliced oranges scattered around, warm dramatic food photography lighting",
+            "1159_29.png": "lone palm tree standing in shallow turquoise ocean waves, golden sunset on horizon, distant mountains, serene tropical digital art",
+            "1159_3.png": "blonde male spiky-haired anime warrior in silver armor, glowing golden energy whip, teal and orange fire auras, dark dramatic background, semi-realistic fantasy art",
+            "9338.png": "cute hamster-dragon hybrid with colorful dragon scales and small horns, curled tail, vibrant rainbow flame background, impressionistic digital painting"
         }
     }
 ]

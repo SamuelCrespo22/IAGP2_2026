@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"photorealistic hedgehog with golden spiky fur curled on top of a geometric stacked cube, soft beige studio lighting, surreal 3D render",0.727447509765625,0.5216778516769409,34.09966204672484,0.687826
+1,"photorealistic highly detailed hedgehog with radiant golden spiky fur curled on top of a geometric stacked cube, soft natural studio lighting, surreal high-definition 3D render",0.7279114127159119,0.5396971702575684,36.48606897790634,0.653314
+1,"realistic 4k hedgehog curled on top of a minimalist geometric cube, warm beige studio lighting, precise digital art",0.7243742942810059,0.5848973393440247,37.37438711067635,0.583959
+1,"photorealistic masterpiece hedgehog with gleaming golden fur, relaxed pose on top of a futuristic stacked cube, soft golden studio lighting, stylized 3D animation",0.6766954064369202,0.5936854481697083,39.62964286394647,0.349222
+1,"detailed surreal hedgehog in a world of pure white and golden tones, curled on top of a stacked cube with a minimalist aesthetic, soft natural studio lighting, dreamlike 3D render",0.6974454522132874,0.585191011428833,52.28124424928296,0.355171
+1,"highly stylized digital painting of a realistic hedgehog curled on top of a stack of geometric cubes, warm natural studio lighting, vibrant golden fur, precise color accuracy",0.6656758785247803,0.6172497868537903,39.61357597920175,0.276432
+2,photorealistic studio shot of a hedgehog with soft golden spiky fur curled on top of a clean geometric stacked cube,0.7783673405647278,0.5339844822883606,33.484657861168834,0.902530
+2,highly detailed image of a hedgehog with vibrant golden spiky fur curled on a 3D geometric stacked cube,0.7267268300056458,0.5591077208518982,33.712151272285936,0.648393
+2,curled hedgehog with shimmering golden fur on top of a geometric cube illuminated by soft beige studio lighting,0.6772545576095581,0.5146874785423279,38.249329745076935,0.444534
+2,realistic close-up portrait of a hedgehog with intricate golden spiky fur curled on a textured geometric cube,0.7207863330841064,0.5240843296051025,34.33744462303269,0.654371
+2,highly realistic digital painting of a curled hedgehog with intricate golden spiky fur on a 3D geometric stacked cube,0.6981857419013977,0.5581293106079102,31.62989965967632,0.539855
+3,photorealistic 4k studio shot of a hedgehog with soft golden spiky fur curled on top of a clean geometric stacked cube,0.779837965965271,0.475701242685318,33.21123642239654,0.971959
+3,a highly detailed hedgehog is curled on a clean geometric cube in a bright studio against a white background,0.6950622200965881,0.6991223096847534,65.34375438922943,0.128704
+3,photorealistic digital painting of a hedgehog with soft golden spiky fur curled on top of a geometric stacked cube in a softbox lit studio,0.7178672552108765,0.5517953634262085,34.59948144294239,0.610659
+3,ultra-realistic close-up of a hedgehog with soft golden spiky fur curled on a geometric shape in a minimalist studio environment,0.7635946273803711,0.5580740571022034,45.12865440323596,0.726288
+3,highly detailed masterpieces of a hedgehog with soft golden spiky fur curled on a geometric stacked cube in a studio lit with a single softbox,0.7088943719863892,0.5446231961250305,36.4979767105537,0.564784
+4,photorealistic 8k high-definition studio shot of a hedgehog with incredibly vibrant and soft golden spiky fur curled on top of a clean and intricately designed geometric stacked cube,0.763256847858429,0.46010273694992065,33.80357516222495,0.911260
+4,highly detailed realistic 4k studio shot of a hedgehog with rich golden spiky fur curled on top of a sleek and modern geometric stacked cube,0.6941171884536743,0.5382233262062073,33.86769421237621,0.526262
+4,photorealistic 4k digital painting of a hedgehog with warm golden spiky fur curled on top of a stacked cube with subtle texture and depth,0.7648817300796509,0.5119526386260986,36.86176107127924,0.841468
+4,precise high-fidelity 4k studio shot of a hedgehog with rich golden spiky fur curled on top of a geometric stacked cube with precise geometric shapes,0.6657331585884094,0.5825337171554565,33.24193710430078,0.360242
+4,incredibly lifelike realistic 4k studio shot of a hedgehog with golden spiky fur curled on top of a geometric stacked cube with a minimalist studio background,0.7320707440376282,0.5474304556846619,34.43337255022069,0.678664
+5,photorealistic highly detailed 4k studio shot of a hedgehog with soft vibrant golden spiky fur curled around top of a clean geometric stacked cube,0.7767609357833862,0.4695966839790344,34.14695094815654,0.957929
+5,photorealistic 4k studio shot of a sleeping hedgehog with soft golden spiky fur curled around top of a clean geometric stacked wooden cube,0.7505820989608765,0.4652104079723358,40.80805739859814,0.798465
+5,studio shot of a close-up hedgehog with softly glowing golden spiky fur resting on top of a clean geometric stacked cube in warm natural light,0.7499670386314392,0.4712253510951996,32.96504602823352,0.847639
+5,highly detailed realistic 4k digital painting of a hedgehog with soft golden spiky fur curled on top of a clean geometric stacked cube,0.7501623630523682,0.5422079563140869,32.95979771587322,0.774290
+5,"photorealistic 4k studio shot of a single hedgehog with soft golden spiky fur curled up on top of a clean geometric stacked glass cube, side lighting",0.6660577058792114,0.5662177801132202,37.5322771729717,0.346914
