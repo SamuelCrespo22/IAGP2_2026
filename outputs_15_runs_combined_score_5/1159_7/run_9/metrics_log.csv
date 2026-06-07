@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"A stylized, furry creature resembling a porcupine is perched atop a cube made of light-colored, textured blocks. The scene is set against a soft, neutral background.",0.7310162782669067,0.6714399456977844,41.993184345672326,0.557835
+1,"A stylized, realistic creature resembling a porcupine is perched atop a cube made of light-colored, high-quality, textured blocks",0.7498883008956909,0.6700959801673889,43.1968915229128,0.568163
+1,"A highly detailed, photorealistic creature resembling a porcupine is perched atop a cube made of textured, light gray, and warm-toned blocks",0.6627534031867981,0.6576213836669922,44.19250294973513,0.435932
+1,"A fantastical, highly stylized creature resembling a porcupine is perched atop a cube made of intricately patterned, high contrast, and light-colored blocks",0.6788539290428162,0.6791922450065613,45.355793512710626,0.416489
+1,"A highly detailed, 4k-resolution creature resembling a porcupine is perched atop a simple, yet stylish cube made of light-colored, wooden, textured blocks",0.7331501841545105,0.604724645614624,39.87682127638193,0.671752
+1,"A highly realistic, hyper-realistic creature resembling a porcupine is perched atop a large, prominent cube made of light-colored, metallic, and reflective blocks.",0.6962181329727173,0.6719754338264465,47.96052846295549,0.408640
+2,"Highly detailed, 8k-resolution creature resembling a porcupine is perched atop a minimalist, yet stylish cube made of light-colored, wooden, textured blocks",0.6349450349807739,0.6204222440719604,32.67408598121107,0.623208
+2,"A stunning, high-definition creature resembling a porcupine is perched atop a chic, modern cube made from rich, wooden, intricately carved blocks",0.681175708770752,0.5980745553970337,39.369337446426435,0.609780
+2,"A photorealistic, 4k-resolution creature resembling a porcupine in a playful stance is perched atop a simple, yet refined cube crafted from light-colored, smooth wooden blocks",0.7015640735626221,0.6754878759384155,43.24021930064026,0.488940
+2,"A highly detailed, 4k-resolution creature resembling a porcupine in a calm demeanor is perched atop a stylish, Scandinavian-inspired cube made from light-colored, woven wooden blocks",0.7038589119911194,0.631061851978302,35.98362155280789,0.660655
+2,"A highly detailed, 4k-resolution creature resembling a porcupine with intricate quills is perched atop a sleek, contemporary cube featuring a rich, wooden, tactile finish",0.6798020601272583,0.6119441986083984,45.04416849906754,0.500060
+3,"A highly detailed, 8k-resolution creature resembling a porcupine is perched atop a simple, yet stylish cube made of light-colored, wooden, textured blocks",0.7270540595054626,0.606347918510437,39.52471119386003,0.666459
+3,"A majestic, highly detailed, 4k-resolution porcupine creature is perched atop a minimalist, stylish cube crafted from light-colored, wooden, smooth blocks",0.7030315399169922,0.6575703620910645,43.55828623310458,0.506540
+3,"A stylized, hyper-realistic creature resembling a porcupine is perched atop a compact, modern cube with a light, wooden, wood-grain texture",0.6768020987510681,0.48904353380203247,42.97617185875964,0.669937
+3,"A highly detailed, 4k-resolution creature with the physical attributes of a porcupine is perched atop a simple, yet elegant cube constructed from light-colored, wooden, hand-hewn blocks",0.7099195718765259,0.5897161960601807,39.32081815822547,0.663177
+3,"A highly detailed, 4k-resolution, digital painting of a porcupine creature is perched atop a minimalist, stylish cube with a light, wooden, wood-grain texture.",0.7511367797851562,0.4936770498752594,38.87505040103598,0.842213
+4,highly realistic,0.43659576773643494,0.641472578048706,43.14424196922158,0.132851
+4,detailed digital art of a porcupine sitting on a minimalist wooden cube,0.770606279373169,0.4830707609653473,41.08532170110967,0.847781
+4,"stylized, photorealistic 4k painting of a porcupine on a smooth, wooden pedestal",0.6473747491836548,0.6013000011444092,48.135225164795706,0.413742
+4,"a highly detailed, 4k-resolution digital painting of a porcupine creature posed atop a sleek, geometric cube",0.64113450050354,0.6869500875473022,47.99021869652193,0.308531
+4,"ultra-realistic, high-definition digital art of a porcupine perched on a stylish, wooden accent cube",0.7060797810554504,0.5253549218177795,41.288613050908396,0.699414
+5,A highly detailed digital art of a porcupine sitting on a minimalist wooden cube in a soft warm golden light,0.7166767120361328,0.5067841410636902,39.79144966638856,0.760780
+5,A highly detailed realistic digital art of a porcupine sitting on a plain wooden cube,0.6563231945037842,0.5262184739112854,37.43792185082526,0.686204
+5,A vibrant highly detailed illustration of a porcupine perched on a minimalist wooden cube,0.7331997156143188,0.46893221139907837,40.06054251765233,0.824568
+5,A realistic highly detailed digital painting of a porcupine sitting on a minimalist wooden cube with intricate texture,0.7342472076416016,0.5219467878341675,41.73589706210855,0.738255
+5,A highly detailed photorealistic digital art of a porcupine sitting on a minimalist plain wooden cube with soft subtle shadows,0.7033818960189819,0.529638946056366,35.1541118257326,0.789655

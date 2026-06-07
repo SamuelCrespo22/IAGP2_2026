@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"A fierce warrior stands at the center, wielding elemental powers with flames and energy swirling around him. He has short blonde hair and wears a futuristic armored suit.",0.817151665687561,0.6142727732658386,55.02259378514904,0.699353
+1,"A fierce, muscular warrior stands at the center, wielding elemental powers with intense flames and energy swirling around him",0.6607010364532471,0.6814872026443481,57.33738901643346,0.048876
+1,"A powerful, blonde-haired warrior stands at the center, with futuristic armor glowing in a halo of energy",0.7453591823577881,0.6041022539138794,41.68482898155947,0.672313
+1,"A rugged, blonde-haired warrior stands at the center, surrounded by a swirl of fiery elemental energy and highly detailed futuristic technology",0.7660804986953735,0.6899296045303345,52.15847811011362,0.442409
+1,"A muscular, blonde-haired warrior stands in a dramatic, cinematic pose at the center, wielding elemental powers with flames and energy swirling around him in a 4k digital painting",0.7269675135612488,0.703676164150238,55.78167359086107,0.243067
+1,"A bold, blonde-haired warrior stands at the center, with glowing futuristic armor and a fiery elemental aura, highly detailed and reminiscent of a digital art masterpiece",0.7715216875076294,0.6494890451431274,45.67244482804505,0.620781
+2,"Highly detailed, blonde-haired warrior stands confidently at the center, with futuristic armor glowing in a halo of bright energy",0.7661077976226807,0.6144667267799377,40.67310559519814,0.734350
+2,"A blonde-haired, mighty warrior emerges from a swirling vortex, surrounded by a halo of energy emanating from his advanced armor",0.8088423013687134,0.638407826423645,56.71804760499076,0.606810
+2,"Powerfully built, blonde-haired warrior stands in a heroic pose, encircled by a radiant halo of energy surrounding his high-tech armor",0.7685104012489319,0.6249120235443115,45.46978613629474,0.657276
+2,"Highly realistic, blonde-haired warrior stands firmly at the center, with advanced, glowing armor in the midst of a swirling energy field",0.7747550010681152,0.5930589437484741,45.00261096679466,0.739833
+2,"A striking, blonde-haired warrior stands proudly at the center, bathed in a bright, pulsating aura emanating from his cutting-edge, digital armor",0.781899094581604,0.6037408709526062,44.73635521738277,0.747522
+3,"A striking, high-definition, blonde-haired warrior stands proudly at the center",0.7431766986846924,0.5820795893669128,40.989693405001425,0.713766
+3,"A blonde-haired, highly detailed warrior stands confidently with pulsating digital armor",0.7559826970100403,0.638449490070343,47.30540704520307,0.567991
+3,"In the heart of a futuristic battlefield, a blonde-haired warrior stands boldly in a brilliant, radiant aura",0.7636362910270691,0.5673695802688599,41.287255742852615,0.800962
+3,"A 4k, highly detailed depiction of a blonde-haired, muscular warrior stands powerfully with his state-of-the-art digital armor",0.6827178001403809,0.6696762442588806,48.723786374750375,0.259191
+3,"A highly realistic, blonde-haired warrior stands resolutely amidst a brilliant, glowing aura surrounded by sleek, cutting-edge digital armor",0.7625401020050049,0.6206036806106567,50.56521277408288,0.575313
+4,"Vibrant, blonde-haired warrior stands fearlessly in the center of a high-resolution, photorealistic futuristic battlefield",0.7786771059036255,0.6107443571090698,41.54739170721004,0.768988
+4,"In a striking, golden light, a blonde-haired warrior stands confidently at the edge of a detailed, sci-fi battlefield",0.6824284791946411,0.7092192769050598,52.21671836112611,0.140263
+4,"Highly detailed, blonde-haired warrior stands valiantly in the midst of a breathtaking, radiant aura on a 4K rendered futuristic battlefield",0.7699017524719238,0.6056398749351501,45.196213658226675,0.699472
+4,"In the foreground of a highly detailed, 8K futuristic battlefield, a fierce, blonde-haired warrior stands heroically with a brilliant, radiant aura",0.7801955938339233,0.5862141847610474,40.97493293947571,0.824992
+4,"In a dynamic, high-contrast, oil painting style, a blonde-haired warrior stands triumphantly in a brilliant, radiant aura on a detailed, futuristic battlefield",0.7918034791946411,0.6196034550666809,43.076749185801916,0.774172
+5,"In the center of a vibrant, high-resolution, 4K digital artwork, a strong, blonde-haired warrior emerges heroically with a brilliant, radiant aura",0.7575055360794067,0.6297900676727295,55.02878415884541,0.481296
+5,"Amidst the ruins of a dystopian, futuristic city, a fearless, blonde-haired warrior stands resolutely with an intense, golden aura",0.6752234697341919,0.6985763311386108,55.03461322226763,0.097020
+5,"In a masterpiece of a highly detailed, 8K digital painting, a fierce, blonde-haired warrior stands heroically with a brilliant, shimmering aura",0.7639058232307434,0.623781144618988,44.03104164923154,0.664453
+5,"A blonde-haired warrior rises heroically from the midst of a chaotic, high-resolution, 4K battlefield with a brilliant, radiant aura",0.7589796185493469,0.6307153701782227,39.26225667130035,0.702446
+5,"On a dramatic, high-resolution, 8K canvas, a fearless, blonde-haired warrior stands heroically with a brilliant, swirling aura",0.6835017204284668,0.6357583999633789,46.12359266576005,0.357438

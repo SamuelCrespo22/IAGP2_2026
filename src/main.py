@@ -23,15 +23,15 @@ NUM_RUNS = 15           # Requirement: repetitions of the cycle per image
 # ---------------------------------------------------------
 EXPERIMENTS = [
     {
-        "name": "Experiment 4",
-        "output_dir_name": "outputs_15_runs_combined_score_4",
+        "name": "Experiment 5: Nano Banana",
+        "output_dir_name": "outputs_15_runs_combined_score_5",
         "prompts": {
-            "1159_7.png": "photorealistic hedgehog with golden spiky fur curled on top of a geometric stacked cube, soft beige studio lighting, surreal 3D render",
-            "7836.png": "lone astronaut in white spacesuit on alien planet surface, massive ringed planet looming overhead, blue nebula and stars, cinematic sci-fi scene",
-            "1159_25.png": "glass of fresh orange juice with orange slice garnish and ice, sliced oranges scattered around, warm dramatic food photography lighting",
-            "1159_29.png": "lone palm tree standing in shallow turquoise ocean waves, golden sunset on horizon, distant mountains, serene tropical digital art",
-            "1159_3.png": "blonde male spiky-haired anime warrior in silver armor, glowing golden energy whip, teal and orange fire auras, dark dramatic background, semi-realistic fantasy art",
-            "9338.png": "cute hamster-dragon hybrid with colorful dragon scales and small horns, curled tail, vibrant rainbow flame background, impressionistic digital painting"
+            "1159_7.png": "A stylized, furry creature resembling a porcupine is perched atop a cube made of light-colored, textured blocks. The scene is set against a soft, neutral background.",
+            "7836.png": "An astronaut stands on a barren planet, gazing at a distant celestial body surrounded by a star-filled cosmos.",
+            "1159_25.png": "A refreshing glass of orange juice garnished with orange slices and peels, surrounded by scattered orange pieces on a neutral background.",
+            "1159_29.png": "A solitary palm tree stands on a rocky base in the ocean, with gentle waves lapping at its roots as the sun sets on the horizon.",
+            "1159_3.png": "A fierce warrior stands at the center, wielding elemental powers with flames and energy swirling around him. He has short blonde hair and wears a futuristic armored suit.",
+            "9338.png": "A colorful, fantastical creature resembling a small mammal with vibrant, textured fur stands upright against a dynamic, swirling background."
         }
     }
 ]
