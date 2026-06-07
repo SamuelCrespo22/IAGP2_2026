@@ -1,4 +1,4 @@
-=== INITIAL PROMPTS FOR: Experiment 3: Highly Optimized Structural Prompts ===
+=== INITIAL PROMPTS FOR: Experiment 3 (Gemini) ===
 
 1159_7.png:
 a spiky golden-brown hedgehog resting on a precise cube of stacked wafer blocks, soft studio lighting, high-detail digital rendering
