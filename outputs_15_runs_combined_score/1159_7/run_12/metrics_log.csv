@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.515421
+1,highly detailed rendering of a small adorable hedgehog sitting on a rich moist chocolate cake,0.6105343103408813,0.6772907376289368,53.98108847428814,0.434405
+1,a detailed realistic image of a tiny hedgehog perched on a block of vanilla cake,0.6543295383453369,0.6761713027954102,56.49278644835558,0.520549
+1,a small plump hedgehog sits delicately on the top of a decadent chocolate cake,0.603560209274292,0.6134549379348755,39.7485535982942,0.631359
+1,a sweet hedgehog sits on a large block of layered cake with creamy frosting,0.5615499019622803,0.7422121167182922,64.67090605028285,0.131114
+1,highly realistic still-life photograph of a tiny hedgehog sitting on a slice of moist red velvet cake,0.5677505731582642,0.636951744556427,44.72777314945297,0.465005
+2,"'a diminutive hedgehog sits gracefully on the peak of a rich, velvety chocolate cake'",0.6117541193962097,0.6023033857345581,44.354955042373575,0.618275
+2,"'a tiny plump hedgehog delicately balances on top of an intricately designed, 4k chocolate masterpiece'",0.6595550775527954,0.5755773782730103,48.66680123761992,0.725197
+2,"'a small hedgehog sits perched on the summit of a decadent, highly detailed, golden-brown chocolate cake'",0.5093871355056763,0.5795624852180481,45.25261330829932,0.377512
+2,"'a plump hedgehog sits demurely on the apex of a sumptuous, multi-layered chocolate cake'",0.5311695337295532,0.5817740559577942,43.96611481022099,0.442684
+2,"'a small, adorable hedgehog sits serenely on the crest of a moist, decadent, highly realistic chocolate cake'",0.5989634990692139,0.6032958030700684,48.94367395709372,0.538980
+3,a tiny plump hedgehog stands delicately on top of an intricately designed 4k chocolate sculpture,0.6581060886383057,0.5951040387153625,42.19350088466798,0.764553
+3,"a plump hedgehog perches with delicate balance on a highly detailed, handcrafted 4k chocolate cake",0.6188949942588806,0.5939607620239258,47.964044078641805,0.609393
+3,"a sweet plump hedgehog balances with precision on a richly detailed, intricately designed 4k chocolate dessert",0.5626879334449768,0.6070408821105957,47.101795603079594,0.462068
+3,"a small plump hedgehog rests with quiet poise on a stunning 4k, artisanal chocolate work of art",0.6211197972297668,0.5316055417060852,42.36064525132685,0.741245
+3,"a delicate plump hedgehog stands with balance on a mouthwatering 4k, highly detailed chocolate masterpiece",0.650765061378479,0.5238951444625854,41.69449599605465,0.831104
+4,"a delicate rounded hedgehog balances on a mouthwatering realistic 4k, highly detailed, digital art chocolate sculpture",0.667573094367981,0.5297926664352417,45.881279169453954,0.824729
+4,"a plump, pink hedgehog stands with perfect balance on a decadent, high-resolution, 4k chocolate masterpiece",0.6075445413589478,0.5196779370307922,40.10842697964305,0.743115
+4,"a chubby, little hedgehog balances with ease on a rich, highly detailed, edible 8k chocolate wonder",0.6776502728462219,0.5587621927261353,40.55200691432608,0.870972
+4,"a chubby hedgehog stands proudly on a magnificent, realistic, 4k chocolate artwork created by a master digital artist",0.6292750835418701,0.5542112588882446,46.59255096828118,0.693897
+4,"a delicate, pink hedgehog balances with skill on a delicious, highly detailed, 4k, photorealistic chocolate masterpiece",0.7070561051368713,0.5953171253204346,52.05168965488322,0.788464
+5,"'highly detailed, glossy 8k edible chocolate sculpture with delicate hedgie perched on it'",0.7083081007003784,0.5698396563529968,47.08328074824605,0.870071
+5,'a chubby little grey hedgehog on a rich vibrant edible chocolate wonder in high definition',0.6428743004798889,0.6388185024261475,47.552668803727386,0.623399
+5,'chubby little spiky hedgie balances with ease on a delicious highly detailed edible 4k chocolate cake',0.623604416847229,0.6040277481079102,43.183763349636386,0.657872
+5,'a whimsical edible 8k chocolate creation with intricate details and a chubby happy hedgehog sitting on it',0.5613933801651001,0.5652679800987244,45.17151615498721,0.525105
+5,'chubby adorable little hedgehog on an opulent highly detailed edible 8k masterpiece chocolate wonderland landscape',0.6256253719329834,0.5847249627113342,40.985344608185606,0.706690

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.713934
+1,"a small, adorable hedgehog is sitting on top of a block of moist vanilla cake",0.5184829235076904,0.7196403741836548,65.377285685799,0.250951
+1,"a tiny, spiky hedgehog sits atop a large, fluffy piece of sponge cake",0.6327295303344727,0.684512197971344,53.72550691497253,0.703270
+1,"in highly detailed digital art, a small hedgehog is perched on top of a rich, velvety chocolate cake",0.5917785167694092,0.6241966485977173,48.4450399574129,0.692095
+1,"there is a tiny hedgehog delicately balancing on a large, tiered wedding cake",0.4858429431915283,0.7715243697166443,65.80976655317825,0.091577
+1,"a small, cartoon-style hedgehog is happily sitting on top of a block of decadent, creamy cheesecake",0.6106054782867432,0.7010576128959656,61.21708172684768,0.568551
+2,"there is a small, adorable hedgehog sitting on top of a moist, white block of vanilla cake",0.592319905757904,0.7843236327171326,77.05814162082054,0.308890
+2,"highly detailed, photorealistic image of a tiny hedgehog resting on a block of multi-layered cake",0.62493896484375,0.6433740854263306,54.16172114300533,0.726670
+2,"an artistically perfect, 4k rendering of a hedgehog sitting regally on top of a large, decorative cake",0.5622246265411377,0.6863735318183899,47.07178355503483,0.541680
+2,"a beautiful, dreamlike scene of a small hedgehog perched delicately on a large slice of cake",0.6114668250083923,0.6978339552879333,51.91053622840496,0.638051
+2,"a highly realistic, realistic image of a small, cute hedgehog sitting majestically on top of a large, intricately decorated cake",0.610581636428833,0.6316481828689575,51.65605967488037,0.715981
+3,highly detailed photorealistic image of a small hedgehog resting on a tiered multi-layered cake,0.5697124004364014,0.6476799249649048,40.2237497277351,0.655932
+3,"highly detailed, hyper-realistic, 4k image of a tiny hedgehog sitting on a multi-layered cake",0.6275049448013306,0.6676955819129944,54.349078548704426,0.703896
+3,"highly intricate, detailed, photorealistic image of a tiny spiky hedgehog reclining on a multi-tiered dessert cake",0.5204166173934937,0.6697185039520264,53.636710889811475,0.395660
+3,"4k photorealistic digital painting of a miniature spiky hedgehog perched on a multi-layered, intricately designed birthday cake",0.658197283744812,0.5742663145065308,45.428257704911395,0.964676
+3,"extremely detailed, highly realistic, 8k image of a tiny spiky, brown hedgehog curled up on a large multi-layered cake with colorful frosting and decorations",0.5987893342971802,0.6178259253501892,52.70666196214551,0.691092
+4,"4k highly detailed photorealistic digital painting of a miniature, brown spiky hedgehog perched on a multi-layered, intricately designed, colorful birthday cake",0.6333192586898804,0.5853995680809021,51.16225280942254,0.840337
+4,"a photorealistic digital painting of a small, adorable spiky hedgehog sitting on top of a large, multi-tiered birthday cake with delicate frosting details",0.5785970091819763,0.6948162317276001,51.43398898944225,0.549522
+4,"vibrant, 4k highly detailed digital painting of a spiky hedgehog resting on a multi-level birthday cake with intricate cake design and delicate, piped frosting patterns",0.6138092279434204,0.6545774340629578,48.72967165741062,0.717917
+4,"a miniature, highly detailed spiky hedgehog perched on top of a multi-tiered birthday cake with rich, mocha-colored frosting and delicate decorations",0.5971986055374146,0.632330596446991,51.222990869219494,0.679284
+4,"4k photorealistic, hyper-realistic digital painting of a small, adorable spiky hedgehog sitting on a multi-layered, intricately designed birthday cake with delicate, hand-piped frosting and colorful sprinkles",0.6418468356132507,0.6983144879341125,58.63370118032112,0.679980
+5,"4k highly detailed photorealistic digital painting of a miniature spiky hedgehog perched on a multi-tiered, intricately designed birthday cake with frosting and candles",0.517941951751709,0.6013436913490295,45.353924350872916,0.526074
+5,"4k highly realistic miniature spiky hedgehog sitting on a richly detailed multi-layered, colorful birthday cake with smoke and confetti",0.6183748245239258,0.6896493434906006,52.36783608789369,0.664728
+5,"4k masterpiece digital painting of a cute and endearing miniature spiky hedgehog delicately perched on a tall, multi-layered, intricately decorated birthday cake with a single burning candle",0.5592846274375916,0.6377698183059692,47.88534226724214,0.585475
+5,"photorealistic digital painting of a miniature spiky hedgehog standing on the edge of a large, multi-tiered, exquisitely designed birthday cake with colorful balloons and gifts",0.6002410650253296,0.7007415294647217,57.69898339525663,0.562738
+5,"highly detailed 4k digital painting of a miniature spiky hedgehog resting on a sumptuously decorated, multi-layered birthday cake with fresh flowers, candles, and a delicate birthday hat",0.5276180505752563,0.6777483820915222,45.617747679069716,0.461420

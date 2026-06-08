@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"An astronaut stands on a barren planet, gazing at a distant celestial body surrounded by a star-filled cosmos.",0.8442608118057251,0.49044620990753174,24.975640383248418,0.818175
+1,"An astronaut stands on a rugged, barren planet, gazing at a distant celestial body surrounded by a rich star-filled cosmos",0.9000582695007324,0.5143019556999207,24.068533028336812,0.964897
+1,"An astronaut in a futuristic spacesuit stands on a desolate, barren planet, gazing at a majestic, distant celestial body",0.85594642162323,0.5617704391479492,31.762143255617328,0.663394
+1,"An astronaut with a spacesuit stands on a vast, barren alien world, admiring a breathtaking, distant star",0.8044949173927307,0.48487746715545654,33.85003132295122,0.574506
+1,"Highly detailed astronaut on a barren, rocky planet, gazing up at a massive celestial body amidst a star-filled galaxy",0.8082927465438843,0.5201140642166138,30.299489369208757,0.597592
+1,"An astronaut in motion, standing on a barren, icy planet, gazing at a stunning, distant star formation",0.8109395503997803,0.5038855075836182,29.92051334379692,0.630385
+2,"An astronaut stands on a rugged, barren, rocky terrain, gazing at a distant celestial body surrounded by a rich star-filled cosmos",0.8551680445671082,0.6019883155822754,30.47488422603033,0.632793
+2,"An astronaut in a spacesuit stands on a barren, cratered planet, gazing up at a bright, shining celestial body amidst a vibrant, star-filled galaxy",0.808057963848114,0.5616713762283325,35.63913243931477,0.465915
+2,"A highly detailed, 4k astronaut stands on a rugged, barren, rocky landscape, gazing at a distant, glowing celestial body set against a deep, star-filled cosmos",0.8305544853210449,0.6493459939956665,36.63768595572588,0.411148
+2,"An astronaut in a sleek spacesuit stands on a barren, dusty planet, gazing up at a massive, swirling celestial body amidst a beautiful, star-filled universe",0.8029806613922119,0.5483560562133789,40.463570682382496,0.393552
+2,"A digital painting masterpiece of an astronaut stands on a rugged, barren, rocky terrain, gazing at a distant, radiant celestial body surrounded by a stunning, star-filled cosmos",0.8455706834793091,0.6722528338432312,39.17031497061159,0.388624
+3,"An astronaut stands on a rugged, desolate planet, gazing up at a nearby celestial body surrounded by a vibrant star-filled cosmos",0.817617654800415,0.5861237645149231,32.303183788799764,0.515256
+3,"An astronaut stands on a barren, rocky landscape, looking out at a distant, luminous celestial body against a deep, inky black background",0.897430419921875,0.5238022804260254,26.467124320898353,0.909390
+3,"A lone astronaut stands on the barren, rocky surface of a distant planet, gazing out at a nearby, highly detailed celestial body surrounded by a rich, star-filled background",0.8512499332427979,0.5284783244132996,25.099514540657665,0.791125
+3,"An astronaut in a rugged, spacesuit stands on a barren, barren landscape, gazing up at a nearby, majestic celestial body against a deep, star-filled sky",0.8133311867713928,0.6255657076835632,35.728206343576616,0.403581
+3,"A highly detailed, astronaut stands on a rugged, lunar-like planet, gazing at a close-up view of a distant, luminous celestial body surrounded by a rich, star-filled cosmos",0.8138513565063477,0.5170999765396118,30.525474920433577,0.613816
+4,"A distant astronaut stands on a rocky, desolate planet, gazing at a close celestial body surrounded by a vibrant star-filled universe",0.8622982501983643,0.5661325454711914,25.187783740920302,0.776807
+4,"The solitary astronaut stands at the edge of a barren landscape, staring at a nearby celestial object amidst a tapestry of twinkling stars",0.8026857376098633,0.6192009449005127,29.71979129472109,0.472010
+4,"A lone astronaut walks on a barren, rocky planet, looking at a faint celestial body amidst a vast, star-filled cosmos",0.8765442967414856,0.5381824374198914,25.24033766475705,0.850545
+4,"A ruggedly-clad astronaut stands on a dusty, barren planet, gazing at a nearby celestial body surrounded by a brilliant starry expanse",0.7271496653556824,0.6944372653961182,34.740543069693594,0.087268
+4,"A spaceman stands on a barren, rocky planet, gazing up at a close celestial body against a rich, star-filled night sky",0.8052846193313599,0.6273194551467896,32.68099148552283,0.424686
+5,"An astronaut stands on a desolate, rocky planet, gazing at a dim distant celestial body surrounded by a densely star-filled cosmos",0.8703500032424927,0.5002680420875549,27.882061089165727,0.837581
+5,"An astronaut stands on a barren, rugged terrain, gazing at a large celestial body against a vibrant, star-filled background",0.8519474864006042,0.5319223999977112,27.169053194551214,0.757476
+5,"A lone astronaut stands on a rugged, barren planet, gazing at a stunning celestial body amidst a rich, highly detailed star-filled cosmos",0.8125125169754028,0.5510249137878418,25.13082144068948,0.651733
+5,"An astronaut surveys a barren, rocky landscape, gazed in awe at a distant celestial body surrounded by a star-filled canvas",0.8335816264152527,0.5892724394798279,29.292030482944156,0.603578
+5,"A lone astronaut stands on a rugged, barren planet, admiring a massive celestial body within a breathtaking, 4k, digitally painted star-filled environment",0.896882951259613,0.55104660987854,28.33491532640184,0.846824

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.765045
+1,"astronaut standing on the surface of a distant planet with a bright, colorful light shining in the background",0.8484165072441101,0.5432324409484863,33.88793797505122,0.717803
+1,"highly detailed astronaut standing on the surface of a barren alien world with a vibrant, glowing star behind",0.7833648920059204,0.5186505317687988,35.55291260857004,0.521751
+1,"astronaut walking on the surface of a mysterious, uncharted planet with a soft, ethereal light",0.8273589611053467,0.6714242696762085,56.065617441627865,0.414370
+1,"astronaut standing on the edge of a vast, cratered landscape on a desolate, otherworldly moon with a bright, shining planet in the background",0.8241682052612305,0.5914192795753479,37.603376947237194,0.582046
+1,"highly realistic astronaut standing on the surface of a rugged, rocky planet with a warm, golden light shining in the distance",0.783665657043457,0.7820829153060913,62.28423552995746,0.154945
+2,astronaut standing on the surface of a distant planet,0.9009491205215454,0.49128514528274536,29.70861042993837,0.947961
+2,astronaut standing on a planet's surface illuminated by a vibrant sun,0.8664188385009766,0.5600366592407227,35.77942624713968,0.749564
+2,highly detailed astronaut standing on a rocky planet surface with a blazing star in the background,0.7966265678405762,0.6337703466415405,37.43916013604642,0.465088
+2,astronaut wearing a reflective suit standing near ruins on a planet's surface with a bright sun shining down,0.7413785457611084,0.7386366724967957,57.22951802940224,0.087214
+2,astronaut silhouette standing on a planet's surface at sunset with a 4k quality landscape and rich colors,0.8781486749649048,0.6787754893302917,55.35420269100134,0.572549
+3,astronaut standing on a barren distant exoplanet surface,0.884189248085022,0.4771656394004822,26.521668761850243,0.926347
+3,astronaut in a spacesuit standing on a remote alien world,0.7893462181091309,0.5420932173728943,40.94985425370527,0.488513
+3,highly detailed astronaut standing at the edge of a desolate planetary terrain,0.7907242178916931,0.658775806427002,40.840835075955845,0.406173
+3,astronaut exploring a rugged distant planet surface,0.8072417974472046,0.6699262857437134,40.76456768475127,0.450068
+3,digitally painted astronaut in a bright blue spacesuit on the surface of a mysterious distant world,0.7737513184547424,0.6543421745300293,49.74157411755557,0.299527
+4,astronaut standing in the foreground of a close-up of a distant planet's surface,0.7900444865226746,0.5613329410552979,39.87537772454715,0.483152
+4,astronaut in a spacesuit exploring a barren alien landscape,0.7759100794792175,0.6453444361686707,44.2004797971936,0.348377
+4,astronaut standing on the surface of a distant alien world with a spaceship in the background,0.8285305500030518,0.4541609287261963,29.600602464778486,0.749526
+4,highly detailed astronaut standing on the surface of a remote rocky planet,0.7782649397850037,0.6466444730758667,39.34323863938685,0.385768
+4,"4k digital painting of a lone astronaut standing on the surface of a distant, desolate planet",0.8513448238372803,0.7041082382202148,53.76750561224606,0.479719
+5,astronaut standing on the surface of a barren distant alien world,0.8718267679214478,0.45776546001434326,25.90792177978478,0.906049
+5,highly detailed astronaut standing on the surface of a rugged distant planet,0.7575088739395142,0.6557381749153137,37.36682324489638,0.326532
+5,"astronaut standing on a rocky, dusty surface of a far-off planet",0.7479321360588074,0.7880972623825073,65.09634232062601,0.020535
+5,astronaut standing on the alien terrain of a mysterious distant world,0.8622946739196777,0.598812460899353,35.08320360318299,0.712054
+5,"4k digital painting of an astronaut standing on a barren surface of a distant, otherworldly planet",0.850102961063385,0.6119257807731628,36.483107375224634,0.655104

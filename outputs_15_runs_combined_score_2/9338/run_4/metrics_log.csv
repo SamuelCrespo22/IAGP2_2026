@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.604207
+1,"painting of a mouse with vibrant, iridescent scales and a radiant, neon-lit background",0.7915552258491516,0.7156044840812683,45.964644502035426,0.825519
+1,"highly detailed digital painting of a mouse with rainbow-colored scales and a glowing, ethereal background",0.7336618900299072,0.7053371667861938,43.12857023521688,0.748586
+1,"masterpiece portrait of a mouse with shimmering, holographic scales and a colorful, aurora-inspired backdrop",0.6614391803741455,0.9297177791595459,48.54354615800056,0.343651
+1,"4k rendering of a mouse with glittering, crystalline scales and a kaleidoscopic, psychedelic background",0.7368903160095215,0.8181228041648865,44.73317259576291,0.633396
+1,"realistic oil painting of a mouse with colorful, scaly armor and a softly glowing, dreamy atmosphere",0.7003365755081177,0.7045974731445312,40.65663377582499,0.707464
+2,"painting of a mouse with luminescent, iridescent scales and a vibrant, neon-lit background",0.6994686126708984,0.7755969762802124,52.62434426130106,0.524411
+2,"highly detailed digital painting of a mouse with radiant, shimmering scales and a radiant, neon-lit background",0.7811480760574341,0.7294301390647888,47.60658864269645,0.776348
+2,"realistic painting of a mouse with iridescent, pearlescent scales and a neon-lit, electric blue atmosphere",0.7198572158813477,0.8107612729072571,66.39050294979215,0.399647
+2,"a stunning 4k digital painting of a mouse with vibrant, shimmering scales and a neon-lit, futuristic cityscape background",0.573433518409729,0.7484216094017029,46.24358313477014,0.363442
+2,"highly realistic illustration of a mouse with luminous, iridescent scales and a radiant, neon-lit aura surrounding its body",0.7463793754577637,0.8063271045684814,57.833337554784904,0.537800
+3,"painting of a mouse with luminous, iridescent scales and a brilliant, neon-lit background",0.7294695377349854,0.7992003560066223,55.08653686769958,0.537571
+3,"highly detailed, realistic painting of a mouse with shimmering, iridescent scales and a radiant, electric blue background",0.7654825448989868,0.78581303358078,52.841715910161575,0.642402
+3,"vibrant, digital painting of a mouse with an otherworldly glow, iridescent scales, and a neon-lit atmosphere",0.7586520910263062,0.739936888217926,52.64080316065063,0.674095
+3,"masterpiece, oil painting of a mouse with iridescent, scaly skin and a mesmerizing, neon-lit environment",0.7482059001922607,0.751204252243042,46.90146334769988,0.697879
+3,"highly realistic, 8k, digital image of a mouse with vibrant, iridescent scales and a glowing, neon-lit background.",0.7028170824050903,0.8117247223854065,52.91864719639442,0.494162
+4,"painting of a mouse in a vibrant, iridescent scales and radiant, neon-lit environment",0.709851861000061,0.6641642451286316,40.26160084884359,0.768002
+4,"highly detailed digital painting of a mouse with iridescent scales and a radiant, neon-lit background",0.7597411870956421,0.8099239468574524,48.002660136038244,0.654724
+4,"detailed, 4k digital portrait of a mouse with iridescent, shimmering scales and a neon-lit, ethereal background",0.7392392754554749,0.761062741279602,44.9279406947994,0.689865
+4,"realistic, digital painting of a mouse with iridescent, rainbow-colored scales and a glowing, neon-lit atmosphere",0.8279436230659485,0.7229538559913635,51.46415078333803,0.837468
+4,"stunning, highly detailed digital artwork of a mouse with iridescent, luminous scales and a neon, glowing, radiant background",0.7355972528457642,0.7997817993164062,55.31957367427995,0.546832
+5,"realistic, highly detailed digital painting of a mouse with iridescent, multi-hued, rainbow-colored scales and a radiant, neon-lit atmosphere",0.8247122764587402,0.6999436616897583,46.8701791502485,0.896737
+5,"a photorealistic mouse with glowing iridescent scales in a vibrant, neon-lit scene",0.5837314128875732,0.7707314491271973,56.744064476252035,0.262202
+5,"a mouse with iridescent, holographic scales in a fantastical, dreamlike digital painting",0.7478456497192383,0.8197681307792664,53.91104219276221,0.565556
+5,"realistic, stunning digital artwork of a mouse in dazzling iridescent colors with an electrifying neon-lit environment",0.6976419687271118,0.7332387566566467,52.43203773587355,0.562540
+5,"a photorealistic, ultra-detailed digital painting of a mouse with iridescent, shimmering scales and an ethereal, glowing aura",0.7024174332618713,0.758872926235199,45.65156675555276,0.612664

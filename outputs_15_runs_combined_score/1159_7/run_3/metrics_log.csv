@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.616371
+1,small highly detailed hedgehog sitting on top of a single tier vanilla cake,0.6028749942779541,0.7061201333999634,60.73695443937913,0.353475
+1,there is a small realistic hedgehog sitting on top of a block of moist red velvet cake,0.6399767398834229,0.6897107362747192,49.869276649819255,0.672009
+1,a close-up shot of a small adorable hedgehog sitting on a square block of lemon cake,0.6228703260421753,0.6857547163963318,58.89603910562775,0.485602
+1,highly detailed digital painting of a small hedgehog sitting on top of a large block of chocolate cake,0.6399551630020142,0.6245216131210327,42.57498180612765,0.861379
+1,a cute realistic hedgehog sitting on a small stack of sponge cake with colorful sprinkles and candles,0.5791484117507935,0.6639419198036194,57.275353343494146,0.365038
+2,highly detailed hyper-realistic digital painting of a small hedgehog sitting on top of a perfectly frosted large block of chocolate cake,0.6062037348747253,0.6670935153961182,46.72735051271797,0.612775
+2,highly detailed digital painting of a tiny hedgehog perched on a mountain of mocha chocolate cake,0.6065076589584351,0.5422951579093933,47.843851224611015,0.769082
+2,photorealistic 4k digital artwork of a hedgehog enjoying a slice of rich chocolate cake,0.6027902364730835,0.6197828650474548,45.11845870749026,0.686067
+2,highly detailed digital oil painting of a small spiky hedgehog sitting on top of a decadent mocha chocolate cake,0.6353967189788818,0.6318362355232239,54.1377540879601,0.674223
+2,highly detailed realistic digital painting of a little hedgehog savoring a bite of moist chocolate cake with chocolate ganache frosting,0.6398649215698242,0.5950750112533569,47.598411271871164,0.832099
+3,highly detailed realistic digital painting of a small grey hedgehog sitting on top of a large slice of moist chocolate cake,0.6246365308761597,0.564757227897644,44.91340228698137,0.850332
+3,highly detailed stylized digital artwork of a small hedgehog sitting on top of a decadent multi-layered chocolate cake,0.5803126096725464,0.6205081343650818,48.990820344179745,0.543003
+3,highly detailed photorealistic digital painting of a tiny brown hedgehog perched on top of a large rich chocolate cake,0.6242809295654297,0.5749629735946655,47.96676776926288,0.792957
+3,a highly detailed highly realistic digital artwork of a small adorable hedgehog sitting on top of a large fluffy chocolate ice cream cake,0.6338326930999756,0.7051055431365967,58.21400354017145,0.511850
+3,highly detailed detailed digital painting of a small cute hedgehog sitting on top of a large square block of golden brown chocolate cake,0.6205089092254639,0.5231049060821533,44.49078716996487,0.896745
+4,highly detailed realistic digital painting of a small spiky hedgehog sitting on top of a large block of rich moist chocolate cake,0.6350580453872681,0.6192375421524048,48.545028233953595,0.767079
+4,highly detailed 4k masterpiece digital oil painting of a cute little hedgehog sitting on a large round block of decadent chocolate cake,0.6142256855964661,0.632053554058075,50.437859912575426,0.641245
+4,photo-realistic digital art of a tiny hedgehog perched atop a massive towering block of creamy chocolate cake,0.6271071434020996,0.5950751304626465,46.36569472999947,0.798684
+4,detailed still-life digital painting of a small hedgehog sitting proudly on top of a large round pedestal of moist mocha chocolate cake,0.5133708715438843,0.6584572196006775,47.78530985483167,0.243388
+4,highly realistic digital painting in the style of Claude Monet of a small hedgehog sitting on top of a large block of golden brown chocolate cake,0.5954881906509399,0.5813645720481873,43.365914940449755,0.733833
+5,highly detailed realistic digital painting of a small endangered hedgehog sitting on top of a rich decadent chocolate cake,0.6108314394950867,0.6894429326057434,51.16954204199195,0.539374
+5,highly detailed 4k digital painting of a small spiky hedgehog perched on a towering block of moist chocolate cake,0.6331284642219543,0.6387073993682861,53.74696555759839,0.661258
+5,highly detailed digital portrait of a small adorable hedgehog sitting on a large slice of creamy chocolate cake,0.6144802570343018,0.636264443397522,51.09357287676181,0.627472
+5,highly detailed oil painting style digital art of a small fierce hedgehog balancing on a massive block of chocolate cake,0.6395298838615417,0.6174374222755432,49.888927611685496,0.768700
+5,highly detailed photorealistic digital painting of a small cute hedgehog sitting on top of a gigantic layered chocolate cake,0.628516435623169,0.5911287665367126,47.33820908914695,0.796253

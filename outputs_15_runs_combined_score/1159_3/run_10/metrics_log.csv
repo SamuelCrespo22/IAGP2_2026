@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.528095
+1,anime character with a majestic sword and flames in his hand highly detailed,0.8407769203186035,0.6130361557006836,52.22322474029183,0.821959
+1,anime character holding a gleaming sword with fire ablaze in the background,0.8128897547721863,0.6466604471206665,57.62658758850493,0.512515
+1,highly realistic digital painting of an anime warrior holding a fiery sword and shield,0.7784841060638428,0.6497588753700256,50.61191531306716,0.356531
+1,detailed illustration of a heroic anime swordsman with fire and a sharp sword in his grasp,0.7827816009521484,0.5584022998809814,47.629576093758864,0.564571
+1,"anime warrior standing confidently with a powerful sword and fiery explosion in the background, 4k quality",0.8008820414543152,0.6681097745895386,53.09353634392538,0.451634
+2,anime character with an epic majestic sword and flames dancing in his hand highly detailed,0.8207446932792664,0.6307464838027954,53.84612500383647,0.637116
+2,anime character with a powerful sword in hand surrounded by majestic flames highly detailed digital painting,0.7896022796630859,0.693012535572052,55.612003586440046,0.304820
+2,a highly detailed anime character wielding a stunning magical sword with intense flames highly detailed,0.8219202756881714,0.6131153702735901,48.73900575479711,0.734621
+2,an anime character with a majestic flame-covered sword in hand highly detailed 4k texture,0.8145335912704468,0.6199983358383179,55.92908565885422,0.585941
+2,anime character in epic pose holding an ancient mystical sword surrounded by magical flames highly detailed masterpiece,0.7862871885299683,0.6310588717460632,48.86386332165198,0.460459
+3,anime character with a majestic katana and intense flames in his highly detailed hand,0.8255245685577393,0.6078072190284729,53.96254087692405,0.704269
+3,anime character wielding a mighty sword with burning embers and intricate texture in highly detailed 4k,0.8133963942527771,0.6094878911972046,50.2076353384264,0.663923
+3,majestic anime warrior with high-quality flames and a finely crafted 3D sword in digital painting,0.8392765522003174,0.6381226181983948,51.49380858678052,0.781417
+3,highly detailed anime character with a burning fire sword and a fiery halo in high definition 4k,0.825980544090271,0.6514745950698853,54.22975560960816,0.636118
+3,anime character with intricate design and highly detailed flames and a mighty 3D katana in digital artwork,0.7872263193130493,0.6612392663955688,52.5622643258719,0.375013
+4,anime character with a majestic katana in hand surrounded by intense orange and yellow flames highly detailed,0.7980540990829468,0.7188486456871033,68.23594142938359,0.169446
+4,anime warrior with a mighty sword holding fire at night time,0.7841640710830688,0.5963535308837891,50.64938376499774,0.478294
+4,majestic sword wielding anime hero surrounded by burning red and orange flames highly detailed and realistic,0.8114794492721558,0.7091105580329895,58.52906957133256,0.394575
+4,anime warrior in a dark fantasy setting holding a powerful sword with intense yellow and orange flames erupting from their hand,0.7858455181121826,0.6563427448272705,61.89504372662212,0.259933
+4,anime swordsman with a large majestic sword in his hand surrounded by vibrant orange and yellow flames in a dark and detailed fantasy landscape,0.773378312587738,0.6911576986312866,61.26378510028507,0.127734
+5,"anime character with a majestic sword and flames in his hand highly detailed, highly detailed",0.8244986534118652,0.6206361055374146,49.551024558155326,0.730756
+5,"anime character with a majestic sword and flames in his hand highly detailed, high quality, sharp",0.8335790038108826,0.604550302028656,51.718113979301556,0.791882
+5,"anime character with a majestic sword and flames in his hand highly detailed, best lighting",0.8461915850639343,0.6134598255157471,52.20613139370809,0.858688
+5,"anime character with a majestic sword and flames in his hand highly detailed, masterpiece",0.8284971714019775,0.6319506168365479,53.14404470385682,0.696993
+5,"anime character with a majestic sword and flames in his hand highly detailed, ultra realistic",0.8337029814720154,0.5973500609397888,48.91450499466734,0.837967

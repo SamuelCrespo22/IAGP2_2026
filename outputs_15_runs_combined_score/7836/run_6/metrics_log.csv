@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.807522
+1,astronaut standing on the surface of a distant alien planet with a massive sun rising in the background,0.8197827339172363,0.5981019735336304,40.60868055379277,0.528281
+1,astronaut on a moonlit planetary surface with stars and planets aligning in the sky,0.7821319699287415,0.5600215792655945,32.86551028941249,0.487135
+1,highly detailed astronaut in a futuristic spacesuit standing on the surface of a rugged alien world with a dramatic sunset,0.8410848379135132,0.733508288860321,59.407850303665484,0.320301
+1,a realistic astronaut standing in front of a massive planet with a bright light shining in the background and a stunning starry sky,0.8290370106697083,0.5676560997962952,34.87843174408549,0.643041
+1,astronaut in a 4k digital painting standing on the surface of a barren but beautiful extraterrestrial world with a bright shining star in the background,0.8127551078796387,0.569439709186554,33.81626814161449,0.588405
+2,astronaut standing on the surface of an alien planet with a highly detailed bright light shining in the background,0.8749773502349854,0.5320971012115479,36.247748060177976,0.838660
+2,highly detailed astronaut in a futuristic spacesuit standing on the barren surface of a distant planet with a bright light behind them,0.8075572848320007,0.6008269786834717,33.899304027366966,0.540313
+2,astronaut in a reflective spacesuit standing on the surface of a mysterious planet with a warm glow shining in the background,0.8183990716934204,0.5465909838676453,36.99177291788783,0.600893
+2,a highly detailed digital painting of an astronaut in a suit standing on the surface of a rugged alien planet with a bright light behind the figure,0.8601218461990356,0.6440483331680298,50.55092584746153,0.552785
+2,astronaut standing on the dusty surface of a desolate alien world with a 4k bright light shining behind them,0.7889548540115356,0.6821638941764832,49.886016640301484,0.251126
+3,astronaut standing on the rugged surface of an alien planet with a highly detailed bright light shining in the 4k background,0.8411005735397339,0.6493115425109863,48.40779883187995,0.494476
+3,astronaut standing on the barren alien landscape with a vibrant highly detailed radiant light in the digital painting style,0.8136516213417053,0.6208184957504272,43.56045077402534,0.457791
+3,astronaut in a spacesuit standing on the surface of a mysterious alien world with a stunning highly detailed light source,0.8167991042137146,0.48836377263069153,33.484353818438585,0.677501
+3,astronaut standing on the dusty alien terrain with a brilliant highly detailed shining light emanating from the distant background,0.8194518685340881,0.6151109337806702,37.68807498794812,0.539032
+3,astronaut standing on the alien planet's surface with a highly detailed shining light illuminating the vast mysterious landscape in a digital art style,0.8972384929656982,0.5975236296653748,46.09891240389374,0.777308
+4,highly detailed astronaut standing on the surface of a barren alien planet with a bright intense light shining in the background,0.833657443523407,0.5604444742202759,37.55348747874457,0.642586
+4,astronaut standing at the edge of a dense alien forest with a highly detailed bright light in the background of the atmosphere,0.767676830291748,0.7761020064353943,58.31163361949766,0.010061
+4,highly detailed astronaut posing heroically on the surface of a mysterious alien world with a stunning bright light in the background,0.7989758849143982,0.5661671161651611,38.903213669832,0.491384
+4,astronaut landing on the surface of a highly detailed alien landscape with a majestic bright light shining in the distance,0.8494807481765747,0.5693696737289429,36.60247646369659,0.704624
+4,highly detailed astronaut standing in front of a sprawling alien cityscape with a highly detailed bright light illuminating the night sky,0.8308923244476318,0.6917176842689514,33.00068031919869,0.559645
+5,Astronaut standing on the foreign surface of an extraterrestrial world with a very intense shining beam in the background,0.8219311237335205,0.5359461903572083,37.51659118593534,0.618956
+5,Astronaut standing near the edge of a distant alien terrain with a highly detailed high-resolution vibrant light in the distance,0.8779934644699097,0.5164318680763245,32.547648091945035,0.897870
+5,Highly detailed astronaut standing on a foreign alien surface under a bright 4k illuminated sky,0.7982346415519714,0.5494771003723145,33.88249442496456,0.549105
+5,A realistic astronaut standing on the dark foreign surface of a distant alien world with a highly detailed shining light reflecting off the ground,0.8217859268188477,0.5379510521888733,33.92147582271061,0.649650
+5,Astronaut standing in the foreground of a close-up shot on a distant alien landscape with a highly detailed shining light source behind them,0.8147766590118408,0.5351558923721313,33.240847019067765,0.631275

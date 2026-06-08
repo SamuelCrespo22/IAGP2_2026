@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.631617
+1,small hedgehog perched on top of a rich moist chocolate cake,0.5758441090583801,0.6069022417068481,46.8322725126855,0.605239
+1,hedgehog with pink nose sitting on a single large slice of decadent vanilla cake,0.5215786099433899,0.7050360441207886,72.89713016429853,0.085527
+1,highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake,0.6615065336227417,0.6161680221557617,50.314582453407645,0.803041
+1,detailed realistic portrait of a small hedgehog sitting on top of a perfectly frosted chocolate lava cake,0.6370284557342529,0.6999961137771606,53.571882644370554,0.603254
+1,delicate miniature hedgehog perched on the edge of a towering stack of multicolored cupcakes,0.6397932767868042,0.6478476524353027,60.23270429357684,0.608982
+2,"highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake, highly detailed",0.6984331607818604,0.598669707775116,52.35921704784442,0.908565
+2,"highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake, high quality, sharp",0.6875325441360474,0.6193834543228149,51.30111012697008,0.863349
+2,"highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake, best lighting",0.6346803903579712,0.615382730960846,50.76029764400614,0.723854
+2,"highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake, masterpiece",0.6451257467269897,0.6321943402290344,51.30014965356947,0.728284
+2,"highly detailed 4k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake, ultra realistic",0.6722331047058105,0.5928224325180054,52.68918411005565,0.838257
+3,highly detailed 8k digital painting of a cute little hedgehog sitting on a block of creamy yellow lemon cake in a warm sunny room,0.6284129619598389,0.6725816130638123,57.21359245303055,0.576455
+3,highly detailed photorealistic digital art of a cute hedgehog enjoying a bright yellow slice of lemon cake,0.681671142578125,0.6941037178039551,68.18281576537836,0.596310
+3,highly detailed realistic 4k oil painting of a little adorable hedgehog sitting on a block of creamy lemon sponge cake,0.6081462502479553,0.5997911691665649,47.23805291798498,0.701098
+3,a highly detailed 4k digital masterpiece of a tiny hedgehog sitting on a block of soft fluffy lemon sponge cake with a sprinkle of powdered sugar,0.6613667011260986,0.7772072553634644,65.30884026713613,0.467989
+3,highly detailed photorealistic digital painting of a little cute hedgehog sitting on a block of bright sunny yellow lemon pound cake,0.6536070108413696,0.5662458539009094,50.5185617061599,0.837911
+4,highly detailed 4k realistic digital painting of a tiny little hedgehog sitting on a block of creamy yellow lemon cake,0.6779477000236511,0.58419269323349,49.61273338415547,0.894147
+4,cute adorable hedgehog perched on top of a bright vibrant yellow lemon cake with intricate frosting details,0.6417337656021118,0.7334113121032715,61.84250673130925,0.497631
+4,highly realistic detailed oil painting of a little hedgehog resting on a block of creamy yellow lemon cake with subtle background texture,0.6344514489173889,0.6191481947898865,47.76611437315946,0.747463
+4,highly detailed photo realistic digital art of a hedgehog snuggled up on top of a bright yellow lemon cake with soft golden lighting,0.6364820003509521,0.6326086521148682,49.18157184772542,0.723676
+4,photorealistic ultra-high-resolution digital masterpiece of a small hedgehog curled up on a block of creamy yellow lemon cake with delicate cake crumbs,0.59942626953125,0.6995557546615601,63.79514512391861,0.399412
+5,highly detailed 4k digital art of a little hedgehog sitting on a block of creamy yellow lemon cake,0.6676666140556335,0.6625808477401733,57.07506346064487,0.700612
+5,highly detailed 8k digital painting of a cute little hedgehog eating lemon cake,0.6187520623207092,0.6780127286911011,49.449251796077895,0.617177
+5,adorable highly detailed 4k digital portrait of a hedgehog resting on a slice of lemon cake,0.6319757103919983,0.6911594867706299,60.457129616836596,0.533401
+5,highly detailed photorealistic digital painting of a hedgehog sitting on a large slice of creamy yellow lemon cake,0.5402830839157104,0.6715564131736755,64.82456776284054,0.255510
+5,highly detailed 4k impressionist digital art of a cute little hedgehog snuggled up to a block of creamy yellow lemon cake,0.6714094877243042,0.7027887105941772,57.20594498971853,0.662290

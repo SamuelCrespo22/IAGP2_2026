@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.732566
+1,'a glass of freshly squeezed orange juice with a single slice of orange beside it',0.9462872743606567,0.5232319235801697,41.922542671654746,0.867973
+1,'a still life of an orange slice and a half-full glass of orange juice set on a table',0.8243521451950073,0.7167667746543884,58.33519467729592,0.293304
+1,'a highly detailed glass of orange juice sits next to a thin slice of orange on a bright white surface',0.9231750965118408,0.4793367385864258,55.720957902176565,0.732485
+1,'an orange glass contains the remains of a glass of orange juice accompanied by a small slice of orange on the adjacent countertop',0.9097210168838501,0.571000874042511,42.50146882089173,0.734217
+1,'a realistic glass of orange juice with a small slice of orange sits neatly on a small wooden table',0.9118129014968872,0.5690427422523499,48.20836451617461,0.699148
+2,a perfectly poured glass of freshly squeezed orange juice with the peel still on a single slice of orange beside it,0.9396002292633057,0.5643547773361206,44.62791847922202,0.803471
+2,a closeup of a freshly cut glass filled with vibrant orange juice and accompanied by its peel and a single juicy slice,0.9322032928466797,0.4179896414279938,47.756303455130734,0.855050
+2,an intricately detailed highly-realistic painting of a glass of freshly squeezed orange juice with a single slice of orange beside it,0.8438730239868164,0.5364882349967957,41.92447110564933,0.583123
+2,an ultra-high-resolution 4k digital art of a glass of freshly squeezed orange juice with a single slice of orange beside it on a wooden table,0.9273489713668823,0.5240793228149414,42.767947905276316,0.810119
+2,an exquisitely crafted digital still life of a gleaming glass filled with freshly squeezed juice accompanied by a single perfect slice of orange on a minimalist white surface,0.9207838773727417,0.728300929069519,69.32824340297665,0.465129
+3,"'a glass of freshly squeezed, 4k quality, orange juice with a single slice of orange perfectly placed beside it'",0.9071505665779114,0.5439807176589966,46.13473846877989,0.718012
+3,"'a beautiful, highly detailed glass of freshly squeezed orange juice with a slice of orange sitting neatly beside it'",0.9156408309936523,0.6077298521995544,50.421743633684635,0.668204
+3,'a 4k digital art of a glass of freshly squeezed orange juice with a single slice of orange lying nearby',0.9436246156692505,0.48659881949424744,36.57789907835753,0.923765
+3,'a masterpiece of a glass of freshly squeezed orange juice with a slice of orange positioned beside it in a natural outdoor setting',0.7609376907348633,0.7808243632316589,54.506578121681564,0.109020
+3,'a photorealistic glass of freshly squeezed orange juice with a single slice of orange resting beside it on a rustic wooden table',0.9029039740562439,0.5742350220680237,47.99799711263716,0.673309
+4,highly detailed and realistic 4k digital art of a glass of freshly squeezed orange juice with a single slice of orange lying nearby,0.9378863573074341,0.44284531474113464,39.953233909930916,0.911721
+4,"a 4k digital painting of a glass of freshly squeezed orange juice with a single slice of orange lying on a smooth, minimalist table",0.9323000311851501,0.5527081489562988,45.2638760267855,0.786624
+4,a beautiful high-definition digital art of a glass of freshly squeezed orange juice with a single slice of orange nearby on a warm summer morning,0.9384671449661255,0.40329134464263916,37.47849298568749,0.957040
+4,ultra-realistic 4k digital artwork of a glass of freshly squeezed orange juice with a single slice of orange sitting in a sunny kitchen,0.9317779541015625,0.5879218578338623,48.53232500218892,0.738428
+4,"a stunning, highly detailed, and realistic 4k digital masterpiece of a glass of freshly squeezed orange juice with a single slice of orange resting nearby on a rustic wooden table",0.9366881251335144,0.524580717086792,44.064389403997104,0.825453
+5,A vibrant highly detailed digital art of a glass of freshly squeezed orange juice with a single slice of orange nearby on a serene summer morning.,0.9230669736862183,0.4194009304046631,44.744538617804,0.851646
+5,A stunning high-definition digital artwork of a glass of freshly squeezed orange juice with a slice of orange and some condensation nearby on a warm summer morning.,0.9344521164894104,0.39379480481147766,35.33998952904505,0.968073
+5,A beautiful realistic digital painting of a glass of freshly squeezed orange juice with a slice of orange nearby on a sunny summer morning.,0.9281492233276367,0.5220562815666199,40.61262165211083,0.829438
+5,A breathtaking 4k digital art of a glass of freshly squeezed orange juice with a single slice of orange nearby on a tranquil summer morning.,0.9333372116088867,0.5330032706260681,39.75960552847419,0.842636
+5,A gorgeous highly realistic digital artwork of a glass of freshly squeezed orange juice with a slice of orange and a faint napkin nearby on a warm summer morning.,0.9346149563789368,0.4851931929588318,41.807104769897364,0.861906

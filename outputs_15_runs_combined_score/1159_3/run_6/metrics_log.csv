@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.604868
+1,"anime character with a highly detailed, realistic sword in his hand surrounded by flames",0.8190316557884216,0.6400259137153625,52.41255042176145,0.632191
+1,a 4k resolution anime character drawing of a hero holding a glowing sword amidst fiery explosions,0.8245506286621094,0.6224850416183472,51.20910078355995,0.722981
+1,"highly detailed, photorealistic anime style illustration of a brave warrior grasping a fiery katana",0.7801373600959778,0.6232826113700867,50.00535880865237,0.563443
+1,anime master artist's depiction of a fearless hero with a sword and fire as his ultimate power,0.7967634797096252,0.6105632185935974,51.41692077584918,0.640629
+1,"highly detailed, digital painting style anime character with a mighty sword and controlled flames dancing in his hand",0.8244292736053467,0.6377537250518799,58.28568873467723,0.559109
+2,highly detailed 4k resolution anime character drawing of a brave hero holding a glowing radiant sword amidst intense fiery explosions,0.8438509106636047,0.6276279091835022,49.78523760672922,0.810754
+2,a 4k digital painting style anime character of a hero holding a powerful glowing sword amidst blazing fiery infernos,0.8093100786209106,0.6652386784553528,61.04437510933904,0.375903
+2,highly realistic 4k resolution anime drawing of a hero standing triumphantly holding a glowing sword amidst dramatic fiery pyrotechnics,0.8246027827262878,0.6181738376617432,49.894717290683715,0.757573
+2,an incredibly detailed 4k anime drawing of a hero holding a shining glowing sword amidst fiery explosive destruction,0.8620814681053162,0.6640698313713074,51.520360631608575,0.754329
+2,4k masterfully illustrated anime character of a hero proudly holding a glowing radiant sword amidst massive fiery blasts,0.8397511839866638,0.6296011209487915,52.7122752689537,0.738617
+3,highly detailed 8k resolution anime character drawing of a valiant hero holding a brilliant shining sword amidst intense blazing infernos,0.8088228106498718,0.6477031707763672,54.075432073378074,0.541686
+3,highly detailed digital painting of a brave anime hero wielding a radiant glowing sword amidst massive fiery explosions,0.7655748128890991,0.6926790475845337,55.2643022343081,0.224850
+3,highly detailed 4k resolution digital anime art of a fearless hero holding a majestic glowing sword surrounded by fierce burning embers,0.7905312776565552,0.6926649808883667,57.213803934807956,0.291429
+3,realistic anime-style 4k resolution digital drawing of a daring hero grasping a powerful glowing sword amidst massive blazing flames,0.8069788813591003,0.6651954054832458,55.4268233779406,0.463219
+3,highly detailed digital anime master artwork of a bold hero holding a brilliant shining sword amidst massive fiery eruptions with intense lighting effects,0.7373554706573486,0.6949957609176636,58.64644687136665,0.047261
+4,highly detailed 8k resolution anime character drawing of a fearless warrior holding a shining radiant sword amidst intense blazing inferno,0.7988884449005127,0.6860690116882324,56.60821935280721,0.353382
+4,highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames,0.8406285047531128,0.6191102862358093,47.50213823469368,0.860373
+4,highly detailed 4k digital painting of a heroic anime character holding a radiant sword amidst fiery explosions of light and energy,0.7910720109939575,0.6972076296806335,59.40845288510356,0.243453
+4,realistic anime character drawing of a brave hero holding a glowing radiant sword amidst intense fiery pyrotechnics,0.8323330283164978,0.6152017712593079,46.49763511316742,0.855074
+4,highly detailed 4k resolution anime character drawing of a fearless warrior holding a shining radiant sword amidst an intense swirling vortex of flames,0.7560391426086426,0.6435949802398682,54.052298694827755,0.341723
+5,"highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames, highly detailed",0.8421996831893921,0.6293575763702393,47.5919305977724,0.837097
+5,"highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames, high quality, sharp",0.84576815366745,0.6221176981925964,47.699891012621,0.869352
+5,"highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames, best lighting",0.8366574048995972,0.6224454641342163,48.31053578668716,0.821438
+5,"highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames, masterpiece",0.8425483703613281,0.6267153024673462,47.312371037337925,0.850527
+5,"highly detailed photorealistic anime character artwork of a brave hero holding a glowing radiant sword amidst explosive flames, ultra realistic",0.8383767604827881,0.6268458366394043,47.42916583210784,0.831440

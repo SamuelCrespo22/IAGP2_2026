@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.687811
+1,hyper detailed painting of a mouse with a vibrant colorful tail and long furry fluffy tail,0.8284499049186707,0.6315710544586182,53.80836137002823,0.790063
+1,highly realistic digital painting of a mouse with bright colorful vibrant tail and realistic whiskers,0.7155475616455078,0.6926059126853943,40.70866442671201,0.570138
+1,detailed oil painting of a mouse with a rainbow colored tail and delicate soft fur texture,0.7655417919158936,0.6401422023773193,37.15344821281446,0.718775
+1,4k high resolution image of a mouse with a brightly colored tail and realistic natural environment,0.5792608261108398,0.7544535994529724,41.607436478077275,0.266870
+1,highly accurate rendering of a mouse with a colorful long flowing tail and intricate detailed pattern on its back,0.7777511477470398,0.6715066432952881,44.1787430029906,0.690509
+2,detailed realistic oil painting of a mouse with a multicolored rainbow tail and delicate soft fur,0.7667617797851562,0.6342606544494629,36.80789039227658,0.727478
+2,highly detailed digital painting of a mouse with a vibrant rainbow tail and intricate fur texture,0.7772361040115356,0.6938408613204956,41.47360653251461,0.676542
+2,detailed watercolor of a mouse with a colorful rainbow tail and delicate soft fur texture in a whimsical meadow,0.7096368074417114,0.7989416718482971,118.54401921308748,0.232061
+2,masterfully crafted oil painting of a mouse with a bright multicolor rainbow tail and delicate soft fur in a sunlit meadow,0.7276071310043335,0.7287119626998901,53.54802508104904,0.520144
+2,highly detailed 4k digital art of a mouse with a bold rainbow-colored tail and realistic soft fur texture in a serene forest landscape,0.6683080196380615,0.7632676362991333,41.001300966872016,0.418868
+3,highly detailed realistic oil painting of a mouse with a multicolored rainbow tail and delicate soft fur,0.7736692428588867,0.6486847996711731,37.449465137407124,0.724356
+3,detailed realistic oil painting of a mouse with multiple colorful tails and a delicate soft coat,0.7723976373672485,0.6201016306877136,39.87417067007813,0.741830
+3,vibrant highly detailed oil painting of a mouse with a multicolored rainbow tail and the softest fur,0.8406296968460083,0.5908833146095276,34.83370807614453,0.905454
+3,realistic oil painting of a mouse in a whimsical setting with a multicolored rainbow tail and delicate soft fur,0.7952362298965454,0.6316030621528625,40.535411199214565,0.769750
+3,highly detailed realistic 4k digital painting of a mouse with a long multicolored rainbow tail and incredibly soft delicate fur,0.7419881820678711,0.6907387971878052,38.99591699512375,0.623965
+4,Highly detailed realistic oil painting of a mouse with a multicolored rainbow tail and plush fur,0.7554579973220825,0.6283026933670044,33.100057462258434,0.723800
+4,"Vibrant, 4k digital oil painting of a mouse with a vibrant multicolored rainbow tail and the softest fur",0.8312363624572754,0.6129699945449829,40.792350675852795,0.850567
+4,"Oil masterpiece painting of a mouse with a colorful, swirly rainbow tail and the finest golden fur",0.8392801284790039,0.5577610731124878,39.27982207617742,0.921135
+4,Highly detailed digital painting of a mouse in a colorful garden with a multicolored rainbow tail and softest fur,0.7327687740325928,0.7402949929237366,53.38820447603253,0.518926
+4,"Realistic, highly detailed oil painting of a mouse with a multicolored rainbow tail and the finest, silkiest fur textured with soft brushstrokes",0.7813964486122131,0.6195335984230042,36.58176996727992,0.768013
+5,"masterpiece oil painting of a mouse with a vibrant, swirly, multi-colored rainbow tail and the most exquisite, lustrous golden fur",0.8595954179763794,0.566084623336792,37.36978688026247,0.955070
+5,"highly detailed, realistic oil on canvas painting of a mouse with a colorful, swirly rainbow tail and delicate, shimmering golden fur",0.8017964363098145,0.6014202833175659,43.29306757413129,0.801691
+5,"4k digital painting of a majestic mouse with a stunning, colorful, swirly rainbow tail and the finest, smooth golden fur",0.8601697683334351,0.5326182842254639,38.47871850012117,0.984263
+5,"oil on canvas masterpiece painting of a tiny, adorable mouse with a bright, swirly rainbow tail and luscious, golden fur",0.7988627552986145,0.5738038420677185,46.62035099351695,0.812657
+5,"vivid, detailed digital art of a regal mouse with a beautiful, swirly rainbow tail and delicate, intricate golden fur",0.8353478312492371,0.6548144221305847,40.19888422682622,0.820342

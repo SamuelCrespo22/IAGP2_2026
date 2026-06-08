@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.381398
+1,painting of a mouse with pastel scales and a vibrant neon background,0.6952943801879883,0.7997421026229858,53.38975763600971,0.369193
+1,highly detailed oil painting of a mouse with iridescent scales and a starry night sky,0.6987971663475037,0.9922855496406555,46.436917921582314,0.293264
+1,digital artwork of a mouse covered in shimmering rainbow-colored scales and surrounded by swirling purple clouds,0.8142564296722412,0.7611954212188721,56.199606287471994,0.697577
+1,masterfully rendered watercolor painting of a mouse with glistening turquoise scales and a misty lavender background,0.7446091771125793,0.8059501051902771,109.14785147342327,0.299350
+1,realistic 4k digital painting of a mouse with intricate shimmering gold scales and a warm sunny landscape,0.7250072956085205,0.7393988966941833,51.597313441724594,0.488983
+2,digital artwork of a sleek mouse covered in iridescent rainbow-colored scales and floating amidst a vortex of rich purple clouds,0.7960748672485352,0.6558930277824402,50.34258186417603,0.730053
+2,"a highly detailed digital painting of a mouse adorned with luminous rainbow-colored scales and set against a backdrop of soft, swirling purple mist",0.806242823600769,0.6779923439025879,39.16617089356825,0.784057
+2,"highly realistic digital artwork of a mouse covered in radiant, shimmering rainbow-colored scales and perched atop a wispy purple cloud",0.7746485471725464,0.7177969217300415,70.91188362110171,0.564921
+2,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds",0.810707688331604,0.6068323254585266,56.23536121666831,0.776092
+2,"realistic, 4k digital artwork of a mouse covered in brilliant, shimmering rainbow-colored scales and elevated above a bed of fluffy purple clouds",0.7557156682014465,0.6856005787849426,71.40966429792486,0.531183
+3,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, highly detailed",0.8517956733703613,0.6104872822761536,54.973069926189645,0.887736
+3,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, high quality, sharp",0.8364201784133911,0.6086001396179199,56.15304193406527,0.843748
+3,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, best lighting",0.7797462940216064,0.6314963102340698,54.98748261294544,0.684106
+3,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, masterpiece",0.791515588760376,0.6085129976272583,56.28050184336067,0.723938
+3,"stylized digital masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, ultra realistic",0.8111238479614258,0.6176665425300598,56.25501507792405,0.770947
+4,"Stylized photorealistic digital painting of a mouse with majestic, vibrant, iridescent rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds",0.8231022953987122,0.5827434062957764,54.128750130909275,0.830256
+4,"Stylized 4K digital artwork of a mouse with regal, shimmering, multicolored scales and enveloped by a halo of swirling lavender clouds",0.742671012878418,0.6970904469490051,61.301730873738954,0.525731
+4,"Highly detailed, stylized digital artwork of a mouse with resplendent, gemstone-bright rainbow-colored scales and set amidst a dreamy landscape of swirling purple clouds",0.8171542286872864,0.6311873197555542,52.145702099589464,0.793819
+4,"Stylized, hyper-realistic digital image of a mouse with majestic, shimmering, color-shifting scales and enveloped by an ethereal aura of swirling plum clouds",0.8039671778678894,0.671427309513092,54.515662392224556,0.727400
+4,"Stylized, digital masterpiece of a mouse with shimmering, rainbow-colored scales that seem to change colors in the light, surrounded by a halo of swirling purple clouds in a surreal sky",0.8028152585029602,0.687290608882904,60.77270798321302,0.693130
+5,"highly detailed, realistic image of a majestic mouse with shimmering, iridescent rainbow-colored scales",0.774406909942627,0.6889844536781311,39.805989987958355,0.690863
+5,"digital painting of a regal mouse surrounded by an aura of swirling purple clouds, high contrast",0.7679867744445801,0.6121616363525391,59.9295691526748,0.646368
+5,"stylized 4k masterpiece of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling purple clouds, high pixel density",0.8600478768348694,0.6067516803741455,50.66125089578667,0.927079
+5,"photorealistic image of a mouse with shimmering, holographic rainbow-colored scales, set against a deep purple cloudy sky",0.7798464298248291,0.7661787271499634,38.54523590331957,0.665745
+5,"detailed, oil painting-inspired image of a mouse with majestic, shimmering rainbow-colored scales and surrounded by an ethereal aura of swirling, misty purple clouds",0.8290953636169434,0.5541418194770813,48.284967384403004,0.883204

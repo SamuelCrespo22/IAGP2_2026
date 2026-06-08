@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.682718
+1,anime character with a highly detailed flaming sword and vibrant magical blue flames,0.8056654334068298,0.5698449611663818,44.40895656508594,0.717919
+1,anime girl character with a 4k quality flaming sword and bright magical blue flames,0.7366127967834473,0.5464757084846497,43.58828093934856,0.537086
+1,magical anime warrior character wielding a burning flaming sword with intense magical blue flames,0.8351927399635315,0.5731108784675598,46.00664747431015,0.795783
+1,highly detailed anime portrait of a character holding a powerful flaming sword and surrounded by magical blue flames,0.8394147753715515,0.594415545463562,48.16151975641525,0.708488
+1,anime character with a majestic flaming sword and magical blue flames in a fantasy digital painting style,0.8122400641441345,0.5745492577552795,43.21041079376256,0.748598
+2,anime character with a regal flaming sword and magical sapphire flames in a highly detailed fantasy digital painting style,0.7910336256027222,0.5827642679214478,45.046292685670885,0.609244
+2,anime warrior with a majestic flaming sword and magical blue flames in a vibrant digital artwork,0.8167186975479126,0.5736581087112427,43.84751029140311,0.758216
+2,a digital painting of an anime character wielding a mighty flaming sword with vibrant blue flames in a fantasy setting,0.80936199426651,0.5703838467597961,43.947164621464026,0.738317
+2,an anime-inspired digital artwork featuring a hero with a stunning flaming sword and magical blue flames in a fantasy world,0.7962717413902283,0.5588765144348145,40.562983374101194,0.780499
+2,a highly detailed digital painting of an anime character with a majestic flaming sword and magical blue flames in a mythical fantasy realm,0.7875587940216064,0.5722591280937195,39.837161424209704,0.716179
+3,an anime-inspired digital artwork featuring a legendary hero with a blazing fiery sword and magical blue flames in a realistic fantasy world landscape,0.738055944442749,0.5725207924842834,42.714399783781445,0.474536
+3,a highly detailed fantasy digital artwork of a hero wielding a radiant flaming sword with mystical blue flames in a dreamlike environment,0.7565104961395264,0.6026718020439148,45.9872614473014,0.395846
+3,an epic fantasy painting of a hero armed with an awe-inspiring flaming sword and blue magical flames in a mystical realm,0.7566254138946533,0.5644456744194031,44.040460472788396,0.550325
+3,a masterpiece of an anime-style hero holding a fiery sword and surrounded by magical blue flames in a vibrant fantasy world,0.8045591711997986,0.5964759588241577,51.667992654828225,0.507632
+3,a fantastical digital artwork of a heroic warrior wielding a majestic flaming sword and shimmering blue magical flames in a mystical otherworldly realm,0.7711907029151917,0.6051843762397766,44.06439484193669,0.477153
+4,an anime-inspired fantasy artwork with a highly detailed hero wielding a majestic golden flaming sword and magical azure flames in a mystical realm,0.7457393407821655,0.6249202489852905,42.02538846161847,0.349431
+4,an epic anime digital fantasy artwork featuring a heroic warrior with a blazing red and silver flaming sword and mystical blue flames in a dreamworld environment,0.710979700088501,0.6062520146369934,43.618932956929044,0.246804
+4,highly detailed anime-inspired fantasy art featuring a male warrior with a legendary flaming sword and mystical blue flames in a vibrant fantasy world,0.7737056016921997,0.6251370906829834,45.31682184375257,0.402595
+4,a highly realistic anime digital artwork of a hero with a powerful flaming sword and magical blue flames in a magical fantasy landscape,0.8033732175827026,0.591421902179718,42.080790581592694,0.679338
+4,an anime-style fantasy artwork with a heroically depicted warrior wielding a magnificent golden sword with fiery flames and mystical blue auras in a mystical world,0.7600460052490234,0.5908574461936951,45.128242004412066,0.461517
+5,an anime-inspired highly detailed digital artwork featuring a legendary hero with a majestic flaming sword and vibrant blue magical flames in a mystical fantasy world,0.7771891355514526,0.5959622859954834,41.464953589071385,0.573267
+5,a vibrant anime-inspired digital painting of a hero wielding a fiery sword and surrounded by brilliant blue flames in a fantastical realm,0.8109620809555054,0.5900700688362122,54.792868806248606,0.500682
+5,an epic anime-style digital artwork showcasing a hero grasping a magnificent flaming sword and magical blue fire in a breathtaking fantasy landscape,0.7427178621292114,0.5901159048080444,44.50146586733863,0.406892
+5,an anime-inspired fantasy digital artwork of a heroic figure brandishing a powerful flaming sword and radiant blue flames in a mystical atmosphere,0.8074644804000854,0.5779705047607422,41.41830872952592,0.749090
+5,a highly detailed anime-style digital masterpiece of a hero with a gleaming flaming sword and mesmerizing blue magical flames in a surreal fantasy environment,0.7338728904724121,0.6178810596466064,46.42801153072837,0.252012

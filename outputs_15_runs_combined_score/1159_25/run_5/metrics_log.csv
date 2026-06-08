@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.733613
+1,a glass of freshly squeezed orange juice with a slice of orange garnish on the side,0.9054157733917236,0.5822234153747559,43.39075293928027,0.720789
+1,a high-resolution image of a glass of orange juice with a freshly cut slice of orange laid beside it,0.9144649505615234,0.6364898681640625,52.552292824445146,0.625990
+1,"highly detailed, hyper-realistic drawing of a glass of orange juice with a slice of orange on the side",0.9349474906921387,0.4875437319278717,43.05019880764068,0.858737
+1,"a beautiful, photorealistic, 4k image of a glass of orange juice with a slice of orange floating nearby",0.9336355924606323,0.41334760189056396,45.70939226526388,0.879743
+1,"a highly detailed, oil painting of a glass of orange juice with a slice of orange on the side in a cozy living room",0.7815864086151123,0.6769319176673889,53.895146923972305,0.257003
+2,"'a highly detailed, photorealistic, 4k image of a clear glass of fresh orange juice with a slice of orange floating nearby, illuminated by soft natural light'",0.941037118434906,0.5227623581886292,45.66074043302209,0.827653
+2,"'a beautiful, highly detailed, realistic image of a glass of orange juice with a slice of orange floating in mid-air, 4k resolution'",0.9036611318588257,0.6344654560089111,62.96490513783504,0.507064
+2,"'a photorealistic, 4k digital masterpiece of a glass of orange juice with a floating slice of orange, surrounded by a minimalist kitchen background'",0.8932482004165649,0.6341233253479004,60.32608896393205,0.505026
+2,"'a beautifully crafted, 4k digital painting of a glass of juice with a slice of orange floating nearby, in a warm and inviting kitchen'",0.7645535469055176,0.720715343952179,55.05390398713535,0.175831
+2,"'a highly realistic, 4k image of a glass of juice with a slice of orange suspended in mid-air, captured in crisp and precise detail'",0.9233013391494751,0.4217492938041687,44.95625889466217,0.855326
+3,"beautiful, photorealistic, highly detailed 4k image of a glass of freshly squeezed orange juice with a slice of orange floating nearby on a wooden kitchen table",0.9318811297416687,0.552437961101532,41.4042276404924,0.823782
+3,"a vibrant, ultra-realistic, 4k image of a glass of orange juice with a slice of orange drifting gently near it",0.9396858215332031,0.4748387336730957,40.83199574881265,0.898655
+3,"highly stylized, photorealistic, 4k digital art of a glass of orange juice with a slice of orange suspended in mid-air near a kitchen window",0.7401466369628906,0.7888214588165283,61.93145734566685,0.009265
+3,"beautiful, ultra-realistic, highly detailed 4k image of a glass of orange juice with a slice of orange resting near it on a modern kitchen counter",0.8994431495666504,0.6705089211463928,50.983411092519795,0.580608
+3,"a breathtaking, photorealistic, 4k masterpiece of a glass of orange juice with a slice of orange floating nearby in soft focus natural light",0.9186567068099976,0.5595725774765015,52.98300146219162,0.682437
+4,"a highly realistic, 4k digital painting of a glass of orange juice with a slice of orange slowly sinking into the glass",0.9281977415084839,0.5882781147956848,54.19606130275743,0.676695
+4,"a vibrant, photorealistic image of a glass of orange juice with a slice of orange hovering just above the rim",0.9375512599945068,0.4032767117023468,35.078659644359874,0.991324
+4,"a 4k rendering of a glass of orange juice with a delicate slice of orange suspended mid-air, surrounded by a soft focused blur",0.9021482467651367,0.6153885126113892,54.91241272919243,0.587859
+4,"an ultra-realistic, highly detailed image of a glass of orange juice with a slice of orange gently floating near the surface",0.9307637214660645,0.45600131154060364,41.76918269632784,0.880261
+4,"a photorealistic masterpiece of a glass of orange juice resting on a wooden table with a slice of orange resting on its rim, soft warm light reflecting off the surface",0.9303523302078247,0.6502799987792969,57.37697543065783,0.613337
+5,vibrant highly detailed digital painting of a glass of freshly squeezed orange juice with a slice of orange suspended just above the rim,0.9036708474159241,0.5022664070129395,40.79305622321812,0.791581
+5,photorealistic 4k masterpiece image of a glass of orange juice with a slice of orange floating above the surface,0.9122613668441772,0.5445939898490906,50.85846801164376,0.695279
+5,a realistic digital artwork of a glass of orange juice with a slice of orange hovering in mid-air above the rim,0.9095073342323303,0.6414756774902344,62.183697033384306,0.524072
+5,a stunning photorealistic image of a glass of orange juice with a slice of orange poised above the edge,0.89762282371521,0.6594396233558655,62.89282090408802,0.476487
+5,highly detailed digital oil painting of a glass of orange juice with a slice of orange delicately balanced on the rim,0.8870975971221924,0.5655637383460999,51.434680697855086,0.613885

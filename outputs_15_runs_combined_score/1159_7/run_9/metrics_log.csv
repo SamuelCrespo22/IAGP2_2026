@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.587114
+1,small hedgehog is sitting on top of a realistic block of vanilla cake,0.6386467814445496,0.7290882468223572,58.68660578349087,0.441418
+1,a cute hedgehog is perched on a beautifully decorated block of strawberry shortcake,0.5996177792549133,0.6784874200820923,56.43094989499977,0.393691
+1,highly detailed digital painting of a hedgehog sitting on a 4k resolution cake,0.5972670912742615,0.6000348925590515,44.702128881751165,0.680166
+1,"in the center of a table, a single hedgehog is delicately placed on top of a stunning cake masterpiece",0.5779845714569092,0.7053552865982056,52.18948754514621,0.345648
+1,"a tiny, adorable hedgehog is balanced on a large, multi-tiered block of moist chocolate cake",0.5813520550727844,0.6055775284767151,44.26083118219378,0.618914
+2,realistic highly detailed digital oil painting of a solitary hedgehog sitting on a luxurious high-end 4k resolution cake,0.6265413165092468,0.6357698440551758,49.51967974317565,0.667132
+2,highly detailed digital artwork of a cute happy hedgehog sitting on a stunning 4k resolution birthday cake,0.6059693694114685,0.6356168985366821,50.89620612194412,0.565220
+2,highly realistic 4k resolution digital painting of a hedgehog perched on a multi-tiered lavish cake,0.5778828263282776,0.6744992733001709,46.43169451557963,0.480431
+2,intricately detailed 4k resolution digital masterpiece of a hedgehog sitting on a decadent multi-layer chocolate cake,0.5831743478775024,0.6216626763343811,47.41171068908498,0.553005
+2,photorealistic highly detailed 4k digital painting of a hedgehog curled up on a beautifully decorated birthday cake,0.5934834480285645,0.652003288269043,51.082583962814894,0.492777
+3,"'vivid realistic highly detailed 4k resolution digital oil painting of a solitary, adorable hedgehog sitting on a majestic luxurious multi-layered cake'",0.5864468812942505,0.6562699675559998,48.3867633429144,0.504711
+3,"'photorealistic highly detailed ultra-high resolution digital oil painting of a solitary hedgehog resting on a high-end, richly decorated 4k resolution cake'",0.5665085315704346,0.6424403786659241,45.189947924650426,0.498592
+3,"'masterpiece highly realistic highly detailed 8k resolution digital oil painting of a solitary hedgehog sitting on an exquisite, decadent luxury cake'",0.6011768579483032,0.6699814796447754,46.23768526005608,0.579324
+3,"'highly detailed realistic highly textured digital oil painting of a solitary hedgehog sitting atop a towering, opulent 4k resolution cake'",0.5923264026641846,0.6495093107223511,47.93322912307138,0.543638
+3,"'ultra-realistic highly detailed highly polished digital oil painting of a solitary hedgehog perched on a lavish, intricately decorated 4k resolution cake'",0.6393558979034424,0.626602292060852,44.2014276270444,0.816390
+4,ultra-realistic highly polished 4k digital art piece of a single solitary hedgehog sitting on a luxurious intricately designed high-end cake,0.6398863196372986,0.6761239767074585,44.79861634428754,0.744470
+4,highly detailed photorealistic digital oil painting of a solitary hedgehog perched on an exquisite 4k resolution masterpiece dessert,0.5614620447158813,0.598272979259491,49.88519953335315,0.458621
+4,vibrant highly detailed 8k digital illustration of a solitary hedgehog standing proudly on a lavish intricately decorated cake,0.6355167031288147,0.5664671063423157,43.761672989095636,0.886681
+4,realistic highly detailed high-end digital portrait of a solitary hedgehog sitting atop an extravagant 4k resolution multi-tiered cake,0.5977635979652405,0.6709166765213013,48.49127971241806,0.527672
+4,ultra-realistic highly detailed photorealistic digital art of a solitary hedgehog perched on an intricately designed 4k resolution high-end dessert masterpiece,0.6287328004837036,0.5526775121688843,45.50408344009498,0.849540
+5,vibrant highly detailed ultra-realistic 12k digital artwork of a solitary hedgehog standing proudly on a lavish intricately decorated cake,0.6538366079330444,0.5359079241752625,43.60577347171324,0.999461
+5,a majestic highly detailed 8k digital painting of a majestic hedgehog standing regally on an ornate golden cake,0.5453316569328308,0.6408401131629944,43.57319688242052,0.445734
+5,highly realistic 4k digital illustration of a solitary hedgehog triumphantly standing on a richly decorated pastel cake,0.5870572328567505,0.676510751247406,58.27382602795015,0.317323
+5,a highly detailed 8k digital portrait of a solitary hedgehog standing proudly with confidence on a lavish multi-tiered cake,0.5410152077674866,0.7014744281768799,47.91109616836318,0.278863
+5,vibrant highly detailed 8k masterpiece of a solitary hedgehog triumphantly standing on a grand intricately decorated wedding cake,0.5241917371749878,0.619452178478241,49.431580021304164,0.294976

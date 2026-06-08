@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a lone astronaut standing on a planet beneath a massive glowing planet in deep space, cinematic sci-fi scene",0.8776639699935913,0.4798451364040375,30.130152269796827,0.738118
+1,a highly detailed solo astronaut standing on a barren alien planet beneath a massive glowing celestial body in deep space cinematic sci-fi scene,0.8270068168640137,0.5624681115150452,35.367691880719974,0.346607
+1,a lone astronaut standing on a desolate alien world beneath an enormous shimmering planet in deep space high definition,0.9015277624130249,0.4485105872154236,26.505770499526744,0.931039
+1,a cinematic masterpiece of a lone astronaut standing on a dusty alien planet beneath a massive radiant planet in deep space,0.9073619246482849,0.49617981910705566,32.20703377678381,0.818531
+1,a highly realistic digital painting of a lone astronaut standing on a barren alien landscape beneath a massive glowing planet in deep space,0.9006438851356506,0.49873852729797363,26.68090855381866,0.867836
+1,a 4k resolution cinematic vision of a lone astronaut standing on a distant alien planet beneath a massive shimmering celestial body in deep space,0.8069846630096436,0.48795580863952637,28.722186988925372,0.441509
+2,high definition photo of a lone astronaut standing on a barren alien world beneath a massive shimmering planet in deep space,0.8896360397338867,0.4560900330543518,28.099713839231168,0.847113
+2,a highly detailed astronaut stands on a desolate extraterrestrial landscape beneath a gigantic glowing planet in deep space 4k,0.8936373591423035,0.473232239484787,32.11240919658064,0.786014
+2,a lone space traveler stands on a harsh alien world beneath an enormous shimmering celestial body in deep space,0.9092980623245239,0.48652610182762146,28.249429952695884,0.896245
+2,a majestic and detailed astronaut is standing on a rocky alien world beneath a massive shimmering gas giant in the dark depths of space,0.7963969707489014,0.5368759036064148,34.73422375052456,0.251395
+2,an astronaut with a spacesuit stands on a desolate alien landscape beneath an enormous luminous planet in deep space with vivid colors,0.8442820906639099,0.49603360891342163,33.02737738221616,0.531533
+3,a lone space explorer standing on a rugged extraterrestrial landscape beneath an enormous gaseous planet in deep space high definition,0.8943540453910828,0.6147704720497131,39.51865945960595,0.519959
+3,a lone astronaut hovering on a barren alien surface beneath a massive shimmering celestial body in deep space highly detailed,0.848961353302002,0.4960501194000244,33.18546391677864,0.549587
+3,an isolated lone space traveler standing on a vast barren alien world beneath a massive shimmering celestial body in deep space 4k masterpiece,0.8405542373657227,0.43670812249183655,27.112496818330072,0.669550
+3,a lone space explorer standing on a desolate alien terrain beneath an enormous shimmering gas giant in deep space highly detailed,0.9080777764320374,0.5155317187309265,32.11018367016123,0.801209
+3,a solo astronaut standing on a barren alien world amidst a cosmic storm beneath an enormous shimmering planet in deep space highly detailed,0.8637702465057373,0.46735984086990356,27.796731462243645,0.726053
+4,an isolated astronaut standing on a barren extraterrestrial landscape beneath a colossal luminous celestial body in high definition 4k,0.8283268213272095,0.5637245178222656,29.289037213539242,0.440583
+4,a lone space explorer standing on a desolate alien terrain beneath a gigantic shimmering gaseous planet in deep space highly detailed,0.8917288780212402,0.5298052430152893,29.337632133991658,0.754672
+4,an astronaut in a spacesuit standing alone on a remote alien world beneath a massive radiant gas giant in deep space 8k,0.816170334815979,0.47067129611968994,32.311007417876546,0.448176
+4,a lone figure in a space suit standing on a distant alien wasteland beneath a gargantuan luminous planet in deep space ultra realistic,0.8497070074081421,0.4970714747905731,30.850673997870224,0.586114
+4,an astronaut standing alone on a desolate extraterrestrial planet beneath a colossal shimmering celestial body in deep space digital painting,0.7946350574493408,0.4655570983886719,25.03161805393338,0.467396
+5,a lone astronaut standing on a barren alien wasteland beneath a massive gaseous planet in deep space in 4k resolution,0.8592028617858887,0.4925629198551178,32.558335293720766,0.607435
+5,a lone astronaut standing on a desolate alien world with ruins of a lost civilization beneath a luminous shimmering planet in high definition,0.8515176177024841,0.6579120755195618,41.98470502888074,0.248042
+5,an astronaut standing alone on a dusty alien terrain beneath an enormous shimmering planet in deep space with a highly detailed atmosphere,0.8619266152381897,0.462762713432312,25.625125289927727,0.755233
+5,a lone astronaut standing on the edge of a crater on a desolate alien world beneath a colossal shimmering planet in 8k resolution,0.8963609933853149,0.5198002457618713,27.818617097162317,0.808579
+5,"a lone astronaut standing on the surface of a desolate alien world beneath a massive, luminous, shimmering gas giant planet in deep space, highly detailed",0.8972957134246826,0.4453126788139343,29.353178054722697,0.874210

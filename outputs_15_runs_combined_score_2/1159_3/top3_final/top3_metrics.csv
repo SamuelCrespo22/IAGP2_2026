@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,"a detailed, 4k, masterpiece digital painting of a beautiful anime warrior wielding a radiant blue flaming sword with mystical flames illuminating the surrounding landscape",0.8320513963699341,0.5085136890411377,38.48428825602339,0.9270831368924788,run_10,0.8970981975977304,0.0,0.08586384762554573
+5,highly detailed digital painting of a brave female anime hero holding a burning flaming sword with magical blue flames,0.8449680805206299,0.5625090599060059,40.26782465821236,0.8921857829972835,run_1,0.9543469973743421,0.2053421155887527,0.13460874717079757
+1,"a highly detailed, 4k, digital painting of a beautiful anime warrior holding a radiant blue flaming sword with magical flames engulfing the surroundings",0.8346998691558838,0.5473535060882568,39.91457812942852,0.8862531913436744,run_10,0.9088366504752416,0.14770618432264043,0.12495435125314537

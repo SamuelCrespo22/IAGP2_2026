@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",0.92182457447052,0.5338760018348694,43.99722082178454,0.657313
+1,"highly detailed realistic still life of a glass of orange juice with fresh orange slices around it, warm and inviting lighting",0.9331799745559692,0.5368736982345581,48.7856561144054,0.651838
+1,"a glass of orange juice with vibrant fresh orange slices arranged on a wooden table, highly detailed realistic product photography",0.9291424751281738,0.5303983092308044,45.96883538797674,0.670331
+1,"highly realistic and photorealistic image of a glass of orange juice with sliced oranges, 4k resolution",0.9297330975532532,0.4667202830314636,40.473201039653325,0.784373
+1,"realistic product photography of a glass of orange juice with sliced oranges and a sprig of rosemary, warm and cozy atmosphere",0.9203951358795166,0.5579221844673157,38.32024446833449,0.693748
+1,"detailed and realistic digital painting of a glass of orange juice with sliced oranges and a vintage background, soft focus effect",0.9253143072128296,0.4540908932685852,36.53119228119054,0.818478
+2,"highly realistic photorealistic detailed glass of freshly squeezed orange juice with sliced oranges, 4k resolution",0.9444353580474854,0.5663659572601318,38.59589180322188,0.788262
+2,"photorealistic highly detailed 4k image of a glass of orange juice with sliced oranges, morning light pouring in",0.9409799575805664,0.5263117551803589,39.30663819696047,0.797831
+2,highly realistic and ultra-detailed 4k digital painting of a glass of orange juice with sliced oranges on a wooden table,0.9372614622116089,0.5522966384887695,40.20702536063661,0.750872
+2,"realistic 4k image of a glass of orange juice with sliced oranges, a few orange peels scattered around, soft focus",0.9425056576728821,0.3865627348423004,34.47113367644034,0.970128
+2,highly photorealistic 4k image of a glass of fresh squeezed orange juice with sliced oranges on a decorative tablecloth,0.9207488894462585,0.5655909776687622,45.34671812739586,0.612289
+3,"realistic highly detailed 4k image of a glass of fresh orange juice with sliced oranges and a few scattered orange peels, soft focus",0.9343398809432983,0.47914114594459534,40.178739239808145,0.797559
+3,a photorealistic 4k digital painting of a glass of orange juice with sliced oranges and some peels in the background,0.9462167024612427,0.5067965388298035,38.7774278417888,0.842100
+3,"a highly detailed and realistic 4k image of a glass of orange juice with sliced oranges and some scattered peel, warm colors",0.9347230195999146,0.4291515350341797,40.07832830018243,0.840677
+3,"a 4k digital masterpiece of a glass of orange juice with sliced oranges and a few orange peels arranged in a natural setting, soft focus",0.9450584650039673,0.44095250964164734,37.47785070282597,0.904434
+3,"a hyper-realistic 4k image of a glass of orange juice with sliced oranges and some scattered peel, natural light and warm colors",0.9377692341804504,0.4207511246204376,36.32494698427478,0.901707
+4,"highly detailed 8k digital painting of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, soft focus photography style",0.9477846026420593,0.3779419958591461,35.912305920724336,0.984247
+4,"4k ultra-realistic photograph of a glass of orange juice with sliced oranges, a few orange peels scattered around the serving area, perfectly diffused lighting",0.931990385055542,0.5702135562896729,43.55179153665387,0.676969
+4,"photorealistic 4k image of a glass of orange juice with sliced oranges, orange peels scattered at foot, slight movement blur",0.928908109664917,0.40356624126434326,37.36572613265495,0.865743
+4,"realistic digital art of a glass of orange juice with sliced oranges, a few orange peels scattered on the surface, subtle bokeh effect",0.9011099338531494,0.5358086228370667,48.95662993513686,0.511634
+4,"highly refined digital painting of a glass of orange juice with sliced oranges, a few orange peels scattered on the counter, delicate atmospheric perspective",0.8325865864753723,0.687615156173706,57.34270360309344,0.000000
+5,"highly detailed 8k digital oil painting of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, soft focus photography style",0.928712010383606,0.3939874768257141,35.43874983315652,0.893688
+5,"ultra realistic 4k digital artwork of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, slight blur effect",0.9158809185028076,0.382022500038147,36.6245877036944,0.834694
+5,"vibrant 8k digital painting of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, warm lighting, soft focus",0.9407650232315063,0.4061511158943176,36.80767567668188,0.921219
+5,"realistic digital portrait of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, minimalist background, shallow depth of field",0.9386012554168701,0.46141138672828674,50.36452456899005,0.719032
+5,"photorealistic 8k digital art of a glass of freshly squeezed orange juice with sliced oranges, a few orange peels scattered around the rim, dramatic lighting, slight lens distortion",0.9257612228393555,0.4312885105609894,39.730481452347966,0.803856

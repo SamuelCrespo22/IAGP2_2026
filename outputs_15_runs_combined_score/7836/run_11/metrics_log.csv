@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.847860
+1,astronaut standing on a barren alien surface with a bright shining star in the background,0.8042290806770325,0.5496134757995605,34.11576800980555,0.646882
+1,highly detailed astronaut standing on a planetary surface with warm golden light,0.7156596183776855,0.7087405323982239,41.73317122314514,0.156217
+1,astronaut standing on a rugged distant world with a massive celestial body shining in the sky,0.8638606667518616,0.6022095084190369,34.54060538634735,0.781538
+1,detailed digital painting of an astronaut standing on a planet with a vibrant explosion of light,0.8309738636016846,0.5128138065338135,44.088359588689706,0.669827
+1,astronaut standing on a mysterious alien surface with an intense bluegreen light illuminating a vast landscape,0.876020610332489,0.5708033442497253,46.022141077631254,0.740008
+2,astronaut standing on the rugged surface of a distant alien world with a bright blue light shining in the background,0.8469080924987793,0.6105354428291321,51.112867879852764,0.565770
+2,a highly detailed astronaut standing on the barren surface of a mysterious planet with a vibrant orange glow emanating from the sky,0.7786350250244141,0.6427481174468994,38.860236719701554,0.438848
+2,a realistic astronaut standing on the rocky terrain of a desolate planet with a powerful flashlight shining in the background,0.7605775594711304,0.6406691074371338,34.59390447747302,0.424427
+2,astronaut in a futuristic spacesuit standing on the icy surface of a cold and distant planet with a massive star shining in the background,0.7906506657600403,0.6435505747795105,46.85666587221049,0.400595
+2,a highly detailed and digitally painted astronaut standing on the sandy surface of a distant exoplanet with a warm golden light shining in the background,0.8077812194824219,0.7440085411071777,53.05428961840769,0.305563
+3,astronaut standing on the surface of a mysterious alien planet with a bright beam of sunlight shining in the background,0.8334758281707764,0.5697303414344788,40.35825905317035,0.661439
+3,highly detailed astronaut exploring the barren yet serene surface of a distant exoplanet under a vibrant aurora,0.8297926187515259,0.5209209322929382,33.4922776143857,0.758232
+3,4k astronaut standing on a rugged rocky outcropping on a remote extraterrestrial world with a glowing nebula in the sky,0.8696372509002686,0.6690249443054199,37.42035021606276,0.712469
+3,realistic digital painting of an astronaut in a spacesuit standing on a desolate yet beautiful alien landscape with a stunning celestial event,0.7759065628051758,0.7104651927947998,49.05394059534173,0.273855
+3,astronaut in a state-of-the-art spacesuit standing on the dusty surface of a remote alien world illuminated by a brilliant star in the clear night sky,0.7858765721321106,0.5850584506988525,34.63377861362489,0.552933
+4,Astronaut standing on the dusty surface of a foreign terrestrial planet at sunset with a bright light shining in the background,0.8310564756393433,0.7580373287200928,53.66399011459838,0.359803
+4,"A lone astronaut standing on a barren, rocky alien world with a massive sun setting behind them",0.8450354337692261,0.7349342703819275,51.76272198391836,0.441992
+4,"A highly detailed astronaut standing on the surface of a mysterious, uncharted extraterrestrial planet with a bright light shining in the background",0.7924119830131531,0.5739609003067017,30.28478441584582,0.624076
+4,"A detailed, photorealistic astronaut standing on the desolate, cratered surface of a distant celestial body with a massive light source in the background",0.7628899812698364,0.6200603246688843,36.42641326498421,0.432980
+4,"Highly detailed astronaut standing in the foreground on a barren, alien world with a massive, blazing star in the background of a stunning space scene.",0.855610728263855,0.47997409105300903,30.015575349982793,0.908153
+5,"Highly detailed astronaut standing in the foreground on a desolate, alien world with a gigantic, blazing starburst in the background of a breathtakingly realistic space scene.",0.8110009431838989,0.507474958896637,32.75456653322798,0.718648
+5,"A highly realistic astronaut standing in the foreground of a barren, alien landscape under a massive, blazing sun's rays",0.8157780766487122,0.7169947624206543,52.530053058803524,0.359701
+5,"Astronaut standing in sharp relief on a dusty, foreign planet against the backdrop of a tremendous, blazing star in a photorealistic space painting.",0.7763686776161194,0.6224534511566162,43.612510728885866,0.405458
+5,"A highly detailed astronaut standing in the foreground of a barren, alien wasteland at the base of a colossal, blazing star in a visually stunning space scene.",0.8458430171012878,0.48865729570388794,31.428516414129962,0.856639
+5,"Highly detailed astronaut standing in sharp relief in the foreground on a barren, alien wasteland at the base of a gigantic, blazing star in a breathtakingly realistic space artwork.",0.8526980876922607,0.5224283933639526,27.00772689540773,0.889112

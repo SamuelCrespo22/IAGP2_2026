@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,"realistic, highly detailed, oil painting style digital portrait of a small, cute, prickly hedgehog peacefully standing on a tiny, layered, creamy white pound cake square base",0.7121217250823975,0.5452688932418823,43.10999026813288,0.8899891558604578,run_1,0.8984137432714387,0.09097271975520262,0.14589814334584372
+5,"highly realistic, photorealistic, detailed digital portrait of a small, adorable, prickly hedgehog standing proudly on a tiny, delicate, pure white layered pound cake square base",0.733936607837677,0.5861439108848572,47.42550700127877,0.8715093397479359,run_1,0.9758298488368748,0.23446497442215497,0.2311573642598512
+5,"'highly detailed, glossy 8k edible chocolate sculpture with delicate hedgie perched on it'",0.7083081007003784,0.5698396563529968,47.08328074824605,0.8420338043164004,run_12,0.8848800492765052,0.17722868736106276,0.22439619392634635

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.470909
+1,highly realistic highly detailed digital painting of a small hedgehog sitting on top of a block of cake,0.6616325378417969,0.57015460729599,45.65895670756347,0.882608
+1,a close-up view of a small hedgehog perched on top of a dense richly frosted block of cake,0.6349526643753052,0.749933123588562,64.20204818255944,0.342712
+1,a highly detailed small cute hedgehog is sitting comfortably on top of a moist decadent chocolate cake,0.6134170293807983,0.5925935506820679,47.41552712148137,0.582523
+1,realistic digital painting of a tiny hedgehog sitting on a block of perfectly iced vanilla cake,0.6558665037155151,0.7117528915405273,67.16375946577001,0.463958
+1,a small spiky adorable hedgehog is sitting proudly on top of a large slice of chocolate cake with a sprinkle of edible gold dust,0.602281928062439,0.6170620322227478,47.13493771098357,0.499416
+2,highly realistic digital painting of a small adorable hedgehog sitting on top of a block of decadent chocolate cake,0.5932549238204956,0.602922797203064,49.085482959202345,0.445896
+2,highly detailed digital artwork of a solitary hedgehog resting on a slice of moist vanilla cake,0.6100659966468811,0.7344880104064941,57.994994379892255,0.294371
+2,photo-realistic highly detailed painting of a small hedgehog perched on top of a tiered cake with colorful frosting,0.5994672775268555,0.715859055519104,58.101500389698884,0.257344
+2,highly realistic highly detailed 4k digital painting of a cute hedgehog snuggled up with a slice of chocolate cake,0.6217633485794067,0.6625532507896423,45.364932790374496,0.572100
+2,oil on canvas style digital painting of a small spiky hedgehog sitting atop a large block of creamy cheesecake,0.6803627610206604,0.6157979369163513,49.042640194538635,0.895476
+3,highly detailed oil on canvas style digital painting of a small spiky hedgehog sitting atop a large block of creamy cheesecake,0.6456607580184937,0.6042561531066895,46.725486071862335,0.748633
+3,digital painting of a small spiky hedgehog sitting on creamy cheesecake with rich oil colors and textures,0.6472535729408264,0.5820817947387695,52.11234771266244,0.723325
+3,photorealistic digital painting of a small spiky hedgehog perched delicately on a block of creamy cheesecake,0.6192529797554016,0.5728340744972229,45.57218005977122,0.655203
+3,4k digital oil painting of a small spiky hedgehog sitting on top of a creamy cheesecake dessert,0.628091037273407,0.6281343102455139,53.21112734565868,0.558887
+3,highly realistic oil on canvas style digital painting of a small spiky hedgehog delicately sitting atop a large creamy cheesecake with subtle highlights and shading,0.6270993947982788,0.6237618327140808,50.51612892995982,0.587525
+4,highly detailed oil on canvas digital painting of a small spiky hedgehog sitting atop a large block of creamy cheesecake,0.6463695168495178,0.6030474901199341,46.637120772600795,0.754686
+4,small highly detailed digital painting of a spiky hedgehog perched atop a large creamy cheesecake in a cozy dimly lit room,0.6582720279693604,0.6395204067230225,48.87637623465143,0.753688
+4,4k detailed digital artwork of a small cute spiky hedgehog on top of a giant wedge of creamy cheesecake,0.6495245695114136,0.700411319732666,59.075944350897515,0.530042
+4,realistic oil on canvas style digital painting of a tiny adorable spiky hedgehog enjoying a large slice of creamy cheesecake,0.6715456247329712,0.5945730209350586,51.86441410014358,0.841459
+4,highly realistic digital painting in the style of a classic oil on canvas of a spiky hedgehog sitting atop a large block of creamy cheesecake on a decorative lace tablecloth,0.6052404046058655,0.6992957592010498,44.76272768876498,0.450309
+5,highly detailed oil on canvas style digital painting of a small spiky hedgehog sitting atop a large block of rich creamy cheesecake with subtle shadows,0.6515833735466003,0.6214119791984558,47.342475635036394,0.754598
+5,vibrant oil on canvas style digital painting of a small cute hedgehog sitting atop a large block of creamy cheesecake on a rustic wooden table,0.6361187696456909,0.6306273341178894,44.01278322938408,0.698169
+5,realistic 4k digital painting of a small spiky hedgehog perched atop a majestic block of creamy cheesecake in a serene summer landscape,0.5863506197929382,0.7974249720573425,60.140923574247964,0.075837
+5,masterful digital oil painting of a small spiky hedgehog sitting on top of a decadent block of creamy cheesecake with delicate texture,0.6486952304840088,0.6239485144615173,50.170183105693326,0.705912
+5,highly detailed photorealistic digital painting of a small spiky hedgehog resting on top of a large block of creamy cheesecake with delicate crumbs and a glass of juice nearby,0.6390917301177979,0.6569585204124451,47.57593429710298,0.646539

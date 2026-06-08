@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.602203
+1,arafat palm tree on a rock in the shallow ocean at twilight,0.8849062919616699,0.7015330195426941,50.472123529401514,0.672211
+1,a beautiful arafat palm tree on a rock in the ocean at warm sunset,0.8869093656539917,0.7173781394958496,53.192344244700706,0.627651
+1,highly detailed arafed palm tree on a rock partially submerged in the ocean at golden hour,0.8848090767860413,0.7481321096420288,60.67967897348915,0.476671
+1,serene arafed palm tree on a large rock in the ocean at a colorful sunset,0.8750377297401428,0.7152314782142639,55.61651008067464,0.526649
+1,a stunning arafed palm tree on a dramatic rock in the ocean at a vibrant sunset,0.8945057392120361,0.7987009882926941,65.98974429509605,0.396015
+2,arafat palm tree on a granite rock in the shallow warm waters at blue hour,0.8999337553977966,0.6744474172592163,50.72900016282138,0.805879
+2,arafat palm tree silhouetted against a granite rock in the shallow ocean at golden twilight,0.8649256825447083,0.7268068194389343,57.418545142728135,0.423132
+2,highly detailed arafat palm tree on a rugged granite rock jutting out into the shallow ocean at sunset,0.8850573301315308,0.7812193036079407,58.139507323016225,0.457890
+2,detailed digital painting of arafat palm tree on a rock in the shallow waters at twilight,0.8965263366699219,0.6943491697311401,50.187681340045295,0.760192
+2,arafat palm tree standing on the edge of a granite rock in calm shallow waters at the start of dusk,0.8931213617324829,0.6916544437408447,53.2755406059938,0.705570
+3,arafat palm tree highly detailed on a weathered granite rock in the shallow warm crystal clear waters at golden hour,0.8984223008155823,0.7571156620979309,53.21712096385731,0.638919
+3,arafat palm tree in a serene setting with a granite rock in the foreground of the shallow warm waters at twilight,0.8318806886672974,0.6595287322998047,48.81380001675487,0.421629
+3,a palm tree identical to that of arafat on a rough granite rock partially submerged in the shallow calm waters at dusk,0.8372316360473633,0.7528642416000366,62.25470825801255,0.149521
+3,a beautiful highly detailed painting of a palm tree on a granite rock in the serene shallow waters at sunset,0.8991023898124695,0.7514982223510742,53.031816056458574,0.654111
+3,arafat palm tree on a rugged granite rock in the peaceful shallow waters under a clear blue sky at midnight blue hour,0.8850036263465881,0.692531406879425,50.37231083624864,0.687902
+4,arafat palm tree on a rugged granite rock in the shallow serene warm waters at golden hour,0.8928433656692505,0.6853768825531006,50.79104705952788,0.743452
+4,arafat palm tree on a weathered granite rock in the shallow tranquil warm shallow waters at blue hour,0.8650709986686707,0.6948808431625366,51.34719455617243,0.546477
+4,a beautiful arafat palm tree on a rough granite rock in the shallow warm waters at sunset with a warm tone,0.8821923732757568,0.7236713767051697,54.76329567321601,0.569177
+4,arafat palm tree on a granite rock in the shallow calm warm waters at twilight with a 4k resolution,0.9109496474266052,0.710666835308075,50.15081089871837,0.826698
+4,highly detailed arafat palm tree on a granite rock in the shallow peaceful warm waters at blue hour in the style of a digital painting,0.9052326083183289,0.6936594843864441,51.29209690789837,0.802989
+5,arafat palm tree at twilight on a granite rock in a shallow calm warm sea with highly detailed 4k resolution,0.8882845640182495,0.7167061567306519,50.21736192019031,0.673264
+5,arfat's tranquil palm tree silhouette on a granite rock in shallow waters at dusk with 4k resolution and realistic textures,0.8886535167694092,0.717042088508606,64.01540099381454,0.508659
+5,arfat standing in front of a tall palm tree on a granite rock in a serene shallow sea at twilight with highly detailed 4k resolution and warm lights,0.855923056602478,0.6364700198173523,50.44488081180834,0.589524
+5,palm tree landscape at twilight with a granite rock and calm shallow waters in the foreground and a 4k resolution with realistic colors,0.8982074856758118,0.7073383331298828,50.99962549342193,0.741014
+5,arfat standing under a swaying palm tree on a granite rock in a shallow calm sea at twilight with 4k resolution and highly realistic digital painting style,0.8618277311325073,0.6661559343338013,45.262123077888646,0.643627

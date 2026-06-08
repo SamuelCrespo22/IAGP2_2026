@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.623383
+1,highly detailed small grey hedgehog sitting on top of a single block of vanilla cake,0.6369615793228149,0.7751840353012085,66.51901655208154,0.474768
+1,highly detailed small grey hedgehog sitting on top of a single block of decadent chocolate cake,0.6015779376029968,0.6769793629646301,50.097593946246725,0.560262
+1,small real hedgehog sitting on top of a single block of traditional British cake,0.6173401474952698,0.6842100620269775,52.26677706397544,0.600902
+1,an incredibly realistic small hedgehog is sitting on top of a single block of moist chocolate cake,0.6287900805473328,0.6106525659561157,48.02449691526316,0.756543
+1,small adorable hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6383408904075623,0.609402596950531,45.524991206527254,0.818315
+2,small adorable brown hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6363006830215454,0.5914222002029419,43.59403756190003,0.843576
+2,highly detailed miniature hedgehog sitting daintily on top of a moist chocolate cake with smooth velvety frosting,0.6311421394348145,0.5936921834945679,45.5411584904689,0.803690
+2,delicate pastel pink hedgehog posed adorably on top of a decadent triple-layer chocolate cake with delicate piping,0.5478115677833557,0.6877697706222534,73.7303283816422,0.129634
+2,charming little hedgehog delicately climbing up a towering block of dark chocolate cake with rich creamy frosting,0.622994065284729,0.6248050928115845,47.58211611237328,0.722030
+2,small adorable spiky hedgehog posed elegantly on top of a single block of fluffy chocolate cake with intricate handcrafted frosting designs,0.6516013145446777,0.644665002822876,47.509912562282295,0.822319
+3,small brown and white hedgehog perched delicately on top of a rich double-layer chocolate cake with intricate frosting designs,0.5374613404273987,0.6305804252624512,43.53590339836043,0.393023
+3,"highly detailed, vibrant and colorful small hedgehog curled up on top of a classic vanilla chocolate marble cheesecake",0.6314738392829895,0.7313150763511658,73.01134962846248,0.441511
+3,adorable little brown spiky hedgehog eating from a single slice of decadent moist chocolate cake,0.6573234796524048,0.6760307550430298,51.29547217408773,0.783822
+3,sweetly posed brown and grey hedgehog surrounded by fluffy whipped cream on a rich mocha-flavored chocolate cake,0.6565146446228027,0.6967786550521851,52.06581655305704,0.753549
+3,charming realistic illustration of small brown hedgehog delicately nibbling on the edge of a rich chocolate lava cake,0.5778684616088867,0.5853985548019409,46.68302686412808,0.580210
+4,small adorable brown hedgehog standing delicately atop a single velvety chocolate cake with intricate swirling frosting designs,0.6266447305679321,0.577558696269989,45.040893924470545,0.805029
+4,highly detailed small adorable brown hedgehog perched delicately on top of a rich moist chocolate cake with delicate lace frosting patterns,0.6187183856964111,0.5881438851356506,46.574246792100496,0.748799
+4,small endearing brown hedgehog delicately resting on top of a decadent single block of chocolate cake with ornate intricate frosting designs,0.5969136357307434,0.6727679371833801,48.984491138634915,0.554187
+4,adorable brown hedgehog posed gracefully on top of a rich decadent single block of chocolate cake with delicate lace and swirl frosting details,0.6059696674346924,0.6978083848953247,53.24984515132289,0.531881
+4,small adorable brown hedgehog poised delicately on top of a luxurious moist single block of highly detailed chocolate cake with intricate and ornate frosting designs,0.5848796963691711,0.6461652517318726,49.61184198216836,0.525105
+5,small endearing brown hedgehog perched delicately on top of a single block of rich chocolate cake with intricate frosting designs,0.6384803056716919,0.5995726585388184,44.293940297070804,0.838811
+5,highly detailed 4k image of a small adorable brown hedgehog sitting delicately on a single block of rich chocolate cake with intricate frosting designs,0.6173609495162964,0.6169739961624146,50.38814344956433,0.683044
+5,cute brown hedgehog posed delicately atop a rich moist single block chocolate cake with elaborate frosting art,0.600675642490387,0.5966095328330994,46.97255199298316,0.661864
+5,small delightful brown hedgehog sitting on the top of a single slice of decadent rich chocolate cake with beautiful intricate frosting patterns,0.6387629508972168,0.602194607257843,48.70849267074039,0.800846
+5,a delicate realistic 4k image of a small round adorable brown hedgehog posed perched on a single block of creamy rich chocolate cake with stunning intricate frosting designs,0.6092921495437622,0.522420346736908,46.62412818485271,0.774070

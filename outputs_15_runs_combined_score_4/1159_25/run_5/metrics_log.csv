@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"glass of fresh orange juice with orange slice garnish and ice, sliced oranges scattered around, warm dramatic food photography lighting",0.9364919662475586,0.5769136548042297,43.38196216562061,0.752328
+1,warm and inviting glass of freshly squeezed orange juice,0.9161217212677002,0.6034175753593445,44.343935840374485,0.659310
+1,"glass of orange juice with vibrant slices of orange and ice, garnished with an orange slice, amidst a scattered arrangement of sliced oranges",0.9232615828514099,0.5952979326248169,49.77466252963323,0.641878
+1,"highly detailed, photorealistic, 4k resolution image of a glass of orange juice on a wooden table, with sliced oranges and ice, under warm and golden lighting",0.9407602548599243,0.5292114019393921,41.43721450682596,0.816625
+1,"a classic still life of orange juice with an orange slice garnish, shot in a studio with softbox lighting to create a beautiful warm atmosphere",0.8790915608406067,0.6933178305625916,62.43991802971107,0.321132
+1,"stunning, highly realistic image of a glass of freshly squeezed orange juice with an orange slice garnish, surrounded by sliced oranges on a rustic wooden table in warm natural light",0.9238948822021484,0.585695743560791,48.14915231184687,0.664616
+2,"highly detailed, photorealistic, 8k resolution image of a glass of orange juice on a wooden table",0.9366148710250854,0.40521523356437683,37.22508500004579,0.927197
+2,"highly detailed, cinematic, 4k resolution image of a glass of freshly squeezed orange juice on a rustic wooden table",0.9300415515899658,0.4797341823577881,36.03030843350917,0.863169
+2,"highly detailed, photorealistic, 4k resolution image of a glass of orange juice with sliced oranges and ice on a wooden table with a warm and inviting atmosphere",0.9381153583526611,0.5283831357955933,41.92320499444973,0.804500
+2,"a highly detailed, cinematic, 4k resolution image of a steaming glass of orange juice on a wooden table with fresh orange slices and melting ice",0.8977034091949463,0.3544985055923462,34.487487948477536,0.860522
+2,"highly detailed, realistic, 4k resolution oil on canvas painting of a glass of orange juice on a wooden table with sliced oranges and a few ice cubes under warm and inviting lighting",0.8903055787086487,0.6456863880157471,51.22619584991097,0.486950
+3,"highly detailed, ultra-realistic, 8k resolution image of a glass of freshly squeezed orange juice on a rustic wooden table",0.9332903623580933,0.49976009130477905,35.69381044635372,0.862340
+3,"photorealistic, crisp, 8k resolution image of a glass of orange juice on a wooden table with a slight blur effect",0.9340549111366272,0.44869494438171387,39.15015929620817,0.871600
+3,"highly detailed, realistic, macro image of a glass of orange juice on a wooden table with a subtle golden glow",0.9127894043922424,0.4600960910320282,42.40192243508381,0.766876
+3,"highly detailed, 8k resolution digital painting of a glass of orange juice on a wooden table with a warm, cozy atmosphere",0.7899754047393799,0.688278317451477,61.8689580556965,0.040900
+3,"highly detailed, photorealistic, 8k resolution image of a glass of orange juice on a wooden table with a soft focus and subtle reflections",0.9334855675697327,0.45627301931381226,40.613985998072394,0.851886
+4,"highly detailed, photorealistic, 4k resolution image of a glass filled with freshly squeezed orange juice on a rustic wooden table",0.9221386909484863,0.46910595893859863,36.72901003751237,0.839156
+4,"highly detailed, ultra-realistic, 8k resolution image of orange juice and ice cubes on a dark wood table in a quiet morning atmosphere",0.7864103317260742,0.6192214488983154,63.793359828266695,0.061982
+4,"a highly realistic, photorealistic, close-up 4k image of a glass of orange juice on a wooden table with subtle shadows",0.9077951312065125,0.533552885055542,41.79730818046339,0.703683
+4,"a photorealistic masterpiece of a wooden table with a glass of freshly squeezed orange juice, surrounded by a blurred subtle background and soft lighting",0.9189830422401428,0.7064900398254395,60.55239648229596,0.457103
+4,highly detailed 8k digital painting of a glass of orange juice on a handcrafted wooden table with a natural fiber tablecloth and ambient softbox lighting,0.8470661640167236,0.6831420063972473,56.92517543060757,0.271661
+5,"highly detailed, hyper-realistic, 8k resolution image of a glass of freshly squeezed orange juice on a rustic wooden table",0.9307070970535278,0.48543354868888855,36.709473870165496,0.855483
+5,"highly detailed, photorealistic, 16k resolution image of a glass of orange juice on a distressed wooden table",0.9288891553878784,0.5111140012741089,44.883478696845614,0.761624
+5,"a highly realistic, 8k resolution still life of a glass of orange juice sitting on a beautiful, weathered wooden table",0.9030030369758606,0.6482824087142944,55.33416444085339,0.491194
+5,"photorealistic, 4k resolution image of a glass of orange juice on a simple, hand-carved wooden table with a subtle background",0.9306304454803467,0.5667626261711121,47.56921603083784,0.704830
+5,"highly detailed, ultra-realistic, 8k resolution still life of a glass of ice-cold orange juice on a rich, dark wooden table",0.9132988452911377,0.5626919269561768,56.6103865294568,0.574449

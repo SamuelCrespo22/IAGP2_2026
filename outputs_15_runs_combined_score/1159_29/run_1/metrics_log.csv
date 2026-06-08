@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.513872
+1,arafet palm tree on a boulder in the ocean at golden hour,0.8867843151092529,0.686712920665741,49.72168084577405,0.615231
+1,"a beautiful, highly detailed arafed palm tree on a rugged rock in the ocean at sunset",0.8740097284317017,0.7616267204284668,56.307243465313995,0.387765
+1,"an arafed palm tree leaning on a rock at sunset on a warm, tropical ocean",0.8777416348457336,0.6901107430458069,52.61497361102132,0.530139
+1,"a stunning, highly realistic arafed palm tree standing on a rocky outcropping in the ocean at dusk",0.8916614055633545,0.7497367858886719,59.37369048758485,0.445622
+1,"a majestic, highly detailed arafed palm tree on a small rock in the serene, blue ocean at sunset",0.8830248117446899,0.6871774196624756,51.476268404554965,0.573656
+2,arafet palm tree on a rocky outcropping in the turquoise ocean at sunset,0.8800889849662781,0.7088209390640259,52.10053094436203,0.528285
+2,arafet palm amidst a cluster of boulders in the calm blue ocean at golden hour,0.8418808579444885,0.7485384345054626,55.897608311735034,0.251856
+2,highly detailed arafet palm tree perched on a massive granite boulder in the warm ocean at dawn,0.8936747312545776,0.7232592105865479,54.01344424469862,0.553551
+2,a distant arafet palm tree stands on a rugged stone outcropping overlooking the vast ocean at blue hour,0.8362313508987427,0.7902189493179321,59.361758801243994,0.134953
+2,highly realistic arafet palm tree on a boulder in the ocean at the moment the sun touches the water,0.8715929985046387,0.5553193092346191,42.49303326321558,0.776128
+3,highly realistic arafet palm tree on a boulder in the ocean at the precise moment the sun touches the water,0.89010089635849,0.5802578330039978,44.89365683519328,0.807622
+3,highly detailed digital painting of arafet palm tree on a boulder in the ocean as the sun sets on the horizon,0.9179410934448242,0.7534987330436707,56.35956401695527,0.607931
+3,highly realistic 4k masterpieces of arafet palm tree on rocks in the ocean at dawn with soft warm sunlight,0.8943104147911072,0.7316537499427795,57.03214116205853,0.508252
+3,stunningly realistic arafet palm tree on a weathered boulder in the ocean with calm sea and gentle sun rays,0.8686165809631348,0.6156174540519714,45.1149148532749,0.663325
+3,highly realistic oil painting style arafet palm tree on a rugged boulder in the ocean with the sun breaking the horizon,0.8144264817237854,0.642980694770813,45.722545657141154,0.364514
+4,highly realistic ultra-detailed arafet palm tree on a dramatic boulder in the ocean at the precise moment the sun touches the calm water,0.8538484573364258,0.5944212675094604,44.57412976489793,0.621615
+4,extremely high-res digital painting of an arafet palm tree on a rugged rocky outcropping in the ocean at sunrise,0.8530030250549316,0.7511589527130127,56.21736455411853,0.298613
+4,"photorealistic, 4k resolution depiction of a single arafet palm tree on a boulder in the ocean at the exact moment the sun sets into the sea",0.8750756978988647,0.7507258057594299,59.44717148718048,0.363496
+4,highly detailed masterwork of an arafet palm tree growing precariously on a massive ocean rock at the precise instant the morning sun breaks the horizon,0.8826075792312622,0.7493718862533569,57.06750589627095,0.432405
+4,"highly realistic, highly detailed, and exquisitely rendered arafet palm tree on a small boulder in the ocean at the exact moment the sun's first light touches the gentle ocean waves",0.9119345545768738,0.7143129110336304,54.01688161946683,0.651227
+5,highly realistic arafet palm tree on a rugged granite boulder in the ocean at the precise moment the sun touches the water,0.9090167284011841,0.7133066058158875,51.82124767757566,0.666888
+5,highly detailed 4k digital painting of an arafet palm tree on a weathered limestone boulder in the ocean at sunrise,0.8781798481941223,0.7646120190620422,55.274203045060084,0.418226
+5,"highly detailed, photorealistic rendering of an arafet palm tree standing proudly on a granite outcropping in the calm ocean at dawn",0.891951322555542,0.7733210325241089,61.62985046478249,0.392447
+5,"a highly realistic arafet palm tree on a massive boulder, partially submerged in the crystal-clear ocean at the exact moment the sun breaks through the horizon",0.9099142551422119,0.6873410940170288,52.349697899394585,0.691954
+5,"highly detailed, realistic digital painting of an isolated arafet palm tree standing alone on a rocky outcropping, overlooking the calm and peaceful ocean at dawn",0.8486380577087402,0.7654480934143066,57.36761696502672,0.247294

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.265500
+1,painting of a mouse with vibrant iridescent scales and a radiant kaleidoscopic background,0.7758983969688416,0.7181432247161865,40.77788117753957,0.634778
+1,mouse portrait with intricate colorful scales and a stunning shimmering atmosphere,0.7131850719451904,0.7559568881988525,33.94759377456735,0.432123
+1,detailed painting of a mouse with luminous multicolored scales and a mesmerizing vibrant glow,0.7920917272567749,0.6341859698295593,37.53158816038399,0.815011
+1,delicate depiction of a mouse adorned with shimmering rainbow-colored scales against a brilliant backdrop,0.7869884967803955,0.7481940388679504,43.134129198538574,0.616297
+1,highly realistic image of a mouse with luminous pastel-colored scales and a dreamlike ethereal environment,0.731732964515686,0.7682412266731262,64.64708760269643,0.268270
+2,highly detailed vibrant digital painting of a mouse with luminous iridescent scales and a mesmerizing enchanting glow,0.8280531167984009,0.7373062968254089,46.49088347779447,0.738968
+2,detailed fantasy digital artwork of a majestic mouse with radiant multicolored scales and a captivating soft glow,0.7501388192176819,0.5982727408409119,34.797123658829086,0.744581
+2,realistic 4k digital painting of a mouse with shimmering opalescent scales and a delicate warm light,0.6878764629364014,0.6976282000541687,49.35261042742661,0.320692
+2,exquisite masterpiece of a stylized mouse with luminous prismatic scales and a captivating ethereal aura,0.6959277987480164,0.7955843806266785,70.89507034892105,0.076614
+2,detailed watercolor-inspired digital art of a mouse with glowing pastel scales and a soft serene light effect,0.7354861497879028,0.7226806879043579,68.52202070127636,0.311804
+3,detailed digital painting of a mouse with iridescent colors and a hypnotic radiant glow,0.8079872131347656,0.6912103891372681,40.48673175025618,0.773699
+3,a realistic highly detailed 4k image of a mouse with gleaming multicolored scales and an ethereal aura,0.6986744999885559,0.734591543674469,40.72475187370325,0.366839
+3,a stunning masterpiece of a mouse with shimmering colors and a dazzling luminescent sheen,0.7806006073951721,0.6909983158111572,43.40198629703686,0.666484
+3,painting of a tiny mouse with vibrant rainbow-colored scales and an otherworldly soft glow,0.786191463470459,0.6675658822059631,44.05457926872793,0.709673
+3,a highly realistic digital portrait of a mouse with luminous colors and a mesmerizing halo of light,0.7016134858131409,0.6871848702430725,36.67684200397308,0.463712
+4,detailed painting of a mouse with iridescent multicolored scales and a captivating vibrant glow,0.822405219078064,0.6150920391082764,37.04880397992321,0.939607
+4,highly detailed digital painting of a mouse with luminous pastel scales and a mesmerizing soft glow,0.7458060383796692,0.6959543228149414,48.47368262324703,0.514391
+4,detailed digital artwork of a mouse with radiant multicolored scales and a captivating ethereal aura,0.8037224411964417,0.6916565895080566,39.16353885795953,0.768421
+4,4k rendering of a mouse with vibrant luminous scales and a mesmerizing warm glow,0.7858699560165405,0.7077049016952515,51.10880583572298,0.610054
+4,"highly detailed, realistic digital painting of a mouse with luminous multicolored scales and a captivating shimmering aura.",0.796724796295166,0.6705875992774963,38.725254929478744,0.775658
+5,detailed high resolution digital painting of a mouse with iridescent multicolored scales and a captivating vibrant glow,0.7448219656944275,0.7039815783500671,40.44975107845793,0.555360
+5,"highly detailed, realistic digital artwork of a mouse with shimmering, iridescent scales and an ethereal, radiant glow",0.7200347185134888,0.7823715806007385,43.541232584807936,0.355690
+5,"4k, photorealistic painting of a mouse with intricate, multicolored scales and a captivating, luminescent aura",0.7368398308753967,0.6886885762214661,38.45258085946964,0.562672
+5,"detailed oil painting of a mouse with iridescent, multicolored scales and a captivating, vibrant glow in a warm, sunlit environment",0.7460658550262451,0.6560311913490295,39.607670869269356,0.625798
+5,"highly detailed, cinematic digital portrait of a mouse with shimmering, iridescent scales and an otherworldly, radiant glow in a mystical, ancient forest.",0.7502583265304565,0.7252733111381531,41.53084551233632,0.538488

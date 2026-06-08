@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.684775
+1,a solitary palm tree on a rocky outcropping in the calm ocean at sunset,0.8299620151519775,0.7765092849731445,64.92504282931051,0.289713
+1,an isolated palm tree poses on a rock formation in the serene ocean at golden hour,0.8297594785690308,0.7618166208267212,62.08865498400348,0.343558
+1,an australian palm tree on a rugged boulder in the calm ocean at high sunset,0.881813645362854,0.7052527070045471,53.342250703665854,0.698281
+1,a majestic palm tree stands on a weathered rock in the clear ocean at warm sunset,0.8946906328201294,0.7353615760803223,56.41215042527008,0.663759
+1,a majestic palm tree on a granite outcropping in the tranquil ocean at fading light,0.8885905146598816,0.6605883836746216,49.040770185529325,0.831943
+2,"majestic, isolated palm tree on a weathered granite outcropping in the serene ocean at golden hour",0.8700284361839294,0.7105251550674438,52.52074099367027,0.662913
+2,tranquil palm tree on a rugged granite outcropping in the crystal-clear ocean at dusk,0.8940725326538086,0.716454029083252,52.38435458673467,0.736631
+2,"highly detailed, 4k masterpiece of a towering palm tree on a windswept granite outcropping in the gentle ocean at fading light",0.8715938329696655,0.7337812781333923,53.90972492511155,0.620901
+2,a majestic palm tree on a dramatic granite outcropping in the calm ocean at the end of the day,0.8957340717315674,0.6394264698028564,48.76364327966477,0.886081
+2,"a delicate, highly detailed palm tree on a moss-covered granite outcropping in the peaceful ocean at soft focus, golden hour.",0.8979106545448303,0.730424702167511,56.69206478431373,0.677185
+3,highly detailed majestic palm tree on a rugged dramatic granite outcropping,0.75542151927948,0.6725329160690308,52.19909890475564,0.336207
+3,the majestic palm tree stands proudly on a granite rock formation in the serene ocean waters at sunset,0.869562566280365,0.7522687911987305,54.912712061548184,0.577940
+3,"a stunning, highly realistic palm tree on a unique granite outcropping in the tranquil ocean as the day comes to a close",0.8839651942253113,0.6822537183761597,49.63023922631776,0.781557
+3,a dramatic dramatic and vibrant palm tree on a granite cliff overlooking the vast calm ocean waves,0.8695061802864075,0.6027373671531677,46.27301328957916,0.877516
+3,a highly detailed and breathtakingly beautiful palm tree on a majestic granite outcropping in the peaceful ocean at dusk,0.9065204858779907,0.6807960271835327,47.955858208148406,0.879168
+4,majestic and highly detailed palm tree on a rugged granite outcropping in the serene ocean at sunset,0.8805981278419495,0.7606128454208374,54.33755060222867,0.611062
+4,majestic palm tree in the center of a dramatic granite formation partially submerged in the calm ocean at the end of the day,0.8723671436309814,0.7058439254760742,60.60249328576036,0.574718
+4,a highly realistic and vibrant palm tree on a dramatic granite outcropping overlooking the tranquil ocean at twilight,0.8552099466323853,0.7225846648216248,51.7315858495553,0.608439
+4,stunningly beautiful landscape of a majestic palm tree standing tall on a rugged granite outcropping in the peaceful ocean,0.8185476660728455,0.6461828351020813,52.02727757095958,0.580889
+4,highly detailed and photorealistic image of a palm tree on a dramatic granite outcropping at the edge of the ocean in the golden hour,0.8606172204017639,0.7573469877243042,57.780347079020295,0.505699
+5,majestic granite outcropping with a majestic palm tree overlooking the calm ocean at the end of the day,0.8773444890975952,0.6577720642089844,50.93341147620402,0.774457
+5,dramatic palm tree on a rugged granite outcropping in the serene ocean at sunset,0.8777757883071899,0.7721080780029297,56.12795656518445,0.564477
+5,highly detailed majestic palm tree standing proudly on a granite outcropping with gentle ocean waves in the background,0.8160068392753601,0.605098307132721,50.80496466499118,0.640323
+5,palm tree and granite outcropping at golden hour in a peaceful ocean scene with soft water,0.8809678554534912,0.7495854496955872,60.58817523892242,0.547540
+5,dramatic highly detailed 4k digital painting of a majestic palm tree on a granite outcropping in the ocean under the warm colors of sunset,0.8764708042144775,0.7986436486244202,66.09917911736507,0.400563

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.668182
+1,highly detailed glass of freshly squeezed orange juice with a slice of orange on the side,0.9271289110183716,0.5053901672363281,40.649312553312114,0.819231
+1,a still life of a glass of orange juice with a slice of orange perfectly placed beside it,0.9247286319732666,0.593877911567688,51.77942208629342,0.608385
+1,glass of vibrant orange juice with a juicy slice of orange nestled next to it,0.9178031086921692,0.5336856842041016,43.0115003559388,0.697695
+1,realistic digital painting of a glass of orange juice and a slice of orange on a subtle wooden table,0.8915135860443115,0.6077296733856201,47.6245510361614,0.380716
+1,4k image of a glass of orange juice with a slice of orange and a few sprinkled ice cubes on the side,0.9369422197341919,0.4491329789161682,39.40184169824662,0.959220
+2,4k ultra-realistic image of a glass of freshly squeezed orange juice with a slice of orange and a few perfectly sprinkled ice cubes on the side,0.9258822798728943,0.47817742824554443,38.013005631802486,0.860936
+2,glass of ice-cold orange juice on a 4k wooden table with a vibrant slice of orange and a few delicate ice cubes,0.9274920225143433,0.4977201223373413,39.137523520516396,0.844146
+2,highly detailed 4k digital painting of a frosted glass of orange juice with a slice of orange and a light dusting of ice cubes on the side,0.8721286654472351,0.6940187215805054,62.862529318156724,0.000000
+2,4k photorealistic image of a chilled glass of orange juice garnished with a slice of orange and a few carefully placed ice cubes on a minimalist table,0.9291530251502991,0.5331629514694214,41.30770774239167,0.802687
+2,highly detailed 4k digital art of a glass of orange juice with a slice of orange and a few sprinkled ice cubes on a subtle stone background,0.9337967038154602,0.48916521668434143,39.291107522548764,0.899143
+3,4k highly detailed realistic image of a glass of freshly squeezed orange juice with a large slice of orange and a few delicate ice cubes on the side,0.9290609359741211,0.4719897508621216,38.55633475487053,0.885757
+3,image of a perfectly crafted glass of orange juice with a thin slice of orange and a few sprinkled ice cubes in a 4k highly detailed realistic style,0.922135055065155,0.4228878319263458,37.73536147173817,0.885771
+3,masterfully lit 4k image of a glass of orange juice with a slice of orange and a few ice cubes garnished with a sprig of mint on the side,0.9044044613838196,0.5651816129684448,40.26820559588913,0.592585
+3,high-resolution 4k digital painting of a glass of orange juice with a slice of orange and a few ice cubes on the side,0.9218681454658508,0.6291417479515076,54.946803137578314,0.522289
+3,highly realistic 4k detailed image of a glass of orange juice with a large slice of orange and a few delicate clear ice cubes on a minimalist white surface,0.9200246930122375,0.5450084209442139,46.30276993675246,0.671647
+4,4k ultra-detailed image of a glass of freshly squeezed orange juice with a slice of orange and a few sprinkled ice cubes on the side,0.911961555480957,0.5185202360153198,41.50040823358204,0.681649
+4,crystal glass of orange juice with orange slice and ice cubes on a minimalist wooden table in high definition,0.9192534685134888,0.5728216171264648,43.08460411298061,0.672071
+4,a still life masterpiece of orange juice with a slice of orange and crushed ice in a beautiful 4k image,0.9112061858177185,0.5853224396705627,48.05596434040192,0.549002
+4,realistic 4k rendering of a glass of orange juice garnished with an orange slice and frozen crystals,0.914833664894104,0.48426902294158936,41.5097601808472,0.735295
+4,highly realistic 4k digital artwork of a glass of orange juice with a slice of orange and ice cubes on the side for a refreshing drink,0.9242620468139648,0.5325215458869934,44.46399456677912,0.734145
+5,4k digital painting of a crystal glass filled with freshly squeezed orange juice and garnished with a thin slice of orange and a sprinkling of crushed ice,0.8926783800125122,0.6234182119369507,53.26711093132199,0.319096
+5,highly detailed realistic image of a glass containing orange juice with a slice of orange on the side and ice cubes,0.9045876264572144,0.5016852617263794,41.29951384180152,0.642285
+5,4k photograph of a glass of orange juice with a vibrant slice of orange and a few ice cubes on a clean white surface,0.9283177852630615,0.4431612491607666,44.17118887152331,0.850741
+5,a highly detailed 4k image of a glass filled with chilled orange juice and a thin slice of orange next to a stack of shaved ice,0.8751277923583984,0.5161471366882324,46.79898616420789,0.346968
+5,4k high-resolution still life of a glass containing orange juice with a slice of orange on the side and crushed ice surrounding it,0.9228024482727051,0.5267658233642578,46.214737850671625,0.710773

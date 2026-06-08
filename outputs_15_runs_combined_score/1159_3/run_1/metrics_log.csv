@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.730709
+1,anime character with a katana and flames in his hand,0.8172686696052551,0.6020304560661316,56.46412239753109,0.795362
+1,highly detailed anime character wielding a sword amidst a wildfire,0.810674250125885,0.6817395091056824,50.32078725424845,0.683361
+1,fantasy anime hero posing with his blazing broadsword,0.779448390007019,0.5993944406509399,43.54219365548855,0.782549
+1,anime warrior with intense fiery explosion in the background,0.76161128282547,0.7188013792037964,57.206941520231084,0.306514
+1,realistic anime style 4k digital painting of a sword-wielding character surrounded by inferno,0.7508924603462219,0.6736576557159424,52.208605888124104,0.405206
+2,"anime character with a katana and flames in hand, highly detailed",0.8097878098487854,0.6082391142845154,53.48148884239471,0.784804
+2,"anime character wields a katana, engulfed in intense flames, 4k digital art",0.805360734462738,0.639441728591919,55.92963816991327,0.674831
+2,"highly stylized anime warrior holding a fiery katana, intricate details",0.7755774259567261,0.6785225868225098,59.00158277401282,0.426976
+2,"majestic anime hero with a blazing katana, vibrant colors and dynamic pose",0.7370544672012329,0.590375542640686,44.315652889461546,0.598423
+2,"realistic anime character, katana and flames, detailed textures, high-contrast lighting",0.7770248055458069,0.6565295457839966,55.44605897138136,0.518670
+3,anime character with katana and flames in highly detailed digital painting style,0.8150609731674194,0.5939971804618835,52.657322420845496,0.846277
+3,anime character wielding a katana with flames engulfing his hand in a highly realistic digital art piece,0.8234758377075195,0.644843578338623,55.49847578031055,0.751693
+3,"a skilled anime warrior with katana and flames in his hand, captured in a 4k resolution digital painting",0.7764017581939697,0.5973880887031555,54.38406720780958,0.643606
+3,"a masterfully crafted anime character holding a katana with flame-covered hand in a dreamlike, surreal digital art scene",0.8224776983261108,0.6260608434677124,58.77697792943223,0.744711
+3,"anime character posing dynamically with katana and flames in his hand, rendered in photorealistic digital art with subtle textures and shading",0.7764995694160461,0.6586388349533081,58.68450433550507,0.473643
+4,anime character with katana in realistic highly detailed 4k digital painting style,0.728508472442627,0.6476800441741943,51.391259987689416,0.363873
+4,anime character wielding katana amidst intense flames in stunning digital art,0.7948189973831177,0.6876741647720337,64.29556520368347,0.433525
+4,highly detailed digital painting of a young anime character holding a burning katana,0.8032814264297485,0.6240519881248474,55.83594781375087,0.696464
+4,anime character with flames surrounding katana in beautiful watercolor digital style,0.7786523699760437,0.6020349264144897,64.5510294092277,0.523794
+4,highly realistic digital painting of a samurai warrior wielding katana amidst fiery backdrop,0.7133492231369019,0.6860673427581787,59.32689443218535,0.125888
+5,anime character with katana and flames in photorealistic 4k digital painting,0.8046419620513916,0.6272983551025391,54.756890531535014,0.709162
+5,"anime character with fiery katana in highly detailed, colorful digital art",0.8100464940071106,0.6535718441009521,56.405073488911725,0.662942
+5,"anime warrior with blazing katana in exquisite, highly detailed digital painting style",0.8041718006134033,0.5923952460289001,47.39709906186317,0.862551
+5,a close-up of an anime character wielding a fiery katana in high-resolution digital painting,0.8172495365142822,0.6517884135246277,56.47866255340057,0.698241
+5,"anime fantasy character with katana and flames in breathtaking, highly detailed 4k digital artwork",0.7634779214859009,0.5939539670944214,51.8301730812672,0.622005

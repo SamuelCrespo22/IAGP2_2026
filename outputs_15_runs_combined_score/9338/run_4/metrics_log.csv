@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.655303
+1,painting of a mouse with a vibrant multicolored tail and a very detailed backdrop,0.7265875339508057,0.6701676845550537,51.11627319547134,0.497834
+1,"highly detailed digital painting of a mouse with a swirly, colorful tail and a soft focus background",0.8026841282844543,0.5693105459213257,49.70797331726612,0.850304
+1,"highly realistic oil painting of a mouse with a fluffy, rainbow-colored tail and delicate fur",0.7967506647109985,0.6206973791122437,39.17329501435307,0.806612
+1,"a realistic 4k digital painting of a mouse with a beautiful, intricately patterned tail in bright colors and a blurred background",0.7601377367973328,0.6325101852416992,35.53055657150917,0.683387
+1,"highly detailed digital artwork of a mouse with a long, curly, multicolored tail and a dreamy, ethereal atmosphere",0.8070931434631348,0.7046741843223572,51.448312647384824,0.728774
+2,"highly realistic, detailed oil painting of a mouse with a fluffy, pastel-colored tail and delicate, velvety fur",0.7440053820610046,0.6759785413742065,45.52017089610047,0.563342
+2,"highly realistic, high-definition oil painting of a mouse with a fluffy, multicolored tail and elegant, silky fur",0.7679960131645203,0.6687349081039429,34.69903033527602,0.676065
+2,"hyper-realistic, 4k oil painting of a mouse with a fluffy, rainbow-colored tail and delicate, downy fur",0.7387736439704895,0.6899310946464539,40.2813471145803,0.545390
+2,"a masterpiece oil painting of a mouse with a long, fluffy, pastel-colored tail and delicate, fine fur",0.7658582925796509,0.6890749335289001,47.26255833284965,0.618337
+2,"highly detailed, traditional oil painting of a mouse with a fluffy, multicolored tail and delicate, soft fur",0.7628111839294434,0.6562398076057434,37.51140428230659,0.664228
+3,"highly realistic 4k digital painting of a mouse with a fluffy, multicolored tail and delicate velvety fur",0.7565101385116577,0.6971002817153931,39.93950200058578,0.597711
+3,"oil on canvas masterpiece of a mouse with a vibrant, rainbow-colored tail and soft, fluffy fur",0.834244430065155,0.5764022469520569,40.950104930486035,0.968949
+3,"highly detailed highly realistic portrait of a mouse with a rainbow-colored tail and delicate, intricately textured fur",0.7048745155334473,0.7520760893821716,50.075524230347135,0.349083
+3,"a finely crafted realistic oil painting of a mouse with a fluffy, bright multicolored tail and delicate soft fur",0.7684078812599182,0.6279833316802979,34.235831864159366,0.718235
+3,"highly realistic still life of a mouse with a fluffy rainbow-colored tail and delicate fine fur in a warm, cozy environment",0.7170906066894531,0.6310335397720337,40.10499099390682,0.531696
+4,"highly detailed oil on canvas masterpiece of a mouse with a bright, multi-colored tail and thick, velvety fur",0.7407411336898804,0.6805672645568848,35.04364224213675,0.573865
+4,"vibrant mouse with a rainbow tail and soft fur, painted on a large canvas in a highly realistic art style",0.7820602655410767,0.5760905742645264,47.668463654572705,0.780739
+4,"oil painting of a mouse with a colorful tail and fluffy fur, reminiscent of a children's storybook illustration",0.7233336567878723,0.6567100286483765,39.60318373480914,0.528509
+4,"delicate watercolor portrait of a mouse with a colorful, swirly tail and delicate, cottony fur",0.6838587522506714,0.8240230083465576,135.42089714445584,0.000000
+4,"highly detailed digital painting of a mouse with a vibrant, rainbow-colored tail and soft, plush fur in a fantasy landscape setting",0.7488030195236206,0.7421321272850037,48.977588865589304,0.506252
+5,"highly detailed, large, oil on canvas, masterpiece of a mouse with an incredibly long, vibrant, rainbow-colored tail and soft, fluffy fur",0.835555911064148,0.6047425270080566,41.446048288501764,0.944462
+5,"oil on canvas, surreal, dreamlike, masterpiece of a majestic mouse with a mesmerizing, rainbow-colored tail and the softest, fur possible",0.8126043081283569,0.5672333240509033,33.70747499927878,0.924351
+5,"highly detailed, 4k digital painting of a mouse with a beautiful, long, vibrant, rainbow-colored tail and soft, silky fur",0.8190021514892578,0.6575524806976318,38.2918592837192,0.846239
+5,"oil on canvas, highly realistic, masterpiece of a mouse with a stunning, multicolored, rainbow-colored tail and the most beautiful, soft, fluffy fur",0.7733850479125977,0.625014066696167,38.249392147955014,0.727666
+5,"vibrant, 4k digital artwork of a mouse with an exquisite, rainbow-colored tail and incredibly soft, cuddly, fluffy fur",0.7741508483886719,0.6269200444221497,49.211897665409055,0.701390

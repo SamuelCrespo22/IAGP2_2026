@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.566505
+1,highly detailed anime character wielding a sword and flames in his hand,0.8316774964332581,0.6182777881622314,51.41785960820336,0.711872
+1,detailed anime fantasy character standing in front of a burning backdrop,0.7941187024116516,0.7448767423629761,66.00838137239907,0.260938
+1,"anime character with a glowing sword and fire in his hand, set in a dark fantasy landscape",0.8201980590820312,0.5307508707046509,47.98543660851754,0.805257
+1,highly stylized anime character with a fiery sword and flames emanating from his palm,0.8118568658828735,0.6767982840538025,66.12218999844615,0.409167
+1,highly detailed digital painting of an anime character holding a burning sword and standing amidst swirling fire and smoke,0.8223392963409424,0.6605185270309448,60.96808435084765,0.524269
+2,highly detailed anime character wielding a katana and flame with a dramatic background,0.8126778602600098,0.6119593977928162,53.708962174324895,0.619980
+2,highly stylized anime warrior holding a sword and engulfed in intense flames,0.7794678807258606,0.6681014895439148,60.21043701251313,0.354393
+2,highly realistic anime character posing with a flaming sword in a medieval-style landscape,0.7282593250274658,0.5923290252685547,42.589828609647725,0.428105
+2,anime artist's interpretation of a brave warrior holding a sword and surrounded by fiery aura,0.8048420548439026,0.682314395904541,55.372892182891235,0.489259
+2,highly detailed digital painting of an anime character wielding a fiery katana in a mystical mystical environment,0.8140158653259277,0.5822829008102417,49.63994203112201,0.703133
+3,highly detailed anime character wielding a katana and intense flames in his hand,0.8143240809440613,0.6214659214019775,55.816316223613775,0.592986
+3,a highly detailed young anime warrior with a sword and fire,0.8142123818397522,0.607695460319519,51.44044912673601,0.655110
+3,a highly detailed anime swordsman standing with a blazing sword,0.81666100025177,0.5958071947097778,49.20986211133461,0.702344
+3,highly detailed anime male warrior holding a powerful flame-licked katana,0.8086133003234863,0.6211591362953186,50.55447009997535,0.626722
+3,highly detailed anime male character holding a fiery katana with determination in his eyes,0.7891824841499329,0.6445579528808594,54.901577451188686,0.476592
+4,highly detailed animated anime character holding a sword with an intense flame in the background,0.8550441861152649,0.6464970707893372,56.950055133258395,0.712304
+4,highly detailed anime warrior posing heroically with a glowing sword in his hand,0.7833667993545532,0.6444634795188904,48.2418497596046,0.524518
+4,incredibly detailed digital painting of an anime character wielding a fiery sword in a misty atmosphere,0.8311612010002136,0.5893380045890808,44.05076021637074,0.821890
+4,highly stylized 4k digital anime art of a sword-wielding character with an explosion of flames,0.7970362305641174,0.6317228078842163,57.80255531901576,0.491731
+4,a highly intricate and realistic anime character fighting with a fiery sword in a dynamic pose with action lines,0.7555863857269287,0.6276600956916809,51.09596083370056,0.404258
+5,incredibly detailed highly realistic digital painting in the style of a Japanese anime master of an anime character wielding an enormous fiery katana in a thick misty atmosphere,0.7870638370513916,0.5835636854171753,49.27395855537998,0.599236
+5,incredibly detailed highly realistic digital painting in the style of a Japanese anime master of an anime character wielding a large fiery katana with an aura of flames in a misty atmosphere,0.8060857057571411,0.6137816905975342,52.56834726043914,0.603973
+5,"highly detailed, highly realistic digital painting of a powerful anime character wielding an enormous, magical, fiery katana in a thick misty atmosphere with dramatic lighting",0.7960124015808105,0.5745115280151367,48.33192694360787,0.655103
+5,"highly detailed, photo-realistic digital painting of an anime character wielding an enormous, magical, fiery katana with an aura of flames in a heavy misty atmosphere with vibrant colors",0.7926045656204224,0.6271829605102539,55.7789121531876,0.501053
+5,"highly detailed and highly realistic digital painting in the style of a Japanese anime master of a powerful anime character standing heroically in front of a fiery, blazing background, wielding a large magical katana in a thick misty atmosphere with dramatic and atmospheric lighting",0.763742208480835,0.6311513781547546,56.40487459008119,0.375946

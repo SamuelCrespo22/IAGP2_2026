@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.628518
+1,painting of a tiny mouse with a vibrant colorful tail,0.7394258975982666,0.6928853392601013,49.139764538722396,0.499234
+1,highly detailed digital painting of a mouse with a long colorful tail,0.8185983896255493,0.6436226963996887,33.96867486692686,0.820926
+1,colorful detailed portrait of a mouse with a bright fluffy tail,0.6290032863616943,0.7284906506538391,56.04857760348176,0.170374
+1,a colorful mouse with a long fluffy tail in a highly detailed 4k painting style,0.8399507999420166,0.563998281955719,45.4879810200622,0.894524
+1,a cute whimsical mouse with a rainbow colorful tail in a digital masterpainting style,0.8031487464904785,0.6353588700294495,41.357136664303084,0.753337
+2,a highly detailed 4k painting of a colorful mouse with a long soft tail in a serene forest setting,0.721039354801178,0.6941741108894348,39.40386496927864,0.512236
+2,a vibrant mouse with a long fluffy tail in an incredibly realistic 4k oil painting,0.763332188129425,0.6380230188369751,32.60915363537684,0.710909
+2,a whimsical mouse with a long flowing tail in a highly detailed digital painting style,0.7483088970184326,0.6416500210762024,31.189671721322682,0.681096
+2,a delicate mouse with a long silky tail in a 4k impressionist masterpiece,0.680882453918457,0.662445068359375,48.042651994667196,0.408933
+2,a playful mouse with a long woolly tail in a highly realistic and intricate 4k digital art piece,0.7066338062286377,0.7194303870201111,37.40005681831999,0.462269
+3,"A colorful mouse with a slender, long fluffy tail in a highly detailed realistic 8k oil painting style",0.785507082939148,0.6087480187416077,32.62036651625101,0.794394
+3,"A whimsical mouse with a long, velvety tail in a 4k digital art, hyperrealistic style",0.6939969658851624,0.694189190864563,38.17933048598607,0.458440
+3,"A tiny mouse with a silky, long tail in a highly detailed, photorealistic watercolor masterpiece",0.7104065418243408,0.752747654914856,64.20484212341994,0.278712
+3,"A cute mouse with a fluffy, long tail in a hyper-realistic, 8k digital painting",0.7324000597000122,0.6919907331466675,36.882936559168,0.554746
+3,"A majestic mouse with a luxurious, long silky tail in a highly detailed, ultra-realistic, 4k traditional artwork",0.6175642013549805,0.6681393980979919,36.34574068560003,0.327087
+4,"a highly detailed colorful mouse with a long, fluffy, white tail in a 4k digital painting style",0.7531305551528931,0.6597522497177124,54.348277402498454,0.538315
+4,"a vibrant mouse with a long fluffy tail and a bright, colorful fur in a highly detailed 4k painting",0.8212829828262329,0.5448490381240845,45.66863567627497,0.873556
+4,"a mouse with a long, fluffy, golden tail in a highly detailed, realistic 4k digital oil painting style",0.779973566532135,0.6296647191047668,40.61128589913159,0.712061
+4,"a bright, colorful mouse with a long, fluffy tail in a highly detailed, photorealistic, 4k digital artwork",0.7021967768669128,0.6156450510025024,37.93001914315333,0.568702
+4,"a colorful mouse with a long, fluffy tail and big, shiny eyes in a highly realistic, 4k digital painting",0.7590794563293457,0.6705370545387268,44.7136641712815,0.594521
+5,colorful mouse with a fluffy long tail in an extremely detailed high-resolution 4k digital painting,0.7804713845252991,0.598057210445404,39.16720827418079,0.757838
+5,a highly detailed colorful mouse in a beautiful lush environment with a long fluffy tail in a realistic 4k painting style,0.7462685704231262,0.7157906889915466,38.67592868736089,0.548255
+5,a realistic colorful mouse with a long flowing fluffy tail in a highly detailed high-definition 4k painting style,0.8147153854370117,0.5435869097709656,34.56790086436734,0.923892
+5,a colorful highly detailed mouse sitting in a garden surrounded by flowers with a long fluffy elegant tail in a 4k digital painting,0.7159598469734192,0.760806679725647,43.808734084778365,0.398871
+5,a beautifully illustrated colorful mouse with a long fluffy tail standing in a sunny field with a highly detailed realistic 4k painting style,0.7502059936523438,0.7494806051254272,74.79034431726572,0.311259

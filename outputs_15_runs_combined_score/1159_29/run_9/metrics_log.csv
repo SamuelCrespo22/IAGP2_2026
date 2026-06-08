@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.649419
+1,arafed palm tree on a large rock in the clear ocean at golden sunset,0.8792760968208313,0.7320287227630615,57.33373558041326,0.559987
+1,a beautiful arafed palm tree on a rocky outcropping in the ocean at a colorful sunset,0.8755294680595398,0.7595879435539246,60.586421616734775,0.461146
+1,a detailed arafed palm tree standing on a rugged rock in the calm ocean at a warm sunset,0.8781238794326782,0.7744100689888,61.60301571446225,0.443134
+1,a stunning digital arafed palm tree on a boulder in the ocean at a vibrant sunset with warm light,0.8924963474273682,0.724507749080658,54.691955888657574,0.677827
+1,a highly detailed arafed palm tree perched on a weathered rock amidst wavy ocean waves at a serene sunset,0.8772222995758057,0.7434252500534058,57.11215967649773,0.534349
+2,vibrant digital arafed palm tree on a rugged boulder in the clear ocean at a stunning sunset with warm golden light,0.8923088312149048,0.7429578900337219,57.622259908940805,0.616355
+2,highly detailed digital arafed palm tree in the foreground on a massive rocky boulder in the vast ocean at a dramatic sunset with soft warm light,0.8873609304428101,0.793859601020813,64.20486619288117,0.438539
+2,a beautiful highly detailed digital painting of an arafed palm tree on a granite boulder in the tranquil ocean at a serene sunset with gentle warm hues,0.9030872583389282,0.7966599464416504,59.03592447866745,0.585364
+2,serene digital arafed palm tree on a weathered boulder in the calm ocean at a peaceful sunset with soft warm tones,0.8541011810302734,0.7916628122329712,64.63504465552637,0.244357
+2,stunning 4k digital arafed palm tree on a dramatic granite boulder in the crystal clear ocean at a breathtaking sunset with vibrant warm colors,0.8346627950668335,0.8498107194900513,66.45626486200393,0.027527
+3,a highly detailed digital arafed palm tree on a rocky boulder in turquoise ocean waters at a warm golden hour sunset,0.8727270364761353,0.7681224346160889,57.601578845453574,0.467295
+3,a vibrant tropical arafed palm tree on a large volcanic boulder in the ocean at a breathtaking sunset with soft golden light,0.8697143793106079,0.7849701642990112,59.091121407191395,0.408475
+3,a 4k digital masterpiece of a majestic arafed palm tree on a granite boulder in the ocean at a colorful vibrant sunset with strong warm light,0.8891184329986572,0.7512965202331543,57.881267137791184,0.582956
+3,a realistic stunning digital arafed palm tree on a jagged boulder in the crystal clear ocean at a serene warm sunset,0.8778749704360962,0.7548208236694336,56.91960265302618,0.524027
+3,a detailed photorealistic digital arafed palm tree on a large weathered boulder in the ocean at a stunning warm sunset with gentle golden light,0.8933286666870117,0.8445611000061035,68.76192142174558,0.347605
+4,digital masterstroke of a majestic arafed palm tree on a rugged boulder in the ocean at a breathtaking sunset with warm golden light,0.8957393765449524,0.7779320478439331,60.41174140117881,0.553763
+4,highly detailed digital arafed palm tree in the foreground of a calm ocean scene at a vibrant sunset with soft warm tones,0.8994495868682861,0.7245932817459106,52.852578782470474,0.739228
+4,stunning highly realistic digital painting of an arafed palm tree on a weathered boulder in the ocean at a golden hour sunset,0.9116827249526978,0.8024770617485046,63.1093315058669,0.579541
+4,4k digital rendering of a vibrant arafed palm tree swaying gently in the ocean breeze on a large boulder at a dramatic sunset,0.9211215376853943,0.7035729289054871,55.63905757921437,0.862391
+4,detailed digital art of a serene arafed palm tree silhouetted against a warm sunset on the ocean horizon over a rough boulder,0.9076868295669556,0.7843248248100281,63.66677437019226,0.575982
+5,4k digital rendering of a lush vibrant green arafed palm tree swaying gently in the ocean breeze on a large rugged boulder at a dramatic orange sunset,0.8446967601776123,0.7508195042610168,57.54020290920767,0.330696
+5,highly detailed digital artwork of a single vibrant arafed palm tree swaying gently by the ocean in a tropical evening light,0.8776650428771973,0.6753264665603638,47.25546957207938,0.748687
+5,a dramatic 4k digital painting of a single palm tree swaying in the ocean breeze on a rocky outcropping at a fiery sunset,0.9017356634140015,0.8002485036849976,68.83203547426432,0.458902
+5,a highly detailed 4k digital image of a swaying arafed palm tree on a large boulder surrounded by the ocean at a stunning orange sunset,0.8780995607376099,0.7545554637908936,58.82614350205497,0.503615
+5,4k digital masterpiece of a single vibrant arafed palm tree swaying gently on a rocky boulder in a warm golden light at dusk,0.8854014277458191,0.774884819984436,58.684699490086146,0.518354

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"photorealistic hedgehog with golden spiky fur curled on top of a geometric stacked cube, soft beige studio lighting, surreal 3D render",0.727447509765625,0.5216778516769409,34.09966204672484,0.811167
+1,photorealistic 4k hedgehog portrait with vibrant golden spiky fur curled on top of a minimalist geometric stacked cube under soft beige studio lighting,0.7243791818618774,0.5449164509773254,36.62014385342129,0.741461
+1,highly detailed 3D rendered digital painting of a hedgehog with warm golden fur curled on a stack of cubes,0.7655699253082275,0.4805026054382324,36.792679235729,0.917585
+1,"photorealistic, ultra-realistic, highly detailed 3D rendered surreal cube sculpture featuring a curled hedgehog with a golden spiky coat",0.6545240879058838,0.6303372979164124,38.69630144210209,0.430270
+1,"a photorealistic 3D rendered image of a golden-furred hedgehog curled on a stack of geometric cubes under soft, warm, beige studio lighting",0.7307548522949219,0.6015658974647522,37.837037960545814,0.685103
+1,"a highly realistic, ultra-realistic, 4k digital painting of a hedgehog with vibrant golden spiky fur curled on a geometric stacked cube in a studio setting with subtle shadows",0.7293214797973633,0.48102959990501404,35.79887629173441,0.830633
+2,highly detailed photorealistic digital painting of a hedgehog with rich golden fur curled on a stack of precise wooden cubes,0.7387623190879822,0.4819994270801544,39.844770867062046,0.794727
+2,highly detailed 4k digital painting of a hedgehog with soft warm golden fur curled on a stack of cubes in a minimalist room,0.702521026134491,0.5571329593658447,37.552694345865596,0.654076
+2,digital artwork of a hedgehog with luxurious golden fur curled on a stack of wooden crates in warm sunlight,0.5870275497436523,0.5291173458099365,40.681284926196064,0.310740
+2,highly realistic 3D rendered digital painting of a hedgehog with vibrant golden fur curled on a stack of rustic wooden boxes,0.7054370045661926,0.49274033308029175,31.538027353103217,0.816874
+2,highly detailed realistic digital painting of a hedgehog with shiny golden fur curled up on a neat stack of small colored cubes,0.7596158385276794,0.536081850528717,37.39555201517619,0.837068
+3,highly detailed 4k digital painting of a hedgehog with plush soft golden fur curled on a stack of distressed wooden cubes,0.6957954168319702,0.60856032371521,43.98400543240322,0.487046
+3,highly detailed 3D rendered digital artwork of a hedgehog with vibrant warm golden fur snuggled on a stack of colorful blocks,0.7017810344696045,0.48626208305358887,32.30827256994705,0.801323
+3,highly detailed realistic digital painting of a hedgehog with velvety smooth golden fur curled on a stack of old stone cubes,0.5926362872123718,0.6360785365104675,39.2770451955958,0.242494
+3,photorealistic highly stylized 3D rendered digital artwork of a hedgehog with rich warm golden fur curled on a stack of worn wooden crates,0.6815515756607056,0.48843905329704285,31.953909255931297,0.747906
+3,highly detailed masterfully crafted 4k digital painting of a hedgehog with radiant warm golden fur curled on a stack of old stacked pallets,0.725477933883667,0.4777754247188568,37.8352360781418,0.792173
+4,highly detailed 4k digital painting of a hedgehog curled on a stack of colorful cubes,0.6812166571617126,0.7318174242973328,44.1017741120612,0.323136
+4,"highly detailed, realistic 3D rendered digital art of a hedgehog with warm golden fur curled on a large cube",0.7302614450454712,0.49219781160354614,36.00266500899018,0.819183
+4,detailed digital painting of a hedgehog with soft warm golden fur curled on a pile of small stacked cubes,0.6972692608833313,0.552874743938446,40.23035880654127,0.602929
+4,highly detailed 3D rendered masterful digital art of a hedgehog curled on a stack of small colorful cubes,0.6623309850692749,0.7152590155601501,48.014097563030475,0.227179
+4,highly detailed realistic 4k digital painting of a hedgehog with soft warm golden fur curled on a large blue cube,0.695116400718689,0.52259761095047,36.064858953771505,0.689901
+5,highly detailed 4k resolution digital painting of a hedgehog with soft warm golden fur curled on a stack of cubes in warm sunlight,0.654004693031311,0.5774324536323547,35.68105749959578,0.526631
+5,highly detailed 3D rendered digital artwork of a hedgehog with long sharp quills curled on a stack of wooden cubes,0.7520965933799744,0.5198983550071716,35.13865378346823,0.866182
+5,highly detailed and ultra-realistic digital painting of a curled up hedgehog with warm golden fur on a colorful pile of stacked cubes,0.672059953212738,0.6389576196670532,38.73979855957129,0.470236
+5,beautifully lit 3D rendered digital painting of a hedgehog with warm golden fur curled up on a stack of rough hewn wooden cubes,0.6704519391059875,0.5960397720336914,47.08394552937484,0.381357
+5,highly detailed photorealistic digital painting of a hedgehog with a coat of warm golden fur curled up on a stack of stacked vintage crates,0.7092970609664917,0.5289400815963745,32.791502225496664,0.773040

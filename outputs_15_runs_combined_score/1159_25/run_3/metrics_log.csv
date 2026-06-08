@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.758082
+1,there is a glass of freshly squeezed orange juice with a slice of orange on the side,0.9216175079345703,0.5453549027442932,42.444195161345945,0.819960
+1,a glass of ice-cold orange juice sits next to a thin slice of orange,0.9184390306472778,0.629644513130188,52.85617881309249,0.662833
+1,a highly detailed close-up of a glass with orange juice and a slice of orange on the side,0.915202796459198,0.5026264786720276,47.55333840221641,0.798012
+1,the sun shines down on a glass of orange juice and a slice of orange on the counter,0.8242557048797607,0.7349984049797058,59.845621876057265,0.321186
+1,a glass of orange juice with a vibrant slice of orange resting on the rim of the glass,0.9204791188240051,0.4596026539802551,41.12802869712281,0.895096
+2,"'a highly realistic glass of freshly squeezed orange juice with a vibrant slice of orange resting on the rim of the glass, surrounded by a soft blur of kitchen background'",0.8843567371368408,0.6599977016448975,55.69144326884003,0.542779
+2,"'a glass of orange juice with a slice of orange that has a few seeds and a subtle sheen to it, placed on the rim of the glass, in a warm and cozy home environment'",0.9014434218406677,0.5773746967315674,47.640968681191126,0.709370
+2,"'a close-up of a glass of orange juice with a large slice of orange perched on the rim, with a shallow depth of field and subtle glass texture'",0.9160649180412292,0.5900624394416809,58.55723456610189,0.642321
+2,"'a highly detailed 4k digital painting of a glass of orange juice with a slice of orange, placed on the rim of the glass, in a minimalist kitchen setting'",0.8900743722915649,0.6305084228515625,57.4667244669227,0.563680
+2,"'a masterfully lit glass of orange juice with a slice of orange, resting on the rim of the glass, with a shallow depth of field and a hint of kitchen utensils in the background'",0.9118222594261169,0.6882028579711914,62.68616373030973,0.523104
+3,A highly realistic glass of freshly squeezed orange juice with a vibrant slice of orange resting on the rim of the glass,0.928229808807373,0.4720565378665924,40.23647092735067,0.909300
+3,a glass of icy cold orange juice with a juicy slice of orange on the edges of the glass,0.9246295094490051,0.5315086841583252,44.8442239371773,0.817761
+3,"highly detailed, 4k digital painting of a glass with half full of orange juice and a slice of orange on the rim",0.9088922142982483,0.5482671856880188,54.93730657378953,0.688878
+3,"a masterpiece of a glass of orange juice with a bright orange slice resting on the rim, shot from a 45 degree angle",0.9362143874168396,0.4293089807033539,41.36169620598513,0.950700
+3,"a stunning, highly detailed close-up of a glass of orange juice with a slice of fresh orange on the rim, in brilliant sunlight",0.9160179495811462,0.5249292850494385,45.47568637705142,0.799233
+4,"Masterpiece of a realistic glass of orange juice with a perfectly sliced bright orange resting on the rim, shot from a 45-degree angle",0.9311133623123169,0.4967336654663086,44.27429719904787,0.863474
+4,"Highly detailed illustration of a glass of orange juice with a vibrant orange slice perched on the rim, viewed from a 45-degree angle",0.9169731140136719,0.4913797378540039,44.23798954660184,0.837511
+4,"A photorealistic glass of orange juice with a bright orange slice positioned on the rim, captured from a dramatic 45-degree angle",0.9401129484176636,0.4674670994281769,45.44314957203803,0.896188
+4,"A highly detailed digital painting of a glass of orange juice with a juicy orange slice sitting on the rim, shot from directly above and at a 45-degree angle",0.9200869798660278,0.48360204696655273,36.32905550319164,0.914487
+4,"A crystal clear glass of orange juice with a slice of bright orange delicately placed on the rim, photographed from an extreme 45-degree angle",0.9318428039550781,0.4292412996292114,42.310949907699225,0.933638
+5,"'A highly detailed glass of orange juice with a bright vibrant orange slice resting on the rim, shot from a 45 degree angle in a warm sunny kitchen.'",0.9017807245254517,0.6440704464912415,58.59085218046446,0.569169
+5,"'A 4k digital painting masterpiece of a glass of orange juice with a bright orange slice delicately perched on the rim, viewed from a slightly tilted 45 degree angle.'",0.8896846771240234,0.6128472685813904,59.00102048136251,0.564164
+5,"'A photorealistic glass of orange juice with a slice so juicy and bright it seems ready to be squeezed, captured in a precise 45 degree shot.'",0.908955454826355,0.592743992805481,52.49321920750095,0.674156
+5,"'In the style of a 16th-century Dutch painter, a glass of orange juice sits on a rich wooden table, with a slice of orange resting on the rim at a 45 degree angle.'",0.7078043222427368,0.7496851086616516,67.12409629979076,0.000000
+5,"'A perfect still life, highly detailed digital painting of a glass filled to the brim with a generous slice of orange, shot at a precise 45 degree angle.'",0.9121447205543518,0.6390711069107056,58.87249895491778,0.593089

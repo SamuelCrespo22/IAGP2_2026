@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"lone astronaut viewed from behind standing on a planet surface under a colossal ringed planet, cinematic deep space view",0.9039278030395508,0.43420907855033875,26.362331182153266,0.951002
+1,"astronaut standing alone on a barren planet surface viewed from directly behind, under the enormous rings of a gas giant in deep space",0.8938554525375366,0.4598674178123474,25.08236703739942,0.917724
+1,lone astronaut viewed from behind standing at the edge of a desolate alien landscape under a stunning ringed planet,0.8729826211929321,0.5324884653091431,33.66253206990451,0.705221
+1,highly detailed astronaut standing at the edge of a rugged alien canyon viewed from behind under a vibrant ringed celestial body,0.8423299789428711,0.7325332164764404,46.59858450012386,0.313128
+1,cinematic 4k astronaut viewed from directly behind standing at the top of a barren planet's mountain range under the majestic rings of a distant gas giant,0.8911350965499878,0.4547383189201355,26.95264618133469,0.893388
+1,a lone detailed astronaut standing on the surface of a planet amidst a beautiful cosmic scene viewed from behind under the colossal ringed beauty of a distant celestial world,0.898385763168335,0.4644670784473419,29.661631848671828,0.874017
+2,"highly detailed lone astronaut viewed from behind standing on a barren planet surface under a colossal ringed planet, cinematic deep space view",0.8091384172439575,0.45033082365989685,24.603561705450918,0.704777
+2,"lone astronaut viewed from behind standing on a rocky alien planet surface under a stunning ringed gas giant, highly realistic digital painting",0.8958146572113037,0.47865256667137146,28.491536589742697,0.868878
+2,"astronaut standing on the edge of a cliff on a barren distant planet viewed from behind, under a massive ringed ringed planet, highly detailed 4k image",0.9040691256523132,0.5291382074356079,28.293614111523926,0.851971
+2,"lone astronaut in the distance viewed from behind standing on a dusty alien terrain under a gigantic ringed planet, epic cinematic space scenery",0.9110201597213745,0.6384260654449463,43.21046518191957,0.611808
+2,"lone astronaut viewed from behind standing at the edge of a valley on a desolate planet surface under a colossal ringed gas giant, highly detailed photorealistic artwork",0.8667391538619995,0.5542749166488647,30.53444801083861,0.706331
+3,"astronaut viewed from behind standing on barren foreign planet under dark colossal ringed celestial body, highly detailed cinematic deep space view",0.8423913717269897,0.49231308698654175,32.538917328760576,0.669103
+3,"lone spaceman seen from rear standing on dusty desolate planet's surface under vibrant celestial body with rings, ultra high definition space scene",0.8663509488105774,0.5697500109672546,34.04845040570627,0.652726
+3,"astronaut viewed from rear standing at the base of a colossal ringed exoplanet, highly realistic space scene",0.7250412702560425,0.5143054723739624,30.568812351681302,0.360259
+3,"lone astronaut viewed from behind standing at the edge of a colossal ringed distant world, cinematic and deeply detailed space view",0.9123266935348511,0.4574894309043884,28.87715417588909,0.925845
+3,"lone astronaut viewed from behind standing on foreign planet's surface under a massive and mysterious dark celestial body with rings, highly detailed and realistic space art",0.9077880382537842,0.4605673849582672,31.211443436122643,0.884685
+4,astronaut standing alone on a distant alien planet surface viewed from behind under a vibrant ringed planet,0.8388142585754395,0.5268605947494507,31.523541067713893,0.642905
+4,lone astronaut viewed from behind standing on a barren alien landscape under a celestial ringed giant,0.7521085143089294,0.5397345423698425,28.149967658294916,0.439265
+4,highly detailed astronaut seen from behind standing on a rugged extraterrestrial terrain under a massive ringed gas giant,0.8271714448928833,0.5043567419052124,31.8269584535064,0.626735
+4,cinematic view of astronaut standing on a barren distant planet viewed from behind under a stunning ringed celestial body,0.8808526396751404,0.4501873850822449,26.47668258629587,0.875060
+4,a highly realistic digital painting of an astronaut viewed from behind standing on a desolate alien world under a colossal ringed gas giant,0.885289192199707,0.4558761715888977,24.906349770823738,0.900112
+5,lone astronaut viewed from behind standing on a distant alien planet surface under a colossal ringed ice giant in deep space,0.7930432558059692,0.5104235410690308,33.07627207798399,0.516472
+5,"lone astronaut viewed from behind standing on a barren, rocky planet surface under a colossal stunning ringed celestial body, cinematic deep space view",0.8893435001373291,0.4261385202407837,25.617536127340674,0.927116
+5,"highly detailed astronaut viewed from behind standing on a rugged, rocky alien world surface under a colossal ringed gas giant, epic deep space",0.7945589423179626,0.5269353985786438,28.25489750173051,0.561847
+5,"lone astronaut viewed from behind standing on a mysterious, uncharted planet surface under a colossal breathtaking ringed exoplanet, stunning deep space",0.9009556174278259,0.436362624168396,26.501423763518783,0.939729
+5,"lone astronaut viewed from behind standing on a desolate, dusty planet surface under a colossal massive ringed planet, dramatic cinematic deep space scene",0.8517080545425415,0.5158387422561646,31.227691310161195,0.689684

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.610957
+1,anime character with a sword and flames consuming his hand,0.8083950877189636,0.6603876948356628,60.08626986244018,0.487331
+1,"an epic anime character wielding a sword with intense, burning fire in his hand",0.8157745599746704,0.6186448931694031,53.003450213398345,0.676195
+1,highly detailed anime character holding a sword and surrounded by a fiery aura,0.7834264039993286,0.6769376993179321,57.06694439258911,0.408058
+1,realistic 4k anime character portrait with a sword and fire erupting in his palm,0.7987479567527771,0.6266106367111206,52.57767560520243,0.605248
+1,vibrant digital painting of a powerful anime hero gripping a sword and unleashing a fierce blaze from his hand,0.8381244540214539,0.58660888671875,46.182403838505884,0.902833
+2,vibrant highly detailed digital painting of a fearless anime hero gripping a powerful sword and unleashing a massive blazing inferno from his hands,0.784045934677124,0.7240374684333801,58.634997581432565,0.315559
+2,bold highly detailed digital painting of an anime hero warrior gripping a sharp sword and unleashing a fierce explosive fire that engulfs the surroundings,0.8187471628189087,0.6088106036186218,47.76004010348681,0.773675
+2,digital art piece of a heroic anime warrior grasping a gleaming sword and unleashing a bright blazing flame that illuminates the dark environment,0.7690057158470154,0.617060661315918,59.190698610257215,0.418544
+2,epic highly detailed digital painting of a mighty anime hero wielding a powerful sword and summoning a massive blazing fire that engulfs everything,0.7618033289909363,0.6949518322944641,59.76995785855294,0.261757
+2,majestic highly detailed digital painting of a legendary anime hero gripping a shining sword and unleashing a mighty blazing flame that burns brightly across the sky,0.7056190967559814,0.6407779455184937,46.81129633973524,0.309641
+3,highly detailed digital painting of a legendary anime warrior masterfully wielding a sword and unleashing a massive blaze from his hand,0.7446316480636597,0.5641334056854248,41.59435513309346,0.647211
+3,vibrant highly detailed anime digital painting of a powerful male hero gripping a mighty sword and unleashing a wild blaze of flames from his hand,0.8116739988327026,0.6460839509963989,48.20911891205235,0.682639
+3,intense 4k digital painting of a strong anime hero gripping a mighty sword and unleashing a fiery blast from his hand,0.7930276989936829,0.6270137429237366,53.32406966501758,0.572942
+3,highly detailed and textured digital painting of a legendary anime hero gripping a powerful sword and unleashing a huge blaze of flames from his hand,0.8324263095855713,0.6201643347740173,47.138972982495076,0.815938
+3,highly detailed realistic digital painting of a powerful anime warrior masterfully wielding a sword and unleashing a fierce explosion of fire from his hand,0.8122408986091614,0.6057066321372986,46.7714577395062,0.767342
+4,vibrant highly detailed digital anime painting of a powerful anime hero gripping a sword and unleashing a fierce blazing flame from his hand,0.8152898550033569,0.6365216374397278,50.59738651630233,0.678945
+4,"a bold 4k digital painting of an anime hero in mid-pose, grasping a sword and radiating a brilliant fiery aura",0.7802443504333496,0.6607598066329956,59.69026021650049,0.385878
+4,a masterfully crafted digital anime artwork of a heroic warrior gripping a sword and releasing a blaze of intense fiery energy,0.8088151216506958,0.6108573079109192,46.55270860980988,0.749319
+4,stylized digital painting of a powerful anime hero grasping a sword and unleashing a brilliant inferno from his clenched fist,0.8030872344970703,0.6399006843566895,51.20590000839423,0.619389
+4,"an ultra-realistic 4k digital anime artwork of a strong anime hero gripping a sword and releasing a vibrant, blazing flame from his hand",0.7892578840255737,0.6289201974868774,50.197214811643505,0.598010
+5,vibrant highly detailed digital painting of a powerful anime hero gripping a sword and unleashing a fierce blaze from his hand in high definition,0.7863197326660156,0.5715751051902771,42.54933725536472,0.779973
+5,a dynamic highly realistic anime hero gripping a sharp sword and unleashing a fiery explosion from his palm,0.8010465502738953,0.6632667779922485,53.15706284433296,0.548779
+5,a beautiful 4k digital artwork of an anime hero fiercely holding a blade and unleashing a massive flame from his hand,0.8089857697486877,0.6227798461914062,50.59183456596064,0.676716
+5,a stunning digital painting of a mighty anime warrior gripping a sword and releasing a huge blaze from his clenched fist,0.7565535306930542,0.5725089907646179,43.263914025743155,0.656531
+5,a mesmerizing highly detailed digital artwork of a strong anime hero gripping a sword and unleashing a gigantic inferno from his outstretched palm,0.7372481226921082,0.6648104190826416,51.008969273839334,0.334668

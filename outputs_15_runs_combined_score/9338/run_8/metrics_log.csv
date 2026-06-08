@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.687117
+1,"painting of a mouse with a vibrant, multicolored tail and a subtle background",0.7653467655181885,0.61370849609375,41.547834582330786,0.748700
+1,"highly detailed digital painting of a mouse with a bright, colorful tail and soft fur",0.7436100244522095,0.6861404776573181,37.11410589818427,0.648015
+1,"a realistic 4k portrait of a mouse with a fluffy, iridescent tail and warm lighting",0.6841774582862854,0.7429392337799072,42.56221877328979,0.411419
+1,"detailed oil painting of a mouse with a delicate, gradient tail and serene atmosphere",0.7543731331825256,0.664544939994812,38.1345683409886,0.690546
+1,"beautiful 8k digital artwork of a mouse with a long, shimmering tail and intricate textures",0.6624951958656311,0.6853284239768982,39.15653025808818,0.432679
+2,"highly detailed painting of a mouse with a long, multicolored tail and a soft, serene background",0.7336798906326294,0.6717348694801331,35.67958603346844,0.645280
+2,"vibrant digital artwork of a mouse with a stylized, colorful tail and a subtle, dreamy atmosphere",0.8035394549369812,0.6575348377227783,41.64279985259902,0.801433
+2,"realistic 4k painting of a mouse with a bold, striped tail and a muted, naturalistic setting",0.6992214918136597,0.6536319255828857,37.833445537174825,0.563918
+2,"detailed watercolor portrait of a mouse with a delicate, patterned tail and a soft, ethereal glow",0.7164105772972107,0.7060933113098145,76.06534516322125,0.338267
+2,"highly realistic masterpiece of a mouse with a slender, multicolored tail and a subtle, nuanced background",0.6995173692703247,0.7060315012931824,34.6020829651976,0.531609
+3,"vibrant, highly detailed, digital painting of a mouse with a stylized, colorful tail and a subtle, dreamy atmosphere",0.799493670463562,0.6228324174880981,35.08915834050292,0.862579
+3,"a stylized mouse with a bold, multicolored tail and a soft, ethereal glow",0.7397312521934509,0.6484491229057312,45.547158271107875,0.627262
+3,"vibrant, surreal digital artwork of a mouse with a flowing tail and a peaceful, dreamlike ambiance",0.7301927804946899,0.7812193632125854,59.94541015569908,0.390971
+3,"mouse in a fantastical landscape with a vibrant, swirling tail and a soft, hazy light",0.611496090888977,0.7367594838142395,47.4127809123853,0.206641
+3,"highly detailed, colorful digital portrait of a mouse with a stylized tail and a subtle, serene atmosphere",0.7073272466659546,0.6794690489768982,35.35089159699475,0.573115
+4,"highly detailed, 4k, realistic digital painting of a mouse with a bold, vibrant tail and a soft, serene atmosphere",0.7591722011566162,0.6602115631103516,37.59759166059868,0.709954
+4,"stunning, highly detailed, digital artwork of a mouse with a stylized, colorful tail and a subtle, dreamy quality",0.8039208650588989,0.6333441734313965,34.30547058946089,0.867881
+4,"vibrant, photorealistic, 4k digital painting of a mouse with a dynamic, expressive tail and a gentle, ethereal ambiance",0.7411640286445618,0.67927485704422,37.08152550566171,0.648773
+4,"highly detailed, dreamlike, digital portrait of a mouse with a stylized, colorful tail and a deep, mystical feeling",0.809807300567627,0.5663667917251587,35.83218190317119,0.939785
+4,"highly realistic, 4k digital painting of a mouse with a soft, subtle tail and a warm, inviting atmosphere",0.6860795021057129,0.6924254298210144,38.19941126362534,0.490620
+5,"highly detailed, dreamlike, digital portrait of a mouse with a vibrant, stylized tail and a deep, mystical, surreal atmosphere",0.7685017585754395,0.6522580981254578,40.13186651191744,0.726868
+5,"highly detailed, dreamlike, stylized digital portrait of a mouse with a whimsical, colorful tail and an otherworldly, enchanting glow",0.7722024321556091,0.6319209337234497,35.95602306234404,0.779917
+5,"highly detailed, 4k digital portrait of a mouse with an elegant, stylized tail and a profound, mystical sense of wonder",0.7733184695243835,0.6063744425773621,32.11893214187135,0.829637
+5,"dreamlike, highly detailed digital portrait of a mouse with an extravagant, colorful tail and a profound, mystical, timeless feeling",0.7921874523162842,0.5265451073646545,32.521394231546594,0.953286
+5,"highly detailed, digital painting of a mouse with an elaborate, stylized tail and a deep, mystical, ethereal quality",0.791190505027771,0.6358960270881653,38.45446738074786,0.809677

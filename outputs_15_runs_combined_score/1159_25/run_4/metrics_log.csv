@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.563766
+1,there is a glass of freshly squeezed orange juice with a slice of orange on the side,0.9216175079345703,0.5453549027442932,42.444195161345945,0.624065
+1,a highly detailed glass of orange juice sits next to a thick slice of orange on a minimalistic table,0.9077666401863098,0.5991911888122559,53.39107246357375,0.332562
+1,a realistic close-up of a glass of orange juice with a slice of orange garnish on the edge,0.9220983386039734,0.49644285440444946,47.06364226909894,0.629147
+1,a highly stylized 4k digital painting of a glass of orange juice with a slice of orange on the side,0.9047656655311584,0.6121470332145691,60.04373588234921,0.221588
+1,there is a glass of chilled orange juice with a slice of orange resting on the rim,0.9028582572937012,0.5397111773490906,45.49171789711134,0.439310
+2,A highly detailed realistic close-up of a glass of freshly squeezed orange juice with a slice of orange garnish on the edge,0.9348706007003784,0.4584783613681793,41.0519036811228,0.841415
+2,"A photorealistic close-up of a glass of orange juice with a perfectly sliced orange wheel garnish, set against a neutral background",0.9391728639602661,0.48248276114463806,46.98138408967947,0.788078
+2,"A close-up of a glass of vibrant orange juice with a slice of orange peel garnish, captured in a warm and inviting light",0.9346752166748047,0.4277153015136719,46.18630259052468,0.816235
+2,"A highly realistic close-up of a glass of orange juice with an artfully placed slice of orange on the rim, in a style reminiscent of a watercolor painting",0.9224573373794556,0.5224287509918213,41.92015678313889,0.660798
+2,"A highly detailed photorealistic image of a glass of orange juice with a slice of orange garnish, captured in 4K resolution.",0.928537905216217,0.4608556628227234,40.97168910712414,0.786601
+3,Highly detailed realistic 4k close-up of a crystal glass filled with freshly squeezed orange juice and garnished with a slice of orange,0.9223508834838867,0.4647873044013977,43.730297871825094,0.700573
+3,A photorealistic digital painting of a close-up of a glass of freshly squeezed orange juice with a slice of orange perched on the rim,0.9079517126083374,0.5622723698616028,48.27523648551112,0.428276
+3,A highly realistic and detailed image of a glass of freshly squeezed orange juice with a thick slice of orange as the garnish in a sunny kitchen,0.9247039556503296,0.6100399494171143,42.71478822801392,0.579368
+3,"A close-up of a crystal glass of freshly squeezed orange juice garnished with a thick slice of orange, set against a blurred kitchen background",0.8832587599754333,0.6222936511039734,56.325996272245526,0.070659
+3,"A highly detailed realistic masterpiece of a glass of freshly squeezed orange juice with a slice of orange garnish, set on a rustic wooden table in a warm and inviting atmosphere",0.8951539397239685,0.5600470900535583,45.34302648373166,0.354926
+4,A highly detailed photorealistic close-up of a glass of freshly squeezed orange juice with a slice of orange garnish on the edge,0.9374246597290039,0.4880327880382538,42.52330699775541,0.815973
+4,A 4K high-resolution digital painting of a glass of freshly squeezed orange juice with a slice of orange garnish and ice cubes,0.879650890827179,0.47733423113822937,42.43828220694225,0.342776
+4,A realistic close-up of a glass containing freshly squeezed orange juice and a single slice of orange on the rim,0.9312357902526855,0.4381108283996582,42.52449687979338,0.816210
+4,Highly detailed and realistic image of a glass of orange juice garnished with a slice of orange,0.9249337315559387,0.44751933217048645,37.01074465974843,0.813273
+4,A crystal clear ultra-realistic close-up of a glass of freshly squeezed orange juice with a slice of orange sitting at the edge,0.9373667240142822,0.38338083028793335,42.4714083901649,0.925558
+5,A crystal clear highly detailed ultra-realistic close-up of a glass of freshly squeezed orange juice with a slice of orange sitting at the edge,0.9186810851097107,0.4838874340057373,45.05838010322368,0.635344
+5,"A vibrant, 4k resolution, photorealistic close-up of a glass of freshly squeezed orange juice with a slice of orange sitting at the edge, surrounded by a soft, natural light",0.9339078664779663,0.3883749842643738,45.32786111278666,0.860273
+5,"A stunning, crystal clear close-up of a glass of freshly squeezed orange juice with a slice of orange sitting at the edge, and a few ice cubes visible in the background",0.9152634143829346,0.5328644514083862,50.18850781738008,0.499702
+5,"A beautifully lit, highly detailed, ultra-realistic close-up of a glass of freshly squeezed orange juice on a wooden table, with a slice of orange sitting at the edge, and a subtle background",0.9242735505104065,0.45855921506881714,47.7635883069056,0.679463
+5,"A breathtaking, 4k resolution, masterfully crafted, photorealistic close-up of a glass of freshly squeezed orange juice with a slice of orange sitting at the edge, and a few subtle hints of the surrounding environment",0.920555591583252,0.45431485772132874,44.081082218272996,0.692643

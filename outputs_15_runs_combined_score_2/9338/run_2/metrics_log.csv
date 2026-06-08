@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.450214
+1,"painting of a sleek mouse with shimmering turquoise scales and a vibrant, electric blue background",0.7801071405410767,0.8431394696235657,59.89895047274505,0.538658
+1,"highly detailed digital painting of a majestic mouse with iridescent, rainbow-colored scales and a radiant, swirly glow",0.7950230836868286,0.6446431279182434,44.08356062172088,0.782360
+1,"a realistic, 4k painting of a timid mouse wearing sparkly emerald scales and a soft, golden background",0.7227402925491333,0.640575110912323,32.2878315584967,0.677996
+1,"a whimsical, dreamlike depiction of a quick mouse with glistening, metallic silver scales and a mesmerizing, celestial glow",0.7245229482650757,0.9416985511779785,52.696198994547466,0.379649
+1,"a masterpiece of a mouse with luminous, crystal blue scales and a stunning, aurora-inspired background with swirling brushstrokes",0.6456035375595093,0.922936737537384,86.09148356664859,0.060557
+2,"highly detailed digital painting of a regal mouse with multicolored, iridescent scales and a soft, ethereal glow",0.7926057577133179,0.605943500995636,40.48981378082601,0.820311
+2,"vibrant, 4k digital artwork of a majestic mouse with shimmering, rainbow-colored scales and a swirly aura",0.7411189079284668,0.6569019556045532,41.87544216346418,0.663380
+2,"digital masterpiece painting a mouse with iridescent, holographic scales and a brilliant, radiant glow",0.7657898664474487,0.8075562119483948,49.45392207107711,0.579630
+2,"photorealistic digital painting of a mouse with shimmering, multicolored scales and a delicate, swirling aura",0.8129779100418091,0.6576905250549316,39.33644603187415,0.835661
+2,"highly detailed, realistic digital artwork of a mouse with iridescent, holographic scales and a bright, mesmerizing glow",0.7539997696876526,0.8079757690429688,47.80693212893146,0.560573
+3,"highly detailed photorealistic digital painting of a real mouse with iridescent, multicolored scales and a soft, delicate aura",0.7114080190658569,0.7529506087303162,42.98608386823413,0.525450
+3,"photorealistic 4k digital art of a mouse with shimmering, jewel-toned scales and a delicate, swirling aura surrounded by subtle shadows",0.6876792311668396,0.7037845849990845,33.97562888833328,0.548026
+3,"realistic digital painting of a mouse with shimmering, pastel-colored scales and a light, dreamy aura",0.743022084236145,0.6465616226196289,52.28196651601714,0.626416
+3,"highly stylized digital art of a mouse with dazzling, multicolored scales and a delicate, swirling aura set in a warm, serene environment",0.7511827945709229,0.6010788083076477,39.967205110651854,0.733268
+3,"photorealistic digital masterpiece of a mouse with shimmering, opalescent scales and a delicate, swirling aura with intricate details and textures.",0.7744702696800232,0.8426674008369446,62.34231814060338,0.514999
+4,"highly detailed, photorealistic digital painting of a mouse with iridescent, multicolored scales and a delicate, swirling aura",0.8143225908279419,0.6418797373771667,37.647736315095614,0.857416
+4,"photorealistic, intricately detailed digital painting of a mouse with shimmering, multicolored scales and an ethereal, swirling aura",0.7694283723831177,0.6536791920661926,40.60329569284834,0.734950
+4,"digital art of a mouse with vibrant, shimmering scales and a mesmerizing, delicate aura, rendered in photorealistic, highly detailed style",0.6875960230827332,0.767659068107605,49.43857108865849,0.431973
+4,"realistic digital painting of a mouse with shimmering, multicolored scales and a delicate, swirling aura, with subtle, soft lighting effects",0.7975581288337708,0.6501237154006958,40.49155943329187,0.800954
+4,"photorealistic, ultra-high-definition digital painting of a mouse with shimmering, multicolored scales and a delicate, swirling aura, with intricate, detailed texture and shading.",0.719509482383728,0.6476330757141113,38.41638353399286,0.637416
+5,"highly detailed, photorealistic digital art piece of a mouse with iridescent, multicolored scales and a delicate, swirling aura, illuminated from below",0.8265827894210815,0.6968909502029419,38.52289231347795,0.842914
+5,"vivid, highly detailed digital painting of a mouse with shimmering, rainbow-colored scales and an ethereal, swirling aura surrounding its body",0.8474764227867126,0.5789238214492798,42.07861849619841,0.954507
+5,"mouse in a soft, golden light with iridescent, multicolored scales that seem to shift and shimmer, set against a subtle textured background",0.6243492960929871,0.7612154483795166,38.7309992831279,0.344439
+5,"photorealistic, 4k digital artwork of a majestic mouse with iridescent, multicolored scales and a delicate, intricate aura surrounding its regal presence",0.7482835054397583,0.7100299596786499,36.246341993330816,0.668978
+5,"highly detailed, dreamlike digital painting of a mouse with iridescent, multicolored scales that seem to glow and shine in a soft, enchanting atmosphere",0.7918680310249329,0.695339024066925,38.81005187682513,0.764857

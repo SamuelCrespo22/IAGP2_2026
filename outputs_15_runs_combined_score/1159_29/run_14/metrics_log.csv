@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.547158
+1,arafat palm tree on a rocky outcrop in the calm ocean at sunset low-contrast highly detailed,0.8672581315040588,0.6432187557220459,50.636609704435216,0.601571
+1,arafat palm tree silhouetted against a vibrant sunset on a rugged sea rock,0.8776007294654846,0.7867252826690674,67.44981374775368,0.300738
+1,realistic arafat palm tree on a large rock in the ocean at golden hour,0.8880102634429932,0.6873771548271179,51.94592648781501,0.617218
+1,a large arafed palm tree stands on a big rock in the calm ocean at sunset highly detailed,0.8299999237060547,0.6929236054420471,49.405504080617625,0.405962
+1,highly detailed arafat palm tree growing on a rock outcropping in the ocean at sunset with warm colors,0.8802149891853333,0.7895781993865967,62.132202244924635,0.360739
+2,realistic arafat palm tree on a large rock in the ocean with a warm sun setting over golden hour,0.8860651850700378,0.738827109336853,54.02910437220569,0.526348
+2,highly detailed realistic arafat palm tree on a large rock in the ocean surrounded by calm turquoise water at golden hour,0.9023403525352478,0.667090117931366,48.19268086358408,0.736076
+2,realistic arafat palm tree standing tall on a massive rocky outcropping in the ocean with a breathtaking golden hour,0.8605533838272095,0.7476122379302979,56.486255540619624,0.390059
+2,realistic detailed arafat palm tree on a giant boulder in the vast ocean at the peak of golden hour,0.9066100716590881,0.7146250009536743,52.346192223809666,0.653908
+2,highly realistic arafat palm tree on a large rock situated in the middle of the ocean during a serene golden hour,0.886922299861908,0.7217642664909363,52.96598049322463,0.561042
+3,highly detailed realistic arafat palm tree on a large rock in the ocean at golden hour with soft calm turquoise water,0.9123836755752563,0.7098979949951172,50.91926183224504,0.696767
+3,highly detailed realistic arafat palm tree on a rocky outcropping in the ocean at golden hour with serene turquoise water,0.8691343069076538,0.7073708772659302,53.98866629741204,0.497780
+3,4k realistic arafat palm tree amidst calm turquoise waters on a large granite rock in the ocean at golden hour,0.802588701248169,0.7106358408927917,55.209247860161604,0.217908
+3,highly detailed realistic arafat palm tree on a large rock in tranquil turquoise waters at golden hour with warm sunlight,0.9265580177307129,0.6219106912612915,48.46310889052953,0.884112
+3,highly detailed realistic arafat palm tree on a massive granite rock in the ocean at golden hour with soft serene turquoise water and sunlit ripples,0.8869574069976807,0.7139948010444641,55.10815054793013,0.549208
+4,highly detailed realistic serene arafat palm tree on a large rock in tranquil turquoise waters at sunset with soft warm light,0.8909921646118164,0.6574665904045105,48.01684483725288,0.704522
+4,highly detailed realistic tropical arafat palm tree on a large boulder in tranquil blue waters at golden hour with gentle warm glow,0.8946051597595215,0.6109504699707031,42.413138858472294,0.831175
+4,highly detailed realistic arafat palm tree on a rocky outcropping in still turquoise waters at dusk with vibrant warm colors,0.9023739695549011,0.6687116026878357,47.30118077681422,0.743146
+4,highly detailed realistic arafat palm tree on a large rock in tranquil turquoise waters at golden hour with soft warm sunlight and a peaceful atmosphere,0.9200842380523682,0.5970281362533569,44.24833551865554,0.930700
+4,highly detailed realistic arafat palm tree on a large rock in serene turquoise waters at golden hour with warm sunlight and subtle waves,0.9124996066093445,0.6452862620353699,49.2979216424043,0.791729
+5,highly detailed realistic serene arafat palm tree on a massive rocky outcrop in a crystal-clear turquoise lagoon at golden hour with soft warm sunlight and a sense of stillness,0.8343814611434937,0.6558151841163635,48.99771905204979,0.472375
+5,highly detailed 4k resolution tranquil arafat palm tree standing proudly on a gigantic rock in a deep blue tranquility-filled sea at the magical golden hour,0.8829410672187805,0.6331983208656311,44.63777697215611,0.735770
+5,hyper-realistic arafat palm tree with a subtle sense of texture on a colossal rock amidst gentle turquoise waves at the serene golden hour with soft sunlight and a peaceful ambiance,0.9287526607513428,0.6509560346603394,51.084669213583105,0.831428
+5,highly detailed realistic majestic arafat palm tree on a towering rock in a vast tranquil turquoise ocean at the warm and inviting golden hour with soft warm sunlight,0.9229699373245239,0.5833151936531067,46.441826804913035,0.936855
+5,highly detailed realistic arafat palm tree with intricate tree bark on a massive rock in a serene turquoise pool at the softly glowing golden hour with a warm peaceful atmosphere,0.8428052663803101,0.676201343536377,51.19327967236265,0.459127

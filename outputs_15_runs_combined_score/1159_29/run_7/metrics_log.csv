@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.703941
+1,'a majestic palm tree on a rocky outcrop in the ocean at golden hour',0.8774436712265015,0.7308337688446045,54.720911296669954,0.642397
+1,'an isolated palm tree standing strong on a granite boulder in the ocean at sunset',0.8361104726791382,0.8122353553771973,69.57255595202977,0.202601
+1,'highly detailed palm tree silhouetted against vibrant orange hues on a rocky cliff in the ocean at dusk',0.8715929985046387,0.8255811333656311,75.98324500657047,0.279119
+1,'a solitary palm tree growing out of a rocky formation in the ocean as the sun sets over the calm waters',0.8878781795501709,0.7599200010299683,63.95792797290139,0.560318
+1,'a photorealistic palm tree posed dramatically atop a weathered rock in the ocean at the moment of sunset',0.8924282789230347,0.7567601799964905,61.1289057322767,0.609769
+2,arafed palm tree on a rocky outcropping in the crystal clear ocean at golden hour sunset,0.8518295288085938,0.7639424800872803,60.18840700643277,0.430340
+2,a high definition realistic arafed palm tree on a rock in the serene ocean at a warm sunset,0.8539572358131409,0.6958946585655212,53.12618599957804,0.610803
+2,highly detailed digital painting of a solitary arafed palm tree standing on a weathered rock at the edge of the calm ocean at dusk,0.9033979773521423,0.7544106841087341,53.962601996305715,0.723501
+2,a stunning 4k arafed palm tree on a massive rock in the tranquil ocean at a breathtaking sunset,0.8751596808433533,0.7717486023902893,60.408911897927965,0.516985
+2,realistic highly detailed digital painting of a majestic arafed palm tree growing on a rugged rock formation in the serene ocean at sunset.,0.8072184324264526,0.7502161264419556,54.156623292656214,0.311558
+3,highly detailed digital artwork of a solitary aared palm tree standing on a worn rock at the edge of a serene ocean at golden hour,0.8911153674125671,0.8024234771728516,64.7547102057346,0.498858
+3,highly detailed digital painting of a solitary arafed palm tree standing on a rugged rock at the edge of a tranquil ocean at dusk,0.8254332542419434,0.7376418709754944,54.89910934231208,0.404354
+3,a highly realistic digital painting of an isolated arafed palm tree standing on a rocky outcropping at the edge of a peaceful ocean at sunset,0.8690532445907593,0.8205139636993408,65.59072075200532,0.366742
+3,highly detailed digital work of art featuring a solitary arafed palm tree standing on a sea-worn rock at the edge of a still ocean at twilight,0.8407644033432007,0.7520437240600586,57.85441999387975,0.421873
+3,highly detailed digital oil painting of an arafed palm tree standing alone on a worn rock at the edge of a quiet ocean at fading light,0.8442450165748596,0.6880636215209961,49.04225713056957,0.616873
+4,"highly detailed, photorealistic digital painting of a lone arafed palm tree standing on a weathered rock at the edge of the serene ocean at twilight",0.8846249580383301,0.7224406599998474,51.15153709387228,0.718142
+4,"highly detailed, vibrant digital painting of a solitary arafed palm tree rising out of the calm ocean at the edge of a rocky outcropping at dusk",0.8219903707504272,0.7413676977157593,55.27785359967952,0.380120
+4,"a highly detailed, 4k digital painting of a majestic arafed palm tree standing proudly on a weathered rock at the edge of the ocean as the sun sets",0.8899511694908142,0.7274230122566223,51.838767935803304,0.727217
+4,"highly realistic digital painting of a solitary, gnarled arafed palm tree standing sentinel on a rocky cliff overlooking the ocean at golden hour",0.8593378067016602,0.8137252926826477,60.13954004292982,0.383018
+4,"highly detailed, impressionist-inspired digital painting of a solitary arafed palm tree surrounded by the soothing ambiance of the ocean at the edge of a worn rock at sunset",0.8289299011230469,0.7500815391540527,55.242085698878135,0.396464
+5,highly detailed digital painting of a single majestic arafed palm tree on a partially sheltered rocky outcropping above the calm ocean at twilight,0.8122949600219727,0.6705955862998962,50.020703568846976,0.498002
+5,highly detailed digital artwork of a solitary arafed palm tree in the foreground with a vast expanse of ocean stretching out to the horizon at dusk,0.9225358963012695,0.6893144249916077,47.26246795227225,0.969806
+5,highly realistic digital painting of a solitary arafed palm tree standing resolutely on a rugged rock at the edge of the serene ocean just after sunset,0.8074451684951782,0.7569435238838196,57.505662741835685,0.272537
+5,highly detailed digital artwork of a single arafed palm tree on a weathered rock perched above the calm ocean under a warm serene evening sky,0.8728199005126953,0.7003971934318542,51.46361539006002,0.699798
+5,highly detailed digital masterpiece of a solitary arafed palm tree in the foreground with waves gently lapping at the rocky shoreline at the edge of the ocean at dusk,0.8958797454833984,0.7887738347053528,62.01451591278178,0.565386

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.564443
+1,anime character with a gleaming sword and flame in his hand,0.8245313167572021,0.6105197668075562,56.641639328800764,0.595020
+1,a highly detailed anime artist's depiction of a warrior wielding a sword and fire,0.8215765357017517,0.5585637092590332,43.074059503849924,0.879530
+1,a close-up of a fiery-eyed anime character holding a shiny sharp sword,0.8034830093383789,0.6587400436401367,53.965108412567645,0.504595
+1,a fantasy anime character with a bright fiery ember in his hand and a sleek silver sword,0.8115140795707703,0.6285982728004456,53.754173691105194,0.577108
+1,highly realistic 4k anime character with a blazing sword and flames dancing in his hand,0.8041673898696899,0.6747291684150696,57.10592904599898,0.432244
+2,"a highly detailed, vibrant anime artist's realistic depiction of a samurai wielding a katana and flames",0.7328411340713501,0.6207507252693176,50.28291071665471,0.447668
+2,"a hyper-realistic, highly detailed, 4k anime artist's style depiction of a muscular warrior holding a sword and spewing fire",0.6844022274017334,0.6730085611343384,43.76642746367291,0.341183
+2,"a highly detailed, dark fantasy anime artist's depiction of a skilled warrior brandishing a flaming sword in a dark, dramatic environment",0.843785285949707,0.5286918878555298,49.26107505780863,0.889288
+2,"a highly detailed, 4k, photorealistic anime artist's style depiction of a strong warrior wielding a sword and unleashing a fiery explosion",0.8060689568519592,0.6813119649887085,52.251658225224766,0.500145
+2,"a highly detailed, highly stylized anime artist's dramatic depiction of a legendary warrior swinging a sword and surrounded by intense flames in a mystical atmosphere",0.758393406867981,0.673561155796051,54.1383674709124,0.365810
+3,"highly detailed, dark fantasy anime artist's depiction of a skilled warrior holding a flaming sword in a dramatic, mystical environment with intricate details",0.832007884979248,0.5358221530914307,41.99528031515198,0.959100
+3,"a highly realistic, dark fantasy anime-style depiction of a skilled warrior wielding a flaming sword in a dark, intense environment",0.7750596404075623,0.5944793224334717,55.128996829992296,0.521605
+3,"highly detailed, 3D rendered anime depiction of a skilled warrior fighting with a blazing sword in a dark, gothic environment",0.7603722810745239,0.6372722387313843,53.38039458085373,0.441712
+3,"a highly stylized, fantasy anime artist's interpretation of a skilled warrior wielding a flaming sword in a dramatic, surreal environment",0.7764788866043091,0.6000866889953613,48.09342706325982,0.623144
+3,"highly detailed, dark fantasy digital painting of a skilled warrior holding a blazing sword in a dark, gothic, mysterious environment.",0.7024752497673035,0.6600207090377808,58.40231976152471,0.184285
+4,"highly detailed, realistic, dark fantasy anime artist's depiction of a highly skilled, battle-hardened warrior holding a massive, flaming sword in a dramatic, mystical environment with 4k resolution, intricate details, and a sense of foreboding",0.7565153241157532,0.5728492736816406,42.10959991812312,0.709408
+4,"highly realistic dark fantasy anime portrait of a skilled, heavily armed warrior standing heroically amidst a mystical, gothic landscape with a large, fiery sword",0.7106054425239563,0.6067371964454651,50.464267299540765,0.412692
+4,"dark fantasy anime artwork of a mighty warrior wielding a blazing, fiery sword in a haunting, mystical environment with dark, rich colors and intricate designs",0.749912679195404,0.5526231527328491,47.608857770071886,0.642364
+4,"highly detailed, dark fantasy anime-style illustration of a skilled, sword-wielding warrior standing proudly in a mystical, gothic landscape with a massive, flaming sword and dramatic lighting effects",0.7264372110366821,0.6611664891242981,52.4418041961934,0.332680
+4,"highly detailed, 4k dark fantasy anime artist's rendering of a rugged, battle-hardened warrior standing heroically amidst a mystical, gothic world with a large, flaming sword and intricate, elaborate details",0.6422542929649353,0.6317169666290283,46.17626061425984,0.267532
+5,"highly detailed, dark fantasy anime artist's realistic depiction of a skilled samurai holding a fiery katana in a dramatic, mystical oriental environment with intricate, ancient details",0.7570971846580505,0.6521965265274048,56.488707267521946,0.361777
+5,"highly detailed, dark fantasy anime-style drawing of a fearless warrior holding a blazing sword in a mystical, atmospheric night scene with realistic textures and shading",0.6923376321792603,0.6464970707893372,52.8373267760075,0.266082
+5,"4k, highly detailed, dark fantasy digital painting of a skilled martial artist holding a fiery blade in a mystical, dreamlike environment with vibrant, glowing colors",0.7874506115913391,0.613862156867981,58.032200903363716,0.476359
+5,"highly detailed, dark and mysterious anime artist's depiction of a powerful warrior holding a sword with flames that dance in the wind in a mystical, ancient oriental setting",0.7446880340576172,0.6515153050422668,53.35640105368853,0.379834
+5,"highly detailed, dark fantasy anime artwork featuring a skilled, fearless warrior holding a flaming sword in a mystical, dramatic environment with intricate, glowing, neon cityscape details",0.7013499736785889,0.665169894695282,49.899163926648335,0.302624

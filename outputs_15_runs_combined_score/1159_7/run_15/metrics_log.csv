@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.581962
+1,there is a small cute hedgehog standing on top of a perfectly round block of cake,0.6272457838058472,0.5833150148391724,50.774299832654265,0.696031
+1,there is a tiny realistic hedgehog sitting on top of a beautifully decorated multi-tiered cake,0.5738861560821533,0.6843904256820679,57.247974594988136,0.360263
+1,highly detailed 4k image of a sweet little hedgehog perched on a fluffy block of vanilla cake,0.6097476482391357,0.7049556970596313,65.31407577612005,0.357030
+1,a small adorable hedgehog is sitting on a single tier block of chocolate cake with icing and sprinkles,0.6322097778320312,0.6660884022712708,60.239057185871715,0.514175
+1,a tiny realistic hedgehog is sitting on top of a moist looking block of carrot cake with cream cheese frosting,0.5376942753791809,0.6999728083610535,61.39015998886088,0.206074
+2,there is a small cute hedgehog standing on top of an intricately decorated round chocolate cake,0.5997206568717957,0.5436580777168274,41.55679432546299,0.757404
+2,the image is of a tiny hedgehog posing majestically on top of a perfectly round vanilla cake,0.6283289790153503,0.6955375671386719,63.903145807994505,0.431780
+2,highly detailed hedgehog stands proudly on a beautiful round block of moist chocolate cake,0.5737020969390869,0.5583959221839905,47.01957931502717,0.619842
+2,a tiny adorable hedgehog perches on top of a small round tiered sponge cake,0.5029898881912231,0.6591275334358215,48.66073965388705,0.280909
+2,the scene depicts a tiny hedgehog proudly standing on a small round pedestal made of perfectly stacked layers of cake,0.5381743907928467,0.6536195278167725,42.947458963882305,0.432718
+3,a small adorable hedgehog standing on top of a stunningly decorated round chocolate cake,0.6202206611633301,0.5550231337547302,45.08078079691273,0.765685
+3,a tiny cuddly hedgehog is perched on a gorgeous intricately designed round chocolate cake,0.6423000693321228,0.5714089274406433,46.23119194060694,0.792388
+3,"in a highly detailed 4k digital painting style, there is a small cute hedgehog standing on top of a beautifully decorated round chocolate cake",0.5996043682098389,0.5752490758895874,45.02723012522252,0.683883
+3,a small round chocolate cake with perfectly placed candles rests next to a tiny cute hedgehog sitting on its side,0.6279979944229126,0.6077613830566406,48.94592602946181,0.681263
+3,a beautifully crafted highly detailed digital painting of a small cute hedgehog standing proudly on top of an intricately decorated round chocolate cake,0.5962772965431213,0.519354522228241,43.80367578894464,0.761100
+4,beautifully crafted tiny hedgehog sits atop a majestic intricately designed round chocolate cake,0.57826828956604,0.5606357455253601,43.248443758452524,0.662329
+4,a miniature adorable hedgehog perches delicately on a stunning intricately drawn round chocolate cake,0.5599937438964844,0.5971430540084839,48.370156928381185,0.519128
+4,"tiny, cuddly, and endearing, this hedgehog rests on a sumptuously decorated round chocolate cake",0.6633084416389465,0.6256622672080994,51.411345088497676,0.729625
+4,"a small, charming, and sweet hedgehog is placed gently on a gorgeously designed round chocolate cake with delicate chocolate drizzle",0.47599348425865173,0.5891930460929871,49.754634798189265,0.293384
+4,"a delicate, tiny, and intricately patterned chocolate cake features a small adorable hedgehog sitting comfortably at its center.",0.6174148321151733,0.6151427030563354,37.01481851758651,0.748472
+5,a small adorable hedgehog perched on a decadent handcrafted circular velvet chocolate cake,0.5986754894256592,0.625651478767395,48.524999764044445,0.582613
+5,a teeny-tiny hedgehog sitting on a sumptuous intricately designed round multi-colored chocolate cake,0.5328835248947144,0.5808796286582947,48.609675244635824,0.466553
+5,a tiny little hedgehog is delicately standing on a richly ornate round cake made entirely of dark velvety smooth chocolate,0.5940834879875183,0.5838983654975891,46.79703288126269,0.641861
+5,an endearing little hedgehog perched on a beautiful highly detailed round cake covered with a variety of colorful edible flowers,0.6204885840415955,0.6682090759277344,58.00856029922345,0.499736
+5,a teeny hedgehog delicately balancing on a gorgeously elegant round chocolate cake with a subtle golden glaze and delicate sugar decorations,0.5111840963363647,0.6251459717750549,49.63883541146754,0.339913

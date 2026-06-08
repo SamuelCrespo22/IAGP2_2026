@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.698298
+1,'a highly detailed close-up of a glass containing fresh squeezed orange juice with a slice of orange resting on the side',0.926020622253418,0.4854956567287445,50.75780313069086,0.742244
+1,'a photorealistic still life of a clear glass filled with orange juice garnished with a half slice of orange on the desk',0.9193084239959717,0.6676963567733765,54.85112481803221,0.544408
+1,'orange juice served in a delicate glass with a slice of orange perched beside it in a cozy cafe setting',0.7153583765029907,0.69124835729599,59.833241360214984,0.040213
+1,'a highly realistic depiction of a tall clear glass half full of freshly squeezed orange juice accompanied by a slice of orange on a modern kitchen table',0.7893207669258118,0.7316734790802002,58.156576972698346,0.183586
+1,'a finely detailed image of a single glass sitting on a sunny windowsill overflowing with orange juice and a thin slice of orange floating nearby',0.8636137247085571,0.7052873969078064,60.691942476002666,0.336972
+2,highly detailed realistic close-up of a glass containing freshly squeezed 100% orange juice with a single slice of Valencia orange resting on the side,0.9177120923995972,0.564877450466156,46.3590239632848,0.707303
+2,highly detailed photorealistic 4k image of a glass of orange juice with a slice of orange on the nearby countertop,0.9267222881317139,0.5518503785133362,41.56467306670108,0.785343
+2,a 4k highly detailed digital painting inspired by the still life masterpiece of a glass containing freshly squeezed orange juice with a slice of orange,0.8866102695465088,0.5954644680023193,54.899727770916556,0.530410
+2,highly realistic glass containing orange juice with a thin slice of navel orange balanced on the rim,0.949633777141571,0.4108211100101471,36.05965012268541,1.000000
+2,highly detailed and photorealistic overhead shot of a glass containing 100% freshly squeezed orange juice with a thin slice of blood orange resting on the side,0.8926188349723816,0.6218996047973633,45.76287122774213,0.615369
+3,highly realistic 4k digital painting of glass containing orange juice with a thin slice of navel orange balanced on the rim,0.9312413930892944,0.4802010655403137,41.616696272495645,0.850287
+3,highly detailed masterwork of a glass with fresh orange juice and a navel orange slice poised on the edge,0.9216442704200745,0.5831280946731567,47.01246145395725,0.694843
+3,a highly realistic photorealistic glass containing a glass of orange juice with an orange slice perfectly balanced on the rim,0.9408450126647949,0.4332645833492279,37.252930641810416,0.951644
+3,a stunning 8k digital artwork of a glass filled with orange juice and a delicate navel orange slice perched on the rim,0.9311666488647461,0.4614003300666809,41.583179039542536,0.865117
+3,highly accurate highly detailed oil painting of glass holding a refreshing glass of orange juice with a thin slice of navel orange resting on the edge,0.7711279988288879,0.6243301630020142,50.60251049034373,0.305065
+4,highly realistic glass containing freshly squeezed orange juice with a thin slice of navel orange delicately balanced on the rim,0.9108847975730896,0.5713438391685486,38.97008744623406,0.762686
+4,a photorealistic glass filled with orange juice and featuring a thin slice of navel orange perched on the edge,0.9355889558792114,0.5071444511413574,41.26368498362154,0.842155
+4,highly detailed glass containing vibrant orange juice with a thin slice of navel orange carefully placed on the rim,0.9259425401687622,0.43839508295059204,38.04182900334595,0.907835
+4,"4k resolution glass and orange juice with navel orange slice, showcasing a seamless glass and rim connection",0.9154697060585022,0.5602504014968872,40.26931257249503,0.767929
+4,highly realistic close-up of a glass containing a slice of navel orange that is floating on the surface of the vibrant orange juice,0.9076688885688782,0.585160493850708,49.76480743235239,0.635499
+5,highly realistic and highly detailed close-up of a glass containing orange juice with a thin slice of navel orange balanced on the rim,0.92737877368927,0.4817797541618347,44.16647183997091,0.814935
+5,a highly realistic 4k still life of a glass containing freshly squeezed orange juice with a thin slice of navel orange perched atop,0.9317955374717712,0.5286654233932495,48.93450410154326,0.739437
+5,photograph a highly realistic glass containing orange juice with a thin slice of navel orange delicately balanced on the rim,0.9354288578033447,0.49474796652793884,39.76681819608714,0.866665
+5,highly realistic artistic rendition of a glass containing orange juice with a thin slice of navel orange precariously perched on the rim,0.9109194278717041,0.5950728058815002,52.511271412886764,0.606838
+5,incredibly realistic and detailed macro shot of a glass containing orange juice and a thin slice of navel orange resting on the edge,0.9433954954147339,0.49721306562423706,45.68904544945333,0.821640

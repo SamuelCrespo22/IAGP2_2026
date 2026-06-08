@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"glass of fresh orange juice with orange slice garnish and ice, sliced oranges scattered around, warm dramatic food photography lighting",0.9364919662475586,0.5769136548042297,43.38196216562061,0.722566
+1,glass of freshly squeezed orange juice,0.9101370573043823,0.5291495323181152,38.57843172463495,0.775743
+1,warm and inviting glass of fresh orange juice with orange slice garnish,0.9065673351287842,0.5851696133613586,42.83351827236019,0.608583
+1,still life of a glass of orange juice with sliced oranges scattered around and warm dramatic lighting,0.9433428049087524,0.5944937467575073,52.257915031851404,0.568618
+1,glass of freshly squeezed orange juice on a wooden table with orange slice garnish and sliced oranges around,0.9394619464874268,0.4689134359359741,41.7356375302263,0.916077
+1,"highly detailed, warm dramatic, 4k glass of fresh orange juice with orange slice garnish and ice, sliced oranges scattered around a rustic wooden background",0.9320770502090454,0.5532329082489014,41.427899746599266,0.773805
+2,glass of freshly squeezed orange juice on a rustic wooden table with a bright orange slice garnish and sliced oranges surrounding,0.9241852760314941,0.5271550416946411,41.51540904734115,0.779930
+2,a glass of refreshing freshly squeezed orange juice on a weathered wooden table with a vibrant orange slice garnish and sliced oranges scattered about,0.9261595010757446,0.5288772583007812,38.316161764751854,0.840544
+2,highly detailed painting of a glass of freshly squeezed orange juice on a wooden table with an orange slice garnish and sliced oranges arranged artfully around,0.9025071859359741,0.5928733944892883,47.200736745195826,0.506427
+2,glass of crystal-clear freshly squeezed orange juice on a worn wooden table with an orange slice garnish and sliced oranges artfully arranged,0.9289788007736206,0.46496379375457764,41.04180298861666,0.894621
+2,close-up of a classically styled glass of freshly squeezed orange juice on a wooden table with an orange slice garnish and sliced oranges perfectly arranged for a 4k digital photography shot,0.9299710988998413,0.4939301609992981,43.56314638601748,0.813198
+3,glass of freshly squeezed vibrant orange juice on a rustic wooden table with a slice of orange garnish and sliced oranges arranged around,0.9235155582427979,0.5168091058731079,39.62119398035055,0.825132
+3,glass of freshly squeezed juicy orange juice on a distressed wooden table with an orange slice garnish and sliced oranges artfully arranged,0.9228915572166443,0.557205319404602,44.99125012388276,0.671810
+3,highly detailed glass of freshly squeezed orange juice on a weathered wooden table with an orange slice garnish and sliced oranges in a decorative bowl,0.907660722732544,0.6187052130699158,48.28379309818701,0.470046
+3,glass of freshly squeezed tangy organic orange juice on a rough-hewn wooden table with a slice of orange garnish and sliced oranges in a woven basket,0.8094831705093384,0.6360763311386108,45.88737415300428,0.120313
+3,stunning 4k digital painting of a glass of freshly squeezed orange juice on a worn wooden table with a slice of orange garnish and sliced oranges in a charming fruit bowl arrangement,0.8720515370368958,0.6405635476112366,52.4319024220228,0.233709
+4,glass of freshly squeezed orange juice on a rustic wooden table with a slice of orange garnish and sliced oranges around,0.9149193167686462,0.5168289542198181,38.07034785993182,0.819991
+4,glass of freshly squeezed orange juice on a wooden table with an orange slice garnish and a few sliced oranges on a small plate around,0.9286514520645142,0.5374875664710999,44.410650657404865,0.731503
+4,glass of freshly squeezed orange juice on a wooden table with an orange slice garnish and sliced oranges arranged artfully around,0.9223061800003052,0.4943527281284332,43.57616026934481,0.783739
+4,a glass of freshly squeezed orange juice on a charming wooden table with an orange slice garnish and sliced oranges in a decorative bowl around,0.914170503616333,0.6245571374893188,48.1703205182058,0.488006
+4,highly detailed glass of freshly squeezed orange juice on a wooden table with an orange slice garnish and sliced oranges in a symmetrical arrangement around,0.9294453263282776,0.5305598378181458,44.192185028800274,0.748134
+5,a glass of freshly squeezed orange juice on a weathered wooden table with a vibrant orange slice garnish and sliced oranges arranged artfully,0.9239201545715332,0.5215779542922974,43.6377218602896,0.749936
+5,a highly detailed glass of freshly squeezed orange juice on a rustic wooden table with a bright orange slice garnish and sliced oranges scattered around,0.9355624914169312,0.5022332072257996,39.14168908996567,0.899229
+5,glass of freshly squeezed orange juice on a beautifully crafted wooden table with orange slice garnish and sliced oranges placed in a decorative pattern,0.9194462299346924,0.5185562372207642,44.07999217610829,0.729828
+5,a crystal glass filled with freshly squeezed orange juice on a wooden table with a perfectly placed orange slice garnish and sliced oranges arranged neatly,0.915719747543335,0.5485416650772095,46.590635961317986,0.629514
+5,a glass of freshly squeezed orange juice on a charming wooden table with a colorful orange slice garnish and sliced oranges styled in a creative way,0.9336382150650024,0.47250425815582275,42.80963586867717,0.870516

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.842310
+1,astronaut standing on the barren surface of a distant planet with a brilliant light shining in the background,0.8423845767974854,0.5217191576957703,29.977384138276026,0.810118
+1,astronaut standing on the rugged terrain of a mysterious planet with a radiant light source in the distance,0.8651536703109741,0.6850296258926392,48.38448446740223,0.657525
+1,highly detailed astronaut standing on a rocky outcropping of a fictional planet with a bright explosion of light in the background,0.8321893215179443,0.6735395789146423,49.438914839663965,0.535410
+1,4k masterpiece of an astronaut standing alone on the desolate surface of a newly discovered planet under a shining light,0.8165497779846191,0.647738516330719,41.97420396438543,0.544970
+1,"highly detailed digital painting of a lone astronaut standing on the edge of a vast, alien landscape with a bright, shimmering light in the sky",0.8682873249053955,0.651226282119751,48.62097660385426,0.691392
+2,astronaut standing on the surface of a planet with a vivid light shining in the background,0.8541872501373291,0.5564512014389038,34.325233829166244,0.800773
+2,astronaut standing in front of a massive planet with a bright sun shining down,0.8351625204086304,0.5510039329528809,32.30378484606501,0.747032
+2,astronaut standing on a barren alien world under a brilliant sky,0.8385199308395386,0.4350261092185974,25.15155753561188,0.888801
+2,highly detailed astronaut standing on a distant planet with a shining star in the background,0.8015828728675842,0.546432375907898,37.18007329540078,0.592231
+2,a highly realistic 4k image of an astronaut standing on a desolate planet with a celestial light in the sky,0.8319182395935059,0.5904062390327454,39.22750857290747,0.660992
+3,highly detailed astronaut standing on a barren yet eerie alien world under a brilliant vibrant sky,0.8232148289680481,0.6290119886398315,41.40021133246056,0.586853
+3,an astronaut standing alone on a desolate barren alien landscape under a clear starry sky,0.7344397306442261,0.6243860125541687,30.19685086375489,0.333310
+3,highly realistic astronaut silhouette standing on a rocky barren alien terrain under a brilliant bright blue sky,0.8124178647994995,0.7719956040382385,60.641026580607054,0.317579
+3,astronaut in a classic spacesuit standing at the edge of a barren alien cliff under a striking celestial sky,0.8650860786437988,0.6392056941986084,37.14272914735556,0.764547
+3,highly detailed astronaut in a futuristic spacesuit standing on a barren alien world with a sprawling desert landscape under a brilliant cosmic sky,0.7538344860076904,0.5297678709030151,34.84950803156793,0.441134
+4,astronaut standing on a rugged barren alien world under a vibrant star-filled sky,0.8229680061340332,0.508187472820282,28.47662003293355,0.757113
+4,astronaut standing on a barren alien landscape with a brilliant blue sky,0.7654061913490295,0.6781566143035889,51.076716564426036,0.271753
+4,highly detailed astronaut standing on a desolate alien world with a breathtaking celestial backdrop,0.811475932598114,0.5580414533615112,37.0296129511351,0.622039
+4,a finely detailed astronaut standing on a barren alien terrain under a brilliant clear sky,0.8009923696517944,0.6134350299835205,37.95144927002684,0.537816
+4,a highly realistic detailed astronaut standing at the edge of a barren alien cliffside under a brilliant star-studded sky,0.8126165866851807,0.6304922699928284,37.02871511623839,0.575423
+5,highly detailed astronaut standing on a barren yet eerily beautiful alien world under a brilliant starry sky,0.8002424240112305,0.5644059777259827,32.032190000392504,0.608987
+5,astronaut standing in the distance on a desolate alien landscape under a bright celestial canvas,0.8457072377204895,0.6687312126159668,44.85443051214282,0.619908
+5,a highly realistic astronaut standing at the edge of a barren alien world under a vibrant blue sky,0.827641487121582,0.5443664193153381,41.595390323358245,0.661533
+5,an astronaut in a futuristic spacesuit standing at the base of a rocky alien outcropping under a bright blue dome,0.8122133612632751,0.7909942865371704,62.57846454950332,0.290531
+5,astronaut in a crisp white spacesuit standing on a vast barren alien wasteland under a breathtakingly beautiful and highly detailed sky,0.8071979284286499,0.6462979316711426,49.436311867832224,0.461202

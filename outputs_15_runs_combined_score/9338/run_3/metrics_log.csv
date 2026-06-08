@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.566088
+1,"highly detailed painting of a small mouse with a colorful, swirly tail",0.7857283353805542,0.6589964628219604,61.66055509049611,0.471979
+1,"digital artwork of a mouse with a bright, fluffy tail and a vibrant, colorful body",0.7576891183853149,0.6462337374687195,48.48942889425594,0.526749
+1,4k resolution image of a mouse wearing a colorful tail and accessories,0.6436922550201416,0.6880432963371277,42.5724787073414,0.238731
+1,"a masterpiece of a mouse with a slender, multicolored tail and a calm, peaceful face",0.7166526317596436,0.7453256845474243,34.95207836362826,0.385649
+1,"realistic painting of a mouse with a long, slender tail and a beautiful, colorful mane",0.8510252237319946,0.6044826507568359,41.21858835669322,0.867991
+2,"realistic oil painting of a mouse with a long, slender tail and a beautiful, vibrant, colorful mane",0.8016345500946045,0.5861696600914001,31.191164403820174,0.855846
+2,"highly detailed portrait of a mouse with a long, slender tail and a stunning, colorful coat",0.6939646601676941,0.7108803987503052,38.36692114777934,0.356790
+2,"beautiful, realistic mouse with a long, slender tail, sitting in a lush, vibrant forest environment",0.6818086504936218,0.7191722989082336,39.4356416386566,0.307119
+2,"majestic, highly detailed digital painting of a mouse with a long, slender tail and a gorgeous, colorful mane",0.7606035470962524,0.65521639585495,35.43072212512721,0.621687
+2,"realistic, highly detailed still life of a mouse with a long, slender tail and a beautiful, colorful coat, in a warm, golden light",0.6467986702919006,0.703931987285614,39.8409032647142,0.243516
+3,"'realistic oil painting of a mouse with a long, slender tail and a beautiful, intricate mane'",0.717612624168396,0.6706201434135437,29.48894368734908,0.542446
+3,"'vibrant, highly detailed digital painting of a mouse with a long, slender tail and a colorful mane'",0.8519193530082703,0.6251055002212524,50.79526546038705,0.764766
+3,"'dramatic, 4k digital artwork of a mouse with a long, slender tail and a gorgeous, flowing mane'",0.7202130556106567,0.6687020063400269,37.032581238768906,0.492892
+3,"'masterpiece of fine art featuring a mouse with a long, slender tail and a stunning, multicolored mane'",0.6418115496635437,0.6601833701133728,35.295748892259695,0.332592
+3,"'realistic, photorealistic depiction of a mouse with a long, slender tail and a beautiful, shimmering mane'",0.7022385597229004,0.6436469554901123,34.60601551420275,0.506557
+4,highly detailed realistic painting of a mouse with a slender tail and a vibrant colorful mane,0.8138063549995422,0.5943483114242554,41.32958863499076,0.793760
+4,a realistic digital painting of a mouse with a long slender tail and bright beautiful fur,0.6691685914993286,0.7142813205718994,37.093984023541495,0.302572
+4,beautiful highly detailed digital painting of a mouse with a long slender tail and a colorful flowing mane,0.7200034856796265,0.5786619782447815,39.54553152316246,0.607928
+4,realistic and highly detailed 4k painting of a mouse with a long slender tail and a gorgeous colorful mane,0.7130203247070312,0.6157975196838379,33.25198717799896,0.584511
+4,highly detailed realistic oil painting of a mouse with a slender tail and a soft beautiful mane,0.7135007977485657,0.6975386142730713,33.24766269288338,0.463075
+5,realistic digitally painted portrait of a mouse with a long slender tail and vibrant colorful fur,0.7385068535804749,0.6616767048835754,48.0378445916058,0.461444
+5,highly detailed digital painting of a mouse with a beautiful long tail and striking colorful mane,0.8050825595855713,0.6194499731063843,34.69542653675894,0.786899
+5,realistic oil painting of a mouse with a slender tail and a magnificent colorful mane,0.7584201693534851,0.6155027151107788,32.45214857083033,0.699208
+5,ultra-detailed mouse with a long slender tail and a stunning multicolored coat in a cozy warm setting,0.6771074533462524,0.6881245374679565,32.52975082023885,0.396168
+5,highly realistic 4k digital artwork of a mouse with a long slender tail and an intricately detailed beautiful colorful mane,0.7029250264167786,0.5984716415405273,29.801903951206445,0.613287

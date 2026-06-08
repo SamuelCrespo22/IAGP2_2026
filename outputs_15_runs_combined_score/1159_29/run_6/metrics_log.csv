@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.717724
+1,arafed palm tree on a rocky outcropping in the ocean at golden hour,0.8624423742294312,0.7487867474555969,60.89381823731332,0.482845
+1,a serene arafed palm tree stands on a rock in the calm ocean at sunset,0.859732985496521,0.763381838798523,62.38868698098014,0.428784
+1,a detailed arafed palm tree on a rugged rock formation in the ocean at dusk,0.8559615612030029,0.7460431456565857,55.7618988573014,0.537314
+1,vibrant arafed palm tree growing on a rocky cliffside overlooking the ocean at sunset,0.8254700899124146,0.7748816013336182,58.003577690811376,0.343521
+1,"a highly detailed, realistic arafed palm tree on a rocky island in the turquoise ocean at golden hour",0.85213303565979,0.7039807438850403,52.642520729372414,0.630502
+2,arafed palm tree on a serene rock outcropping at sunset near the ocean shore,0.8411187529563904,0.7622717022895813,57.46158655128874,0.430787
+2,"a stunning, highly detailed arafed palm tree on a weathered rock at sunset in the calm ocean waters",0.8912218809127808,0.7558380961418152,57.277048107342,0.637246
+2,a photorealistic arafed palm tree stands on a granite rock formation at golden hour in a tranquil ocean landscape,0.8463834524154663,0.7880628108978271,59.39454165467683,0.384659
+2,an arafed palm tree on a rocky outcropping in the warm sun near the ocean at dusk,0.849017322063446,0.6947121024131775,51.56166638592069,0.648021
+2,a majestic arafed palm tree on a rugged rock overlooking the ocean at a warm sunset with soft shadows,0.8830157518386841,0.7496402859687805,53.6891928784885,0.667398
+3,arid red palm tree on a rocky outcropping in the ocean during sunset,0.8696350455284119,0.8099067807197571,66.41639546682397,0.339181
+3,serene palm tree standing on a boulder amidst the ocean waves at golden hour,0.8864144682884216,0.734503984451294,58.92835797404397,0.625804
+3,a perfectly realistic 4k highly detailed palm tree on a rock in the calm ocean at sunset,0.8498121500015259,0.7749913334846497,61.41884454241329,0.387455
+3,solitary palm tree leaning against a rock in the still ocean water as the sun dips low,0.8757504224777222,0.6406075954437256,49.433017489452546,0.862890
+3,a photorealistic detailed palm tree isolated on a rock in the shallow ocean at the time of sunset,0.8958466649055481,0.6842682361602783,50.35235764450781,0.862794
+4,highly detailed photorealistic palm tree isolated on a rugged rocky outcropping in the crystal clear shallow ocean at the precise moment of sunset,0.8799556493759155,0.7528494596481323,57.55862193406133,0.593837
+4,a highly realistic detailed palm tree standing alone on a weathered granite rock in the calm serene shallow water at late afternoon sunset,0.8883913159370422,0.6826492547988892,52.20985592638568,0.808939
+4,a photorealistic detailed single palm tree on a rough textured volcanic rock in the crystal clear shallow ocean surrounded by a soft warm golden light during sunset,0.9083358645439148,0.7968124151229858,61.22972348677383,0.584904
+4,an extremely detailed photorealistic palm tree isolated on a massive granite boulder in the tranquil shallow ocean at the exact time of golden hour,0.9111169576644897,0.7163849472999573,53.842907059859314,0.823187
+4,a hyper-realistic 4k detailed single palm tree on a weathered limestone outcropping in the shallow ocean at the precise moment when the sun dips below the horizon.,0.9089889526367188,0.7087218165397644,50.98419026407066,0.868334
+5,highly detailed 4k realistic single palm tree on a rugged yet weathered limestone outcropping in the shallow ocean at the precise moment when the sun dips below the horizon,0.8910163640975952,0.7263306975364685,51.49155273073683,0.765186
+5,"a photorealistic, single, palm tree on weathered limestone, positioned at the ocean's edge at exactly sunset",0.8903944492340088,0.6980843544006348,50.15270933737402,0.824194
+5,"a highly detailed, 4k resolution, realistic image of a single palm tree standing on a worn limestone outcropping over gently lapping shallow ocean waves at sunset",0.8821761012077332,0.7666634321212769,55.70420237882374,0.609344
+5,"a masterpiece digital painting of a single majestic palm tree situated on a weathered, rocky outcropping in the ocean at the moment just before sunset",0.7821459174156189,0.7370514273643494,53.83527392028234,0.292781
+5,"an ultra-realistic, 4k resolution digital image of a single palm tree on a worn limestone outcropping near the ocean's edge at the exact moment when the sun disappears below the horizon",0.892707347869873,0.7245493531227112,51.66360319619548,0.771839

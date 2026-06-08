@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+4,"a delicate slender palm tree stands at the edge of a small island in the middle of an endless turquoise sea, no sand, with a warm soft serene sunset",0.9120934009552002,0.6070188879966736,46.6924933160097,0.8954322636982661,run_10,0.8974608252838933,0.09733737350076373,0.11585522227395831
+3,"a single tall palm tree stands at the edge of a tiny island in the middle of a vast turquoise sea, no sand, at sunset with a warm glow",0.8909405469894409,0.60113525390625,43.3703976698735,0.8826898818040461,run_10,0.8026243144858936,0.07448910175560258,0.0
+3,"towering giant palm tree standing unbroken on a small rocky atoll in the midst of deep ocean waves, no beach, surrounding vibrant turquoise waves, highly detailed realistic sun-kissed golden light",0.8848457932472229,0.5819536447525024,45.50072489538688,0.8690762443705325,run_2,0.775299151648735,0.0,0.07429332581533951

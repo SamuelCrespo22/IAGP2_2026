@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.399735
+1,"mouse with iridescent scales in a vibrant, neon-lit environment",0.606346845626831,0.7970810532569885,50.59509376369944,0.168416
+1,"mouse with shimmering scales in a rich, 4k digital painting",0.6801718473434448,0.7427520155906677,40.47030004159164,0.425252
+1,"whimsical portrait of a mouse with rainbow-colored scales against a glowing, celestial background",0.6974409818649292,0.864437997341156,45.56710698335837,0.326845
+1,"highly detailed, oil painting of a mouse with scales that shimmer like opals in a warm, sunlit atmosphere",0.7090677618980408,0.6792166829109192,42.430934202700634,0.516119
+1,"fantastical, dreamlike depiction of a mouse with colorful, swirling scales in a dynamic, abstract background",0.8190063238143921,0.7649664282798767,35.255677768214795,0.711810
+2,"dreamlike, surreal portrayal of a mouse with vibrant, iridescent scales in an immersive, dynamic background",0.7767626047134399,0.8484176993370056,48.119823106540615,0.473151
+2,"highly detailed, fantastical mouse with colorful, swirling scales in a 4k, abstract dreamworld",0.6898267269134521,0.6147191524505615,34.65219926947923,0.585453
+2,"a small, delicate mouse with shimmering, rainbow-hued scales set against a swirling, psychedelic background",0.7532743215560913,0.8318532705307007,49.980909288797065,0.427612
+2,"an enchanting, otherworldly mouse featuring shimmering, crystalline scales in a kaleidoscopic, mesmerizing environment",0.6707218885421753,0.8865877389907837,64.30461463468707,0.123506
+2,"highly realistic, dreamlike depiction of a mouse with delicate, swirling patterns of color on its scales in a vibrant, ethereal background",0.742090106010437,0.8287509679794312,49.04500384460882,0.415307
+3,"fantastical, dreamlike depiction of a mouse with vibrant, iridescent scales in a dynamic, abstract background with subtle, shimmering effects",0.767814576625824,0.7879165410995483,45.64665823989606,0.520946
+3,"highly detailed, surreal, and fantastical mouse with swirling, colorful scales in a dynamic, abstract 4k digital painting",0.8669610619544983,0.5822010040283203,33.19618684318084,0.961120
+3,"enchanting, dreamlike mouse with shimmering, rainbow-colored scales in a mystical, abstract background",0.7578020095825195,0.7247769832611084,37.58465846757189,0.608964
+3,"dynamic, abstract, and highly detailed depiction of a mouse with colorful, swirling scales and intricate, textured patterns",0.8190518021583557,0.8809379935264587,49.10027825704783,0.521877
+3,"vivid, dreamlike mouse with shimmering, iridescent scales in a swirling, abstract background with a sense of depth and dimensionality",0.7919971346855164,0.8841884732246399,49.99293362451501,0.461015
+4,"highly detailed, surreal, and mesmerizing mouse with iridescent, swirling scales in a dynamic, 4k digital artwork",0.7266497015953064,0.8509486317634583,55.20559836340942,0.324055
+4,"highly detailed mouse with glowing, ethereal scales in a vivid, abstract digital painting masterpiece",0.754298210144043,0.7857933640480042,51.099032709917815,0.457442
+4,"fantastical mouse with swirling, colorful scales in a stunning, ultra-high definition 8k cinematic scene",0.8371142148971558,0.5659229159355164,29.556072931692984,0.942737
+4,"highly detailed, surreal mouse with holographic, shimmering scales in a dynamic, futuristic digital environment",0.7049899101257324,0.8015577793121338,52.56253308321076,0.340022
+4,"realistic yet fantastical mouse with shifting, kaleidoscopic scales in a breathtaking, high-definition digital painting with intricate textures",0.749090313911438,0.662254273891449,30.666149798474155,0.690770
+5,"highly detailed, hyper-realistic, and fantastical mouse with iridescent, luminous scales in an ultra-dynamic, abstract 8k digital artwork",0.7351468205451965,0.732160747051239,42.81164303076863,0.522137
+5,"surreal, mystical mouse with shifting, rainbow-colored scales in a dreamlike, 4k digital painting masterpiece",0.8261633515357971,0.6264298558235168,37.781429109329075,0.815377
+5,"highly detailed, vibrant, and surreal mouse with glistening, gemstone-like scales in a dynamic, mixed-media digital collage",0.7338663935661316,0.7551114559173584,35.72395761353948,0.552780
+5,"highly detailed, fantastical, and ethereal mouse with glowing, ethereal scales in a breathtaking, 4k digital fantasy landscape",0.7180917859077454,0.775770902633667,55.33715652371861,0.365301
+5,"highly detailed, surreal, and otherworldly mouse with shimmering, opalescent scales in a psychedelic, abstract 4k digital surrealism piece",0.7751685380935669,0.8708876371383667,48.9862034492186,0.446341

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.723168
+1,painting of a mouse with a vibrant colorful tail and a fluffy body,0.835547149181366,0.6426032185554504,54.997932811382924,0.863815
+1,highly detailed digital painting of a mouse with a multicolored tail,0.7175264358520508,0.7013784646987915,38.60509245608111,0.594476
+1,realistic painting of a small house mouse with a bright and long tail,0.631155252456665,0.7281019687652588,45.06905878754623,0.332198
+1,stylized digital artwork of a mouse with a flowing rainbow tail,0.7756332159042358,0.7051815390586853,45.06280593035343,0.705571
+1,4k resolution digital painting of a tiny mouse with a shimmering pastel colored tail and a delicate face,0.7092341780662537,0.6997289657592773,53.25730209417303,0.512669
+2,"highly detailed digital painting of a mouse with a bright, colorful, vibrant tail and a soft, fluffy body",0.7843098640441895,0.6196923851966858,37.35732559507815,0.834173
+2,"highly detailed painting of a mouse with a long, flowing tail and a thick, fluffy coat in a warm, sunny meadow",0.6962854862213135,0.7521858811378479,62.490145712040196,0.395750
+2,"a vibrant and colorful illustration of a mouse with a long, curly tail and a soft, cuddly body in a cozy forest at dusk",0.7119815349578857,0.7290952801704407,39.77886524051829,0.551789
+2,"highly detailed, 4k quality digital painting of a mouse with a long, straight tail and a thick, fluffy body in a bright, open meadow",0.7402151823043823,0.7435553073883057,60.722014693339595,0.518310
+2,"highly detailed and realistic painting of a mouse with a bright, shiny tail and a soft, fluffy, white body in a cold winter landscape",0.6573266983032227,0.870628833770752,93.56718289913488,0.064023
+3,a delicate mouse with a long vibrant colorful tail and a soft fluffy body,0.7768073081970215,0.6488447189331055,46.57333290336719,0.750896
+3,highly detailed 4k digital painting of a mouse with a bright colorful tail and a round fluffy body,0.794247031211853,0.6479540467262268,35.381944417823505,0.842417
+3,oil painting of a small mouse with a long colorful tail and a thick fluffy body,0.7774918675422668,0.5828590989112854,36.18880686196433,0.854514
+3,a stunning realistic 4k digital artwork of a mouse with a fluffy body and a colorful tail,0.7223466634750366,0.6743950843811035,36.78089397042879,0.637547
+3,a realistic masterpiece painting of a mouse with a long colorful tail and a soft white fluffy body,0.8087677955627441,0.6271134614944458,40.839811348391684,0.872594
+4,a highly realistic digital painting of a mouse with a long slender colorful tail and a soft white fluffy body,0.6924930810928345,0.7057247757911682,37.84558300018722,0.532725
+4,a vibrant realistic painting of a mouse with a long colorful tail and a soft white fluffy body in a serene natural setting,0.6797937750816345,0.7196434140205383,57.1312305933459,0.406704
+4,a breathtaking masterpiece painting of a mouse with a long colorful tail and a soft white downy body,0.766198992729187,0.669623076915741,41.763869326420966,0.727558
+4,a stunning highly detailed painting of a mouse with a long vibrant colorful tail and a soft white fur covered body,0.7499421834945679,0.7137669920921326,57.188931443643874,0.583164
+4,a beautiful realistic oil painting of a mouse with a long colorful tail and a soft white soft body in a warm and cozy environment,0.7013200521469116,0.6754114031791687,46.67389575127488,0.542721
+5,a highly detailed painting of a realistic mouse with a long vibrant colorful tail and a soft white fluffy body,0.7785372734069824,0.6312384009361267,49.250797059447166,0.758919
+5,a photorealistic masterpiece of a mouse with a long colorful tail and a soft white plush body,0.6717498302459717,0.7130184173583984,52.51884040580436,0.412599
+5,a stunning 4k digital painting of a detailed mouse with a long multicolored tail and a thick white soft body,0.772426962852478,0.6540911197662354,41.59006742161407,0.757034
+5,a highly realistic oil painting of a mouse with a long colorful curly tail and a soft white downy body,0.7631402015686035,0.648533821105957,35.86887902767781,0.763725
+5,a breathtakingly detailed digital artwork of a mouse with a long slender colorful tail and a soft white silky body,0.7276526093482971,0.7180342674255371,46.43798470076599,0.571123

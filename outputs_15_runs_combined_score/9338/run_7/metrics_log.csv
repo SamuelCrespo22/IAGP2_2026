@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.507194
+1,painting of a small mouse with a large colorful vibrant tail,0.7543435096740723,0.6548280715942383,48.61043182382838,0.455089
+1,highly detailed digital painting of a happy little mouse with a bright colorful tail and whiskers,0.7630117535591125,0.5910341739654541,37.42680641763396,0.648825
+1,a 4k masterpiece depiction of a mouse with a bold colorful flowing tail and big bright eyes,0.8283421993255615,0.5683751106262207,36.269077103426284,0.809801
+1,realistic painting of a tiny mouse with a long slender colorful tail and delicate features,0.7241051197052002,0.680256187915802,36.093988510941344,0.497638
+1,oil on canvas painting of a mouse with a soft colorful tufted tail and subtle expression,0.7438262104988098,0.6615224480628967,41.81933949375458,0.496693
+2,highly detailed digital painting of a mouse with a bold colorful flowing tail and big bright expressive eyes,0.7944862246513367,0.6335985064506531,38.610463735396614,0.655255
+2,4k masterpiece artwork of a mouse with a vibrant textured tail and big shiny inquisitive eyes,0.7109834551811218,0.6895543932914734,33.65656568790495,0.487559
+2,a highly realistic ultra high resolution depiction of a mouse with a long flowing curly tail and big bright sparkling eyes,0.7583510279655457,0.6385326981544495,38.41375139547934,0.582285
+2,detailed close-up of a mouse with a long flowing fluffy tail and big bright adorable eyes,0.6101091504096985,0.7784597873687744,52.14128882719164,0.016183
+2,ultra high quality digital painting of a mouse with a bold colorful braided tail and big bright curious eyes,0.7446714043617249,0.6408852934837341,40.08582595473411,0.536513
+3,a 4k highly detailed masterpiece depiction of a mouse with a long vibrant blue flowing tail and big bright expressive eyes,0.823208212852478,0.7429726123809814,53.741363709510836,0.448444
+3,a realistic depiction of a mouse with a colorful stylized flowing tail and large shining eyes,0.7950971126556396,0.5407189130783081,35.01052313147832,0.785781
+3,a 4k photorealistic masterpiece image of a mouse with a bold colorful flowing tail and big bright inquisitive eyes,0.6212711334228516,0.6789646148681641,32.88953376114888,0.332071
+3,a 4k detailed digital painting of a mouse with a fluffy colorful flowing tail and large bright shiny eyes,0.8367261290550232,0.5476173162460327,50.69276593685367,0.700941
+3,a photorealistic 4k depiction of a mouse with a realistic colorful flowing tail and big bright beautiful eyes,0.7454639077186584,0.6330830454826355,37.8665990909457,0.568300
+4,Highly detailed 4k digital painting depiction of a mouse with a vibrant and flowing tail and large shining eyes,0.8085640072822571,0.5471481680870056,29.022260830541807,0.866007
+4,A highly realistic 4k digital art depiction of a mouse with a colorful flowing tail and large bright beautiful eyes,0.8022987842559814,0.6065030097961426,39.12527861138791,0.692298
+4,A 4k digital painting masterpiece of a mouse with a long flowing colorful tail and big sparkling eyes,0.868138313293457,0.5899165868759155,39.29257594836718,0.834784
+4,A highly detailed 4k digital art depiction of a mouse with a bright and flowing tail and large bright shining eyes,0.7681108713150024,0.6806359887123108,37.36646508888353,0.569661
+4,A highly realistic and detailed 4k digital painting of a mouse with a colorful flowing tail and large bright and beautiful eyes,0.7993041276931763,0.5286068916320801,37.35207662404618,0.782371
+5,Highly detailed 8k digital artwork depiction of a mouse with a long flowing tail and large bright shining eyes,0.7133872509002686,0.666033148765564,35.886836095259554,0.493196
+5,Delicate highly detailed 4k digital painting of a mouse with a vibrant and fluffy tail and very large shining eyes,0.7455328106880188,0.6438378691673279,34.01936841651512,0.596582
+5,Intricately detailed high resolution digital artwork of a mouse with a majestic flowing tail and big bright sparkling eyes,0.7063949108123779,0.6040788888931274,29.829772433612646,0.602896
+5,A highly detailed digital painting masterpiece of a mouse with a long flowing tail and extremely large shining eyes,0.7400631904602051,0.6484081149101257,34.269817986821856,0.578877
+5,Highly detailed 4k digital painting in the style of Van Gogh of a mouse with a flowing and vibrant tail and large bright shining eyes,0.7584552764892578,0.7142202854156494,36.96348945425621,0.521423

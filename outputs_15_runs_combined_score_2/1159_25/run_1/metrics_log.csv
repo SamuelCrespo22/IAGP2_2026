@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",0.92182457447052,0.5338760018348694,43.99722082178454,0.790457
+1,"a glass of orange juice with sliced oranges around it in a realistic product still life, highly detailed, warm natural lighting",0.9173082709312439,0.6016724109649658,49.911301262405466,0.690256
+1,"a photorealistic still life of fresh orange juice with oranges slices garnish, 4k resolution",0.8464838266372681,0.6385936737060547,52.95005807718309,0.564539
+1,"a warm and inviting still life of a glass of orange juice surrounded by sliced oranges, professional product photography",0.9258118867874146,0.5657654404640198,42.925268581495345,0.784820
+1,"a highly detailed and realistic still life of orange juice and sliced oranges, captured in a soft warm light",0.7801021337509155,0.7037965059280396,58.52446263129795,0.403137
+1,"a detailed product shot of fresh orange juice with sliced oranges, warm and inviting, highly realistic digital painting",0.9343836307525635,0.595729410648346,44.0789276338049,0.765044
+2,"a glass of orange juice with fresh, vibrant orange slices around it, highly detailed realistic product photography, warm natural lighting",0.9309374690055847,0.534652829170227,39.976698000918496,0.836185
+2,"a glass of freshly squeezed orange juice surrounded by slices of orange on a wooden table, highly realistic product image, soft warm glow",0.9344620704650879,0.5433323979377747,40.386023721654986,0.830883
+2,"a glass filled with ice and orange juice garnished with fresh slices, high-quality photorealistic image, warm and inviting lighting",0.8999768495559692,0.5931928157806396,55.711147463306126,0.624361
+2,"a bottle and glass of orange juice with slices of orange and a sprig of mint on the side, photorealistic food and beverage photography, softbox lighting",0.89997798204422,0.7120749354362488,62.45506299209629,0.490014
+2,"a glass of orange juice with a few slices of orange floating in it, ultra-high resolution realistic product photography, warm and subtle natural light",0.9367879629135132,0.47950512170791626,40.7374964979679,0.869428
+3,ultra-realistic,0.4696796238422394,0.7637720108032227,56.37368469383017,0.055211
+3,highly detailed glass of orange juice with slices of fresh navel oranges,0.9213755130767822,0.5275815725326538,42.12100904815092,0.810884
+3,photorealistic 4k product photography of a glass containing orange juice and floating slices of orange,0.931769609451294,0.48134440183639526,41.771218531210025,0.853568
+3,"a glass of freshly squeezed orange juice with a few slices of juicy orange floating in it, captured in stunning high resolution",0.938640832901001,0.35732629895210266,35.45626002186039,0.994498
+3,realistic oil painting style of a glass containing orange juice with slices of orange floating in it under warm natural light,0.821047842502594,0.599793016910553,55.538084662036354,0.537823
+4,"a glass of freshly squeezed orange juice with a few perfectly sliced oranges floating in it, captured in highly detailed 4k resolution",0.9362188577651978,0.39517658948898315,36.284967005794805,0.961115
+4,"a close-up of a glass containing freshly squeezed orange juice with thin slices of juicy orange, photographed in sharp focus",0.9392168521881104,0.4104124903678894,41.658716852282495,0.906149
+4,"a beautiful still-life of a glass filled with orange juice and floating slices of orange, depicted in a 4k digital painting",0.8905905485153198,0.6264834403991699,58.41611752665389,0.569332
+4,"a glass of freshly squeezed orange juice with a few floating slices of orange, set against a plain white background and rendered in a photorealistic style",0.9257979393005371,0.5761575102806091,52.289476023361246,0.693399
+4,"a glass of freshly squeezed orange juice with several thin slices of orange floating inside, captured in high resolution with a shallow depth of field",0.9305095672607422,0.42886489629745483,45.23566340947609,0.853054
+5,"a highly detailed glass of freshly squeezed navel orange juice with a few slices of perfectly ripe navel orange floating in it, captured in stunning 4k high resolution",0.9256546497344971,0.5030503869056702,41.071302122874016,0.840060
+5,"a glass of vibrant freshly squeezed orange juice with a few slices of fragrant juiciest oranges floating in it, captured in a highly detailed masterpiece style",0.9094361066818237,0.4483371376991272,41.10309574472006,0.856154
+5,"a crystal glass filled with freshly squeezed orange juice and garnished with a sprig of fresh rosemary, with a few slices of juicy orange floating in it, captured in a breathtakingly beautiful 4k resolution",0.9065253734588623,0.6368322372436523,40.99923856281452,0.738056
+5,"a delicate glass containing a refreshing glass of freshly squeezed orange juice with a few slices of succulent juicy orange floating in it, photographed in a stunning 4k digital painting style",0.9123526215553284,0.49657344818115234,34.91783768524478,0.885744
+5,"a tall clear glass filled with a glass of freshly squeezed orange juice and a few slices of juicy, ripe oranges floating in it, captured in a highly detailed and realistic 4k style",0.9234375953674316,0.44209128618240356,37.47802838197953,0.907816

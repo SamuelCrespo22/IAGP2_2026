@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.441191
+1,anime character wielding a flaming sword in a dark fantasy world,0.790939450263977,0.5779997110366821,49.27047965218739,0.504514
+1,highly detailed anime character holding a sword surrounded by intense flames,0.8093583583831787,0.6725962162017822,58.21877600069653,0.343983
+1,a young anime warrior with a blazing sword and fire in his outstretched hand,0.7920585870742798,0.6192585229873657,57.80208820724841,0.339421
+1,a highly detailed 4k anime artwork of a samurai character with a fiery sword,0.7485277056694031,0.6130177974700928,54.73235994899122,0.162331
+1,anime style depiction of a brave warrior holding a burning sword and flames in his hands,0.8394486904144287,0.6500211954116821,54.85649344324367,0.576798
+2,"anime character wielding a majestic, highly detailed flaming sword in a dark, gritty fantasy world",0.7721132636070251,0.6012305617332458,53.91239410457341,0.312749
+2,"anime character holding a blazing, 4k-resolution flaming sword in a dark, mystical realm",0.8038142323493958,0.5953847169876099,53.53519416869696,0.490689
+2,"highly detailed anime-style character standing on a cliff, wielding a fiery sword that casts a warm glow in a dark fantasy landscape",0.7951053380966187,0.6101826429367065,46.565433387987994,0.512573
+2,"anime character posing heroically with a glowing, highly detailed flaming sword against a dramatic, dark fantasy backdrop",0.8142204284667969,0.5055073499679565,44.865655648521816,0.790049
+2,"dark fantasy anime character wielding a brilliant, masterfully painted flaming sword that shines with an otherworldly light in a mystical world",0.7676956653594971,0.526012122631073,41.154498108346274,0.565626
+3,"anime character posing heroically with a highly detailed, glowing, and sharp flaming sword against a dramatic, dark, and mystical fantasy backdrop",0.8070538640022278,0.5441572070121765,45.38343920468678,0.688437
+3,"anime hero posing with a majestic, highly detailed, and 4k flaming sword against a breathtaking, dark fantasy landscape",0.8146829605102539,0.5286872386932373,40.997468072441684,0.807259
+3,"dark fantasy anime character wielding a highly detailed and intricately designed flaming sword against a majestic, mysterious backdrop",0.7695033550262451,0.555117130279541,41.8749270411626,0.522234
+3,"anime warrior posing heroically with a highly detailed, fiery, and gleaming flaming sword against a dramatic, dark, and epic fantasy setting",0.7824599146842957,0.5943114757537842,47.230475241331106,0.462244
+3,"anime hero standing heroically with a large, highly detailed, and masterfully crafted flaming sword against a dark, mystical, and atmospheric fantasy backdrop",0.7699083089828491,0.6075674891471863,51.86061173775074,0.318088
+4,"anime hero standing proudly with a mighty, high-definition, and ultra-realistic flaming sword against a dramatic, dark fantasy, misty landscape",0.756524920463562,0.6174971461296082,48.07393788485662,0.282290
+4,"anime hero posing heroically with a fiery, highly detailed, and 8k flaming sword against a surreal, dark fantasy world",0.8284242749214172,0.6236628293991089,52.30532200651362,0.591718
+4,"dark fantasy anime hero wielding a massive, highly realistic, and vibrant flaming sword against a breathtaking, gothic landscape",0.7430156469345093,0.5576850771903992,42.63664328384212,0.371308
+4,"anime hero standing strong with a radiant, 4k, and digital painting style flaming sword against a mystical, dark fantasy realm",0.7918554544448853,0.5672833919525146,50.5327925041109,0.509146
+4,"anime hero heroically holding a blazing, ultra-high definition, and highly textured flaming sword against a haunting, dark fantasy, abandoned ruin",0.7666678428649902,0.6123647689819336,49.456049487088244,0.324875
+5,"anime hero posing with a vibrant, epic, highly detailed, and 4k blade against a breathtaking, immersive, dark fantasy landscape",0.7516602277755737,0.5808433890342712,45.371161124214574,0.346491
+5,"anime hero standing heroically with a majestic, highly detailed, and 4k flaming sword against a vast, atmospheric, dark fantasy world",0.8178120851516724,0.5496525168418884,47.146941890392704,0.713431
+5,"hero anime warrior posing with a glowing, highly detailed, and 4k flaming sword against a dramatic, cinematic, dark fantasy backdrop",0.8292809724807739,0.5609738826751709,46.27706304952048,0.767088
+5,"anime hero holding a majestic, highly detailed, and 4k sword with a dynamic, fiery aura against a dark, mysterious, fantasy landscape",0.8137866258621216,0.5307231545448303,38.68021986195704,0.829215
+5,"anime hero standing triumphantly with a highly detailed, 4k, radiant, flaming sword against a breathtaking, surreal, dark fantasy environment",0.763070821762085,0.6011689901351929,51.073718583787766,0.302278

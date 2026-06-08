@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a glass of orange juice with a slice of orange on the side,0.9257019758224487,0.58281010389328,47.5498014298328,0.680319
+1,"'a highly detailed, 4k rendered image of a glass of freshly squeezed orange juice with a slice of orange on the side'",0.9260455369949341,0.46283555030822754,39.32416638811592,0.831879
+1,"'a realistic still life of a glass containing orange juice, with an orange slice placed carefully to the side'",0.8853622078895569,0.6577700972557068,58.1711193859179,0.457466
+1,"'a close-up photograph of a glass of orange juice next to a single slice of orange, with a shallow background'",0.9412214159965515,0.5318130850791931,41.5029979339605,0.796686
+1,"'an artist's masterpiece, a digital painting of a glass filled with vibrant orange juice accompanied by a slice of orange'",0.8279293179512024,0.5975990891456604,49.21725015282543,0.429700
+1,"'a still life drawing of a glass of orange juice on a wooden table, with a slice of orange partially sliced on the side'",0.8964402079582214,0.6355945467948914,54.9382275204608,0.521972
+2,"highly detailed, photorealistic 4k rendered image of a glass of freshly squeezed orange juice with a slice of orange on the side",0.9390784502029419,0.4360274076461792,39.30494959663316,0.884457
+2,"a 4k masterclass image of orange juice with a glass, garnished with a slice of fresh orange, on a minimalist white table",0.9194191694259644,0.6026339530944824,56.89363116790506,0.590329
+2,extremely vivid and lifelike 4k image of a glass of cold pressed orange juice with a slice of orange beside it on a rustic wooden table,0.9246641397476196,0.4845789968967438,38.16683058909419,0.818063
+2,highly realistic 4k digital painting of a chilled glass of freshly squeezed orange juice accompanied by a vibrant slice of orange on a natural stone surface,0.9378273487091064,0.4875268340110779,38.28726936654917,0.845558
+2,"4k, highly detailed image of a glass of freshly squeezed orange juice and a vibrant orange slice positioned on a crisp white linen tablecloth",0.9265358448028564,0.6453694105148315,73.73057687553391,0.465374
+3,"highly detailed, photorealistic, ultra-realistic 4k rendered image of a glass of freshly squeezed orange juice with a slice of orange on the adjacent coaster",0.9480568170547485,0.4032057225704193,35.768590836219566,0.954753
+3,"vibrant, dynamic highly detailed 4k digital art of an orange juice glass with citrus slice and a minimalist, clean background",0.9221354722976685,0.4965279698371887,38.37636972846074,0.801005
+3,"highly detailed, photorealistic 8k 3d rendering of a glass of freshly squeezed orange juice with a thick slice of orange positioned to catch the viewer's eye",0.928193211555481,0.4720849096775055,42.76339349930909,0.807544
+3,realistic oil painting style of a glass of orange juice served in a fine china cup with a delicate slice of orange garnish,0.7335561513900757,0.6078305840492249,53.317575643495076,0.175391
+3,"photorealistic, highly detailed digital painting of a glass of freshly squeezed orange juice on a rustic wooden table with a paper napkin and an orange slice nearby",0.9394406080245972,0.563563883304596,43.06513751201819,0.756520
+4,"highly detailed, photorealistic, ultra-realistic, 4k cinematic image of a glass of freshly squeezed orange juice on a rustic coaster with a slice of orange next to it",0.9275363683700562,0.5362598896026611,40.78777857447277,0.765642
+4,photorealistic masterpiece of a glass with fresh OJ on a weathered coaster with an orange slice nearby,0.9292864799499512,0.4512324035167694,35.14377019364535,0.875394
+4,"crystal-clear, ultra-realistic, highly detailed digital painting of a glass of OJ on a wooden coaster with an adjacent slice of orange",0.9096249341964722,0.536709189414978,43.236656369882596,0.708052
+4,"cinematic, high-definition, ultra-realistic image of a glass of freshly squeezed OJ and its slice companion on a worn wooden coaster",0.9295951128005981,0.5535567402839661,42.69138193877175,0.744173
+4,"highly realistic, 4k, ultra-detailed photograph of a glass filled with fresh OJ and sitting on a coaster with an orange slice alongside",0.9453916549682617,0.36066734790802,34.15124706305898,0.993788
+5,highly realistic photograph of a glass filled with freshly squeezed OJ and sitting on a white coaster with a wedge of orange nearby,0.9299960732460022,0.6642387509346008,55.88652973154885,0.570611
+5,ultra-detailed still life of a clear glass filled with icy cold OJ on a matching coaster with an orange slice garnish,0.9149215221405029,0.5383655428886414,43.58187105194732,0.716854
+5,highly detailed 4k digital image of a glass containing freshly squeezed OJ and resting on a colorful coaster surrounded by an orange slice and pulp,0.9298621416091919,0.5344476103782654,42.6935337962021,0.760518
+5,highly realistic 4k photograph of a classic clear glass filled with orange juice and positioned on a matching coaster with an adjacent slice of fresh orange,0.9372670650482178,0.5526482462882996,44.82653376979973,0.749318
+5,highly detailed high-resolution image of a modern clear glass filled with cold OJ and sitting on a small coaster with a single slice of orange and a few droplets on the rim,0.9188821315765381,0.41588571667671204,37.43016472971999,0.865809

@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"A refreshing glass of orange juice garnished with orange slices and peels, surrounded by scattered orange pieces on a neutral background.",0.9367260932922363,0.486178994178772,42.64859086177122,0.854819
+1,"A highly detailed, photorealistic glass of fresh orange juice garnished with a sprig of fresh rosemary, surrounded by scattered orange slices and peels on a minimalist marble background",0.8939417004585266,0.692937433719635,49.284875445806854,0.627341
+1,"Orange juice in a vintage glass, surrounded by peels and slices on a worn wooden surface, with a subtle soft glow",0.9477815628051758,0.5138802528381348,39.20971646258279,0.886099
+1,"A perfectly clear, 4K-resolution glass of chilled orange juice, garnished with a thin slice of orange peel and a few scattered pieces on a modern kitchen counter",0.9263338446617126,0.5881603360176086,43.02204156615244,0.783222
+1,"A majestic, still life of a glass of orange juice surrounded by slices and peels, set against a warm, golden background reminiscent of a sunny morning",0.9134243726730347,0.588431715965271,49.791408735003564,0.705715
+1,"A beautifully styled, still-life glass of orange juice garnished with a delicate orange blossom and placed on a rustic, wooden table surrounded by soft, natural light.",0.8525481224060059,0.7006692290306091,62.80182223851794,0.446315
+2,vintage clear glass,0.6116336584091187,0.7743504643440247,53.13567989799088,0.144609
+2,highly detailed glass with a subtle sheen,0.600695788860321,0.8508495688438416,63.365143502640365,0.000000
+2,glass filled with ice and surrounded by citrus peels,0.8401013612747192,0.7612983584403992,59.15721479923573,0.428288
+2,an old wooden table with a worn glass and a collection of orange slices,0.8519546985626221,0.6325869560241699,50.486951685919664,0.588011
+2,"a wooden surface with a faint orange glow, a vintage clear glass, and slices of orange",0.8941147327423096,0.6081456542015076,54.43371946788762,0.627276
+3,"orange juice in a delicate glass, surrounded by vibrant peels and slices on a rustic wooden surface, with a soft warm ambiance",0.9397438764572144,0.5711306929588318,42.92969862385274,0.812256
+3,"vibrant orange juice in a classic glass, surrounded by peels and slices on a weathered wooden table, with a subtle glow",0.9119783639907837,0.6537070274353027,53.313668053436636,0.638883
+3,"highly detailed digital painting of fresh orange juice in a vintage glass, surrounded by peels and slices on a worn wooden surface",0.9317669868469238,0.4621785879135132,38.33849668512405,0.897657
+3,"orange juice in a antique glass, surrounded by peels and slices on a distressed wooden surface, with a soft gentle light",0.9051535725593567,0.6423162817955017,52.55700321009353,0.641583
+3,"fine art digital painting of orange juice in a retro glass, surrounded by peels and slices on a wooden countertop, with a warm natural light",0.9300611019134521,0.6401084661483765,53.32139913231891,0.671984
+4,"highly detailed realistic digital painting of freshly squeezed orange juice in a vintage glass, surrounded by peels and slices on a worn wooden surface",0.9432058334350586,0.3732644319534302,34.56850442050612,0.993408
+4,highly detailed 4k digital painting of a glass of orange juice with pulp and peels on a distressed wooden table,0.9149264097213745,0.5047780871391296,46.740860303817776,0.778152
+4,"digital masterpiece of a glass of freshly squeezed orange juice, peels, and slices on a vintage wooden cutting board",0.9219179153442383,0.5828415751457214,42.54444784998676,0.783791
+4,"highly detailed, photorealistic digital painting of orange juice in a classic glass, surrounded by peels and slices on a weathered wooden counter",0.9077885746955872,0.5844902396202087,47.20988515226395,0.722071
+4,"highly detailed, oil on canvas style digital painting of a glass of orange juice with peels and slices on a rustic wooden table in warm sunlight",0.7941454648971558,0.6107645630836487,49.95255101634858,0.520796
+5,highly detailed realistic 4k digital painting of freshly squeezed orange juice in a vintage glass,0.9058260917663574,0.5341941118240356,47.17219700347195,0.745899
+5,a highly realistic and lifelike digital painting of orange juice in a vintage glass over worn wooden surfaces,0.9226276874542236,0.5629589557647705,48.35279996709063,0.744796
+5,highly detailed photorealistic digital artwork of orange juice and peels on a worn wooden table,0.8898983597755432,0.5800166130065918,47.8653952630137,0.692950
+5,a highly realistic oil on canvas digital painting of freshly squeezed orange juice in a delicate antique glass,0.8192635774612427,0.6239964962005615,51.98287032359,0.532427
+5,highly detailed digital painting of a glass filled with freshly squeezed orange juice surrounded by slices and peels in warm sunlight on a rustic wooden surface,0.931861162185669,0.48931440711021423,39.757050911410545,0.871273

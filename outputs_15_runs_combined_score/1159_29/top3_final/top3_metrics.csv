@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,a highly detailed 8k realistic arafed palm tree stands tall on the edge of a calm turquoise ocean waters at dusk,0.9119192957878112,0.5812626481056213,40.4419154353438,0.9351532722610317,run_2,0.913286773835797,0.0859604586274671,0.0
+5,highly detailed realistic majestic arafat palm tree on a towering rock in a vast tranquil turquoise ocean at the warm and inviting golden hour with soft warm sunlight,0.922969937324524,0.5833151936531067,46.44182680491304,0.9197117124299872,run_14,0.9702116240311368,0.09276134719053547,0.16881505115178955
+4,highly detailed realistic arafat palm tree on a large rock in tranquil turquoise waters at golden hour with soft warm sunlight and a peaceful atmosphere,0.9200842380523682,0.5970281362533569,44.24833551865554,0.916349272202277,run_14,0.955346604816593,0.138197705282716,0.10709841554136212

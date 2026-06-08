@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a glass of orange juice with fresh orange slices around it, realistic product photography, warm lighting",0.92182457447052,0.5338760018348694,43.99722082178454,0.496910
+1,"'a glass of orange juice with fresh orange slices and ice cubes, highly detailed realistic product photography, soft warm natural light'",0.929556667804718,0.4912896454334259,40.99423166168593,0.676005
+1,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting'",0.9399648904800415,0.5157954692840576,40.715464395691846,0.762309
+1,"'a beautifully crafted glass of orange juice on a wooden table, with sliced oranges and ice, highly realistic product still life photography'",0.8995035886764526,0.589249849319458,49.44542839033274,0.109160
+1,"'a still life of a glass of orange juice surrounded by fresh orange slices and a few ice cubes, highly detailed realistic photography, warm sunlight'",0.9133355617523193,0.541669487953186,45.741512280980054,0.370877
+1,"'photorealistic highly detailed still life of a glass of orange juice, fresh orange slices, and a few ice cubes, warm evening lighting'",0.9151536226272583,0.5457205772399902,49.9217893434012,0.331477
+2,"realistic 8k digital photograph of a glass of freshly squeezed orange juice with perfectly ripe orange slices, soft warm morning lighting",0.9273898005485535,0.4882371425628662,42.327840880949026,0.638862
+2,"a highly detailed 4k digital still life of a glass of orange juice with sliced oranges, gentle morning sunlight",0.9449755549430847,0.5452415943145752,40.79487840535736,0.778222
+2,"ultra-realistic 4k digital image of a glass of orange juice with thinly sliced oranges, warm golden morning light",0.9298699498176575,0.5482641458511353,43.422044254625035,0.574182
+2,"a photorealistic 8k digital painting of a glass of orange juice with fresh orange slices, soft morning glow",0.9274200201034546,0.4847719371318817,42.287858636435985,0.644202
+2,"highly detailed 4k digital photograph of a glass of cold fresh-squeezed orange juice with sliced oranges, natural warm morning lighting",0.9329196214675903,0.5525206327438354,44.88192996817523,0.583292
+3,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting', highly detailed",0.9287212491035461,0.40564286708831787,45.5416216518982,0.718899
+3,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting', high quality, sharp",0.935076117515564,0.4363766312599182,37.63745889484904,0.851325
+3,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting', best lighting",0.9392017722129822,0.5062699317932129,41.914131426628636,0.750736
+3,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting', masterpiece",0.941586971282959,0.5071791410446167,39.50450455545753,0.806994
+3,"'realistic 4k digital photo of a glass of orange juice with fresh orange slices, warm morning lighting', ultra realistic",0.9334366917610168,0.507657527923584,40.52602134165559,0.703525
+4,"highly detailed realistic 4k digital photo of a full glass of freshly squeezed orange juice with vibrant orange slices, warm sunny morning lighting",0.9247990250587463,0.5400990843772888,43.5364585475174,0.527521
+4,"realistic 4k digital still life of a glass of orange juice with a few fresh orange slices, subtle warm glow",0.9423569440841675,0.481838583946228,40.678441946796966,0.833090
+4,"ultra high definition digitally crafted photo of a glass of orange juice garnished with a fresh slice of orange, golden morning light",0.9297224283218384,0.45549413561820984,38.286416279673354,0.759280
+4,"highly realistic 4k digital reproduction of a glass of orange juice with a few orange slices, soft warm morning atmosphere",0.9313600063323975,0.5404052734375,40.84009804949433,0.634190
+4,"photorealistic 4k digital art of a glass of orange juice with a few slices of fresh orange, warm natural morning lighting.",0.924490213394165,0.469513475894928,49.27806811633634,0.541222
+5,"Highly detailed 4k digital photography of a glass of freshly squeezed orange juice with real orange slices, warm golden morning lighting",0.9386882781982422,0.42157042026519775,39.16121423884847,0.890493
+5,"Realistic, high-definition digital still life photograph of a glass of orange juice with authentic orange slices in warm morning light",0.9438748359680176,0.5088786482810974,41.305848065380744,0.806618
+5,"Beautifully rendered 8k digital art of a glass of orange juice with real slices, soft warm light on a tranquil morning",0.9216398000717163,0.5239312648773193,47.40545979534639,0.463622
+5,"Detailed digital still image of a glass of freshly squeezed orange juice topped with sliced oranges, captured in a warm and inviting morning light",0.9290063977241516,0.5738427639007568,45.66598629038573,0.502480
+5,"Highly realistic digital 4k portrait of a glass of orange juice with real slices, beautifully rendered morning lighting and atmosphere",0.9404560327529907,0.5985825657844543,56.939966186756365,0.450304

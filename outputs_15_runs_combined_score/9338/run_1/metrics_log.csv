@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with a colorful tail and tail,0.7601066827774048,0.6329951286315918,46.72277649258247,0.623538
+1,mouse with a bright rainbow colored tail,0.7297515273094177,0.7178583145141602,42.79407665874839,0.410362
+1,highly detailed painting of a mouse with a vibrant multicolored tail,0.7414245009422302,0.6830512285232544,40.24388218227195,0.549829
+1,realistic digital artwork of a mouse with a long colorful tail,0.6767135858535767,0.68985915184021,38.16873209258915,0.334909
+1,"a close-up of a mouse with a bright, fluffy tail and intricate details",0.7006756067276001,0.7496670484542847,48.28883474781622,0.175927
+1,"oil painting of a mouse with a long, slender colorful tail",0.7244517207145691,0.6365423798561096,31.67926220165666,0.688501
+2,"'oil painting of a mouse with a bright, vibrant long, slender colorful tail'",0.7473204135894775,0.6273797154426575,34.276164179872836,0.752433
+2,'a realistic highly detailed oil painting of a small mouse with a long slender colorful tail',0.7298687696456909,0.6479380130767822,32.391470301511916,0.677240
+2,"'colorful oil painting of a mouse with a long slender tail, set in a natural environment'",0.7149327993392944,0.6667470335960388,36.99750010127999,0.528760
+2,"'highly detailed digital painting of a mouse with a long slender colorful tail, reminiscent of a fine art masterpiece'",0.7676494121551514,0.6193187236785889,31.507216508827796,0.875957
+2,"'a delicate oil painting of a mouse with a long slender colorful tail, illuminated by soft natural light'",0.7242233753204346,0.6529287099838257,34.646292747580915,0.618278
+3,"highly detailed hyper-realistic digital painting of a mouse with a long slender colorful tail, reminiscent of a fine art oil on canvas masterpiece",0.6710548400878906,0.6764758229255676,37.72026232455044,0.345522
+3,"a mouse with a long slender colorful tail, depicted in a highly detailed 4k digital painting style, reminiscent of the works of Claude Monet",0.7146707773208618,0.7151361703872681,36.53664438785337,0.444272
+3,"highly detailed photorealistic digital painting of a mouse with a long slender colorful tail, set against a subtle textured background, evoking the feeling of a fine art gallery",0.6983418464660645,0.6847335696220398,33.90358698332952,0.477305
+3,"a mouse with a bright, long slender colorful tail, portrayed in a highly detailed digital painting that mimics the style of a 19th-century fine art master",0.7113320827484131,0.664355993270874,33.03614262160672,0.572565
+3,"highly detailed hyper-realistic digital painting of a mouse with a long slender colorful tail, illuminated by soft, natural light, reminiscent of a fine art oil on canvas still life",0.6695867776870728,0.713123619556427,37.81059716477876,0.271245
+4,"highly detailed digital painting of a mouse with a vibrant, long slender tail resembling a fine art masterpiece",0.7432815432548523,0.6733874082565308,31.305814341622845,0.691993
+4,"an ultra-realistic 4k digital art piece of a mouse sporting a colorful, luxurious tail reminiscent of a museum-quality painting",0.666164755821228,0.6624631881713867,33.83485090154373,0.405277
+4,"highly detailed oil-painting style digital artwork of a mouse with an extravagant, slender, multi-colored tail, emphasizing fine brush strokes",0.7822626829147339,0.614691436290741,31.41830541697246,0.937554
+4,"digitally painted, highly detailed portrait of a mouse with a long slender, intricately patterned tail, reminiscent of a Baroque-era fine art masterpiece",0.6849514245986938,0.7015484571456909,36.361859430381294,0.366280
+4,"vibrant, highly detailed digital oil painting of a mouse with a majestic, long slender, colorful tail, inspired by the works of the Old Masters",0.7740394473075867,0.6376072764396667,29.299948112356017,0.893818
+5,highly detailed realistic oil-painting style digital artwork of a mouse with an extravagant slender multi-colored tail,0.7398003339767456,0.6155259609222412,33.330302359213995,0.760156
+5,highly detailed photorealistic digital painting of a mouse with an extremely long slender tail,0.651098370552063,0.7283737063407898,37.20551696727748,0.185358
+5,highly detailed masterpiece oil-painting style digital artwork of a mouse with a slender multi-colored tail surrounded by subtle natural light,0.6972610950469971,0.68766188621521,36.404321730857376,0.435123
+5,"highly detailed 4k digital painting of a mouse with an extravagant slender multi-colored tail, emphasizing fine delicate brush strokes",0.7920008897781372,0.6337274312973022,33.984502896603736,0.903067
+5,"highly detailed realistic 4k digital artwork of a mouse with an extravagant slender multi-colored tail, captured in a warm golden natural light",0.6647505164146423,0.7236815690994263,39.14237747425908,0.216994

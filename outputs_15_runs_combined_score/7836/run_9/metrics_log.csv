@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.842658
+1,astronaut standing on the surface of a distant mysterious planet with a bright intense light shining in the background highly detailed,0.8250775337219238,0.5106582045555115,33.6861681633288,0.710111
+1,astronaut standing on a barren alien landscape at sunset with a radiant glow in the background,0.7983093857765198,0.7908251285552979,59.87683525980401,0.139852
+1,astronaut standing on the distant surface of a barren rocky planet with a vibrant aurora shining in the background 4k,0.832045316696167,0.5730717778205872,35.69845675930067,0.669349
+1,astronaut standing at the edge of a cliff on the surface of a mysterious alien world with a brilliant light source behind them,0.8724839687347412,0.5840609073638916,36.04951037131587,0.833990
+1,astronaut in a spacesuit standing on the surface of a desolate alien landscape with a bright shining star in the background highly realistic,0.7799402475357056,0.5808832049369812,36.969453400505785,0.424247
+2,astronaut standing at edge of a cliff on the surface of a rugged alien world with a bright sunbeam behind them,0.8849397897720337,0.6297191977500916,47.663248385653006,0.757810
+2,mysterious astronaut stands poised at cliff's edge on alien terrain with an aurora borealis effect in the background,0.8184720277786255,0.7060565948486328,46.970820038992855,0.403853
+2,astronaut standing at edge of a cliff on the surface of a desolate alien world in a warm golden hour with a brilliant light source behind them,0.8219403028488159,0.7586928606033325,60.22591312980029,0.269349
+2,an astronaut stands at the precipice of a towering cliff on an alien landscape with a brilliant celestial body rising behind them,0.8885613679885864,0.6268455386161804,49.57021527973458,0.761461
+2,highly detailed astronaut standing at edge of a cliff on the surface of a vast alien moon with a bright starlight shining behind them,0.7876747846603394,0.5905527472496033,38.634987960927724,0.436597
+3,'astronaut standing at the edge of a cliff on a distant alien world with a distant blue light source behind them',0.8819308280944824,0.6093737483024597,41.87872388992336,0.807613
+3,'an astronaut standing at the edge of a rugged cliff on a mysterious alien landscape with a brilliant light source behind them',0.8753054141998291,0.6691817045211792,51.821321911749514,0.648161
+3,'a highly detailed astronaut standing at the edge of a cliff on the surface of a barren alien world with a golden light source behind them',0.7744362354278564,0.6622055768966675,37.59075221453274,0.322752
+3,'the astronaut stands at the edge of a steep cliff on a strange alien world with a brilliant light source illuminating their back',0.8824597597122192,0.6031142473220825,37.03898853699102,0.853025
+3,'an astronaut stands at the edge of a cliff overlooking a vast alien landscape with a bright light source shining from behind them',0.8764182329177856,0.6211694478988647,46.70488371839966,0.735532
+4,the astronaut stands at the edge of a steep cliff on a barren alien world with a brilliant light source in the background illuminating their back,0.8656033277511597,0.5921839475631714,34.1473563108521,0.811339
+4,"the astronaut standing heroically at the edge of a rugged cliff on a distant, uncharted planet with a vibrant light source at their back",0.8615629076957703,0.6789472103118896,55.16812695801502,0.553300
+4,"the astronaut poses dramatically at the edge of a steep, rocky cliff on a desolate alien landscape with a bright light source casting a glow on their silhouette",0.8467094898223877,0.6726998090744019,45.688896906596796,0.567266
+4,a lone astronaut stands out against a breathtaking view at the edge of a steep cliff on a stunningly alien world with a radiant light source illuminating their figure,0.8455591201782227,0.6598323583602905,48.11720246910529,0.554888
+4,"a highly detailed astronaut stands heroically at the edge of a rugged cliff on a mysterious, otherworldly planet with a brilliant light source in the background casting a warm glow on their back",0.8653411269187927,0.6850777864456177,44.37042026756376,0.648067
+5,vibrant astronaut stands at the edge of a rugged cliff on an unforgiving alien world with a brilliant luminescent glow illuminating their back,0.8676857352256775,0.6342881917953491,40.43285710647566,0.734177
+5,the astronaut stands at the edge of a precipitous abyss on a distant extraterrestrial world with a brilliant radiance illuminating their back,0.841552197933197,0.6596328020095825,50.17074454044782,0.521596
+5,"the highly detailed astronaut stands resolutely at the edge of a steep, rocky cliff on a mysterious alien world with a brilliant light source casting an imposing shadow behind their back",0.8261184096336365,0.6757246851921082,37.18489929090441,0.540262
+5,"the astronaut stands at the edge of a towering cliff on an otherworldly landscape with a brilliant light emanating from behind them, radiating an ethereal glow",0.875648558139801,0.7188112139701843,64.42631766185447,0.507687
+5,"a highly realistic astronaut stands at the edge of a deep chasm on a desolate, barren alien world with a brilliant, pulsating light source illuminating their features from behind",0.856568455696106,0.6180980205535889,39.0239979450241,0.710837

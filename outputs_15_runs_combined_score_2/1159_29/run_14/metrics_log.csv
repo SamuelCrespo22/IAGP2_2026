@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"a single palm tree growing on a rocky island in the ocean at sunset, realistic seascape",0.8863058090209961,0.7641149759292603,64.48390606355004,0.541384
+1,"'a solitary palm tree growing on a rugged rock outcropping in the ocean at golden hour, realistic seascape with high contrast'",0.8800079822540283,0.7406233549118042,62.557954796779754,0.569335
+1,"'an isolated palm tree rooted on a granite boulder surrounded by turquoise waves at sunset, photo realistic seascape'",0.8939094543457031,0.7410829663276672,59.5190327725502,0.664848
+1,"'a majestic palm tree situated on a rocky islet in the calm ocean at evening, vividly detailed seascape'",0.8440428376197815,0.61783766746521,50.33839667243948,0.732940
+1,"'a lone palm tree planted on a sea stack in the Pacific ocean at golden hour, highly realistic seascape photography'",0.8931142687797546,0.7709800004959106,63.13204186906777,0.578869
+1,"'a small palm tree sprouting from a rock formation in the open ocean at sunset, beautiful seascape with warm colors'",0.8656867742538452,0.8413287401199341,68.3785213266523,0.320964
+2,an isolated palm tree rooted on a granite boulder at sunset surrounded by turquoise waves in a highly detailed digital painting,0.8702542781829834,0.7377522587776184,52.3943845568406,0.673361
+2,an isolated palm tree on a granite boulder at sunset surrounded by waves in a serene and peaceful seascape photo realistic,0.8751035928726196,0.7964403033256531,66.2625675674234,0.437011
+2,a majestic isolated palm tree rooted on a granite boulder surrounded by deep turquoise waves at golden hour,0.8697935342788696,0.6850640177726746,54.83970105765621,0.697045
+2,an isolated palm tree standing tall on a rugged granite boulder surrounded by vibrant turquoise waves in a beautifully detailed seascape art piece,0.7837555408477783,0.6677666306495667,58.07789908695406,0.335048
+2,a picturesque isolated palm tree on a granite boulder against a warm sunset surrounded by gentle turquoise waves in a stunning high resolution seascape,0.900689959526062,0.7835289835929871,62.89135435563819,0.597801
+3,majestic highly detailed isolated palm tree rooted on a granite boulder surrounded by deep turquoise waves at golden hour,0.9082251191139221,0.7259612679481506,52.622566849493644,0.832180
+3,a serene 4k isolated palm tree rooted on a rugged granite boulder surrounded by deep turquoise waves at sunset,0.887240469455719,0.7500229477882385,57.674216631883105,0.653957
+3,a majestic highly realistic isolated palm tree towering above a granite boulder surrounded by calm turquoise waves at golden hour,0.859961986541748,0.6546024680137634,52.82586736973127,0.720152
+3,isolated palm tree rooted on a weathered granite boulder surrounded by deep turquoise waves and a soft sandy beach at golden hour,0.8559050559997559,0.7184115052223206,54.3586934978868,0.611914
+3,a highly detailed isolated palm tree on a rugged granite outcropping surrounded by deep turquoise waves and a dramatic sky at golden hour,0.8912078738212585,0.7627543210983276,59.766743759953734,0.626635
+4,majestic highly detailed isolated palm tree rooted on a massive granite boulder surrounded by deep turquoise ocean waves at golden hour sunset,0.8970432877540588,0.7347423434257507,56.26534381836098,0.728724
+4,highly detailed realistic isolated palm tree on a rugged granite rock formation surrounded by turquoise waves at golden hour,0.9060984253883362,0.7251089215278625,52.66567499699914,0.824212
+4,isolated palm tree standing on a large granite boulder surrounded by calm turquoise waves at the golden hour of a tropical island,0.8838949203491211,0.6705277562141418,50.10191084448873,0.833354
+4,highly detailed vibrant isolated palm tree on a weathered granite outcropping overlooking deep blue ocean waves at golden hour,0.8932070136070251,0.7206029891967773,53.81153354752459,0.763077
+4,majestic highly detailed isolated palm tree rooted on a granite rock formation overlooking the serene turquoise ocean and surrounding landscape at golden hour,0.8846086859703064,0.7342012524604797,52.61470511080898,0.730553
+5,majestic highly detailed isolated palm tree on a rugged granite boulder above the deep turquoise waves at golden hour,0.9113885760307312,0.7489217519760132,55.344992362998596,0.781649
+5,highly detailed 4k palm tree isolated on a granite rock surrounded by turquoise blue waves at sunset,0.9106953144073486,0.7371892333030701,53.10413621426273,0.822709
+5,isolated majestic palm tree rooted on a moss-covered granite boulder surrounded by turquoise water at golden hour with a warm glow,0.8594108819961548,0.6854908466339111,57.314793745940996,0.622038
+5,highly realistic detailed masterpiece of a majestic palm tree on a granite boulder isolated in the calm turquoise waves of the ocean at sunrise,0.8831518888473511,0.7340426445007324,55.06237988477527,0.691542
+5,isolated detailed 4k digital painting of a majestic palm tree standing on a rugged granite boulder surrounded by deep turquoise ocean waves at golden hour with a slight haze.,0.8044627904891968,0.7326061725616455,56.86127826264613,0.360279

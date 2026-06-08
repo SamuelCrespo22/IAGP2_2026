@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a flaming sword and magical blue flames,0.8201488256454468,0.5795411467552185,48.04433410009212,0.796698
+1,"anime character with a highly detailed flaming sword and magical, swirling blue flames",0.7774832248687744,0.5818949937820435,45.70329277430427,0.685955
+1,"anime style character wielding a blazing sword with vibrant, ethereal blue flames",0.814544141292572,0.6272692680358887,54.593582757023505,0.619228
+1,"a fantastical anime warrior with a majestic, 4k-resolution sword that burns with radiant, electric blue flames",0.8042970895767212,0.5465191006660461,40.25285267116149,0.896301
+1,"digital painting of a bold anime hero holding a mighty flaming sword surrounded by hypnotic, dancing blue flames",0.7777979373931885,0.6357598304748535,55.26702566363866,0.480545
+1,"an intricately detailed, masterpiece-quality anime illustration of a brave warrior brandishing a burning sword amidst a swirling vortex of brilliant, shimmering blue flames",0.802391529083252,0.6078329086303711,50.97726626314617,0.657274
+2,"a fantastical, highly detailed anime warrior with a majestic 4k-resolution sword that burns with radiant, electric blue flames and shimmers with a golden glow",0.7854135632514954,0.5575504302978516,39.4054367775224,0.828061
+2,"a 4k-resolution anime warrior with a majestic, highly detailed sword that bursts with radiant electric blue flames, illuminated by a soft, warm golden light",0.8121696710586548,0.5750241279602051,43.41896916957348,0.834742
+2,"an incredibly detailed anime warrior with a 4k-resolution sword that burns with blazing, electric blue flames and casts a fiery aura",0.7865850925445557,0.5666760206222534,45.333820066145336,0.745007
+2,"a highly stylized, 4k-resolution anime warrior wields a majestic sword that radiates electric blue flames and is imbued with ancient, mystical powers",0.7562070488929749,0.670561671257019,59.65415035272833,0.300468
+2,"a 4k-resolution masterpiece of an anime warrior brandishes a highly detailed sword that crackles with vibrant, electric blue flames, set against a subtle, misty background",0.7822327017784119,0.6400307416915894,55.22122681861478,0.487866
+3,"a highly detailed anime warrior wielding a magnificent, 8k-resolution sword that radiates vibrant, electric blue heat",0.7763083577156067,0.6185771226882935,49.9539772208211,0.568873
+3,"a realistic anime warrior standing victorious with an opulent, 4k-resolution sword ablaze with brilliant, electric blue flames",0.6658260822296143,0.6151636838912964,45.4569002371011,0.279433
+3,"a highly stylized anime warrior holding a regal, 4k-resolution sword that bursts with radiant, electric blue fire",0.8184636831283569,0.5791441798210144,49.61703320496947,0.773138
+3,"a fantasy anime warrior brandishing a magnificent, 4k-resolution sword that shines with intense, electric blue light",0.7666939496994019,0.6510939598083496,53.67745479408571,0.438518
+3,"an epic anime warrior grasping a grand, 4k-resolution sword that glows with fierce, electric blue energy",0.7831158638000488,0.6462313532829285,57.57482373248403,0.451839
+4,"a fantastical anime warrior with a majestic, highly detailed, 4k-resolution sword that burns with vibrant, electric blue flames",0.8007294535636902,0.5887985229492188,42.825668922457716,0.782324
+4,"a digital painting of a regal anime warrior wielding an epic, radiantly glowing, 4k-resolution sword",0.8223096132278442,0.5589267611503601,41.475792370824266,0.917485
+4,"an intricately designed anime warrior with a brilliant, 4k-resolution sword imbued with powerful, electric blue energy",0.7372862100601196,0.679235577583313,52.03591381915686,0.317507
+4,"a finely crafted anime warrior standing proudly with a spectacular, 4k-resolution sword ablaze with radiant, electric blue flames",0.8015050888061523,0.5698148012161255,47.124235078596264,0.765326
+4,"an exquisite anime warrior with a masterfully crafted, 4k-resolution sword shining with vibrant, electric blue fire that crackles with intensity",0.8077629208564758,0.5912731289863586,44.67107192500413,0.778175
+5,"A highly detailed digital painting of a regal anime warrior holding a majestic, 4k-resolution sword with radiantly glowing energy",0.7847504019737244,0.5319597721099854,40.48273401732439,0.856454
+5,"An epic anime digital art piece of a regal warrior wielding a highly detailed, 4k-resolution sword with radiant energy effects",0.7635898590087891,0.5628557205200195,39.1829926068926,0.752733
+5,"A 4k-resolution digital painting of a regal anime warrior holding a highly detailed, glowing sword in a stunning, cinematic pose",0.8239760398864746,0.5549283027648926,44.24107333699743,0.896298
+5,"A masterclass digital art piece of a regal anime warrior wielding a highly detailed, 4k-resolution sword with energy emanating from its blade",0.7903593182563782,0.573345422744751,38.857973044918516,0.823467
+5,"A highly realistic, digital painting of a regal anime warrior holding a 4k-resolution, majestic sword with glowing energy effects in a cinematic landscape",0.8069538474082947,0.5669047832489014,40.02885120607659,0.872789

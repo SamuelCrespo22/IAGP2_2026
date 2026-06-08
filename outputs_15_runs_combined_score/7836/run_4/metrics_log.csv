@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,astronaut standing on the surface of a planet with a bright light shining in the background,0.8551706075668335,0.5230433344841003,32.16922106397991,0.843736
+1,astronaut standing on the surface of a vibrant alien planet with a bright light shining in the background,0.8672820329666138,0.5266324877738953,34.36257875789981,0.874362
+1,"astronaut standing on a barren, highly detailed celestial body with a distant, gleaming light source",0.7863063216209412,0.5358824729919434,33.88480305317257,0.571888
+1,"a highly realistic astronaut stands on the rugged terrain of a mysterious, far-off world with a brilliant light illuminating the dark sky",0.8377145528793335,0.6513884663581848,35.514685875016646,0.669897
+1,"astronaut on the surface of a stunning, futuristic planet with a massive, shimmering light emanating from the horizon",0.8175429105758667,0.546286404132843,36.14146402306254,0.667752
+1,"detailed, digital painting of an astronaut standing on a desolate, extraterrestrial landscape under a blazing, otherworldly sun",0.8630897998809814,0.7876875996589661,60.47286816560933,0.535635
+2,astronaut standing on the surface of a mesmerizing alien landscape under a radiant light in the distant background,0.8858948349952698,0.6196726560592651,45.04823159238191,0.820532
+2,highly detailed astronaut standing on a vibrant alien planet with a brilliant light shining in the sky,0.8296427726745605,0.5468280911445618,39.96580660186859,0.692032
+2,astronaut on the outskirts of an otherworldly city with a stunning neon light reflecting off the terrain in the background,0.786155104637146,0.5721476078033447,43.69005168205184,0.494260
+2,astronaut standing on the edge of a dense alien forest gazing up at a breathtaking aurora borealis,0.7517226934432983,0.768089771270752,55.20941809014403,0.166813
+2,4k digital painting of an astronaut standing on the surface of a fantastical alien world bathed in the warm glow of a setting twin sun on a misty morning,0.8201603889465332,0.8337595462799072,78.1998471688485,0.252131
+3,astronaut standing on the vivid surface of a lush alien world with a radiant sun in the background,0.875159740447998,0.612464427947998,44.73479766217686,0.787788
+3,astronaut standing on the alien surface beneath a sky full of deep blues and purples with a shining starlight behind,0.8471961617469788,0.5556176900863647,37.8326280166823,0.761497
+3,"a highly detailed 4k astronaut standing on an otherworldly terrain with a bright, shining light in the distance",0.8609062433242798,0.6713230609893799,48.20970496070271,0.674944
+3,"a masterpiece of an astronaut standing proudly on the alien ground, surrounded by a stunning, cosmic landscape",0.8104118704795837,0.5293166041374207,33.03609728019067,0.669826
+3,"a realistic digital painting of an astronaut standing on the alien surface, with a beautiful, glowing nebula in the background",0.8165813684463501,0.5123429894447327,39.02495587978403,0.673560
+4,astronaut standing on the surface of a stunningly vibrant alien planet with a brilliant light shining in the background,0.8578507900238037,0.5447126626968384,37.68313145756608,0.809354
+4,highly detailed astronaut standing on the surface of a technicolored alien world with a bright radiant light in the background,0.8354223966598511,0.6021371483802795,41.42328102994289,0.666042
+4,an astronaut in 4k standing at the edge of a glowing alien landscape with a shining star in the background,0.8520078659057617,0.48542603850364685,34.001808218151425,0.849543
+4,"a highly detailed, photorealistic image of an astronaut standing on a colorful, futuristic alien planet with a bright light shining behind them",0.887441098690033,0.5514860153198242,43.94898121903159,0.880889
+4,"astronaut on an otherworldly alien planet with a beautiful, bright light illuminating the dark sky, highly detailed 4k digital art",0.8566796183586121,0.487090140581131,30.175643390851338,0.885477
+5,"astronaut standing on the edge of a cliff on an otherworldly alien landscape illuminated by a soft, ethereal light",0.8728888034820557,0.7442371845245361,70.95843990086709,0.548335
+5,highly detailed 4k digital art of an astronaut in a futuristic space suit exploring an extraterrestrial world with vibrant hues,0.8028714060783386,0.6249265670776367,43.99319359766817,0.516387
+5,"an astronaut in a serene environment on an alien planet under a bright, radiant light with delicate atmospheric effects",0.8191124200820923,0.7033107280731201,56.66063404758679,0.454021
+5,"astronaut on a distant, mystical alien world with an intense, brilliant light casting long shadows on the landscape",0.8342269062995911,0.5366851687431335,38.11558207937207,0.725832
+5,"highly detailed 4k digital painting of an astronaut standing on the surface of a mysterious alien planet under a warm, golden light",0.8562419414520264,0.818905770778656,68.75115433157343,0.444907

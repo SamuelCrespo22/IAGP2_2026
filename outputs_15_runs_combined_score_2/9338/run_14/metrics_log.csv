@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.488357
+1,"painting of a small mouse with iridescent scales in a vibrant, dreamy background",0.6996170282363892,0.7417119741439819,62.16433353721972,0.385335
+1,"highly detailed digital painting of a mouse with shimmering colorful scales and a radiant, glowing atmosphere",0.8060978055000305,0.695325493812561,38.915949609518684,0.828477
+1,"realistic 4k digital artwork of a mouse with multicolored, shimmering scales and a mesmerizing, ethereal background",0.781440019607544,0.6690577268600464,37.79801456739849,0.797906
+1,"detailed, surreal painting of a mouse with colorful, scaly fur and a radiant, otherworldly glow",0.8308428525924683,0.5992039442062378,34.89540103574995,0.964944
+1,"detailed, high-contrast digital art of a mouse with iridescent, rainbow-colored scales and a mystical, shimmering background",0.7927556037902832,0.7274196147918701,40.602696549109886,0.769125
+2,"highly detailed, dreamlike rendition of a small, agile mouse with iridescent, shimmering fur and a soft, ethereal glow",0.720109224319458,0.6842204332351685,45.04460863575816,0.598489
+2,"vibrant, detailed close-up of a mouse with multicolored, textured fur and an intense, radiant aura",0.6496927738189697,0.7980270981788635,53.05245331132274,0.321589
+2,"surrealistic painting of a mouse with luminous, colorful skin and delicate, sparkling eyes",0.7980022430419922,0.6401330232620239,46.036361384074816,0.782164
+2,"detailed, 4k digital painting of a mouse with scaly, iridescent fur and an otherworldly, pulsing glow",0.7219814658164978,0.7041696310043335,36.452577445878035,0.661704
+2,"detailed, realistic portrait of a mouse with colorful, wavy fur and a soft, warm, magical light",0.7602863907814026,0.7185164093971252,52.39551210433478,0.607959
+3,"detailed, photorealistic painting of a mouse with vibrant, shimmering fur and a softly glowing aura",0.7662085890769958,0.6941209435462952,46.43672129550176,0.681826
+3,"highly detailed, surreal digital art of a mouse with iridescent, scaly fur and an ethereal, radiant glow",0.7409067153930664,0.74314284324646,44.127425560480816,0.620093
+3,"realistic, 4k image of a mouse with colorful, intricate fur and a warm, natural light",0.6015536785125732,0.7462174892425537,44.84107453087369,0.311023
+3,"imaginative, dreamlike painting of a mouse with luminous, swirling fur and a bright, shining aura",0.8054907917976379,0.6221579313278198,48.20162263902808,0.790246
+3,"stylized, highly detailed portrait of a mouse with rich, textured fur and a subtle, otherworldly glow",0.6704468727111816,0.7191347479820251,41.23095852752897,0.503593
+4,"hyper-realistic, dreamlike depiction of a mouse with iridescent, reptilian fur and an ethereal, luminescent aura",0.7329808473587036,0.8002427220344543,50.41807612190817,0.522077
+4,"intricate, fantastical painting of a mouse with multicolored, armored hide and an intense, radiant energy",0.7669623494148254,0.587804913520813,31.304896560889162,0.861708
+4,"highly detailed, photorealistic rendering of a mouse with shimmering, crystalline scales and an otherworldly, holographic sheen",0.6647072434425354,0.7495209574699402,49.50414247658048,0.408235
+4,"vivid, mystical portrait of a mouse with radiant, iridescent fur and a soft, pulsing glow",0.7966500520706177,0.6634045243263245,44.660357325420954,0.778200
+4,"detailed, Baroque-style oil painting of a mouse with shimmering, opalescent fur and a warm, golden light",0.7190372347831726,0.6446112990379333,38.45728618444835,0.670272
+5,"highly detailed, surrealist painting of a small mouse with vibrant, iridescent scales and an ethereal, soft glow",0.7364393472671509,0.6946598887443542,38.90259535222876,0.678134
+5,"detailed, psychedelic artwork of a mouse with radiant, shimmering fur and an intense, pulsing aura",0.7770336866378784,0.6814094185829163,32.712116318037424,0.823103
+5,"4k digital painting of a mouse with intricate, scaly skin and a delicate, luminescent sheen",0.6852577924728394,0.7283627390861511,43.51108727701807,0.512353
+5,"surreal landscape with a tiny, majestic mouse as the focal point, surrounded by swirling clouds and a brilliant, starry sky",0.5998803377151489,1.0652989149093628,58.08459271343151,0.033051
+5,"highly realistic, dreamlike depiction of a mouse with luminous, crystalline fur and a warm, golden ambient light",0.7238245010375977,0.672393262386322,40.89823840084502,0.646315

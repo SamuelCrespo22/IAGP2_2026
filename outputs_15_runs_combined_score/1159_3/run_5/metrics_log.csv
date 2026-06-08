@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,anime character with a sword and fire in his hand,0.8021513223648071,0.605817437171936,55.50990575624207,0.556316
+1,anime character wielding a katana and flames,0.8023830652236938,0.6260046362876892,55.17523649763858,0.530800
+1,highly detailed anime character holding a sword and fire in his hand,0.8301081657409668,0.6065768599510193,51.08044567039749,0.695704
+1,"anime character with flames and a katana, created in a classic anime style",0.7336629033088684,0.6649649739265442,63.64657562927375,0.152533
+1,highly realistic anime warrior with a sword and fire effects,0.7918674349784851,0.6016685962677002,48.277067683804006,0.600229
+1,detailed digital painting of an anime character grasping a sword and surrounded by blazing flames,0.833136260509491,0.6428546905517578,51.6706233598069,0.646764
+2,"highly detailed, realistic anime character holding a glowing sword and flames in his hand",0.8337761163711548,0.633407473564148,52.541038058341776,0.654060
+2,"highly detailed anime character standing in a fiery, mystical landscape, holding a sword in his hand",0.8016043305397034,0.6678593158721924,57.815764881768466,0.439911
+2,"highly realistic, 4k anime character wielding a fiery sword in a dramatic pose",0.7993463277816772,0.6039659380912781,51.53009559557171,0.589620
+2,"anime character painted in a digital watercolor style, holding a burning sword and standing amidst a fiery background",0.8131868839263916,0.6693995594978333,59.91172454405482,0.456159
+2,"highly detailed, dynamic anime character in a fiery explosion, holding a gleaming sword in his hand",0.8101099729537964,0.6303850412368774,53.98433475348737,0.562855
+3,highly detailed real-time 3D animated anime character holding a gleaming katana and flames in hand,0.7835395336151123,0.6236230731010437,53.3124888005472,0.488560
+3,"sword-wielding anime warrior with fiery aura, rendered in high definition",0.8165838718414307,0.6275930404663086,52.28532218659248,0.606297
+3,"a majestic anime hero wielding a blade and engulfed by intense flames, created in photorealistic 4k",0.8213882446289062,0.6830306053161621,56.751140974503,0.496125
+3,"an anime fantasy character holding a mighty sword and fiery explosion in hand, painted in a masterful watercolor digital style",0.8239191770553589,0.6625580191612244,55.70240218383296,0.545495
+3,"anime protagonist in a dramatic fire-kissed battle stance, gripping a sword in his hand with intense concentration and fiery sparks",0.776219367980957,0.6628947854042053,52.64956488243517,0.412420
+4,highly detailed anime warrior holding a blazing sword in his hand,0.8162025213241577,0.5932811498641968,50.40713687221723,0.674420
+4,highly realistic anime character with fire dancing in his outstretched hand,0.7239892482757568,0.7306147217750549,65.90841517703598,0.000000
+4,highly detailed 4k anime character wielding a fiery katana in a dramatic pose,0.8111161589622498,0.6302800178527832,56.051229482437535,0.545584
+4,anime character highly detailed digital painting holding a sword with flames engulfing the hilt,0.8699415922164917,0.5826988220214844,46.77162501045786,0.910795
+4,highly detailed anime sword master posing with a fiery blade in a misty mountain pass,0.7775593996047974,0.5606285929679871,41.15238375386971,0.683519
+5,anime character highly realistic digital artwork holding a blazing sword with flames dancing along the hilt,0.8228073120117188,0.6561201810836792,54.95608617458982,0.558691
+5,anime character ultra detailed digital art piece with a sword engulfed in roaring flames,0.8351269960403442,0.6630949378013611,52.34033806877662,0.617053
+5,highly stylized anime female character with a magnificent sword that has intense flames burning at the hilt,0.8041270971298218,0.6406373381614685,57.786475829403116,0.488885
+5,majestic anime heroine wielding a fiery sword in an intricate digital painting,0.7866219878196716,0.666217565536499,51.495578218028726,0.454824
+5,anime warrior princess standing heroically with a gleaming sword in a digital masterpiece set ablaze by intense flames,0.8266813158988953,0.6812079548835754,53.89393721242861,0.545792

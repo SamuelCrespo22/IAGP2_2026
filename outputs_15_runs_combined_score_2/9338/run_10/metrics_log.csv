@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.474290
+1,painting of a small mouse with iridescent scales and a radiant colorful background highly detailed,0.7398678064346313,0.7466237545013428,51.051888265104964,0.556012
+1,vibrant mouse character with shimmering scales in a swirling colorful atmosphere highly detailed,0.7496190071105957,0.6347769498825073,39.830411746231206,0.753543
+1,colorful digital painting of a mouse with scales that reflect the background light,0.644951343536377,0.721489429473877,38.46590464318533,0.457288
+1,a detailed 4k digital painting of a mouse with shimmering colorful scales in a bright background,0.7276263236999512,0.7817947864532471,53.09095488801822,0.483709
+1,realistic artwork of a mouse with luminous colorful scales set against a kaleidoscopic background,0.7161670923233032,0.7651219367980957,33.3620426310146,0.597593
+2,vibrant anime-inspired mouse character with radiant shimmering scales in a dynamic colorful atmosphere highly detailed,0.5943637490272522,0.6832230091094971,51.86030635653185,0.304149
+2,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting",0.8097571134567261,0.6356654167175293,39.36494561249316,0.882775
+2,vibrant whimsical fantasy mouse character with luminous shimmering scales in a mesmerizing colorful aura highly detailed 4k,0.6592100858688354,0.6648052930831909,40.81743381828652,0.527352
+2,"vibrant mythical mouse creature with gleaming shimmering scales in a swirling vortex of colors, highly detailed masterpiece",0.7702606916427612,0.6163101196289062,39.20121839133526,0.818841
+2,vibrant mythical fantasy mouse character with glittering shimmering scales in a dynamic colorful atmosphere with intricate textures highly detailed,0.666058361530304,0.6616359949111938,38.33206709092647,0.560265
+3,vibrant highly detailed stylized mouse character with iridescent shimmering scales in a mesmerizing kaleidoscope of colors,0.7608694434165955,0.8180474638938904,33.441111201742366,0.640811
+3,digital painting masterpiece of a majestic iridescent mouse in a swirling whirlpool of colors,0.8307472467422485,0.6995725035667419,70.99610734595366,0.670007
+3,"highly detailed, 4k resolution, stylized mouse character with shimmering scales in a kaleidoscope of colors that seem to shift and change",0.7696932554244995,0.779653787612915,31.39123107213675,0.709048
+3,"stylized mouse with iridescent shimmering scales in a vibrant, highly detailed, swirling vortex of color, inspired by digital art",0.801362156867981,0.7515175938606262,46.00090691844189,0.712645
+3,"a highly detailed, 4k digital painting of a majestic stylized mouse with shimmering iridescent scales in a kaleidoscope of colors that seem to dance and swirl together",0.7806884050369263,0.7465099096298218,36.26670020482127,0.733973
+4,"vibrant highly detailed stylized mouse character with iridescent shimmering scales in a mesmerizing kaleidoscope of intricate swirling colors, digital painting masterpiece",0.6999266743659973,0.8765294551849365,30.60260132717034,0.473287
+4,"stylized mouse character with vibrant shimmering scales in a kaleidoscope of swirling pastel colors, digital painting, highly detailed",0.7220873236656189,0.7442187070846558,52.792038239554124,0.509943
+4,"mouse character with iridescent scales in a kaleidoscope of vibrant swirling colors, 4k digital art",0.7024993896484375,0.8365302085876465,32.014294213307856,0.508421
+4,"stylized mouse character with shimmering iridescent scales in a kaleidoscope of swirling colors, highly textured digital painting",0.820697009563446,0.7219798564910889,36.21704156826592,0.842473
+4,"vibrant stylized mouse character with shimmering iridescent scales in a kaleidoscopic swirl of colors, highly detailed 8k digital artwork",0.8005014657974243,0.7557677030563354,33.816105800034556,0.782154
+5,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting, highly detailed",0.8066887855529785,0.6423032283782959,36.712652619361336,0.886323
+5,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting, high quality, sharp",0.8285961151123047,0.6381620764732361,38.163897084858455,0.927658
+5,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting, best lighting",0.8055410385131836,0.6311469078063965,38.73055875101607,0.882125
+5,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting, masterpiece",0.8195324540138245,0.6292301416397095,37.19806538104675,0.923046
+5,"vibrant stylized mouse character with iridescent shimmering scales in a swirling kaleidoscope of colors, digital painting, ultra realistic",0.7704454660415649,0.6558347940444946,38.602930360145294,0.784962

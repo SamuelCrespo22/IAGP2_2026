@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+4,"A highly detailed, 4k, highly textured, furry creature with prickly quills resembling a porcupine is positioned on a cube composed of light-colored, aged wooden slats",0.7882896065711975,0.5072764158248901,33.38962175690186,0.9392154640195381,run_4,0.9837199909804659,0.14506121419760357,0.06551691168517546
+2,"A highly stylized, cartoon, and 4K-resolution image of a fuzzy porcupine creature is positioned on a cube made of textured blocks against a soft, gradient background",0.7941099405288696,0.5307412147521973,35.54395577305245,0.9235387752318654,run_8,1.0,0.1989528157928565,0.10689208327968173
+5,"a highly adorable, ultra-realistic creature resembling a porcupine is situated at the top of a small, minimalist wooden cube",0.7693657875061035,0.4989195764064789,32.93975849358774,0.9197078894601944,run_6,0.9307883297898457,0.1258680618536295,0.05687703988528403

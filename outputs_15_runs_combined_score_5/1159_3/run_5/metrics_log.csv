@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"A fierce warrior stands at the center, wielding elemental powers with flames and energy swirling around him. He has short blonde hair and wears a futuristic armored suit.",0.817151665687561,0.6142727732658386,55.02259378514904,0.820800
+1,"A fierce, muscular warrior stands at the center, wielding elemental powers with vibrant flames and intense energy swirling around him, set against a futuristic cityscape at sunset.",0.6573175191879272,0.7575581669807434,66.57968228944596,0.074733
+1,"A highly detailed, 4k digital painting of a strong, bearded warrior stands at the center, wielding elemental powers with brilliant flames and energy swirling around him.",0.6976454854011536,0.6986481547355652,55.912414828776036,0.377595
+1,"A fierce, powerful warrior stands at the center wearing a sleek, high-tech armored suit, surrounded by swirling flames and energetic forces amidst a dramatic, post-apocalyptic background.",0.7381970286369324,0.6362893581390381,53.55968089767006,0.596292
+1,"A highly realistic, 4k rendering of a fearless, blonde-haired warrior stands at the center, wielding elemental powers with intense flames and energy swirling around him, set against a dark, gritty, sci-fi cityscape at dusk.",0.729625940322876,0.6360026001930237,47.89563864934373,0.634841
+1,"A highly detailed, oil painting of a mighty, rugged warrior stands at the center, wielding elemental powers with fierce flames and energy swirling around him, amidst a dramatic, medieval-inspired background scene.",0.6981741189956665,0.706567645072937,55.35179970879215,0.374179
+2,"A fierce, muscular warrior stands at the center",0.6292294263839722,0.6639488339424133,46.79017149583129,0.341308
+2,A fiery elemental warrior stands amidst swirling flames and energy,0.7444755434989929,0.6715874671936035,55.05564432984932,0.548510
+2,"A powerful, blonde-haired warrior wields elemental forces in a futuristic, metallic armored suit",0.7731038331985474,0.5932221412658691,45.80380861554635,0.831678
+2,"A highly detailed, photorealistic warrior stands at the center, surrounded by elemental energy and flames, wearing a sleek, futuristic armored suit",0.7454166412353516,0.68355393409729,54.81945460236496,0.537153
+2,"A fierce, blonde-haired elemental warrior stands in a cinematic, 4k digital painting style, wielding powers and surrounded by flames and energy.",0.7738799452781677,0.6742977499961853,53.85581214304464,0.635944
+3,"A highly detailed, blonde-haired warrior wields elemental forces in a sleek, high-tech, metallic armored suit",0.7387088537216187,0.6143280267715454,48.38279103105031,0.683475
+3,"A powerful, blonde-haired warrior from a futuristic realm wields elemental forces in a polished, metallic armored suit",0.7613570690155029,0.6071860790252686,46.4819022585289,0.773984
+3,"A blonde-haired warrior clad in a high-tech, metallic exosuit harnesses elemental forces with precision and strength",0.7944215536117554,0.6187103986740112,48.21645608659596,0.827492
+3,"A blonde-haired warrior, dressed in a futuristic, metallic armor, channels elemental forces with a fierce determination",0.7601675987243652,0.6033996939659119,45.14796113591598,0.790366
+3,"A blonde-haired warrior, wearing highly detailed, metallic armor, controls the elements with mastery in a futuristic, cyberpunk cityscape",0.737403154373169,0.6357535123825073,45.214430187443504,0.684732
+4,"Highly detailed, a powerful blonde-haired warrior in a futuristic metallic armored suit wields elemental forces",0.7357337474822998,0.6255667805671692,47.121753308334426,0.673726
+4,"A blonde-haired, futuristic warrior in a metallic exosuit masterfully harnesses elemental powers",0.7821977138519287,0.6237723231315613,45.68478890348947,0.815277
+4,"A skilled blonde warrior wearing a high-tech, metallic armor suit unleashes elemental forces in a futuristic environment",0.7586773037910461,0.6475433707237244,48.316002409601126,0.691793
+4,"A blonde warrior in a heavily armored, metallic exosuit with intricate details, wields elemental forces in a dystopian cityscape",0.7484798431396484,0.6391317844390869,47.66495196645483,0.683198
+4,"A highly detailed, blonde-haired warrior donning a futuristic metallic armor suit with glowing blue accents, harnesses the power of the elements",0.6903373003005981,0.6852214336395264,55.99759504411942,0.375639
+5,"Highly detailed, futuristic blonde-haired warrior wielding elemental forces in a sleek, high-tech metallic armored suit",0.7458750009536743,0.6214972138404846,50.95489279623814,0.665032
+5,"A blonde-haired, powerful warrior harnesses the elements within a state-of-the-art, metallic exosuit in a gritty, dystopian metropolis",0.7938228249549866,0.6117651462554932,45.49716985064856,0.864686
+5,"Blonde-haired, highly skilled battle-hardened warrior unleashing elemental fury in a high-octane, metallic armored power suit",0.7819614410400391,0.5960445404052734,46.198994310328175,0.847123
+5,"Fierce, blonde-haired warrior wields elemental forces with precision and skill in a metallic, cybernetically enhanced exosuit",0.7996790409088135,0.5751811861991882,43.35136436209918,0.953511
+5,"In a world of high-tech chaos, a powerful, blonde-haired warrior harnesses her elemental powers within a futuristic, advanced metallic armored suit",0.7456594705581665,0.6452538371086121,46.69777543557627,0.677711

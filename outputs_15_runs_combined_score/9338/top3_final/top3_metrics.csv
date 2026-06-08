@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+5,"4k digital painting of a majestic mouse with a stunning, colorful, swirly rainbow tail and the finest, smooth golden fur",0.8601697683334351,0.5326182842254639,38.47871850012117,0.9418874211621444,run_2,0.974795673203817,0.09316404079331905,0.08887762096573709
+5,"masterpiece oil painting of a mouse with a vibrant, swirly, multi-colored rainbow tail and the most exquisite, lustrous golden fur",0.8595954179763794,0.566084623336792,37.36978688026247,0.9211382986006637,run_2,0.9729790160641056,0.18294964000016004,0.07845519772539634
+4,A 4k digital painting masterpiece of a mouse with a long flowing colorful tail and big sparkling eyes,0.868138313293457,0.5899165868759155,39.29257594836718,0.9141464285744078,run_7,1.0,0.24688753053302376,0.09652675516934513

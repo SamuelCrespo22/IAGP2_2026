@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,arafed palm tree on a rock in the ocean at sunset,0.8833197355270386,0.7113091945648193,54.195637357691524,0.659211
+1,arafed palm tree on a rock in shallow ocean at golden hour,0.8777937889099121,0.6915872097015381,52.04538955315361,0.696306
+1,a detailed arafed palm tree on a rocky outcropping in the ocean at sunset,0.8653548955917358,0.7655383944511414,60.86509047072864,0.450044
+1,a majestic arafed palm tree on a weathered rock in the turquoise ocean at dusk,0.8612998127937317,0.6279845237731934,47.85751302877653,0.783378
+1,a highly detailed arafed palm tree growing on a coral rock in the ocean at a warm sunset,0.8781239986419678,0.7808955311775208,63.3321127433722,0.435439
+1,an arafed palm tree standing on a rugged rock in the clear ocean at a perfect sunset,0.8771591782569885,0.7932685017585754,63.64805015287005,0.412894
+2,arafed palm tree on a rock in the serene ocean at sunset,0.8678860068321228,0.6976436972618103,53.73607463654124,0.637252
+2,a detailed arafed palm tree sways on a rugged rock in the gentle ocean waves at sunset,0.8946576118469238,0.7497667670249939,58.72928961733871,0.584004
+2,highly detailed arafed palm tree on a rocky outcrop in the ocean at a warm orange sunset,0.8790356516838074,0.781460165977478,62.80946706320803,0.444336
+2,a majestic arafed palm tree stands tall on a granite rock in the ocean at golden hour,0.8886741399765015,0.7187255620956421,53.577408814571704,0.673791
+2,arafed palm tree on a weathered rock in the ocean at a vibrant colorful sunset with subtle clouds,0.8941781520843506,0.7491060495376587,57.148444333291785,0.604405
+3,a highly realistic majestic arafed palm tree stands tall on a granite rock in the ocean at sunset,0.8990148305892944,0.8025370836257935,63.58797147607018,0.466077
+3,a serene arafed palm tree is perched atop a rugged granite boulder in the crystal-clear ocean waters at golden hour,0.8765138387680054,0.739071249961853,53.35096439230244,0.615645
+3,a detailed digital painting of a stately arafed palm stands proudly on a weathered granite rock in the calm morning ocean,0.7401651740074158,0.6421633958816528,48.911352472221544,0.396791
+3,a photograph-quality image of a majestic arafed palm tree towering above a granite outcropping in the turquoise ocean during golden hour,0.8784054517745972,0.6250333189964294,46.72871719274949,0.852162
+3,a stylized arafed palm stands strong on a granite pedestal in the warm sun-kissed ocean waters with a soft golden glow,0.7582255601882935,0.7012907266616821,59.24380899101089,0.238394
+4,a highly detailed photograph-quality image of a serene arafed palm tree standing tall against a rugged granite outcropping in the crystal-clear turquoise ocean during golden hour,0.8888468742370605,0.7411741614341736,55.94562809506556,0.614703
+4,a realistic 4k digital painting of a majestic arafed palm tree soaring above a rocky granite outcropping in the vibrant turquoise ocean under the warm golden light of sunset,0.7700557708740234,0.7567152976989746,57.8312123471907,0.222235
+4,a highly realistic photograph-quality image of an arafed palm tree towering above a granite outcropping in the shallow turquoise ocean in the soft warm light of golden hour,0.8826273679733276,0.6071732640266418,44.806658530542066,0.912444
+4,a photograph-quality image of a dramatic arafed palm tree rising above a granite outcropping in the calm turquoise ocean during the romantic golden hour,0.8728246092796326,0.6675761938095093,49.875879191977226,0.740669
+4,a highly detailed and realistic 4k image of a majestic arafed palm tree standing proud against a rocky granite outcropping in the crystal-clear turquoise ocean under the warm golden glow of sunset,0.8999113440513611,0.7367838621139526,52.32127732312351,0.700711
+5,'a highly realistic 4k photograph-quality image of a majestic arafed palm tree towering above a rugged granite outcropping in the shallow crystal-clear turquoise ocean under the soft warm golden sunlight of golden hour',0.8880528211593628,0.7140713334083557,52.452253704948646,0.692741
+5,"'a highly detailed, finely textured digital painting of an arafed palm tree dominating a granite outcropping in the shallow, calm turquoise ocean at sunset, with a warm golden light'",0.9108687043190002,0.712006688117981,51.319047814423655,0.777197
+5,"'a breathtakingly realistic photograph-quality image of an arafed palm tree emerging from the shallow turquoise ocean, towering above a granite outcropping, bathed in the soft warm light of golden hour'",0.9033715128898621,0.6033200621604919,47.128778080025945,0.947229
+5,"'a highly realistic, hyper-realistic image of an arafed palm tree standing proudly above a rugged granite outcropping in the shallow turquoise ocean, under the warm golden light of early morning'",0.8628644347190857,0.6382161378860474,47.05929444486739,0.785712
+5,"'a masterfully crafted, highly detailed digital painting of an arafed palm tree towering above a granite outcropping in the shallow, crystal-clear turquoise ocean, surrounded by the soft warm light of a sunny day'",0.8017861843109131,0.6523595452308655,56.51079053435754,0.463653

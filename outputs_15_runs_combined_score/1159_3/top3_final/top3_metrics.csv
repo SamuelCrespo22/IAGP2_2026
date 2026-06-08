@@ -1,0 +1,4 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score,Run,CLIP_norm,LPIPS_norm,RMSE_norm
+3,anime warrior wielding a majestic flame-tipped sword in a highly detailed digital painting,0.856685996055603,0.5636279582977295,44.31776062296351,0.8693255507574685,run_14,0.9468336939241444,0.22296235440080506,0.19340283041760972
+5,"anime warrior wielding a mighty, blazing-sword in a highly realistic, photorealistic digital painting",0.83815598487854,0.5539889931678772,41.05197225880077,0.8689423811548852,run_14,0.8725124613012347,0.1859853436450829,0.08327005433784558
+3,"highly detailed, dark fantasy anime artist's depiction of a skilled warrior holding a flaming sword in a dramatic, mystical environment with intricate details",0.832007884979248,0.5358221530914307,41.99528031515198,0.8660828817416094,run_13,0.8478533092673831,0.1162936877614246,0.11508140380690401

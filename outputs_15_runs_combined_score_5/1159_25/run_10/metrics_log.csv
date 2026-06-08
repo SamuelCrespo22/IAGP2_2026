@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,"A refreshing glass of orange juice garnished with orange slices and peels, surrounded by scattered orange pieces on a neutral background.",0.9367260932922363,0.486178994178772,42.64859086177122,0.860140
+1,"A vibrant glass of freshly squeezed orange juice garnished with fragrant orange slices and peels, surrounded by scattered orange pieces on a minimalist white background",0.9085021615028381,0.6827061176300049,82.37544967210474,0.478689
+1,"A glass of chilled orange juice with orange zest and slices, set in a warm kitchen environment with soft natural light",0.7573075294494629,0.722116231918335,57.19372809782184,0.313489
+1,"Highly detailed, photorealistic, a glass of ice-cold orange juice garnished with orange slices and peels, on a rustic wooden table surrounded by fruit",0.9235360622406006,0.5542577505111694,43.63690874763232,0.789985
+1,"A glass of iced orange juice with a twist of orange peel, set in a cozy breakfast nook with warm sunlight",0.674072265625,0.7672262787818909,61.87668440124827,0.109471
+1,"A beautiful, highly detailed, 4K, digital painting of a glass of freshly squeezed orange juice, garnished with orange slices and peels, in a sunny citrus grove on a serene summer day",0.8999263048171997,0.5182031989097595,38.44369107967851,0.796215
+2,"A highly detailed glass of fresh orange juice garnished with thin slices and peels, surrounded by random orange pieces on a neutral soft focus background.",0.9410444498062134,0.4542175531387329,40.84259452721487,0.896822
+2,"A glass of orange juice with visible condensation, garnished with orange slices and peels, surrounded by loose orange pieces on a gray textured background.",0.9133550524711609,0.5270158052444458,41.82932191675063,0.797373
+2,"A vibrant highly detailed still life of a glass of orange juice garnished with orange slices and peels, surrounded by scattered orange pieces on a neutral canvas background.",0.9001755714416504,0.5776764750480652,48.6969774516715,0.706276
+2,"A highly realistic glass of freshly squeezed orange juice garnished with thin sliced oranges and peels, surrounded by spilled orange juice on a dark wood surface.",0.929063081741333,0.5381208062171936,44.72814784838932,0.803919
+2,"A 4k digital painting of a glass of orange juice garnished with orange slices and peels, surrounded by scattered orange pieces on a subtle gradient background.",0.9258878827095032,0.5440033078193665,47.047984201055975,0.782208
+3,highly detailed glass of 100% freshly squeezed orange juice garnished with very thin slices of orange and peels,0.934142529964447,0.4386065602302551,36.31054336724481,0.917777
+3,a beautifully crafted glass of cold freshly squeezed orange juice surrounded by random orange pieces on a neutral soft focus background,0.9316074848175049,0.41843992471694946,39.96599726614356,0.905710
+3,highly detailed 4k digital painting of a glass of freshly squeezed orange juice garnished with thin slices and peels on a clean modern kitchen table,0.9334276914596558,0.5836142897605896,47.415703192920716,0.770276
+3,a delicate glass of freshly squeezed orange juice with a medley of thin orange slice and peel garnishes surrounded by random peel pieces on a slightly blurred soft focus background,0.9332932829856873,0.4473085403442383,39.14267526551258,0.895887
+3,highly realistic digital artwork of a glass of freshly squeezed orange juice garnished with thin slices and peels surrounded by a medley of random orange peel pieces on a soft white background,0.9374347925186157,0.5235019326210022,53.85709847283572,0.779213
+4,highly detailed glass of 100% freshly squeezed orange juice garnished with perfectly thin slices of orange peel,0.9264803528785706,0.4080437421798706,35.56227996605146,0.926096
+4,a highly detailed masterpiece of 100% freshly squeezed orange juice in a glass garnished with delicate orange slices and peels,0.9296737313270569,0.45919719338417053,44.48702571226597,0.853613
+4,a 4k rendering of a highly detailed glass of freshly squeezed orange juice perfectly garnished with thin orange slices and peels,0.9479108452796936,0.4510495364665985,38.60249299274818,0.923220
+4,highly detailed digital painting of a glass of 100% freshly squeezed orange juice garnished with very thin slices of fresh orange and peels,0.9333563446998596,0.4778541326522827,37.77484467532892,0.885004
+4,a perfectly realistic glass of freshly squeezed orange juice garnished with thin slices of orange and peels in a highly detailed still life setup,0.9302693009376526,0.6658056974411011,54.557191068464995,0.677121
+5,highly detailed glass of 100% freshly squeezed orange juice served on a rustic wooden table,0.9070465564727783,0.5315245389938354,42.58268462249139,0.779129
+5,finely crafted glass filled with 100% freshly squeezed orange juice and garnished with thin slices of orange peel,0.9182498455047607,0.5723380446434021,41.347374995489744,0.781726
+5,highly detailed 4k render of a glass filled with freshly squeezed orange juice and adorned with delicate orange peel slices,0.9336068630218506,0.4123830199241638,39.96987287698087,0.912970
+5,glass of vibrant freshly squeezed orange juice garnished with perfectly thin hand-carved orange peel,0.9350452423095703,0.3500099778175354,37.24303410403197,0.967533
+5,perfectly rendered still life of a glass of 100% freshly squeezed orange juice served on a classic white tablecloth,0.8968875408172607,0.6877404451370239,64.03661751048429,0.552402

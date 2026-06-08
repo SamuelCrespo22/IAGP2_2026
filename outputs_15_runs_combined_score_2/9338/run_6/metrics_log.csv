@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,painting of a mouse with colorful scales and a glowing colorful background,0.6720188856124878,0.7390374541282654,42.24547137807599,0.547140
+1,"mouse in a highly detailed, vibrant, 4k digital painting with colorful scales and a glowing iridescent background",0.7436766624450684,0.6712055802345276,34.323681311032466,0.825504
+1,"mouse with luminous, shimmering scales in a breathtaking, dreamy, soft focus digital art piece",0.6854094862937927,0.8283712863922119,55.91963057820089,0.418441
+1,"painting of a small, curious mouse with radiant, colorful scales and a mesmerizing, swirling background effect",0.753955602645874,0.6656203866004944,42.560570333128325,0.784226
+1,"mouse surrounded by a halo of light, depicted in a stunning, high-definition digital artwork with iridescent scales and a kaleidoscope background",0.5900654196739197,0.8237172365188599,47.08661536196523,0.260683
+1,"a beautifully rendered, ultra-realistic painting of a mouse with shimmering, pearlescent scales and a captivating, aurora borealis-inspired background",0.681143045425415,0.9426703453063965,45.60737560699461,0.435648
+2,"mouse in a highly detailed, ultra-vibrant, 8k digital oil painting with iridescent scales and a gleaming aurora background",0.6797765493392944,0.9812676906585693,46.59214841555345,0.403964
+2,"mouse in a mesmerizing, 4k, realistic digital watercolor with shimmering silver scales and a soft, rainbow sky",0.7435979843139648,0.822048008441925,52.67605633738543,0.592299
+2,"mouse with an ethereal, iridescent glow surrounding its body in a dreamy, 4k, surreal digital artwork",0.7128392457962036,0.7952013611793518,60.84901607426919,0.461578
+2,"mouse in a resplendent, highly detailed, 4k, photorealistic digital painting with colorful, swirling patterns and a bright, shimmering background",0.7685244083404541,0.6775321960449219,42.55878427163387,0.813923
+2,"mouse standing proudly in a gorgeous, 4k, highly detailed digital masterpiece with intricate, shimmering scales and a warm, golden glow surrounding its body",0.6814597845077515,0.6952698230743408,32.448698934830894,0.675703
+3,"mouse in a highly detailed, 8k digital painting with radiant, shimmering scales and a captivating iridescent aurora background",0.7553866505622864,0.9806269407272339,54.8657845602485,0.520614
+3,"mouse in a breathtakingly beautiful 4k oil painting with vibrant, glowing scales and a mesmerizing pastel sky",0.7318626642227173,0.6820706129074097,53.878893794212146,0.625854
+3,"mouse in a highly realistic, ultra-high-definition digital artwork with luminous, iridescent colors and a soft, dreamy atmosphere",0.7067842483520508,0.7192236185073853,46.18832442150517,0.609728
+3,"mouse surrounded by a halo of light in a stunning 8k digital painting with intricate, colorful scales and a swirling cosmic background",0.6819572448730469,0.8879580497741699,53.02041496173415,0.403498
+3,"mouse in a magnificent, hyperrealistic 4k digital masterpiece with radiant, shimmering scales and a deep, rich starry night sky",0.625309944152832,1.1025807857513428,56.80530633392423,0.120855
+4,"highly detailed, photorealistic mouse in vibrant, glowing iridescent 4k digital art",0.7164860963821411,0.7871907353401184,43.964484944526944,0.617120
+4,"highly detailed, 4k mouse in a colorful, whimsical digital painting with iridescent scales",0.7932076454162598,0.6204659342765808,35.512570332112595,0.963699
+4,"mouse in a dreamy, highly detailed, 4k digital masterpiece with shimmering scales and a kaleidoscope background",0.7123913764953613,0.7496243715286255,36.34209871475331,0.690812
+4,"a highly detailed, 4k digital painting of a majestic mouse with vibrant scales and a radiant, shimmering glow",0.7689257264137268,0.62510085105896,31.480228478256347,0.935541
+4,"highly detailed, realistic mouse in a stunning, vibrant, 4k digital artwork with intricate, glowing iridescent patterns",0.7689605355262756,0.7810608148574829,40.635014645197145,0.777538
+5,"highly detailed, 8k futuristic mouse in a vibrant, dreamlike digital painting with iridescent, shifting scales",0.6555885076522827,0.7410229444503784,50.50805514209247,0.435980
+5,"highly detailed, 4k magical mouse in a whimsical, neon-lit fantasy digital painting",0.6933903098106384,0.6807584762573242,43.95315897028516,0.615559
+5,"highly realistic, 8k mouse in a detailed, Baroque-style oil painting with iridescent, rainbow-colored scales",0.6816302537918091,0.6429774761199951,31.208699243333243,0.713698
+5,"highly detailed, hand-painted 4k mouse in a colorful, fantastical, impressionist fantasy digital art piece",0.6219800114631653,0.7338277101516724,42.87409451369539,0.421377
+5,"highly detailed, 8k cyberpunk mouse in a dark, gritty, neon-lit digital fantasy painting with glowing, iridescent scales",0.6299746036529541,0.727362871170044,57.262788640140585,0.323046

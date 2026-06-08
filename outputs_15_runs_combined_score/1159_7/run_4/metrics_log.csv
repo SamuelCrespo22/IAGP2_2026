@@ -1,0 +1,27 @@
+Iteration,Prompt,CLIP_Sim,LPIPS,RMSE,Combined_Score
+Baseline,there is a small hedgehog sitting on top of a block of cake,0.6050412654876709,0.6308538913726807,49.72889730210695,0.724207
+1,highly detailed cake with a small resting hedgehog on top,0.5926659107208252,0.6862379908561707,49.59632510423108,0.613220
+1,small grey hedgehog standing on a block of moist chocolate cake,0.6040593981742859,0.6819397211074829,48.264858560434256,0.665790
+1,a detailed depiction of a hedgehog sitting on top of a colorful birthday cake,0.6107168197631836,0.7827175259590149,73.74571679387697,0.409013
+1,realistic digital painting of a block of cake with a small sleeping hedgehog,0.5324958562850952,0.6518015265464783,49.64886430352981,0.449114
+1,small pink-spotted hedgehog perched on a single-serving block of vanilla birthday cake,0.5758349299430847,0.763563871383667,83.87269142638813,0.251977
+2,highly detailed rendering of a small hedgehog sitting calmly on top of a colorful block of moist vanilla cake,0.6549500823020935,0.6855610013008118,73.44072436697975,0.684382
+2,a realistic depiction of a tiny hedgehog resting on top of a large slice of deliciously frosted chocolate cake,0.6260085105895996,0.7059880495071411,64.6359729481627,0.612450
+2,highly textured 4k digital painting of a cute hedgehog sitting proudly on top of a multi-layered carrot cake,0.5990896224975586,0.6521973013877869,48.20798414860926,0.686235
+2,an oil painting style masterpiece of a small prickly hedgehog comfortably sitting on a large block of decadent red velvet cake,0.5957326292991638,0.6255783438682556,44.50148821186485,0.730327
+2,detailed digital illustration of a tiny hedgehog sitting delicately on top of a towering multi-tiered sponge cake with creamy buttercream frosting,0.5095019340515137,0.7383155822753906,65.06655454330651,0.168926
+3,an oil painting style digital work of art of a small prickly hedgehog comfortably sitting on a large block of decadent red velvet cake,0.6060508489608765,0.620004415512085,45.29734032234875,0.767967
+3,a realistic digital painting of a solitary prickly hedgehog lounging on a huge block of rich red velvet cake,0.6119633316993713,0.6330761313438416,45.76731853275557,0.769115
+3,an exceptionally detailed 4k digital painting masterpiece of a tiny prickly hedgehog nestled into a massive block of sumptuous red velvet cake,0.5278915762901306,0.639957845211029,42.417309043165346,0.491704
+3,a highly realistic oil painting style digital artwork of a small prickly hedgehog relaxing on a gigantic block of indulgent red velvet cake,0.605493426322937,0.6798176765441895,47.69050090593778,0.676837
+3,"an ultra-detailed, 4k digital painting of a small prickly hedgehog peacefully occupying a massive block of decadent red velvet cake",0.5771636962890625,0.6306096315383911,43.284579474773444,0.667542
+4,an oil painting style highly detailed digital work of art of a small prickly hedgehog sitting comfortably on a large block of decadent deep crimson velvet cake,0.6234330534934998,0.6088087558746338,43.0262805034356,0.855415
+4,a highly realistic oil painting style digital artwork of a solitary small hedgehog sitting atop an oversized decadent red velvet cake,0.5559823513031006,0.6303771734237671,49.96469871191926,0.554734
+4,an ultra-high-definition oil painting style digital art piece of a small prickly hedgehog peacefully sitting on a large decadent red velvet cake,0.5643148422241211,0.6212794780731201,43.339415581470774,0.634707
+4,a photorealistic oil painting style highly detailed digital artwork of a small prickly hedgehog relaxing on a large block of decadent rich red velvet cake,0.5594601631164551,0.6696780920028687,44.68487783631567,0.549393
+4,a highly textured oil painting style 4k digital artwork of a small prickly hedgehog sitting contentedly on a massive decadent red velvet cake with frosting and sprinkles,0.6148903369903564,0.6445636749267578,47.392710162093984,0.755013
+5,highly detailed oil painting digital art of a small prickly grey and brown hedgehog sitting comfortably on a large block of decadent deep crimson velvet cake,0.6090047359466553,0.6412385702133179,42.92384131909746,0.765887
+5,a highly realistic 4k digital artwork of a hedgehog sitting on a luxurious block of crimson velvet cake,0.621375560760498,0.6534664630889893,46.32139381120771,0.772636
+5,a beautiful digital oil painting of a small prickly hedgehog sitting happily on a large crimson velvet cake with a few crumbs scattered around it,0.6358191967010498,0.662490725517273,47.777680900140375,0.802224
+5,a stunning digital artwork in the style of a 19th-century European oil painting of a hedgehog sitting on a block of decadent dessert,0.5652855634689331,0.7341729998588562,47.620994953483496,0.471077
+5,"a highly detailed digital painting of a small hedgehog sitting comfortably on a large block of rich, mocha-colored velvet cake with deep crimson frosting.",0.5236385464668274,0.5827594995498657,45.55126541736693,0.529697
