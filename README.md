@@ -33,7 +33,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### 3. Prepare the Target Images
 
-Place the target images inside the appropriate data directory used by the project.
+Place the target images inside the `data/` directory used by the project.
 
 ---
 
@@ -148,3 +148,4 @@ Under identical software and hardware conditions, the same prompt and target ima
 * The rendering process is deterministic for a given prompt and target image.
 * Final performance is reported using CLIP Similarity, LPIPS, and RMSE.
 * The Combined Score is used only for candidate ranking and Top-3 selection.
+* You can change the experiment prompts by altering them in the EXPERIMENTS variable along with the experiment name and output folder.
